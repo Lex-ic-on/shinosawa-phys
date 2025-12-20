@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+set -e
+
+# vvakame/reviewコンテナの中で実行される
+
+apt-get update && apt-get install -y pdftk xsltproc texlive-science
+bundle && REVIEW_IDGXML_OPTIONS='-w 142' bundle exec rake idgxml idgxml:postprocess
+
+mkdir -p images/_review_math_cache/
+if [ -f "images/_review_math_cache/cache_hits" ]; then
+    sort images/_review_math_cache/cache_hits | uniq | xargs cp -t images/_review_math
+fi
+rm -rf images/_review_math_cache/*
+cp -r images/_review_math/* images/_review_math_cache

@@ -1,0 +1,22 @@
+% for user-defined macro
+\usepackage{mathtools}
+\usepackage{blkarray}
+\usepackage{physics}
+\usepackage{bxtexlogo}
+\bxtexlogoimport{*,**}
+\renewcommand{\reviewequationref}[1]{(#1)}
+
+\newcommand{\say}[2]{
+  \begin{list}{}{
+    \setlength{\leftmargin}{2zw}
+    \setlength{\rightmargin}{0pt}
+    \setlength{\itemindent}{-2zw}
+    \setlength{\labelwidth}{0pt}
+    \setlength{\labelsep}{0pt}
+    \setlength{\parsep}{\parskip}
+    \setlength{\topsep}{0pt}
+    \setlength{\itemsep}{0pt}
+  }
+  \item[\reviewbold{#1：}] #2
+  \end{list}
+}

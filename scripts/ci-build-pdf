@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+set -e
+
+# vvakame/reviewコンテナの中で実行される
+
+apt-get update && apt-get install -y texlive-science
+bundle && bundle exec rake pdf
