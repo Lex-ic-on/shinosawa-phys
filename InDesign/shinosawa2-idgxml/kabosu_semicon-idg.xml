@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第8章　プロデューサーが学ぶ半導体製造技術入門</h1>
-<h2>8.1　はじまり</h2>
-<p>「勉強してるの？わたしが教えてあげてもいい、よ」</p>
+<?dtp level="1" section="第8章　プロデューサーが学ぶ半導体製造技術入門"?><h2>8.1　はじまり</h2>
+<?dtp level="2" section="8.1　はじまり"?><p>「勉強してるの？わたしが教えてあげてもいい、よ」</p>
 <p>「結構です」</p>
 <p>私の婚約者、もといプロデューサーは今日もそっけなくて好き。でもさっきから20分はキーボードの上で指が浮いているから、今日こそ助け船が必要だと思う。大好きな私のプロデューサーはもうこれ以上単位を落とせないのだ。近づいてみるとプロデューサーはノートパソコンを私から遠ざけようとしたけど、ちょっとだけ内容が見えちゃった。身近な工業製品と物理学の関係をまとめるレポートみたい。</p>
 <p>「へえ。工業製品と物理学？」</p>
@@ -30,7 +30,7 @@
 <p>「分かりました。お願いします。広さん」</p>
 <p>「ふふ……。よろしい。じゃあはじめるね」</p>
 <h2>8.2　半導体素材と製造工程</h2>
-<p>わたしは黒板に製造工程を書き始める。入門編だし軽めにね、と言いながら、優秀な生徒候補のプロデューサーくんに質問を投げかける。</p>
+<?dtp level="2" section="8.2　半導体素材と製造工程"?><p>わたしは黒板に製造工程を書き始める。入門編だし軽めにね、と言いながら、優秀な生徒候補のプロデューサーくんに質問を投げかける。</p>
 <p>「プロデューサー。半導体は主にSi、シリコンって金属元素でできてるってことは知ってる？」</p>
 <p>「聞いたことはあります」</p>
 <p>「じゃあ、プロデューサーは子どものとき、食パンの上に切ったアルミホイルを乗せてトースターしたことある？」</p>
@@ -41,7 +41,7 @@
 <p>「薄く切ったウェハを研磨・洗浄して、成膜→レジスト塗布→露光→現像→エッチング→レジスト剥離→イオン注入→平坦化を行って回路形成をしたのち、またレジスト塗布～平坦化までを何度も繰り返すといったかんじ、かな。これを数百回繰り返すのが基板工程、FEOL(Front End Of Line)だね。そのあとデバイスの配線をするために電極の形成と配線の作成、検査までの工程のことをBEOL(Back End Of Line)といって、FEOLとBEOLの2つで半導体製造工程の前工程になる。それが終わったら、チップの切り出しや樹脂による封止などが行われる後工程。それぞれの説明もあとでするから安心して」と話しながら黒板にサラサラと工程を書く。後ろからプロデューサーのよくわからない、という視線が突き刺さる。どうやら私の愛すべきプロデューサーは工学に関する興味はあまりなかったみたい。</p>
 <p>「どこからが分からないのか分からないけど、とりあえずざっと製造工程の説明をするね」</p>
 <h3>ウェハ形成(Wafer Preparation)</h3>
-<p>・　高純度のシリコン単結晶インゴットを作り、ダイヤモンドワイヤで薄くスライスしてウェハにする。</p>
+<?dtp level="3" section="ウェハ形成(Wafer Preparation)"?><p>・　高純度のシリコン単結晶インゴットを作り、ダイヤモンドワイヤで薄くスライスしてウェハにする。</p>
 <p>「さっきも話した通り、半導体デバイスは基本的にSiの単結晶から始まる｡ 工業的に最も用いられるのはチョクラルスキー法 (CZ法) 。石英のるつぼにシリコンを溶かし､ 種結晶をゆっくり引き上げて回転させることで単結晶を育成する｡ 例えがむずかしいけど、原理的にはミョウバンの結晶が近い。でももっと高純度。99.999999999％、イレブンナインって呼ばれるくらい超高純度の結晶を作り出す。このとき重要なのは酸素不純物の取り込みだね｡ るつぼが石英 (SiO2) 製だから､ 融液との反応で酸素が溶け込み､ それが結晶中に混入する」</p>
 <p>「インゴットはSiの単結晶で作っているんですよね。酸素が混ざってしまうと悪影響になるのでは？」</p>
 <p>「一概にそうとは言えない｡ 酸素は析出して転位の発生を防ぐ働きをする。と言っても溶かしたシリコンに種結晶をくっつけるとき、種結晶と液体シリコンの温度差でどうしても転位が生じてしまう。ただこの転位に関しては、いったん直径を細く絞ってから大きくすることで転位を除去して欠陥のない結晶をつくることができるよ。といっても、酸素が多すぎても欠陥の原因になるんだけどね。このあたりの転位抑制についてはシリコンウエハの製造業界が日夜研究を重ねているよ」</p>
@@ -58,7 +58,7 @@
 <p>・　最後に超純水(DIW)や薬液で徹底洗浄して、表面の汚染や微粒子を除去する。</p>
 <p>「ここで出てくるDIWとはDe-Ionized Waterのこと。らんぼうな言い方をするとすごく純度の高い水だね。水中にある小さなほこりから、金属イオンも取り除いて純度を高くした水だよ。半導体製造工程では欠かせない」</p>
 <h3>成膜(Thin Film Deposition)</h3>
-<p>・　ウェハ上に酸化膜(SiO2)、窒化膜(Si3N4)、金属膜などを堆積する。この膜が「回路の層」や「マスク」として使われる。</p>
+<?dtp level="3" section="成膜(Thin Film Deposition)"?><p>・　ウェハ上に酸化膜(SiO2)、窒化膜(Si3N4)、金属膜などを堆積する。この膜が「回路の層」や「マスク」として使われる。</p>
 <p>「ウェハができたら、次は膜形成工程だよ｡ 酸化膜(絶縁膜)以外にも窒化膜､ ポリシリコン膜､ 金属膜などを作る必要がある」</p>
 <p>「ということはそれぞれ用途も変わるんですかね」</p>
 <p>「そういうこと。でも、ただでさえ長い話がさらに長くなるから、今回深堀りするのは酸化膜だけにする｡熱酸化法ではDeal–Groveモデルが有名｡ 酸化は以下の3段階で進むよ」</p>
@@ -85,13 +85,13 @@
 <p>ALD(Atomic Layer Deposition)</p>
 <p>「ナノスケールではALDが注目されている｡ これは表面の反応性と化学吸着性を高めながら膜の厚さを1原子ずつ重ねるという技術で、膜に穴を発生させずに原子層レベルの制御ができるよ｡成膜速度は遅いんだけどね」</p>
 <h3>レジスト塗布(Photoresist Coating)</h3>
-<p>・　ウェハ表面を疎水性に改質し、感光性樹脂（フォトレジスト）をウェハ表面に均一にスピンコートする。</p>
+<?dtp level="3" section="レジスト塗布(Photoresist Coating)"?><p>・　ウェハ表面を疎水性に改質し、感光性樹脂（フォトレジスト）をウェハ表面に均一にスピンコートする。</p>
 <p>「ウェハの改質にはHMDS処理といって、表面にある親水性の膜の上に疎水性の膜を張るよ。化学的に言うとシラノール基がメチル基に覆われた形だね。スピンコートというのは、レジストをウェハ上にまんべんなく塗布する技術のこと」</p>
 <p>・　レジストは紫外線（DUV, EUV）に反応して化学的性質が変わる。</p>
 <p>「そもそもレジストっていうのは光によって溶解性が変わる薬液のこと。レジストの材料自体はこの後に行う露光装置の光種によっても変わるんだけど、どのレジストにとっても言えるのは値段の高さ。1ガロンで500万円前後するものもあるよ」</p>
 <p>「そして、ベークユニットで100度くらいに熱してレジストを硬化させたら、露光装置に渡す」</p>
 <h3>露光(Exposure)</h3>
-<p>・　フォトマスク（回路パターンが描かれた原版）を介して紫外線を照射する。</p>
+<?dtp level="3" section="露光(Exposure)"?><p>・　フォトマスク（回路パターンが描かれた原版）を介して紫外線を照射する。</p>
 <p>「レジストは一時的にウェハを覆うもので、結局レジスト剥離の部分で全部はがすんだけど、いったんこの場では「現像時点で溶けない」って意味で「溶けない」って言うね」</p>
 <p>・　光が当たった部分と当たらなかった部分でレジストの性質が変わり、後工程でパターンが現れる。</p>
 <p>「フォトレジストにはネガ型・ポジ型があって、ネガ型は光が当たった部分のレジストが溶けなくなる。逆に、ポジ型は光が当たった部分だけ溶ける」</p>
@@ -145,7 +145,7 @@
 <p>「さらに、最新の技術として位相シフトマスクがある｡ これはパターンを形成するためのフォトマスクに特定の層や膜厚の差を設けることで、光に位相差を与えて干渉効果を利用し､ 解像度を上げる手法｡一番最初の例を用いると、トーストする食パンの上にかけるアルミホイルの一部が薄くなったり厚くなったりする感じ。これによって光に位相シフトが起こり、コントラストが上がって画像解像度の向上が見込める」</p>
 <p>「ただし、究極的には波長短縮､ つまりEUVリソグラフィに頼るしかない｡ EUVでは現在反射光学系､ 真空環境､レジストの感度・線幅粗さの問題が課題となっているよ」</p>
 <h3>現像・エッチング(Development ＆ Etching)</h3>
-<p>・　レジストを現像液で処理すると、光の当たり方に応じて不要部分が溶けて回路パターンが現れる。</p>
+<?dtp level="3" section="現像・エッチング(Development ＆ Etching)"?><p>・　レジストを現像液で処理すると、光の当たり方に応じて不要部分が溶けて回路パターンが現れる。</p>
 <p>「さっきのレジスト塗布と現像を行う装置をコータ・デベロッパ装置、エッチングは別にエッチング装置があるよ」</p>
 <p>・　その後エッチングを行い、下地の薄膜をレジストパターンに沿って削ることで膜に「穴」や「ライン」が形成される。</p>
 <p>「形成した膜を選択的に削るのがエッチング｡ 大きく分けてウェットとドライがある。ウェットエッチングは酸やアルカリ溶液で膜を化学的に溶かす｡ 選択比は高いけど等方的で､ 微細化には限界がある」</p>
@@ -156,10 +156,10 @@
 <p>・　<inlineequation><Image href="file://images/_review_math/_gen_c7ddfd80b394516fc854b8a7c1eb02a188864f09428992a1da065ee0e7294a5a.pdf" type="inline"/></inlineequation></p>
 <p>「ここでは <inlineequation><Image href="file://images/_review_math/_gen_8c2574892063f995fdf756bce07f46c1a5193e54cd52837ed91e32008ccf41ac.pdf" type="inline"/></inlineequation>：エッチング速度（単位時間あたりの膜厚除去量など）<inlineequation><Image href="file://images/_review_math/_gen_8254c329a92850f6d539dd376f4816ee2764517da5e0235514af433164480d7a.pdf" type="inline"/></inlineequation>：比例定数（反応系に固有の係数）<inlineequation><Image href="file://images/_review_math/_gen_6b23c0d5f35d1b11f9b683f0b0a617355deb11277d91ae091d399c655b87940d.pdf" type="inline"/></inlineequation>：反応種の濃度（エッチング液中の酸や酸化剤などの濃度）<inlineequation><Image href="file://images/_review_math/_gen_fbe57e64f3a983933509a51dd883490a4fe6f2f6f182591e82752c4c93d15b87.pdf" type="inline"/></inlineequation>：活性化エネルギー <inlineequation><Image href="file://images/_review_math/_gen_8254c329a92850f6d539dd376f4816ee2764517da5e0235514af433164480d7a.pdf" type="inline"/></inlineequation>：ボルツマン定数 <inlineequation><Image href="file://images/_review_math/_gen_e632b7095b0bf32c260fa4c539e9fd7b852d0de454e9be26f24d0d6f91d069d3.pdf" type="inline"/></inlineequation>：絶対温度だね」</p>
 <h3>レジスト剥離(Resist Stripping)</h3>
-<p>・　パターン形成が終わったら、不要になったレジストを化学薬品やプラズマで除去する。これで回路パターンが薄膜に転写された状態が残る。</p>
+<?dtp level="3" section="レジスト剥離(Resist Stripping)"?><p>・　パターン形成が終わったら、不要になったレジストを化学薬品やプラズマで除去する。これで回路パターンが薄膜に転写された状態が残る。</p>
 <p>「さっき露光の部分で、『現像時点で溶けない』というふうに言ってたのはこれ。ここではすべてのレジストをはがして、次の工程に行けるように洗浄も行うよ」</p>
 <h3>イオン注入(Ion Implantation)</h3>
-<p>・　ドーピングの工程。加速したリンやホウ素のイオンをウェハに打ち込み、ドナー・アクセプタをp型やn型の領域を形成する。</p>
+<?dtp level="3" section="イオン注入(Ion Implantation)"?><p>・　ドーピングの工程。加速したリンやホウ素のイオンをウェハに打ち込み、ドナー・アクセプタをp型やn型の領域を形成する。</p>
 <p>「また新しい用語が出てきたね。p型・n型というのは、ざっくりいうと半導体の種類。、p型(positive型)は電子が少ないB(ホウ素)に置き換わることで電子の入る枠、プラスの性質を持った孔を作ることで電流を流せるようにすること、n型(Negative)はSi原子の一部がP(リン)などに置き換わることで、マイナスの性質をもった、共有結合しない余った電子が動き回ることで電流を流せるようにすることだよ。今はいったん「Si」という完全な結晶に、ドナー、もしくはアクセプタという不純物を混ぜる(ドープする)ことで電気の通り道をつくる、ととらえてくれればいいかな。従来は熱拡散が主流だったけど､ 現在は加速器を使ったイオン注入が主役になっているよ。打ち込まれた不純物の深さ分布は近似的にガウス分布で表される｡ 粒子が物質中で止まる位置の平均飛程 <inlineequation><Image href="file://images/_review_math/_gen_b5c9a939784c608f680c6da547a77ab8cd6bd5be2c64b3dbf29aea8624bd5e0c.pdf" type="inline"/></inlineequation>､ 分布の標準偏差 <inlineequation><Image href="file://images/_review_math/_gen_b16e6d1c0a2cfadcfdbcb345586ccfc89bca79d0233f247f5ab39dd9665a81ae.pdf" type="inline"/></inlineequation> を用いて、深さ <inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation> における濃度分布 <inlineequation><Image href="file://images/_review_math/_gen_5a2552b096f278ae774d19284d68417bf0014835c66087dc34487579cc1bb03f.pdf" type="inline"/></inlineequation> を</p>
 <p><inlineequation><Image href="file://images/_review_math/_gen_e5da7a16a2de814c31203b2f9a7d1ced5bee5462202a2b2dc503b66d4f2adc8a.pdf" type="inline"/></inlineequation></p>
 <p>で表す｡ ここでの <inlineequation><Image href="file://images/_review_math/_gen_4ae81572f06e1b88fd5ced7a1a000945432e83e1551e6f721ee9c00b8cc33260.pdf" type="inline"/></inlineequation> はイオンの総注入量のことで、全体を積分したときに総イオン数が <inlineequation><Image href="file://images/_review_math/_gen_4ae81572f06e1b88fd5ced7a1a000945432e83e1551e6f721ee9c00b8cc33260.pdf" type="inline"/></inlineequation> になるようになっているよ。でも、<inlineequation><Image href="file://images/_review_math/_gen_a7345efbde3ad88d4234eac54983939cef2d4340a8bf7c71d46e1d131000298d.pdf" type="inline"/></inlineequation></p>
@@ -169,7 +169,7 @@
 <p>「たしかウエハ形成のところでしたか。熱の衝撃でSiに転位が発生してしまうとか」</p>
 <p>「そうだね。イオン注入では転位ほどの影響は発生しないんだけど、注入領域で結晶が崩れて非晶質化(アモルファス化)してしまうから、注入後は熱処理を行って結晶構造を回復させるよ。この時にドープした不純物がSiの格子間位置に置換されることで、不純物をドナー/アクセプタとして電気的に機能させることができるようになる。この時に格子状構造に戻ることで、不純物は拡散するよ」</p>
 <h3>CMP（Chemical Mechanical Polishing）</h3>
-<p>・　プロセスを繰り返す中で表面が凹凸になるため、CMPで再び平坦化する。</p>
+<?dtp level="3" section="CMP（Chemical Mechanical Polishing）"?><p>・　プロセスを繰り返す中で表面が凹凸になるため、CMPで再び平坦化する。</p>
 <p>・　平坦化がないと、次の層の露光が正しくできず、回路が歪む。</p>
 <p>「製造工程の一区切りとして、最後にCMPがくるよ｡ CMPは配線層形成や層間絶縁膜で表面を平坦化する技術」</p>
 <p>「化学的機械研磨、でしたっけ」</p>
@@ -177,16 +177,16 @@
 <p>・　<inlineequation><Image href="file://images/_review_math/_gen_89d584a0d8965c7ea58057e0991bfed251082ffd374aec31d0883acd9668dcf4.pdf" type="inline"/></inlineequation></p>
 <p>「ここで<inlineequation><Image href="file://images/_review_math/_gen_5c62e091b8c0565f1bafad0dad5934276143ae2ccef7a5381e8ada5b1a8d26d2.pdf" type="inline"/></inlineequation> は加工圧力､ <inlineequation><Image href="file://images/_review_math/_gen_de5a6f78116eca62d7fc5ce159d23ae6b889b365a1739ad2cf36f925a140d0cc.pdf" type="inline"/></inlineequation> は相対速度、 <inlineequation><Image href="file://images/_review_math/_gen_e3b98a4da31a127d4bde6e43033f66ba274cab0eb7eb1c70ec41402bf6273dd8.pdf" type="inline"/></inlineequation> が加工時間｡ これらが <inlineequation><Image href="file://images/_review_math/_gen_d203ba01eef4198ca268a62391076e5080e260b3fcb9b05b334d66206a893936.pdf" type="inline"/></inlineequation> 研磨量に比例するってことだね。 でも、CMPだと物理的な研磨だけじゃなくて化学的作用も加わってくるから、それはプレストン係数である定数 <inlineequation><Image href="file://images/_review_math/_gen_8254c329a92850f6d539dd376f4816ee2764517da5e0235514af433164480d7a.pdf" type="inline"/></inlineequation> によって定義されるよ」</p>
 <h3>工程の繰り返し</h3>
-<p>・　「成膜 → レジスト塗布 → 露光 → エッチング → レジスト剥離 → イオン注入 → CMP」というサイクルを繰り返すことで配線が多層構造になってゆく。</p>
+<?dtp level="3" section="工程の繰り返し"?><p>・　「成膜 → レジスト塗布 → 露光 → エッチング → レジスト剥離 → イオン注入 → CMP」というサイクルを繰り返すことで配線が多層構造になってゆく。</p>
 <p>「工程の数が多いけど、要は『シリコン基板の上に回路を重ね掛けしてゆく』って感じ、かな。これを数十回～数百回繰り返して回路を描いていくのがさっき言ったFEOL。この次に控えているのがBEOLだけど、成膜や露光などで結構重複するところが多いからばっさりカットしちゃう。もし興味があったら調べてみて」</p>
 <p>「あ、今回紹介したFEOLも各半導体メーカーでつくる製品によって重視する工程がそれぞれだから、詳細な回数についても一概には言えない、かな」</p>
 <p>「とりあえず前工程(FEOL→BEOL)→後工程の流れさえつかめればいい、と思う」</p>
 <p>「おつかれさま、プロデューサー。これで製造工程と工学の関係に一区切りがついたよ」</p>
 <h2>8.3　現在の半導体製造</h2>
-<p>「最後に、半導体製造のいまをすこしだけ話す。EUVなどによる回路の微細化が限界に近づく中で､より小さく・よりたくさんの回路をつくれるように FinFETやGAAFETとよばれる3次元構造が主流になっているよ。今まで紹介したMOSFETが2次元型の構造で、FinFETは文字通り魚のひれのように立てた形をしている。MOSFETは昔からある技術で作られているのにも関わらず、需要に追い付いていなかったりする。それはなぜかわかる？」</p>
+<?dtp level="2" section="8.3　現在の半導体製造"?><p>「最後に、半導体製造のいまをすこしだけ話す。EUVなどによる回路の微細化が限界に近づく中で､より小さく・よりたくさんの回路をつくれるように FinFETやGAAFETとよばれる3次元構造が主流になっているよ。今まで紹介したMOSFETが2次元型の構造で、FinFETは文字通り魚のひれのように立てた形をしている。MOSFETは昔からある技術で作られているのにも関わらず、需要に追い付いていなかったりする。それはなぜかわかる？」</p>
 <p>「半導体メーカーがMOSFETを作らなくなってしまったからでしょうか」</p>
 <p>「半分正解。半導体メーカーの導入する製造装置は高額で、しかも膨大な台数をそろえなきゃだから利益率が肝になる。作る製品はすぐに変えられないから、古い技術で作ったものを安く大量に売るんじゃなくて、最新技術のものを高く、大量に売りたい。だから需給のバランスが難しくなってきてるってこと。もちろん半導体の需給にはシリコンサイクルっていう数年ごとの波があって、刻一刻と状況が変化する業界なんだけどもね」</p>
 <p>「その分技術革新のスピードが速い業界なんですね。道理で毎年新しいスマホとかが出るわけです」</p>
 <p>「そういうこと。軽く話そうと思って始めたけど思ったより長くなっちゃった。話を戻すと、半導体デバイス製造学と物理的知識を合わせて全部わかってる人も多くはない、と思う。それでも、一見遠くに思えるひとつのセンサやトランジスタを作る工程も、それぞれで多くの人たちが悩んで、試行錯誤して、楽しんだその上にできているってことをわかってくれたならうれしいな」</p>
 <h2>参考文献</h2>
-[1] Semi journal, 【図解】半導体製造工程の流れ https://semi-journal.jp/basics/process/flow.html[2] 雀部 実, 材料製造プロセスのための反応速度論入門(III) https://www.jstage.jst.go.jp/article/tetsutohagane1955/81/6/81_6_N277/_pdf 鉄と鋼 Vol.81 (1995) No.6[3] 光学技術の基礎用語, -光と光学に関連する用語の解説サイト- 開口数とは https://www.optics-words.com/kikakogaku/numerical-aperture.html[4] 岡崎 信次, 光リソグラフィ技術の限界と極端紫外リソグラフィ技術への期待 ―その開発の経緯と今後の展開― https://annex.jsap.or.jp/photonics/kogaku/public/41-03-sougouhoukoku.pdf 41巻3号 (2012)[5] 藤瀬 淳,シリコン結晶における転位運動とその臨界分解剪断応力に関する研究 https://catalog.lib.kyushu-u.ac.jp/opac_download_md/4475090/eng3064.pdf (2021)[6] 加茂 直樹, 平田 博文, 初歩の化学反応速度理論 - 反応速度を決めるものは何か? https://www.jstage.jst.go.jp/article/kakyoshi/44/2/44_KJ00003519220/_pdf 化学と教育 44巻 2号 (1996)[7] 鈴木 邦広, 高精度プロセス・デバイスシミュレーションのためのイオン注入分布解析 -テール関数に基づくイオン注入分布データベース- https://www.fujitsu.com/downloads/JP/archive/imgjp/jmag/vol61-1/paper13.pdf FUJITSU. 61, 1, p.70-79 (01, 2010)[8] 辻村 学, 半導体プロセスのCMP技術 https://www.jstage.jst.go.jp/article/jjspe/83/3/83_220/_pdf/-char/ja 精密工学会誌/Journal of the Japan Society for Precision Engineering (2017) Vol.83, No.3, 220.[9] 河田 研治, プレストンの経験則/トワイマン効果など研磨の代表的な3つの法則を徹底解説 https://saito-os.com/1453/[10] 伊藤 元昭, TELESCOPE magazine, 半導体の微細化に不可欠なEUV露光技術の現状とこれから https://www.tel.co.jp/museum/magazine/report/202310_01/?section=3 (2023)[11] 伊藤 元昭, TELESCOPE magazine, FinFETからGAAそしてCFETへ、最先端半導体のトランジスタ技術の進化 https://www.tel.co.jp/museum/magazine/report/202407_02/?section=1 (2024)</aid:doc>
+<?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-">Semi journal, 【図解】半導体製造工程の流れ <a linkurl="https://semi-journal.jp/basics/process/flow.html">https://semi-journal.jp/basics/process/flow.html</a></bibitem><span type="bibno">[2] </span><bibitem id="bib-">雀部 実, 材料製造プロセスのための反応速度論入門(III) <a linkurl="https://www.jstage.jst.go.jp/article/tetsutohagane1955/81/6/81_6_N277/_pdf">https://www.jstage.jst.go.jp/article/tetsutohagane1955/81/6/81_6_N277/_pdf</a> 鉄と鋼 Vol.81 (1995) No.6</bibitem><span type="bibno">[3] </span><bibitem id="bib-">光学技術の基礎用語, -光と光学に関連する用語の解説サイト- 開口数とは <a linkurl="https://www.optics-words.com/kikakogaku/numerical-aperture.html">https://www.optics-words.com/kikakogaku/numerical-aperture.html</a></bibitem><span type="bibno">[4] </span><bibitem id="bib-">岡崎 信次, 光リソグラフィ技術の限界と極端紫外リソグラフィ技術への期待 ―その開発の経緯と今後の展開― <a linkurl="https://annex.jsap.or.jp/photonics/kogaku/public/41-03-sougouhoukoku.pdf">https://annex.jsap.or.jp/photonics/kogaku/public/41-03-sougouhoukoku.pdf</a> 41巻3号 (2012)</bibitem><span type="bibno">[5] </span><bibitem id="bib-">藤瀬 淳,シリコン結晶における転位運動とその臨界分解剪断応力に関する研究 <a linkurl="https://catalog.lib.kyushu-u.ac.jp/opac_download_md/4475090/eng3064.pdf">https://catalog.lib.kyushu-u.ac.jp/opac_download_md/4475090/eng3064.pdf</a> (2021)</bibitem><span type="bibno">[6] </span><bibitem id="bib-">加茂 直樹, 平田 博文, 初歩の化学反応速度理論 - 反応速度を決めるものは何か? <a linkurl="https://www.jstage.jst.go.jp/article/kakyoshi/44/2/44_KJ00003519220/_pdf">https://www.jstage.jst.go.jp/article/kakyoshi/44/2/44_KJ00003519220/_pdf</a> 化学と教育 44巻 2号 (1996)</bibitem><span type="bibno">[7] </span><bibitem id="bib-">鈴木 邦広, 高精度プロセス・デバイスシミュレーションのためのイオン注入分布解析 -テール関数に基づくイオン注入分布データベース- <a linkurl="https://www.fujitsu.com/downloads/JP/archive/imgjp/jmag/vol61-1/paper13.pdf">https://www.fujitsu.com/downloads/JP/archive/imgjp/jmag/vol61-1/paper13.pdf</a> FUJITSU. 61, 1, p.70-79 (01, 2010)</bibitem><span type="bibno">[8] </span><bibitem id="bib-">辻村 学, 半導体プロセスのCMP技術 <a linkurl="https://www.jstage.jst.go.jp/article/jjspe/83/3/83_220/_pdf/-char/ja">https://www.jstage.jst.go.jp/article/jjspe/83/3/83_220/_pdf/-char/ja</a> 精密工学会誌/Journal of the Japan Society for Precision Engineering (2017) Vol.83, No.3, 220.</bibitem><span type="bibno">[9] </span><bibitem id="bib-">河田 研治, プレストンの経験則/トワイマン効果など研磨の代表的な3つの法則を徹底解説 <a linkurl="https://saito-os.com/1453/">https://saito-os.com/1453/</a></bibitem><span type="bibno">[10] </span><bibitem id="bib-">伊藤 元昭, TELESCOPE magazine, 半導体の微細化に不可欠なEUV露光技術の現状とこれから <a linkurl="https://www.tel.co.jp/museum/magazine/report/202310_01/?section=3">https://www.tel.co.jp/museum/magazine/report/202310_01/?section=3</a> (2023)</bibitem><span type="bibno">[11] </span><bibitem id="bib-">伊藤 元昭, TELESCOPE magazine, FinFETからGAAそしてCFETへ、最先端半導体のトランジスタ技術の進化 <a linkurl="https://www.tel.co.jp/museum/magazine/report/202407_02/?section=1">https://www.tel.co.jp/museum/magazine/report/202407_02/?section=1</a> (2024)</bibitem></aid:doc>

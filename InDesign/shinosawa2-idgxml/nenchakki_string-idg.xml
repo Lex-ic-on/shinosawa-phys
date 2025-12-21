@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第18章　次元と超弦理論への旅</h1>
-<h2>18.1　プロローグ──物理学への招待</h2>
-<p>初星学園の夕暮れは、いつも黄金色だった。</p>
+<?dtp level="1" section="第18章　次元と超弦理論への旅"?><h2>18.1　プロローグ──物理学への招待</h2>
+<?dtp level="2" section="18.1　プロローグ──物理学への招待"?><p>初星学園の夕暮れは、いつも黄金色だった。</p>
 <p>西日が差し込む1年2組の教室。窓際の席で、篠澤広は一人、静かな時間を過ごしていた。彼女の白髪──陽光を浴びると銀色に透ける繊細な髪──が、斜めから差し込む光を梳いて、まるで絹糸のように輝いている。机の上に置いた小さな観葉植物に、彼女は丁寧に水をやりながら、時折その細い手首に巻かれた腕時計に目をやった。約束の時間は、とうに過ぎている。</p>
 <p>「ふふ、ままならないね」</p>
 <p>広は小さく呟いた。その声は、教室の静寂に吸い込まれるように柔らかい。体力がなく、思うように動けないことには慣れている。だから、誰かを待つ時間も、わたしにとっては必然の一部だった。</p>
@@ -47,8 +47,8 @@
 <p>プロデューサーが真面目な顔で言うと、広は小さく笑った。</p>
 <p>「ふふ、ままならないね。でも、悪くない」</p>
 <h2>18.2　世界を記述する言葉──次元と法則</h2>
-<h3>次元という概念</h3>
-<p>「では、次元の話から始めよう」</p>
+<?dtp level="2" section="18.2　世界を記述する言葉──次元と法則"?><h3>次元という概念</h3>
+<?dtp level="3" section="次元という概念"?><p>「では、次元の話から始めよう」</p>
 <p>広は再び黒板に向き直り、白いチョークで数式を書き始めた。</p>
 <p>「次元の定義を数学的に表すと」</p>
 <displayequation><Image href="file://images/_review_math/_gen_9059ac21f69f2d0c6eea040361da8a6a9f534d72f22fc34c2d0cf1a0e22a9598.pdf"/></displayequation>
@@ -76,7 +76,7 @@
 <p>「ふふ、ままならないようで、必然」</p>
 <p>そう言って、彼女はゆっくりと椅子に腰掛けた。少し話しただけで、もう疲労が滲んでいる。</p>
 <h3>物理学の二大柱</h3>
-<p>「水、飲みますか？」</p>
+<?dtp level="3" section="物理学の二大柱"?><p>「水、飲みますか？」</p>
 <p>プロデューサーが心配そうに自分の水筒を差し出した。</p>
 <p>「ありがとう」</p>
 <p>広は素直に受け取り、もう一度喉を潤してから続けた。</p>
@@ -111,7 +111,7 @@
 <p>「つまり……」</p>
 <p>「隠れた次元があるかもしれない。とても小さく丸まった、余剰次元」</p>
 <h3>カルツァ・クライン理論</h3>
-<p>「1919年、カルツァという人が面白いことを発見した。5次元で考えると、重力と電磁気力が統一できる」</p>
+<?dtp level="3" section="カルツァ・クライン理論"?><p>「1919年、カルツァという人が面白いことを発見した。5次元で考えると、重力と電磁気力が統一できる」</p>
 <p>プロデューサーは驚いた。</p>
 <p>「5次元？どうやって？」</p>
 <p>「5次元計量テンソル <inlineequation><Image href="file://images/_review_math/_gen_aa80b7cabc22546a9b82fde22f16db3b5de22dafd13686479b6f39fe592ff962.pdf" type="inline"/></inlineequation> を分解すると、</p>
@@ -156,8 +156,8 @@
 <p>「はい、約束します」</p>
 <p>二人は夕暮れの廊下を歩いていった。広の白髪が、窓から差し込む光を受けて、美しく輝いていた。</p>
 <h2>18.3　点という幻想──無限大の壁</h2>
-<h3>点粒子の呪縛</h3>
-<p>翌日、放課後。今度はプロデューサーが先に教室にいた。黒板には昨日の内容がそのまま残されている。</p>
+<?dtp level="2" section="18.3　点という幻想──無限大の壁"?><h3>点粒子の呪縛</h3>
+<?dtp level="3" section="点粒子の呪縛"?><p>翌日、放課後。今度はプロデューサーが先に教室にいた。黒板には昨日の内容がそのまま残されている。</p>
 <p>「今日は早いね、プロデューサー」</p>
 <p>広が教室に入ってくると、その顔色が昨日より少し良いことにプロデューサーは気づいた。</p>
 <p>「昨日遅れた分、早く来ました。それに、続きが気になって」</p>
@@ -181,7 +181,7 @@
 <p>「でも、現実の電子の質量は有限ですよね」</p>
 <p>「その通り。理論と現実が合わない」</p>
 <h3>繰り込みという魔法──ぺてんにしか見えない</h3>
-<p>「1940年代、朝永振一郎、シュウィンガー、ファインマンといった物理学者たちが、この無限大を飼いならす、驚くべき方法を独立に発見した。それが『繰り込み』」</p>
+<?dtp level="3" section="繰り込みという魔法──ぺてんにしか見えない"?><p>「1940年代、朝永振一郎、シュウィンガー、ファインマンといった物理学者たちが、この無限大を飼いならす、驚くべき方法を独立に発見した。それが『繰り込み』」</p>
 <p>「くりこみ……」</p>
 <p>プロデューサーは、広の書いた文字を反芻した。</p>
 <p>「そう。でも、そのアイデアはあまりに大胆で、発見者の一人であるファインマン自身でさえ、最初は『馬鹿げたプロセス』と呼んだ。まるで、絨毯の下にゴミを隠すような、ごまかし（ぺてん）に見えたからだ、ね」</p>
@@ -227,9 +227,9 @@
 <p>「ウィルソンの繰り込み群理論は、なぜこの『ぺてん』が機能するのかという概念的基礎を与えた。そして、この理解の上に立って、電子の異常磁気モーメントは人類史上最も精密な理論予測となった。標準的な摂動的QED計算、つまりファインマン図の系統的な足し上げによって、理論値と実験値は驚異的に一致した。相対精度で<inlineequation><Image href="file://images/_review_math/_gen_5bb0b4c92b24c01433fd9260cc7635d5a1b64c5f5e629a4bf2b4949e0cf1822e.pdf" type="inline"/></inlineequation>、つまり1兆分の1の精度。ふふ、かつて『ぺてん』と呼ばれた繰り込み理論で、この完璧な結果。物理学の不思議だね。さて、こんな繰り込み理論には、別の側面がある」</p>
 <p>「どんな側面ですか？」</p>
 <p>「正則化という方法がいくつかある。まずパウリ・ヴィラール正則化」</p>
-<note-title>パウリ・ヴィラール正則化</note-title>
+<note><note-title>パウリ・ヴィラール正則化</note-title>
 <displayequation><Image href="file://images/_review_math/_gen_7d5c3c0cfb276d343d59390b49e14caf24c3c20dc474c9cf6f7e10bd9dd49b3f.pdf"/></displayequation>
-<p>「重い仮想粒子（質量<inlineequation><Image href="file://images/_review_math/_gen_4e73a24d6dbb26ffc7286927b7452dfaae09dbed05a0d0c38adab081c78d96fe.pdf" type="inline"/></inlineequation>）を導入して、高エネルギーでの振る舞いを改善する。<inlineequation><Image href="file://images/_review_math/_gen_eb4c2e815f326249c3380f37a41d5ffefe5c1cff57dca48093567a32d34e87a4.pdf" type="inline"/></inlineequation>の極限で元の理論に戻る」</p>
+</note><p>「重い仮想粒子（質量<inlineequation><Image href="file://images/_review_math/_gen_4e73a24d6dbb26ffc7286927b7452dfaae09dbed05a0d0c38adab081c78d96fe.pdf" type="inline"/></inlineequation>）を導入して、高エネルギーでの振る舞いを改善する。<inlineequation><Image href="file://images/_review_math/_gen_eb4c2e815f326249c3380f37a41d5ffefe5c1cff57dca48093567a32d34e87a4.pdf" type="inline"/></inlineequation>の極限で元の理論に戻る」</p>
 <p>「なるほど、人工的な粒子で無限大を抑える」</p>
 <p>「もう一つは次元正則化。これがより洗練された方法」</p>
 <displayequation><Image href="file://images/_review_math/_gen_6b2b1d7db83a150271a10bfb9738f45861da1fcf4f5f5f91f76426c79b3b7b89.pdf"/></displayequation>
@@ -268,7 +268,7 @@
 <p>広は椅子に座った。</p>
 <p>「ふふ、ままならないようで必然。繰り込み理論の限界が、弦理論への道を示している」</p>
 <h3>点であることへの疑問</h3>
-<p>広はふと、窓の外に目をやった。今日は厚い雲が空を覆い、いつもの黄金色の夕日は見えない。その灰色の光が、教室を静謐な雰囲気で満たしていた。</p>
+<?dtp level="3" section="点であることへの疑問"?><p>広はふと、窓の外に目をやった。今日は厚い雲が空を覆い、いつもの黄金色の夕日は見えない。その灰色の光が、教室を静謐な雰囲気で満たしていた。</p>
 <p>「プロデューサー、そもそもなぜ、わたしたちは素粒子を『点』だと考えてきたんだと思う？」</p>
 <p>「え？それは……どんなに高性能な顕微鏡で見ても、大きさがなく、点にしか見えないから、ですか？」</p>
 <p>「そう。でも、『見えない』ことと、本当に『点である』ことは違う」</p>
@@ -292,9 +292,9 @@
 <p>その一言に、プロデューサーは驚いた。</p>
 <p>「ひも……ですか？」</p>
 <p>「そう。大きさゼロの点ではなく、プランク長さほどの長さを持つ、1次元に広がった小さな弦。その動きは、こんな作用（action）で記述される」</p>
-<note-title>南部・後藤作用(Nambu-Goto action)</note-title>
+<note><note-title>南部・後藤作用(Nambu-Goto action)</note-title>
 <displayequation><Image href="file://images/_review_math/_gen_aadf929d0497f6627f7c7549131bdcefc452716677990077fe71d18530891ebf.pdf"/></displayequation>
-<p>「これは南部・後藤作用(Nambu-Goto action)。弦が時間と共に動いて作る『世界面（ワールドシート）』の面積が、最小になるように動きなさい、という意味だ、ね」</p>
+</note><p>「これは南部・後藤作用(Nambu-Goto action)。弦が時間と共に動いて作る『世界面（ワールドシート）』の面積が、最小になるように動きなさい、という意味だ、ね」</p>
 <p>「うーん……式が複雑で、よく分からないです……」</p>
 <p>「ふふ、大丈夫。見た目は難しそうだけど、一つ一つの部品に分解すれば、その意味が見えてくる。これは、物理学の最も美しい原則の一つ、『最小作用の原理』を弦に適用したものなんだね」</p>
 <p>「最小作用？」</p>
@@ -351,8 +351,8 @@
 <p>「ふふ、まだはっきりと言ってくれない。でも、嬉しい」</p>
 <p>二人は傘を持って教室を出た。雨の中を、ゆっくりと歩いていく。広の白髪が、雨に濡れて銀色に光っていた。</p>
 <h2>18.4　弦という革命──奇跡の調和</h2>
-<h3>ひもの音楽</h3>
-<p>四日目。雨上がりの教室は、いつもより明るく感じられた。水滴のついた窓が、朝日を乱反射させている。</p>
+<?dtp level="2" section="18.4　弦という革命──奇跡の調和"?><h3>ひもの音楽</h3>
+<?dtp level="3" section="ひもの音楽"?><p>四日目。雨上がりの教室は、いつもより明るく感じられた。水滴のついた窓が、朝日を乱反射させている。</p>
 <p>「プロデューサー、ギターは弾ける？」</p>
 <p>広はプロデューサーの顔を見て、唐突に尋ねた。</p>
 <p>「少しなら……どうしてですか？」</p>
@@ -379,7 +379,7 @@
 <p>「重力が……計算から、勝手に出てきた、ということですか？」</p>
 <p>「そう。重力を理論に入れよう、なんて誰も頼んでいないのに。ただ、閉じた輪っかの弦の振動を量子力学で計算しただけで、必然的に重力が現れた。点粒子の理論では、あれほど量子化にてこずった重力が、弦理論では『含まれていないと理論が成立しない』という形で、自然に組み込まれている。ふふ、素敵でしょ？」</p>
 <h3>奇跡の相殺</h3>
-<p>「でも、一番すごいのは、無限大が消えること」</p>
+<?dtp level="3" section="奇跡の相殺"?><p>「でも、一番すごいのは、無限大が消えること」</p>
 <p>「点粒子だと、相互作用する場所が一点に集中してしまう。それが無限大の原因だった」</p>
 <p>「でも、ひも同士の相互作用は、ある程度の領域に『ぼやけて』行われる。衝突の瞬間が『点』ではなく、滑らかな『面』になるのだ、ね」</p>
 <p>広は黒板に図を描き始めた。左側には2本の線が一つの波線を媒介にして交わる鋭い図、右側には2つのズボンが合体するような滑らかな図。</p>
@@ -399,7 +399,7 @@
 <p>「大丈夫……ただ、興奮すると、疲れてしまって……」</p>
 <p>プロデューサーが差し出した水筒を受け取り、広はゆっくりと水を飲んだ。</p>
 <h3>次元の要求</h3>
-<p>「でも、代償がある」</p>
+<?dtp level="3" section="次元の要求"?><p>「でも、代償がある」</p>
 <p>広は続けた。</p>
 <p>「代償？」</p>
 <p>「うん。弦理論が、ただの美しい数学ではなく、物理的な実在として矛盾なく存在するための、厳しい条件。それが、世界の次元そのものを指定してくるのだ、ね」</p>
@@ -511,7 +511,7 @@
 <p>広は優しく言った。</p>
 <p>「大切なのは、弦理論が要求する次元」</p>
 <h3>コンパクト化</h3>
-<p>「でも、私たちの世界は3次元です」</p>
+<?dtp level="3" section="コンパクト化"?><p>「でも、私たちの世界は3次元です」</p>
 <p>プロデューサーが、最も素朴で、最も鋭い疑問を口にした。</p>
 <p>「そう。だから、残りの6次元は、私たちの目には見えないほど小さく『コンパクト化』されている、と考える。隠れている、ということだ、ね」</p>
 <p>広は近くにあったフルートケースを手に取った。</p>
@@ -561,7 +561,7 @@
 </table>
 <p>「私たちの体や、身の回りの物質は、ほとんどが一番軽い第1世代の粒子だけでできている。でも、なぜか自然は、重い第2世代と第3世代を用意した。なぜそんなコピーが3つもあるのか、標準模型では説明できないこの謎に、弦理論は『隠れた次元の穴が、ちょうど3つあるからかもしれない』という、驚くべき答えを与える。隠れた世界の幾何学が、私たちの世界の最も深い謎を解く鍵になる。ふふ、ロマンチックでしょ？」</p>
 <h3>5つの理論</h3>
-<p>窓の外では、夕日が顔を出し始めていた。雨上がりの空気が、光を美しく散乱させている。</p>
+<?dtp level="3" section="5つの理論"?><p>窓の外では、夕日が顔を出し始めていた。雨上がりの空気が、光を美しく散乱させている。</p>
 <p>「実は、超弦理論は一つじゃない」</p>
 <p>「そうなんですか？今の一つだけでもかなりのボリュームでしたが……」</p>
 <p>「5つある。タイプI、タイプIIA、タイプIIB、ヘテロSO(32)、ヘテロE8×E8」</p>
@@ -599,8 +599,8 @@
 <p>「そんなことありません。篠澤さんは、最高の先生です」</p>
 <p>二人は夕暮れの廊下を、ゆっくりと歩いていく。夕日のせいか広の顔が、ほんのり赤く染まっていた。</p>
 <h2>18.5　エピローグ──未知なる次元への旅</h2>
-<h3>星空の約束</h3>
-<p>廊下の突き当たりで、広はふと立ち止まった。</p>
+<?dtp level="2" section="18.5　エピローグ──未知なる次元への旅"?><h3>星空の約束</h3>
+<?dtp level="3" section="星空の約束"?><p>廊下の突き当たりで、広はふと立ち止まった。</p>
 <p>「プロデューサー、少し、寄り道しない？」</p>
 <p>そう言われ広に導かれた先は、普段は鍵がかかっているはずの屋上へと続く扉だった。二人が鉄の扉を開けると、涼やかな夕暮れの風が吹き込んできて、眼前に広がる街の灯りがきらめき始めた。</p>
 <p>「見て、一番星」</p>
@@ -645,7 +645,7 @@
 <p>「……うん」</p>
 <p>広は照れたように俯いて、指を解いた。</p>
 <h3>旅の終わり、そして始まり</h3>
-<p>「そろそろ戻ろう。寒くなってきた」</p>
+<?dtp level="3" section="旅の終わり、そして始まり"?><p>「そろそろ戻ろう。寒くなってきた」</p>
 <p>「そうですね」</p>
 <p>屋上を後にして、並んで廊下を歩く。</p>
 <p>「これで、わたしの特別授業は終わり」</p>
@@ -681,8 +681,8 @@
 <p>けれど、夜空に無数の星が輝き、10次元の弦が宇宙の交響曲を奏で続ける限り、旅は終わらない。</p>
 <p>二人でなら、その旅路はきっと、面白い。</p>
 <h2>参考文献</h2>
-[1] ミチオ・カク, 太田 信義, 『超弦理論』 (シュプリンガー現代物理学シリーズ), シュプリンガー・フェアラーク東京, (1989)[2] 広瀬 立成, 『ひも理論入門』, PHP研究所, (2002)[3] Anthony Zee, 原田 恒司, 筒井 泉, 『ジー先生の場の量子論 基礎編』, 丸善出版, (2020)[4] 広瀬 立成, 『図解雑学 超ひも理論』, ナツメ社, (2006)[5] 松尾 衛, 『相対論とゲージ場の古典論を噛み砕く』, 現代数学社, (2019)[6] David Tong, 『Lectures on String Theory』, University of Cambridge, https://www.damtp.cam.ac.uk/user/tong/string/string2.pdf[7] Friedrich Jegerlehner, 『The Anomalous Magnetic Moment of the Muon (Springer Tracts in Modern Physics)』, Springer, (2017)[8] T. Aoyama, T. Kinoshita, and M. Nio: Revised and Improved Value of the QED Tenth-Order Electron Anomalous Magnetic Moment, Phys. Rev. D 97, 036001 (2018), https://doi.org/10.1103/PhysRevD.97.036001[9] T. Aoyama, M. Hayakawa, T. Kinoshita, and M. Nio: Tenth-Order Electron Anomalous Magnetic Moment—Contribution of Diagrams without Closed Lepton Loops, Phys. Rev. D 91, 033006 (2015), https://doi.org/10.1103/PhysRevD.91.033006[10] S. Volkov: Numerical calculation of high-order QED contributions to the electron anomalous magnetic moment, Phys. Rev. D 98, 076018 (2018), https://doi.org/10.1103/PhysRevD.98.076018<h2>18.6　あとがき</h2>
-<p>最後まで読んでいただき、ありがとうございました。</p>
+<?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-">ミチオ・カク, 太田 信義, 『超弦理論』 (シュプリンガー現代物理学シリーズ), シュプリンガー・フェアラーク東京, (1989)</bibitem><span type="bibno">[2] </span><bibitem id="bib-">広瀬 立成, 『ひも理論入門』, PHP研究所, (2002)</bibitem><span type="bibno">[3] </span><bibitem id="bib-">Anthony Zee, 原田 恒司, 筒井 泉, 『ジー先生の場の量子論 基礎編』, 丸善出版, (2020)</bibitem><span type="bibno">[4] </span><bibitem id="bib-">広瀬 立成, 『図解雑学 超ひも理論』, ナツメ社, (2006)</bibitem><span type="bibno">[5] </span><bibitem id="bib-">松尾 衛, 『相対論とゲージ場の古典論を噛み砕く』, 現代数学社, (2019)</bibitem><span type="bibno">[6] </span><bibitem id="bib-">David Tong, 『Lectures on String Theory』, University of Cambridge, <a linkurl="https://www.damtp.cam.ac.uk/user/tong/string/string2.pdf">https://www.damtp.cam.ac.uk/user/tong/string/string2.pdf</a></bibitem><span type="bibno">[7] </span><bibitem id="bib-">Friedrich Jegerlehner, 『The Anomalous Magnetic Moment of the Muon (Springer Tracts in Modern Physics)』, Springer, (2017)</bibitem><span type="bibno">[8] </span><bibitem id="bib-">T. Aoyama, T. Kinoshita, and M. Nio: Revised and Improved Value of the QED Tenth-Order Electron Anomalous Magnetic Moment, Phys. Rev. D <b>97</b>, 036001 (2018), <a linkurl="https://doi.org/10.1103/PhysRevD.97.036001">https://doi.org/10.1103/PhysRevD.97.036001</a></bibitem><span type="bibno">[9] </span><bibitem id="bib-">T. Aoyama, M. Hayakawa, T. Kinoshita, and M. Nio: Tenth-Order Electron Anomalous Magnetic Moment—Contribution of Diagrams without Closed Lepton Loops, Phys. Rev. D <b>91</b>, 033006 (2015), <a linkurl="https://doi.org/10.1103/PhysRevD.91.033006">https://doi.org/10.1103/PhysRevD.91.033006</a></bibitem><span type="bibno">[10] </span><bibitem id="bib-">S. Volkov: Numerical calculation of high-order QED contributions to the electron anomalous magnetic moment, Phys. Rev. D <b>98</b>, 076018 (2018), <a linkurl="https://doi.org/10.1103/PhysRevD.98.076018">https://doi.org/10.1103/PhysRevD.98.076018</a></bibitem><h2>18.6　あとがき</h2>
+<?dtp level="2" section="18.6　あとがき"?><p>最後まで読んでいただき、ありがとうございました。</p>
 <p>超弦理論という、正直に言えば私自身もまだ学びの途中にある分野を、こうして物語の形で綴ることができたのは、一つの冒険でした。学部2年生の私が書いた文章ですから、至らない点も多いと思います。それでも、この物語を通して「物理って面白いかも」と少しでも感じていただけたなら、これ以上の喜びはありません。</p>
 <p>私自身、Kurzgesagtの『ひも理論を説明─本当の現実の姿って？』という動画に出会って、この不思議な世界に惹かれました。もし興味を持たれたら、ぜひご覧になってみてください。</p>
 <p>丁寧に物理を教えてくださった恩師の先生方、そして、この長い物語にお付き合いいただいた皆様に、心から感謝を申し上げます。</p>

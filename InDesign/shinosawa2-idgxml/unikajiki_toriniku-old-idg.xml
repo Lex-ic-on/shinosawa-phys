@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第2章　鶏肉は中まで火を通せ</h1>
-<?dtp level="1" section="第2章　鶏肉は中まで火を通せ"?><h2>2.1　弱火でゆっくり30分</h2>
-<?dtp level="2" section="2.1　弱火でゆっくり30分"?><p>「えーと、次は……」</p>
+<h2>2.1　弱火でゆっくり30分</h2>
+<p>「えーと、次は……」</p>
 <p>「『皮目をぴったり貼りつけて塩胡椒』<span type="bibno">[1] </span>、だって、千奈ちゃん！」</p>
 <p>少しずつ木の葉が暖色に変わり、空気も澄み始めた。人々が芸術やらスポーツやら、様々なことに意気込んで取り組むこの季節に、千奈、佑芽、そして私の3人は、例にもれず食欲を満喫しようとしている。</p>
 <p>「ふむ……こう、でしょうか？」</p>
@@ -61,7 +61,7 @@
 <p>「そんで、広ちゃんはなんで冷静なの！？」</p>
 <p>「突っ込んだら負けな気がしてきましたわ……」</p>
 <h2>2.2　物体の温度</h2>
-<?dtp level="2" section="2.2　物体の温度"?><p>「まず、物体の温度について話そう」</p>
+<p>「まず、物体の温度について話そう」</p>
 <p>「温度って、普通に熱いとか、冷たいとか、そういう話ですわよね？」</p>
 <p>「そう。でも温度ってなんだろうって話。例えば、冷水と熱湯って、同じ水だけど温度が全然違う。この違いって何が原因だと思う？」</p>
 <p>普段では気にもとめない質問に、2人は顎に手を当て悩み始める。</p>
@@ -99,7 +99,7 @@
 <p>「とりあえず、物体の中にあるエネルギーが高いほど、物体の温度は高いって覚えておいて」</p>
 <p>「「はーい」」</p>
 <h2>2.3　熱が伝わる仕組み</h2>
-<?dtp level="2" section="2.3　熱が伝わる仕組み"?><p>「さっきのエネルギーと温度の関係を使って、やかんにある水の温度について考えてみるよ」</p>
+<p>「さっきのエネルギーと温度の関係を使って、やかんにある水の温度について考えてみるよ」</p>
 <p>10分くらい経って、鶏肉には白とピンクの境界が見え始めていた。調理場に食欲を湧き立てる香りが充満する中で、わたしはやかんの図を描き始めた。</p>
 <p>「やかんに水を入れた後、火をかけて水を沸騰させる。そのあと火を止めて、やかんに熱湯が入った状態を作るよ。このままやかんを放置させると、中の水の温度はどうなる？」</p>
 <p>「はい、広先生！どんどん冷たくなると思います！」</p>
@@ -135,7 +135,7 @@
 <p>「ちなみに、火力を強くするほど沸騰が早く起こるのは、追加されるブロックの数がどんどん増えて、速くブロックが積み上がるから。つまり水温の上昇スピードが速くなって、早く100℃に到達するってわけ」</p>
 <p>「この図で色んなことが説明できますのね」</p>
 <h2>2.4　熱が伝わる速さ</h2>
-<?dtp level="2" section="2.4　熱が伝わる速さ"?><p>「今までは水温で説明したけど、鶏肉が温まる理由も同じ」</p>
+<p>「今までは水温で説明したけど、鶏肉が温まる理由も同じ」</p>
 <p>「まず、熱くっているフライパンから熱をもらって、お肉の温度が高くなる。つまりブロックが追加されて高くなりますわね」</p>
 <p>「その後、そのブロックが冷たい方に流れていく。ブロックの追加と流出で、鶏肉が少しずつ温まっていく、って感じ？」</p>
 <p>「そういうこと」</p>
@@ -170,7 +170,7 @@
 <p>「ちょっと雑な説明になっちゃうけど、このエネルギーの図なら、ブロックの形が違うと思っておけばいいよ。鶏肉なら四角いブロック、金属なら丸い(球体の)ブロックって考えると、球体の方がどんどん右に転がっていきそう、みたいな感じ」</p>
 <p>「なるほど……それならお肉より早く伝わってそうなイメージができますわ」</p>
 <h2>2.5　いただきます！</h2>
-<?dtp level="2" section="2.5　いただきます！"?><p>「以上で解説を終わります。ご清聴ありがとうございました」</p>
+<p>「以上で解説を終わります。ご清聴ありがとうございました」</p>
 <p>「お疲れ様です、広先生！」</p>
 <p>「すごく頭を使いましたわ、篠澤先生！」</p>
 <p>「ところで、今29分ちょっと。そろそろ鶏肉をひっくり返す時間」</p>
@@ -191,4 +191,4 @@
 <p>「そうですわね！では！」</p>
 <p>「「「いただきます！」」」</p>
 <h2>参考文献</h2>
-<?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-inada">イナダシュンスケ, 2021.07.17, <a linkurl="https://x.com/inadashunsuke/status/1297138386281435136">https://x.com/inadashunsuke/status/1297138386281435136</a> (参照: 2025.09.21)</bibitem><span type="bibno">[2] </span><bibitem id="bib-haseko">長谷工グループ ブランシエラクラブ, 2025.05.23, <a linkurl="https://www.haseko.co.jp/branchera/idea/recipe/recipe_0003.html">https://www.haseko.co.jp/branchera/idea/recipe/recipe_0003.html</a> (参照: 2025.09.21)</bibitem><span type="bibno">[3] </span><bibitem id="bib-kuma">くまの限界食堂, 2022.11.12, <a linkurl="https://www.youtube.com/watch?v=sGa2RaIlT-M">https://www.youtube.com/watch?v=sGa2RaIlT-M</a> (参照: 2025.09.21)</bibitem><span type="bibno">[4] </span><bibitem id="bib-himitsukichi">ひみつ基地。, 2025.02.13, <a linkurl="https://www.youtube.com/shorts/q0YhMcv0oPc">https://www.youtube.com/shorts/q0YhMcv0oPc</a> (参照: 2025.09.21)</bibitem><span type="bibno">[5] </span><bibitem id="bib-sugiyama">K. Sugiyama, J. Cookery Sci. Jpn. (2013) 299.</bibitem><span type="bibno">[6] </span><bibitem id="bib-miyahara">M. Miyahara, <i>et. al.</i>, JSFST (1996) 368.</bibitem><span type="bibno">[7] </span><bibitem id="bib-ikuno">大阪府立生野高等学校 SSH特別講義, 2024.07.18, <a linkurl="https://www.osaka-c.ed.jp/blog/ikuno/ssh-news/2024/07/18-261372.html">https://www.osaka-c.ed.jp/blog/ikuno/ssh-news/2024/07/18-261372.html</a> (参照: 2025.09.22)</bibitem><span type="bibno">[8] </span><bibitem id="bib-wiedemann">R. Franz and G. Wiedemann, Ann. der Physik (1853) 497.</bibitem><span type="bibno">[9] </span><bibitem id="bib-katsura">T. Katsura, J. Soc. Miner. Japan (1995) 169.</bibitem></aid:doc>
+[1] イナダシュンスケ, 2021.07.17, https://x.com/inadashunsuke/status/1297138386281435136 (参照: 2025.09.21)[2] 長谷工グループ ブランシエラクラブ, 2025.05.23, https://www.haseko.co.jp/branchera/idea/recipe/recipe_0003.html (参照: 2025.09.21)[3] くまの限界食堂, 2022.11.12, https://www.youtube.com/watch?v=sGa2RaIlT-M (参照: 2025.09.21)[4] ひみつ基地。, 2025.02.13, https://www.youtube.com/shorts/q0YhMcv0oPc (参照: 2025.09.21)[5] K. Sugiyama, J. Cookery Sci. Jpn. (2013) 299.[6] M. Miyahara, et. al., JSFST (1996) 368.[7] 大阪府立生野高等学校 SSH特別講義, 2024.07.18, https://www.osaka-c.ed.jp/blog/ikuno/ssh-news/2024/07/18-261372.html (参照: 2025.09.22)[8] R. Franz and G. Wiedemann, Ann. der Physik (1853) 497.[9] T. Katsura, J. Soc. Miner. Japan (1995) 169.</aid:doc>

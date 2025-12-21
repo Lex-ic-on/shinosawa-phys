@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第9章　篠澤広に電磁気学と特殊相対論を教えてもらうコミュ</h1>
-<h2>9.1　電磁誘導の法則に潜む謎</h2>
-<p>　～放課後、プロデューサー室～</p>
+<?dtp level="1" section="第9章　篠澤広に電磁気学と特殊相対論を教えてもらうコミュ"?><h2>9.1　電磁誘導の法則に潜む謎</h2>
+<?dtp level="2" section="9.1　電磁誘導の法則に潜む謎"?><p>　～放課後、プロデューサー室～</p>
 <p>「プロデューサー、勉強してるの？珍しい、ね。」</p>
 <p>『はい。プロデューサー科にも座学の授業がありまして……。この課題を来週までに終わらせる必要があるんです。』</p>
 <p>「それ、物理の課題だよね？教えてあげてもいい、よ。」</p>
@@ -10,13 +10,13 @@
 <p>『いえ、このくらい自力でもすぐ終わりますから……。』</p>
 <p>「ふふ。プロデューサー、ものすごく、助けてほしいって顔してる。」</p>
 <p>『……分かりました。いま解いてるのはこちらです。』</p>
-<note-title>問題</note-title>
+<note><note-title>問題</note-title>
 <p>　抵抗<inlineequation><Image href="file://images/_review_math/_gen_8c2574892063f995fdf756bce07f46c1a5193e54cd52837ed91e32008ccf41ac.pdf" type="inline"/></inlineequation>が繋がったコの字型の導体レールに，導体棒を乗せて回路を作る．ここに、レールと垂直方向(紙面手前向き)に磁束密度<inlineequation><Image href="file://images/_review_math/_gen_df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c.pdf" type="inline"/></inlineequation>の磁場をかける．</p>
 <p>(1)</p>
 <p>(a)<span type="image">図9.1</span>のように，導体棒は静止させたまま磁束密度<inlineequation><Image href="file://images/_review_math/_gen_798bcf7d3b7dee2b1c6b12f890f6b65630f4e24896b0e0c945f52aceb6094dd4.pdf" type="inline"/></inlineequation>を時間変化させる．レールと導体棒で囲まれた部分の面積を<inlineequation><Image href="file://images/_review_math/_gen_8de0b3c47f112c59745f717a626932264c422a7563954872e237b223af4ad643.pdf" type="inline"/></inlineequation>とするとき，回路に発生する誘導起電力<inlineequation><Image href="file://images/_review_math/_gen_de5a6f78116eca62d7fc5ce159d23ae6b889b365a1739ad2cf36f925a140d0cc.pdf" type="inline"/></inlineequation>の大きさを求めよ．</p>
 <p>(b)<span type="image">図9.2</span>のように，磁束密度<inlineequation><Image href="file://images/_review_math/_gen_df7e70e5021544f4834bbee64a9e3789febc4be81470df629cad6ddb03320a5c.pdf" type="inline"/></inlineequation>は一定のまま導体棒を速さ<inlineequation><Image href="file://images/_review_math/_gen_4c94485e0c21ae6c41ce1dfe7b6bfaceea5ab68e40a2476f50208e526f506080.pdf" type="inline"/></inlineequation>で動かす．向かい合うレールどうしの間隔を<inlineequation><Image href="file://images/_review_math/_gen_acac86c0e609ca906f632b0e2dacccb2b77d22b0621f20ebece1a4835b93f6f0.pdf" type="inline"/></inlineequation>とするとき，誘導起電力<inlineequation><Image href="file://images/_review_math/_gen_de5a6f78116eca62d7fc5ce159d23ae6b889b365a1739ad2cf36f925a140d0cc.pdf" type="inline"/></inlineequation>の大きさを求めよ．</p>
 <p>(2) ……</p>
-<p>◆DTP連絡始◆以下の図は横並び◆DTP連絡終◆</p>
+</note><p>◆DTP連絡始◆以下の図は横並び◆DTP連絡終◆</p>
 <Image href="file://images/metallica_elemag/fig1.pdf"/>
 <Image href="file://images/metallica_elemag/fig2.pdf"/>
 <p>「わぁ、高校生みたいな問題。」</p>
@@ -25,11 +25,11 @@
 <p>『高校では物理基礎までしか履修しなかったので、大学の授業といってもこの程度です。』</p>
 <p>「そうなんだ。さっそく、わたしの出番？」</p>
 <p>『(1)くらいなら分かります。』</p>
-<note-title>解答</note-title>
+<note><note-title>解答</note-title>
 <p>(1)回路を貫く磁束を<inlineequation><Image href="file://images/_review_math/_gen_10ce0200b450ea955833553e717821c7721818b8a95cffd7e54b46e08918b512.pdf" type="inline"/></inlineequation>とする．</p>
 <p>(a)ファラデーの電磁誘導の法則より<inlineequation><Image href="file://images/_review_math/_gen_d95a8b506ff6d7295a407f47557659bfd655214b2acf69573ad0ee184038ae83.pdf" type="inline"/></inlineequation>．</p>
 <p>(b)ファラデーの電磁誘導の法則より，<inlineequation><Image href="file://images/_review_math/_gen_6f9d1fd88f398cdd29a7657ea2c509d666e14c3aaa998d01e22358362ea9e3d0.pdf" type="inline"/></inlineequation>．棒の速さが<inlineequation><Image href="file://images/_review_math/_gen_4c94485e0c21ae6c41ce1dfe7b6bfaceea5ab68e40a2476f50208e526f506080.pdf" type="inline"/></inlineequation>，レールの間隔が<inlineequation><Image href="file://images/_review_math/_gen_acac86c0e609ca906f632b0e2dacccb2b77d22b0621f20ebece1a4835b93f6f0.pdf" type="inline"/></inlineequation>であることより単位時間あたりの面積変化は<inlineequation><Image href="file://images/_review_math/_gen_d578e69a7d0d1ef64ef0d0dc49a4f16caa714a8e2964a5aa94eca0cf15ab3df1.pdf" type="inline"/></inlineequation>だから，<inlineequation><Image href="file://images/_review_math/_gen_527938ed9181088211f1271292ca4c1964c3b3c8e879c5d51b30373db98cd0ae.pdf" type="inline"/></inlineequation>．</p>
-<p>「いいね。」</p>
+</note><p>「いいね。」</p>
 <p>『そういえば、(a)(b)どちらの問題も同じ電磁誘導の法則<inlineequation><Image href="file://images/_review_math/_gen_2ebf7ade7e18bd94bd28ad7adb2b01da4917c5b3d196275e1161491e3a38e759.pdf" type="inline"/></inlineequation>から求められるのはなんだか面白いですね。』</p>
 <p>「どうしてそう思ったの？」</p>
 <p>『磁場を変化させるのと棒を動かすのでは状況が全然違うように思えるので……、それらが1つの法則にまとまっているのはなかなか興味深く感じました。両者が具体的にどう違うのか、ハッキリとは説明できませんが……。』</p>
@@ -72,7 +72,7 @@
 <p>「大丈夫。入り口のところだけなら、プロデューサーでもきっとわかる。たぶん、ね。」</p>
 <p>『では、その言葉を信じることにします……。』</p>
 <h2>9.2　特殊相対論の準備1: ガリレイ変換とローレンツ変換</h2>
-<p>「じゃあ始める、よ。まず、ニュートン力学におけるガリレイ変換を復習する。」</p>
+<?dtp level="2" section="9.2　特殊相対論の準備1: ガリレイ変換とローレンツ変換"?><p>「じゃあ始める、よ。まず、ニュートン力学におけるガリレイ変換を復習する。」</p>
 <p>『ガリレイ変換……？』</p>
 <p>「聴き馴染みのない言葉かもしれないけど、とっても単純。」</p>
 <p>「真っすぐな一本道を走るバスを思い浮かべてみて。バス停<inlineequation><Image href="file://images/_review_math/_gen_c4694f2e93d5c4e7d51f9c5deb75e6cc8be5e1114178c6a45b6fc2c566a0aa8c.pdf" type="inline"/></inlineequation>にバスが止まっていて、そこから500 m先に次のバス停<inlineequation><Image href="file://images/_review_math/_gen_5c62e091b8c0565f1bafad0dad5934276143ae2ccef7a5381e8ada5b1a8d26d2.pdf" type="inline"/></inlineequation>がある。ここで、最初のバス停を原点<inlineequation><Image href="file://images/_review_math/_gen_c4694f2e93d5c4e7d51f9c5deb75e6cc8be5e1114178c6a45b6fc2c566a0aa8c.pdf" type="inline"/></inlineequation>、この道を<inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation>軸に見立てて、バス停<inlineequation><Image href="file://images/_review_math/_gen_5c62e091b8c0565f1bafad0dad5934276143ae2ccef7a5381e8ada5b1a8d26d2.pdf" type="inline"/></inlineequation>の位置を<inlineequation><Image href="file://images/_review_math/_gen_9c2aab3a97faed1b3eaf413db8e3ee89b7923a94bc14d86d9de0d2326a2a7fe3.pdf" type="inline"/></inlineequation>と表すことにする。ここまでは大丈夫？」</p>
@@ -83,7 +83,7 @@
 <p>「さて、ここでまたプロデューサーにクイズ。バス停<inlineequation><Image href="file://images/_review_math/_gen_c4694f2e93d5c4e7d51f9c5deb75e6cc8be5e1114178c6a45b6fc2c566a0aa8c.pdf" type="inline"/></inlineequation>に止まっていたバスが、時刻<inlineequation><Image href="file://images/_review_math/_gen_0eb4f782edc96275159ad33517d8684dbe6f5ba45dd439eddc97578878d396b1.pdf" type="inline"/></inlineequation>に速さ10 m/sでバス停<inlineequation><Image href="file://images/_review_math/_gen_5c62e091b8c0565f1bafad0dad5934276143ae2ccef7a5381e8ada5b1a8d26d2.pdf" type="inline"/></inlineequation>に向かって走り出したとする。お客さん目線の座標で考えると、<inlineequation><Image href="file://images/_review_math/_gen_e3b98a4da31a127d4bde6e43033f66ba274cab0eb7eb1c70ec41402bf6273dd8.pdf" type="inline"/></inlineequation>秒後のバス停<inlineequation><Image href="file://images/_review_math/_gen_5c62e091b8c0565f1bafad0dad5934276143ae2ccef7a5381e8ada5b1a8d26d2.pdf" type="inline"/></inlineequation>の位置はどう表されるでしょう？」</p>
 <p>『バスから見ると、バス停<inlineequation><Image href="file://images/_review_math/_gen_5c62e091b8c0565f1bafad0dad5934276143ae2ccef7a5381e8ada5b1a8d26d2.pdf" type="inline"/></inlineequation>の方が10 m/sでこちら側に向かって来ることになりますから……、<inlineequation><Image href="file://images/_review_math/_gen_d4c6fb4a7cb27e108b79d23ddb948400c96945f23f2a3de06843f4458a620c6b.pdf" type="inline"/></inlineequation>でしょうか？』</p>
 <p>「そのとおり。1次元の場合に限って、これを一般化してみる、よ。ある座標系<inlineequation><Image href="file://images/_review_math/_gen_86be9a55762d316a3026c2836d044f5fc76e34da10e1b45feee5f18be7edb177.pdf" type="inline"/></inlineequation>があって、点<inlineequation><Image href="file://images/_review_math/_gen_5c62e091b8c0565f1bafad0dad5934276143ae2ccef7a5381e8ada5b1a8d26d2.pdf" type="inline"/></inlineequation>の位置が<inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation>と表されているとする。その座標系に対して速度<inlineequation><Image href="file://images/_review_math/_gen_0bfe935e70c321c7ca3afc75ce0d0ca2f98b5422e008bb31c00c6d7f1f1c0ad6.pdf" type="inline"/></inlineequation>で等速運動する座標系<inlineequation><Image href="file://images/_review_math/_gen_fb9dab57470045611754ea57105f2fe2607dcb22e0ca4923331496190d5e980d.pdf" type="inline"/></inlineequation>があって、時刻<inlineequation><Image href="file://images/_review_math/_gen_0eb4f782edc96275159ad33517d8684dbe6f5ba45dd439eddc97578878d396b1.pdf" type="inline"/></inlineequation>で<inlineequation><Image href="file://images/_review_math/_gen_c4694f2e93d5c4e7d51f9c5deb75e6cc8be5e1114178c6a45b6fc2c566a0aa8c.pdf" type="inline"/></inlineequation>と<inlineequation><Image href="file://images/_review_math/_gen_833b1cbf30fcc656827a6c31ba269ade6a0f6b84a33ba1f4c7dab150893e0067.pdf" type="inline"/></inlineequation>が一致してたとすると、<inlineequation><Image href="file://images/_review_math/_gen_fb9dab57470045611754ea57105f2fe2607dcb22e0ca4923331496190d5e980d.pdf" type="inline"/></inlineequation>系における点<inlineequation><Image href="file://images/_review_math/_gen_5c62e091b8c0565f1bafad0dad5934276143ae2ccef7a5381e8ada5b1a8d26d2.pdf" type="inline"/></inlineequation>の位置<inlineequation><Image href="file://images/_review_math/_gen_e81b61047eca0739f7270bda88a4eef57926f6e5c6611cce36b88354ff495c6d.pdf" type="inline"/></inlineequation>は</p>
-式9.1　<displayequation><Image href="file://images/_review_math/_gen_cf4413925ac76ae157cd13783deb980686ced068e39b3aaacfe0d90d6dacf22d.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_cf4413925ac76ae157cd13783deb980686ced068e39b3aaacfe0d90d6dacf22d.pdf"/></displayequation>
 <p>となる、ね。こんなふうに、モノを見る視点を変えることを座標変換といって、特にそれぞれの視点での座標が式<span type="eq">式9.1</span>の関係で表せるものをガリレイ変換という。」</p>
 <p>『ここまでは理解できました。』</p>
 <p>「じゃあ2問目。さっきと同じように10 m/sで走るバスに乗っているとする。このとき、15 m/sで走る車とすれ違った(<span type="image">図9.6</span>)。バスのお客さんから見ると、この車の速さはどのくらいに見えるでしょう？」</p>
@@ -91,7 +91,7 @@
 <img-caption>図9.6　バスと車のすれ違い</img-caption>
 <p>『これは、単純に2つの速さを足して25 m/sでしょうか？』</p>
 <p>「正解。これも一般化する、よ。座標系<inlineequation><Image href="file://images/_review_math/_gen_86be9a55762d316a3026c2836d044f5fc76e34da10e1b45feee5f18be7edb177.pdf" type="inline"/></inlineequation>において<inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation>軸方向に速度<inlineequation><Image href="file://images/_review_math/_gen_4c94485e0c21ae6c41ce1dfe7b6bfaceea5ab68e40a2476f50208e526f506080.pdf" type="inline"/></inlineequation>で運動する物体を、<inlineequation><Image href="file://images/_review_math/_gen_fb9dab57470045611754ea57105f2fe2607dcb22e0ca4923331496190d5e980d.pdf" type="inline"/></inlineequation>系から見たときの速度<inlineequation><Image href="file://images/_review_math/_gen_4e7142ad42e2513eee1025b44b16e4a2df3ed33b6475373dcd604ebe2512e310.pdf" type="inline"/></inlineequation>は</p>
-式9.2　<displayequation><Image href="file://images/_review_math/_gen_536a135067b4f4d3e78db446d34dde59354b8f5d8b8baced3cab67673338dcd0.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_536a135067b4f4d3e78db446d34dde59354b8f5d8b8baced3cab67673338dcd0.pdf"/></displayequation>
 <p>と表せる<footnote>ちなみに、式<span type="eq">式9.2</span>は式<span type="eq">式9.1</span>を<inlineequation><Image href="file://images/_review_math/_gen_e3b98a4da31a127d4bde6e43033f66ba274cab0eb7eb1c70ec41402bf6273dd8.pdf" type="inline"/></inlineequation>で微分した形になってる。</footnote>。これがガリレイ変換における、速度の関係式。」</p>
 <p>『先ほどの問題を式<span type="eq">式9.2</span>に当てはめると、すれ違う車の速度は<inlineequation><Image href="file://images/_review_math/_gen_5e37b37c842d8df7106ee92e2e45beefef71ca60f51f7bb5cb50cb1e81c355a8.pdf" type="inline"/></inlineequation> m/sと表せますから、バスから見た車の速度は<inlineequation><Image href="file://images/_review_math/_gen_36fabd93e8b8c82b09fa46410b22ce2098248efc007d85113e39a37b95b85b74.pdf" type="inline"/></inlineequation> m/sとなるわけですね。』</p>
 <p>「そう。プロデューサー、ガリレイ変換は理解できたね。」</p>
@@ -109,9 +109,9 @@
 <p>「厳密には、ね。でも安心して。ガリレイ変換のずれは、速いモノほど大きくなる。わたしたちの日常生活レベルのスケールなら、誤差はほとんどないと言ってもいい。」</p>
 <p>『超高速のロケットでも考えない限りは、ガリレイ変換も十分に有用なんですね。ところで、光などにも適用できるような座標変換はないのでしょうか？』</p>
 <p>「それが、今から紹介するローレンツ変換。1次元の場合、数式では次のように表される、よ。」</p>
-式9.3　<displayequation><Image href="file://images/_review_math/_gen_cdb0a9d966a8006abaf2688f7c0cad64a5d89d3f7ca46a6b385059f927caa7c1.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_cdb0a9d966a8006abaf2688f7c0cad64a5d89d3f7ca46a6b385059f927caa7c1.pdf"/></displayequation>
 <p>(これは2本の式</p>
-式9.4　<displayequation><Image href="file://images/_review_math/_gen_456a4a340329a1469338e2ff865d0d793787e9a0efdb89c81d2c8812016c5b4e.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_456a4a340329a1469338e2ff865d0d793787e9a0efdb89c81d2c8812016c5b4e.pdf"/></displayequation>
 <p>をまとめて書いたもの。)</p>
 <p>『何やら新しい文字が色々増えてますし、式も2つになってますね..。』</p>
 <p>「まず文字について順番に説明するね。<inlineequation><Image href="file://images/_review_math/_gen_f3f3804480e8551ac91a68ccc198310e514ec1424346595aca42a3a558ddee0a.pdf" type="inline"/></inlineequation>と<inlineequation><Image href="file://images/_review_math/_gen_67610b0632683369b69db194167ac4c38ed7c7cfab252970ced9e152b9b45554.pdf" type="inline"/></inlineequation>はそれぞれ</p>
@@ -139,7 +139,7 @@
 <p>「いま使わなかった式<span type="eq">式9.5</span>の方を確認すると、<inlineequation><Image href="file://images/_review_math/_gen_1e51df86528ccf87d71910b8f1e9ed5bee97137413edf5f351322aee84b25157.pdf" type="inline"/></inlineequation>になる。」</p>
 <p>『ロケットの居場所に合わせて原点<inlineequation><Image href="file://images/_review_math/_gen_833b1cbf30fcc656827a6c31ba269ade6a0f6b84a33ba1f4c7dab150893e0067.pdf" type="inline"/></inlineequation>をとっているので、これは当たり前ですね。』</p>
 <h2>9.3　特殊相対論の準備2: ローレンツ収縮</h2>
-<p>「プロデューサーもローレンツ変換にも慣れてきたところで、次の話題に移る、よ。このローレンツ変換からは、不思議な現象がいっぱい現れる。今日はそのひとつ、ローレンツ収縮について教える。」</p>
+<?dtp level="2" section="9.3　特殊相対論の準備2: ローレンツ収縮"?><p>「プロデューサーもローレンツ変換にも慣れてきたところで、次の話題に移る、よ。このローレンツ変換からは、不思議な現象がいっぱい現れる。今日はそのひとつ、ローレンツ収縮について教える。」</p>
 <p>『ローレンツ収縮？』</p>
 <p>「ざっくり言えば、“動いているものは短く見える”。例えば、飛んでいるロケットを地球から観察すると、打ち上げ前よりも短く見える。」</p>
 <p>『確かに不思議ですね……。これがローレンツ変換から分かるんですか？』</p>
@@ -155,12 +155,12 @@
 <p>「意味を理解する前に、まず軸の式を求める。求めるだけなら、ただの数学的な式変形。」</p>
 <p>『分かりました。それで、どうやって求めるんですか？』</p>
 <p>「まず<inlineequation><Image href="file://images/_review_math/_gen_e81b61047eca0739f7270bda88a4eef57926f6e5c6611cce36b88354ff495c6d.pdf" type="inline"/></inlineequation>軸から考える。<inlineequation><Image href="file://images/_review_math/_gen_e81b61047eca0739f7270bda88a4eef57926f6e5c6611cce36b88354ff495c6d.pdf" type="inline"/></inlineequation>軸っていうのは、言い換えると直線<inlineequation><Image href="file://images/_review_math/_gen_e6a070844d87e1e4c3cf1c6dad557f172c0b03d418aea833c81bb675949581a5.pdf" type="inline"/></inlineequation>のこと。ピンとこなければ、<inlineequation><Image href="file://images/_review_math/_gen_769a4e6d0003189c7e96c5d9b7e810a0d11c3a12832527ec94b0f86d277f51ca.pdf" type="inline"/></inlineequation>平面の<inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation>軸が<inlineequation><Image href="file://images/_review_math/_gen_c49641d768f5b8cbcc21a5240d08377e53cb8f8901b935eb2f91cd7ac670a0f7.pdf" type="inline"/></inlineequation>って表せたことを思い出して。式<span type="eq">式9.4</span>に<inlineequation><Image href="file://images/_review_math/_gen_e6a070844d87e1e4c3cf1c6dad557f172c0b03d418aea833c81bb675949581a5.pdf" type="inline"/></inlineequation>を代入すると、</p>
-式9.10　<displayequation><Image href="file://images/_review_math/_gen_49ee884da81575953fa3059de88f30c9094d2a0554b70659ab1641b289215981.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_49ee884da81575953fa3059de88f30c9094d2a0554b70659ab1641b289215981.pdf"/></displayequation>
 <p>ここで出てきた式<span type="eq">式9.10</span>が直線<inlineequation><Image href="file://images/_review_math/_gen_e6a070844d87e1e4c3cf1c6dad557f172c0b03d418aea833c81bb675949581a5.pdf" type="inline"/></inlineequation>、つまり<inlineequation><Image href="file://images/_review_math/_gen_e81b61047eca0739f7270bda88a4eef57926f6e5c6611cce36b88354ff495c6d.pdf" type="inline"/></inlineequation>軸。」</p>
 <p>『なるほど、やり方は分かりました。』</p>
 <p>「じゃあプロデューサー、<inlineequation><Image href="file://images/_review_math/_gen_e63e1f2806229a3d4c7d4ccb42a25a2362e0be93c34226474bfd756fc6fc7ae6.pdf" type="inline"/></inlineequation>軸を求めてみて。」</p>
 <p>『はい。ええと、さっきとは逆に<inlineequation><Image href="file://images/_review_math/_gen_f9f60c56edef03f913c11cf5b69597a0e29fb494ddeb18f6103c35905489a7ec.pdf" type="inline"/></inlineequation>の直線を求めればいいから、式<span type="eq">式9.5</span>に<inlineequation><Image href="file://images/_review_math/_gen_f9f60c56edef03f913c11cf5b69597a0e29fb494ddeb18f6103c35905489a7ec.pdf" type="inline"/></inlineequation>を代入して、</p>
-式9.11　<displayequation><Image href="file://images/_review_math/_gen_72220c5148166675ec85ee89f5068de35a3431ea6236128e47e545452bb87c0c.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_72220c5148166675ec85ee89f5068de35a3431ea6236128e47e545452bb87c0c.pdf"/></displayequation>
 <p>これが<inlineequation><Image href="file://images/_review_math/_gen_e63e1f2806229a3d4c7d4ccb42a25a2362e0be93c34226474bfd756fc6fc7ae6.pdf" type="inline"/></inlineequation>軸の式ですね。』</p>
 <p>「そのとおり。これから、いま求めた軸の意味を考える、よ。式<span type="eq">式9.10</span>, <span type="eq">式9.11</span>をダイアグラムに図示すると、こうなる(<span type="image">図9.9</span>)。」</p>
 <Image href="file://images/metallica_elemag/fig4.pdf"/>
@@ -195,7 +195,7 @@
 <p>『ロケットの先端は<inlineequation><Image href="file://images/_review_math/_gen_e81b61047eca0739f7270bda88a4eef57926f6e5c6611cce36b88354ff495c6d.pdf" type="inline"/></inlineequation>座標が常に<inlineequation><Image href="file://images/_review_math/_gen_72dfcfb0c470ac255cde83fb8fe38de8a128188e03ea5ba5b2a93adbea1062fa.pdf" type="inline"/></inlineequation>なので、その軌跡は<inlineequation><Image href="file://images/_review_math/_gen_2c0395f07c89e46aba596b17c6d8c7c4df93787fa5819cf9830e3342ab08e5d7.pdf" type="inline"/></inlineequation>という式で表せますね。』</p>
 <p>「うん。じゃあそれを、<inlineequation><Image href="file://images/_review_math/_gen_3475c6ce4e2df29a44267d0ead02fadae84f96ea06a18af76eae265360063389.pdf" type="inline"/></inlineequation>を使った式で表すとどうなる？<inlineequation><Image href="file://images/_review_math/_gen_e63e1f2806229a3d4c7d4ccb42a25a2362e0be93c34226474bfd756fc6fc7ae6.pdf" type="inline"/></inlineequation>軸を求めたやり方を思い出して、ね。」</p>
 <p>『ええと、先ほどと同じようにやると、式<span type="eq">式9.5</span>に<inlineequation><Image href="file://images/_review_math/_gen_2c0395f07c89e46aba596b17c6d8c7c4df93787fa5819cf9830e3342ab08e5d7.pdf" type="inline"/></inlineequation>を代入して、</p>
-式9.12　<displayequation><Image href="file://images/_review_math/_gen_7fb26f1f9f38348da24fed5d0a3d5c04359951e9510462543aeeabbde02db167.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_7fb26f1f9f38348da24fed5d0a3d5c04359951e9510462543aeeabbde02db167.pdf"/></displayequation>
 <p>が目当ての式でしょうか？』</p>
 <p>「正解。続けて、<inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation>切片はどうなる？」</p>
 <p>『式<span type="eq">式9.12</span>に<inlineequation><Image href="file://images/_review_math/_gen_4bd632cc469ebbf3a1775137682b446806854720cf13262325104817327f0a1f.pdf" type="inline"/></inlineequation>を代入すれば良いので、</p>
@@ -209,7 +209,7 @@
 <p>『ここまで来たら、もちろん最後までやりきりますよ。』</p>
 <p>「さすが、私のプロデューサー。」</p>
 <h2>9.4　ローレンツ収縮を使って電磁場を考える</h2>
-<p>「こんなふうに、一直線の導線に電流が流れていて、電流と同じ向きに電荷<inlineequation><Image href="file://images/_review_math/_gen_c5278a9201f71b1ae0917c0cf5f488d2e5353373fc5b52388499fc26713ce399.pdf" type="inline"/></inlineequation>を飛ばす思考実験をする、よ(<span type="image">図9.14</span>)。さて、電荷はどんな運動をすると思う？」</p>
+<?dtp level="2" section="9.4　ローレンツ収縮を使って電磁場を考える"?><p>「こんなふうに、一直線の導線に電流が流れていて、電流と同じ向きに電荷<inlineequation><Image href="file://images/_review_math/_gen_c5278a9201f71b1ae0917c0cf5f488d2e5353373fc5b52388499fc26713ce399.pdf" type="inline"/></inlineequation>を飛ばす思考実験をする、よ(<span type="image">図9.14</span>)。さて、電荷はどんな運動をすると思う？」</p>
 <Image href="file://images/metallica_elemag/IMG_5231.JPG"/>
 <p>『電流の周りには磁場が生じる、と授業で習いました。ですから、電荷はその磁場からローレンツ力を受けて、曲がる？』</p>
 <p>「正解。次は、電荷の目線に立って考える。さっきと違って、電荷から見れば自分自身の速度はゼロ。つまり、自分は動いていないように見える。」</p>
@@ -247,15 +247,15 @@
 <p>「電場と磁場は区別できない。だから、電場による起電力と磁場による起電力が同じ法則で表せたって、おかしくない。」</p>
 <p>『なるほど、これでスッキリしました。』</p>
 <h2>9.5　(発展) 電磁場テンソル</h2>
-<p>「最後におまけとして、電磁場テンソルの紹介をする。難しい内容だから、流し聞きでもいい、よ。」</p>
+<?dtp level="2" section="9.5　(発展) 電磁場テンソル"?><p>「最後におまけとして、電磁場テンソルの紹介をする。難しい内容だから、流し聞きでもいい、よ。」</p>
 <p>『何やら難しそうですが……、ついていけるところまでついていきます。』</p>
 <p>「じゃあ、始める、よ。ニュートン力学の枠組みでは、電場・磁場<footnote>ここでは磁束密度のことを指して「磁場」と呼ぶ、よ。</footnote>はこんなベクトルで表せる。</p>
-式9.14　<displayequation><Image href="file://images/_review_math/_gen_10216b78093c86df4a2b1bf6ccb87feefc6f7eccc2eacf0b00cb39b7f058b86b.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_10216b78093c86df4a2b1bf6ccb87feefc6f7eccc2eacf0b00cb39b7f058b86b.pdf"/></displayequation>
 <p>だけど、ローレンツ変換を考える上で、電場・磁場をベクトル<footnote>4元ベクトルのこと。</footnote>として扱うことはできない。なぜなら、ローレンツ変換における“ベクトル”は、空間座標のローレンツ変換と同じ変換、または逆の変換を受けると定義される、から。空間座標<inlineequation><Image href="file://images/_review_math/_gen_51f6e58e30daad9ac009be771d188f1acac63a493510e536db3c7bef69b22223.pdf" type="inline"/></inlineequation>のローレンツ変換については、式<span type="eq">式9.3</span>を思い出して、ね。例えば、<inlineequation><Image href="file://images/_review_math/_gen_86be9a55762d316a3026c2836d044f5fc76e34da10e1b45feee5f18be7edb177.pdf" type="inline"/></inlineequation>系から、<inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation>方向に相対速度<inlineequation><Image href="file://images/_review_math/_gen_0bfe935e70c321c7ca3afc75ce0d0ca2f98b5422e008bb31c00c6d7f1f1c0ad6.pdf" type="inline"/></inlineequation>を持つ<inlineequation><Image href="file://images/_review_math/_gen_fb9dab57470045611754ea57105f2fe2607dcb22e0ca4923331496190d5e980d.pdf" type="inline"/></inlineequation>系への変換なら、</p>
-式9.15　<displayequation><Image href="file://images/_review_math/_gen_fd40e2f612b8f7abdefac9ac1691ac48f2ca605662c4b8eed1708d3d14f9c09f.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_fd40e2f612b8f7abdefac9ac1691ac48f2ca605662c4b8eed1708d3d14f9c09f.pdf"/></displayequation>
 <p>と表せた。式<span type="eq">式9.3</span>に<inlineequation><Image href="file://images/_review_math/_gen_95fcb5d4d9c155a470ef4418dcc31d62e92271a9a1c7b1b25e1c6c59425c2bd1.pdf" type="inline"/></inlineequation>座標が加わっているけど、結局のところ<inlineequation><Image href="file://images/_review_math/_gen_559766242eb172592e855c4886884d19808f226545bc4986ba95490e60d39bc1.pdf" type="inline"/></inlineequation>だからあまり気にしなくておーけー。</p>
 <p>仮に、電場や磁場が“ベクトル”なら、電場ベクトル・磁場ベクトルは式<span type="eq">式9.15</span>と同じ、または逆の変換を受けなきゃいけない。例えば、式<span type="eq">式9.15</span>と同じ変換を受けるとしたら、式<span type="eq">式9.14</span>のベクトルに“時間成分”を適切に加えて、</p>
-式9.16　<displayequation><Image href="file://images/_review_math/_gen_9a7d77f86ca282172cf04924e3df1125a2749d15dfaf02841bcf51fc81ca3e59.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_9a7d77f86ca282172cf04924e3df1125a2749d15dfaf02841bcf51fc81ca3e59.pdf"/></displayequation>
 <p>が成り立たなきゃいけない。<inlineequation><Image href="file://images/_review_math/_gen_c4b68ae79eb2fc29fe9f02e3407cfb156deab374a35b7b76a40a19ee0d629e07.pdf" type="inline"/></inlineequation>はローレンツ変換前、つまり、止まってるひと目線の電場・磁場で、<inlineequation><Image href="file://images/_review_math/_gen_026dfdec8b16f4ed424c5fcd2ee08101918563a4672bc828f58a12d7e77341a2.pdf" type="inline"/></inlineequation>は変換後、つまり、<inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation>軸方向に相対速度<inlineequation><Image href="file://images/_review_math/_gen_0bfe935e70c321c7ca3afc75ce0d0ca2f98b5422e008bb31c00c6d7f1f1c0ad6.pdf" type="inline"/></inlineequation>で動いてるひと目線の電場・磁場。ここで式<span type="eq">式9.16</span>を見ると、変換前の電場が<inlineequation><Image href="file://images/_review_math/_gen_96caf0e077c896bdaebb7d54ab51aba4b656d556478f9ed50dbd02510da99025.pdf" type="inline"/></inlineequation>なら変換後も<inlineequation><Image href="file://images/_review_math/_gen_96caf0e077c896bdaebb7d54ab51aba4b656d556478f9ed50dbd02510da99025.pdf" type="inline"/></inlineequation>のままになっちゃう。これは、さっき考えた電流と電荷の思考実験と合わない、ね。磁場をローレンツ変換したら、もともと存在しなかった電場が現れるはず。</p>
 <p>式<span type="eq">式9.15</span>とは逆の変換を考えても、結論は同じ。やっぱり矛盾が生じる。」</p>
 <p>『ローレンツ変換を考える上では、電場と磁場をそれぞれ電場ベクトル・磁場ベクトルと見なすことはできないんですね。』</p>
@@ -264,14 +264,14 @@
 <p>「うーん、とりあえず行列のようなものだと思ってくれればいい、よ。いまは、ね<footnote>テンソルは行列とは違って、2次元よりももっと多次元の配列も含む概念。あと、これもローレンツ変換に対して適切な変換則を満たす必要がある、よ。</footnote>。ローレンツ変換における正しい電磁場の姿は、こんなテンソル。導出は難しいから、結果だけ見せる<footnote>流儀によっては符号が入れ替わることもある。</footnote>。</p>
 <displayequation><Image href="file://images/_review_math/_gen_317dbbdd38c25a60cad27e0d61bb2762ce16a4da6637d924237c0bbe7b0fb5a4.pdf"/></displayequation>
 <p>これのローレンツ変換は、さっきの思考実験と整合することを確かめる、よ。<inlineequation><Image href="file://images/_review_math/_gen_0c2fd6f0177daf89deddf32ce9f1ebe079132c27db7944093aa41d91ebf21da6.pdf" type="inline"/></inlineequation>を<inlineequation><Image href="file://images/_review_math/_gen_86be9a55762d316a3026c2836d044f5fc76e34da10e1b45feee5f18be7edb177.pdf" type="inline"/></inlineequation>系から<inlineequation><Image href="file://images/_review_math/_gen_fb9dab57470045611754ea57105f2fe2607dcb22e0ca4923331496190d5e980d.pdf" type="inline"/></inlineequation>系へローレンツ変換して、<inlineequation><Image href="file://images/_review_math/_gen_fb9dab57470045611754ea57105f2fe2607dcb22e0ca4923331496190d5e980d.pdf" type="inline"/></inlineequation>系における電磁場テンソル<inlineequation><Image href="file://images/_review_math/_gen_88ae84937bc4b28a18477d738db3507a58707e5eb52320ed026773800fa85c15.pdf" type="inline"/></inlineequation>を求めると、こうなる。これも、結果だけ見せる、ね。</p>
-式9.19　<displayequation><Image href="file://images/_review_math/_gen_f6286976c638f2a24b53f4f84ea65bb9a33da83214d37f656a55095326abda56.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_f6286976c638f2a24b53f4f84ea65bb9a33da83214d37f656a55095326abda56.pdf"/></displayequation>
 <p>式<span type="eq">式9.19</span>から、ローレンツ変換後の電場・磁場は</p>
-式9.20　<displayequation><Image href="file://images/_review_math/_gen_97e26daf0d9b57b5c4f59efecbfabaf58b06880513b6425eaa1779247425c652.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_97e26daf0d9b57b5c4f59efecbfabaf58b06880513b6425eaa1779247425c652.pdf"/></displayequation>
 <p>みたいになる。<inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation>軸に沿って速度<inlineequation><Image href="file://images/_review_math/_gen_0bfe935e70c321c7ca3afc75ce0d0ca2f98b5422e008bb31c00c6d7f1f1c0ad6.pdf" type="inline"/></inlineequation>で動いてるひとから見ると、電場と磁場はこんなふうに感じられる、よ。」</p>
 <p>『例えば式<span type="eq">式9.20</span>を見ると、もとの電場が<inlineequation><Image href="file://images/_review_math/_gen_96caf0e077c896bdaebb7d54ab51aba4b656d556478f9ed50dbd02510da99025.pdf" type="inline"/></inlineequation>だったとしても、<inlineequation><Image href="file://images/_review_math/_gen_ac2890b828913c6a898a2b9b2dd0095e1e429895b185245087574f6c1dc1f090.pdf" type="inline"/></inlineequation>なら<inlineequation><Image href="file://images/_review_math/_gen_55bf851ebf0c6735852e2e93c3cd69216e1f82a9cae291a353c9707628bd86c3.pdf" type="inline"/></inlineequation>になるので、ローレンツ変換によって電場が現れていると言えますね。』</p>
 <p>「うん。こんなふうに、電場と磁場は見る立場によって互いに姿を変えて、混ざり合う。」</p>
 <h2>9.6　エピローグ</h2>
-<p>「プロデューサー、今日の話は面白かった？」</p>
+<?dtp level="2" section="9.6　エピローグ"?><p>「プロデューサー、今日の話は面白かった？」</p>
 <p>『はい、とても。』</p>
 <p>「ふふ。それはよかった。」</p>
 <p>『相対論というと“時間の遅れ”みたいな話が有名ですが、電磁気学を考える上でもこんなに役立つんですね。』</p>
@@ -281,4 +281,4 @@
 <p>『かの偉人も、ずいぶん厄介な言葉を残したものですね。』</p>
 <p>　～おわり～</p>
 <h2>参考文献</h2>
-[1] 駒宮幸男．入門 現代の電磁気学 特殊相対論を原点として．講談社，2023．[2] 小宮山進，竹川敦．マクスウェル方程式から始める電磁気学．裳華房，2022．[3] 砂川重信．電磁気学(物理学テキストシリーズ4)．岩波書店，2002．[4] 広江克彦．“相対論はなぜ生まれたか？”．EMANの物理学．閲覧日2025/9/30．https://eman-physics.net/relativity/birth.html．</aid:doc>
+<?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-">駒宮幸男．入門 現代の電磁気学 特殊相対論を原点として．講談社，2023．</bibitem><span type="bibno">[2] </span><bibitem id="bib-">小宮山進，竹川敦．マクスウェル方程式から始める電磁気学．裳華房，2022．</bibitem><span type="bibno">[3] </span><bibitem id="bib-">砂川重信．電磁気学(物理学テキストシリーズ4)．岩波書店，2002．</bibitem><span type="bibno">[4] </span><bibitem id="bib-">広江克彦．“相対論はなぜ生まれたか？”．EMANの物理学．閲覧日2025/9/30．<a linkurl="https://eman-physics.net/relativity/birth.html">https://eman-physics.net/relativity/birth.html</a>．</bibitem></aid:doc>

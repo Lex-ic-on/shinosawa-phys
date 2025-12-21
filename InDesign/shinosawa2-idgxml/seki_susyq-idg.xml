@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第17章　篠澤広は超対称性量子力学でパートナーを見つけたい</h1>
-<p>「プロデューサー，何読んでるの？」</p>
+<?dtp level="1" section="第17章　篠澤広は超対称性量子力学でパートナーを見つけたい"?><p>「プロデューサー，何読んでるの？」</p>
 <p>と，篠澤広が顔を覗き込んできて尋ねた．</p>
 <p>「今は……，そうですね，結婚情報誌を読んでいたところです」</p>
 <p>「やっと結婚してくれる気になったんだ，ね」</p>
@@ -9,19 +9,19 @@
 <p>「でもプロデューサー，パートナーに関してならわたし，詳しい．せっかくだから教えてあげるね」</p>
 <p>そうして，彼女は唐突にホワイトボードを引っぱり出してきた．</p>
 <h2>17.1　調和振動子</h2>
-<p>「プロデューサーは，量子力学のことはどれくらい知ってる？」</p>
+<?dtp level="2" section="17.1　調和振動子"?><p>「プロデューサーは，量子力学のことはどれくらい知ってる？」</p>
 <p>「……量子力学，ですか？」</p>
 <p>結婚の話題から量子力学の話題に切り替わったことに，少し戸惑うものの，いつものように，彼女の話に付き合うことにした．</p>
 <p>「篠澤さんには何度か量子力学の話をされましたから，ある程度なら」</p>
 <p>「それなら，大丈夫そう．じゃあ調和振動子の復習をしておこうか．時間に依存しないシュレディンガー方程式は，ハミルトニアン<inlineequation><Image href="file://images/_review_math/_gen_9160b290428ee1330e5cd5c1b1240cd524ff4e6dc9d3cde72907c2968266983d.pdf" type="inline"/></inlineequation>，固有値<inlineequation><Image href="file://images/_review_math/_gen_a9f51566bd6705f7ea6ad54bb9deb449f795582d6529a0e22207b8981233ec58.pdf" type="inline"/></inlineequation>，固有状態<inlineequation><Image href="file://images/_review_math/_gen_8aeed55dbaa2f317afa5d37035848332b038b5c456ba2e1a53a6c38e9af4bf56.pdf" type="inline"/></inlineequation>を用いて次のように表される」</p>
-式17.1　<displayequation><Image href="file://images/_review_math/_gen_dda0f1519dbfaa51c5c8e88c69537f9940f1b3d9c0e8d9fe14feec1ab4d4da42.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_dda0f1519dbfaa51c5c8e88c69537f9940f1b3d9c0e8d9fe14feec1ab4d4da42.pdf"/></displayequation>
 <p>「特に，ハミルトニアンとして以下のものを考える．これはポテンシャルの形が調和振動子のものだね」</p>
 <displayequation><Image href="file://images/_review_math/_gen_987a885278eb612c87fdb223ec15e342a24e689765be3addd95563be7f308048.pdf"/></displayequation>
 <p>「ここで，<inlineequation><Image href="file://images/_review_math/_gen_62c66a7a5dd70c3146618063c344e531e6d4b59e379808443ce962b3abd63c5a.pdf" type="inline"/></inlineequation>は粒子の質量，<inlineequation><Image href="file://images/_review_math/_gen_11baa595827a4e0fd17af205816653eb40ea4c8410ba94a26118d3e60292d4e4.pdf" type="inline"/></inlineequation>は角振動数．このまま解くのは大変だから，<b>生成演算子</b><inlineequation><Image href="file://images/_review_math/_gen_9afdbde8390b2e7ecd350765782c3cf449fd6b458e41f9565b10a0af58896453.pdf" type="inline"/></inlineequation>と<b>消滅演算子</b><inlineequation><Image href="file://images/_review_math/_gen_b51ba6535c7edd76afbc744f4fd0fbc8e1fbb5016e6ea278fe53d8c39fefe160.pdf" type="inline"/></inlineequation>を以下のように導入する．役割としては，状態のエネルギーを上げたり，下げたりする演算子だよ」</p>
 <displayequation><Image href="file://images/_review_math/_gen_f5803d8ed1ed05aa6b83bfc4ce663d15d8b3e3a15323587f4aae943274974851.pdf"/></displayequation>
 <p>「そうすると，ハミルトニアンはどう書き換えられる？プロデューサー」</p>
 <p>「ええと……．<inlineequation><Image href="file://images/_review_math/_gen_5e314a2e42c9e5b398c370b342707f2a3161c2fc20b7ab30705fbd6c40166bed.pdf" type="inline"/></inlineequation>であることに注意すると，以下のように書き換えられますね」</p>
-式17.5　<displayequation><Image href="file://images/_review_math/_gen_b6dcb026f958dd8482c2289b13038349e98b39342cc5bba5bd3abbcf05769468.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_b6dcb026f958dd8482c2289b13038349e98b39342cc5bba5bd3abbcf05769468.pdf"/></displayequation>
 <p>「そのとおり．さすが私のプロデューサー．演算子は一般には交換律が成り立つとは限らないんだった．シュレディンガー方程式を解くには固有状態が必要．今回は天下り的だけど，以下の状態を考えて，固有値方程式を満たすことを確認する」</p>
 <displayequation><Image href="file://images/_review_math/_gen_8c1eea3275aabe320db51128d95e93fb67e0a12079827ceaa884dfc860c0df6f.pdf"/></displayequation>
 <p>「ここで，<inlineequation><Image href="file://images/_review_math/_gen_1b16b1df538ba12dc3f97edbb85caa7050d46c148134290feba80f8236c83db9.pdf" type="inline"/></inlineequation>は正の整数．<inlineequation><Image href="file://images/_review_math/_gen_f890e7813aeff442ffdb575835ea382c00b32181f116d1d4da62cef544a3a6d0.pdf" type="inline"/></inlineequation>はこれ以上消滅演算子でエネルギーを下げられない状態で，基底状態という．定義はこう」</p>
@@ -36,7 +36,7 @@
 <p>「はい．今のところは大丈夫です」</p>
 <p>「それならよかった．じゃあ，次の話題に進む，よ」</p>
 <h2>17.2　超対称量子力学の導入</h2>
-<p>「じゃあ，本題．超対称量子力学の話をする．物理学においては，対称性というのがとても大切」</p>
+<?dtp level="2" section="17.2　超対称量子力学の導入"?><p>「じゃあ，本題．超対称量子力学の話をする．物理学においては，対称性というのがとても大切」</p>
 <p>「超対称量子力学……?はじめて聞きました．どのようなものなのですか？」</p>
 <p>「……ふふ」</p>
 <p>「プロデューサー，いつにもなく積極的」</p>
@@ -53,7 +53,7 @@
 <p>「超対称性はボース粒子とフェルミ粒子の入れ替えに対する対称性だった．超対称性は，粒子の入れ替えを通じて粒子の役割，さっき言ったものだと物質と力という異なる概念に接点を与えることができる」</p>
 <p>「超対称性理論は色々な研究が進んでいるけれど，今回は量子力学に超対称性という対称性を考えることで得られる内容について説明する」</p>
 <p>「それじゃあ，具体的な話に戻る．式<span type="eq">式17.5</span>は，生成・消滅演算子の定義と<inlineequation><Image href="file://images/_review_math/_gen_46c6ba298c84f1192da2f67a4bb97f2da1322e3af48aefb8e2f04c80593823b0.pdf" type="inline"/></inlineequation>から得られる式，<inlineequation><Image href="file://images/_review_math/_gen_841d9d2ac80aa7a9ebca290f725c58adfa2842b3ff5e22ec015353daade6165e.pdf" type="inline"/></inlineequation>を用いて変形すると，次のようになる」</p>
-式17.10　<displayequation><Image href="file://images/_review_math/_gen_7928ccfff916448778ac1e9dda87d1abfde936a1c5d51b8693fdb39120c16025.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_7928ccfff916448778ac1e9dda87d1abfde936a1c5d51b8693fdb39120c16025.pdf"/></displayequation>
 <p>「ここで，反交換関係<inlineequation><Image href="file://images/_review_math/_gen_f8079c7893c3105127ec6d8739f8b43027838cb1365090c16ae714899888e3fd.pdf" type="inline"/></inlineequation>を用いた，よ」</p>
 <p>「実は，超対称量子力学はハミルトニアンが次のように書かれるものを扱う」</p>
 <displayequation><Image href="file://images/_review_math/_gen_a4c894ddbf07115b2bfb4862d46a8d1e6e9ad8dfb2ca4f029fde0a65b859df7b.pdf"/></displayequation>
@@ -64,7 +64,7 @@
 <p>「なるほど．確かに違っていますね．ではなぜこのようなハミルトニアンを考える必要があるのでしょうか」</p>
 <p>「いい質問．実は，このように書くことができるハミルトニアンは多くの特別な性質を持つ．少し休憩してからその特徴について説明する，ね」</p>
 <h2>17.3　超対称量子力学の特徴</h2>
-<p>「それじゃあプロデューサー，準備はいい？」</p>
+<?dtp level="2" section="17.3　超対称量子力学の特徴"?><p>「それじゃあプロデューサー，準備はいい？」</p>
 <p>「私も暇なわけではないのですが……．まあ，いいでしょう．それで，どのような特徴があるのですか？」</p>
 <p>「まず，超対称量子力学ではいかなる状態のエネルギーも負の値を取らない」</p>
 <p>「これを確かめるために<inlineequation><Image href="file://images/_review_math/_gen_622acd3af75b54581ee05aab7ad099310f75448fcb7390acae1989950d6bcf94.pdf" type="inline"/></inlineequation>を満たす状態<inlineequation><Image href="file://images/_review_math/_gen_8aeed55dbaa2f317afa5d37035848332b038b5c456ba2e1a53a6c38e9af4bf56.pdf" type="inline"/></inlineequation>におけるハミルトニアンの期待値を考える．すると」</p>
@@ -98,7 +98,7 @@
 <displayequation><Image href="file://images/_review_math/_gen_d80a821cb7e3f95f7c402a3d06b8a727175d0db9c9d0d4dd38b08328b1703dc3.pdf"/></displayequation>
 <p>「見てきたように，エネルギーが0か，そうじゃないかで様子が変わってくるのが面白い．本当は基底状態の存在の有無が超対称性が自発的に破れるかどうかに関わってきたり，色々面白い話が続くけど，ここでは割愛．その代わりに具体的な計算をしてみる」</p>
 <h2>17.4　超対称パートナーポテンシャル</h2>
-<p>「ところで，初めはパートナーの話について詳しいということでしたが，その話はどこに行ってしまったのですか？」</p>
+<?dtp level="2" section="17.4　超対称パートナーポテンシャル"?><p>「ところで，初めはパートナーの話について詳しいということでしたが，その話はどこに行ってしまったのですか？」</p>
 <p>「その話もそろそろ出てくる．超対称量子力学は，パートナーを見つけるための学問と言っても過言ではない」</p>
 <p>「そんな俗っぽい学問が存在するはずないでしょう」</p>
 <p>「詳しく知りたくて仕方ないと思う．首を長くして待ってて」</p>
@@ -123,7 +123,7 @@
 <p>「このことを言うためにわざわざ講義を開いたのですか？」</p>
 <p>「もちろん．わたしたちの将来の話はとても，大事」</p>
 <h2>17.5　具体例</h2>
-<p>「ここまできたら具体例を確認できる．超対称パートナーポテンシャルが具体的にどのような関係があるかもここで見ていく，よ」</p>
+<?dtp level="2" section="17.5　具体例"?><p>「ここまできたら具体例を確認できる．超対称パートナーポテンシャルが具体的にどのような関係があるかもここで見ていく，よ」</p>
 <p>「ここでは，<inlineequation><Image href="file://images/_review_math/_gen_a86ef458cc61e377412bd6c855ad591d857e0a4f1385f43b15fd1a6a33212a0d.pdf" type="inline"/></inlineequation>と<inlineequation><Image href="file://images/_review_math/_gen_62c66a7a5dd70c3146618063c344e531e6d4b59e379808443ce962b3abd63c5a.pdf" type="inline"/></inlineequation>を復活させてみる」</p>
 <displayequation><Image href="file://images/_review_math/_gen_62b1720b84437654a6260ca92056c450b507b9ed5d74c8ca471f57ccd95df94d.pdf"/></displayequation>
 <p>「例えば，<inlineequation><Image href="file://images/_review_math/_gen_3b5b4ec4407e0ddccf9388cc4ac88db6a606cd58ff83c5c03d731ff752844dec.pdf" type="inline"/></inlineequation>とする．このとき，」</p>
@@ -147,11 +147,11 @@
 <p>「ですが，何と言うべきか，今回は同じ調和振動子のハミルトニアンの値に定数項がついていただけですから，同じような形をしているのは当たり前といえば当たり前にも感じてしまいます」</p>
 <p>「ふふ．そう思う？プロデューサー．じゃあ，最後に面白い例を見てみる，ね」</p>
 <p>「相変わらず唐突だけど，次のような形の<inlineequation><Image href="file://images/_review_math/_gen_14966ef85d32c87bbc958b7bb183a6609f591ed79e424868087d61742e0de435.pdf" type="inline"/></inlineequation>を考える」</p>
-式17.53　<displayequation><Image href="file://images/_review_math/_gen_44a287327598b121306289b2fd1118c8c90c5ff0042375d742306eeb87e7e4a9.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_44a287327598b121306289b2fd1118c8c90c5ff0042375d742306eeb87e7e4a9.pdf"/></displayequation>
 <p>「<inlineequation><Image href="file://images/_review_math/_gen_2ed52d51edc5e0ab981a2f9b1ca599179915d3656714b63bb4b8656ed8d720e3.pdf" type="inline"/></inlineequation>そのものじゃなくて，その一階微分を考えていることに，注意．すると」</p>
 <displayequation><Image href="file://images/_review_math/_gen_e9cc53959f6fbce8987a6475d96d753fb50a0522189acba9bb78750109aa952a.pdf"/></displayequation>
 <p>「だから，超対称パートナーポテンシャルは次のようになる」</p>
-式17.55　<displayequation><Image href="file://images/_review_math/_gen_76c52332c754cc1320bd683dc339e1c105aad5d2561581abb0ab45ebfbbcf137.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_76c52332c754cc1320bd683dc339e1c105aad5d2561581abb0ab45ebfbbcf137.pdf"/></displayequation>
 <p>「ええと，少しわかりにくいから，各々のハミルトニアンのポテンシャルを<span type="image">図17.3</span>と<span type="image">図17.4</span>に描いたよ」</p>
 <Image href="file://images/seki_susyq/fig3.pdf"/>
 <img-caption>図17.3　<inlineequation><Image href="file://images/_review_math/_gen_1e08a9bdc94bcbbbdb93cdb293cce7a0cde6cc862781b50ccb9c00f4830be2a5.pdf" type="inline"/></inlineequation>のポテンシャル<inlineequation><Image href="file://images/_review_math/_gen_7c50eab0d79abb879f13d7b2c5f3ccbe289af4b5f5416773fa45544781fb4769.pdf" type="inline"/></inlineequation></img-caption>
@@ -171,11 +171,11 @@
 <p>「なるほど．確かに，超対称パートナーポテンシャルであることを知らなければ，無限に深い井戸型ポテンシャルとPöschl-Tellerポテンシャルの関係を見つけるのは難しそうですし，Pöschl-Tellerポテンシャルのエネルギー固有値を計算するのは難しそうです」</p>
 <p>「そう．だから，超対称量子力学はパートナーを見つけるための学問」</p>
 <h2>17.6　終幕</h2>
-<p>「今日はここまで．パートナーのことについては詳しくなった？」</p>
+<?dtp level="2" section="17.6　終幕"?><p>「今日はここまで．パートナーのことについては詳しくなった？」</p>
 <p>「色々な話が聞けて楽しかったです．ありがとうございました」</p>
 <p>「今回はパートナーのことについて話したけど，超対称量子力学は他にも色々面白い話があるから，いつでも教えてあげる，よ」</p>
 <p>「ええ．ありがとうございます」</p>
 <p>「ですが，そのお話が聞けるのはずいぶんと遠くなりそうですね」</p>
 <p>積み重なる書類の山を見つめながら，そう呟いた．</p>
 <h2>参考文献</h2>
-[1] 坂本眞人，量子力学から超対称性へ : 超対称性のエッセンスを捉える, サイエンス社, (2012.12)[2] David Tong, supersymmetric quantum mechanics, http://www.damtp.cam.ac.uk/user/tong/susy.html[3] 江口徹,位相的場の理論とその周辺，https://www2.yukawa.kyoto-u.ac.jp/~masashi.hamanaka/topofie.pdf(1999)</aid:doc>
+<?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-">坂本眞人，量子力学から超対称性へ : 超対称性のエッセンスを捉える, サイエンス社, (2012.12)</bibitem><span type="bibno">[2] </span><bibitem id="bib-">David Tong, <i>supersymmetric quantum mechanics</i>, <a linkurl="http://www.damtp.cam.ac.uk/user/tong/susy.html">http://www.damtp.cam.ac.uk/user/tong/susy.html</a></bibitem><span type="bibno">[3] </span><bibitem id="bib-">江口徹,位相的場の理論とその周辺，<a linkurl="https://www2.yukawa.kyoto-u.ac.jp/~masashi.hamanaka/topofie.pdf">https://www2.yukawa.kyoto-u.ac.jp/~masashi.hamanaka/topofie.pdf</a>(1999)</bibitem></aid:doc>
