@@ -22,45 +22,45 @@
 広「ある時刻において系の力学的状態が定まるためには、単に系の位置が定まっているだけじゃだめ。プロデューサー、何でか分かる？」P「それだけでは系は任意の速度を取ることができるから？」広「ふふ、またまた正解。ある時刻での系の力学的状態が定まっていれば加速度を求めることができる。そして加速度から座標並びに速度を決定する関係式のことを運動方程式という。このとき、原理的には系の時間発展を予言できる。」P「どうしてそのようなことが言えるのですか？」広「困ってる、ね。もっと悩んでいたい？」P「いえ、早くレッスンへ向かって欲しいです」広「いじわる。……ある時刻での座標と速度を定めると、加速度が定まって、運動方程式から微小時間後の座標と速度が定まるから、これを繰り返すことで原理的には予言できるよ。もっとも、多粒子系でこれをするのは全くもって現実的じゃない。復習はこれで終わり。」<h2>14.6　ラグランジュ形式</h2>
 広「ラグランジュ形式は変分原理から始まる。変分原理とは──」<p>変分原理：
 座標と速度と時間の関数であって、系の状態を特徴づけるものがあり（ラグランジアンとよばれる）</p>
-<Image href="file://images/_review_math/_gen_f9031237c645f4e1aaf1803b4d5fc0d703eee54a7c66cb6e83d23f1405098e21.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_f9031237c645f4e1aaf1803b4d5fc0d703eee54a7c66cb6e83d23f1405098e21.pdf"/></displayequation>
 <p>これについて時間積分（作用）を考えると（<inlineequation><Image href="file://images/_review_math/_gen_f73cb58cb6f4569569f0020c38998be195209be15bb39d92879bb676edc37457.pdf" type="inline"/></inlineequation>のように略記する）</p>
-<Image href="file://images/_review_math/_gen_72e575b1591c3b1eceada5ec0941db1c73e3db08530006d99a6e727dd806f1f6.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_72e575b1591c3b1eceada5ec0941db1c73e3db08530006d99a6e727dd806f1f6.pdf"/></displayequation>
 <p>これを最小にするような経路を系が取る。</p>
-P「すいません、系の状態を特徴づけるというのは？」広「系の力学的状態を指定するための情報を過不足なく持っているという風に解釈していい。」P「もう一つ質問なのですが、ラグランジアンの存在を仮定しているのには何かわけがあるのですか？」広「ラグランジアンが存在しないような系が実際あるから。ここでは、そうではない系を考える。」P「なるほど。ですが、あまり納得感はないですね。」広「それは原理だから仕方ない。でも、諸法則がこういう仮定をすることで導かれるから、正当性がある。とりあえず、変分原理から関係式を導けるか考える」P「やはり、経路が作用を最小にするというのが肝なのですか？」広「鋭いね。ただ、最小値である事実そのものは使わずに、停留点の性質から第一変分が0であることを使うよ。天の声(参考文献[1] に詳しい説明があります。)」広「系の自由度が1のとき、作用を最小にするような経路が満たす条件を求める。つまり、とおく。このとき、作用が で最小になるというのは、に取り換えたときに作用が増大するということ。はの変分といわれる微小量で時間のみの関数。」広「また、作用を最小にするような経路を考えるから、端点を固定し、とする。このとき、作用に生じる差は、」<Image href="file://images/_review_math/_gen_b6e4cec8e32973e376074e70e4b3a0cedab71f6c658a7472fcc49c5a94b4b210.pdf"/>
-広「このとき、最小値を取るような点は停留点だから、一次の変化、つまり第一変分が0で、つぎの式が成立する。」<Image href="file://images/_review_math/_gen_bdaec3b91981d3babf43f80658a085722d27092ddf4092e2d17fcfd0b237115a.pdf"/>
-広「一次の変化を計算して、」<Image href="file://images/_review_math/_gen_08cffafa462465e4847a10e7ee0299e6f64b177e4934d46db803a30ccb8d62a1.pdf"/>
-広「第2項を部分積分する。」<Image href="file://images/_review_math/_gen_8cf08c6bdf81d51a7b1a54300cb79fad77e6119c99bc6b9821baf2cbca4cc98b.pdf"/>
-広「これをもとの式に代入すると、」<Image href="file://images/_review_math/_gen_2f728f34a426668d9b6976eb9e11af1ae74de41b9ed2a505a4be8c090073fdd5.pdf"/>
-広「端点条件から第2項が0になって、」<Image href="file://images/_review_math/_gen_d99bb8c38d8969ccb69b658287de8b964ba8bd56e9f0fd97018dbdcd3c095e56.pdf"/>
-広「は独立に動かせる。つまり、この式が成立する必要十分条件は各時刻で次の関係式が成立すること。」<Image href="file://images/_review_math/_gen_1314a2da7a79d066314f8a18d54c89311f39d8e440ed454bb28f78c1a34b9cc0.pdf"/>
-広「これが自由度の系においては、」<Image href="file://images/_review_math/_gen_f7d4a782177991809c8e097338b0a85fa912671492c9ed283010da9afe136429.pdf"/>
+P「すいません、系の状態を特徴づけるというのは？」広「系の力学的状態を指定するための情報を過不足なく持っているという風に解釈していい。」P「もう一つ質問なのですが、ラグランジアンの存在を仮定しているのには何かわけがあるのですか？」広「ラグランジアンが存在しないような系が実際あるから。ここでは、そうではない系を考える。」P「なるほど。ですが、あまり納得感はないですね。」広「それは原理だから仕方ない。でも、諸法則がこういう仮定をすることで導かれるから、正当性がある。とりあえず、変分原理から関係式を導けるか考える」P「やはり、経路が作用を最小にするというのが肝なのですか？」広「鋭いね。ただ、最小値である事実そのものは使わずに、停留点の性質から第一変分が0であることを使うよ。天の声(参考文献[1] に詳しい説明があります。)」広「系の自由度が1のとき、作用を最小にするような経路が満たす条件を求める。つまり、とおく。このとき、作用が で最小になるというのは、に取り換えたときに作用が増大するということ。はの変分といわれる微小量で時間のみの関数。」広「また、作用を最小にするような経路を考えるから、端点を固定し、とする。このとき、作用に生じる差は、」<displayequation><Image href="file://images/_review_math/_gen_b6e4cec8e32973e376074e70e4b3a0cedab71f6c658a7472fcc49c5a94b4b210.pdf"/></displayequation>
+広「このとき、最小値を取るような点は停留点だから、一次の変化、つまり第一変分が0で、つぎの式が成立する。」<displayequation><Image href="file://images/_review_math/_gen_bdaec3b91981d3babf43f80658a085722d27092ddf4092e2d17fcfd0b237115a.pdf"/></displayequation>
+広「一次の変化を計算して、」<displayequation><Image href="file://images/_review_math/_gen_08cffafa462465e4847a10e7ee0299e6f64b177e4934d46db803a30ccb8d62a1.pdf"/></displayequation>
+広「第2項を部分積分する。」<displayequation><Image href="file://images/_review_math/_gen_8cf08c6bdf81d51a7b1a54300cb79fad77e6119c99bc6b9821baf2cbca4cc98b.pdf"/></displayequation>
+広「これをもとの式に代入すると、」<displayequation><Image href="file://images/_review_math/_gen_2f728f34a426668d9b6976eb9e11af1ae74de41b9ed2a505a4be8c090073fdd5.pdf"/></displayequation>
+広「端点条件から第2項が0になって、」<displayequation><Image href="file://images/_review_math/_gen_d99bb8c38d8969ccb69b658287de8b964ba8bd56e9f0fd97018dbdcd3c095e56.pdf"/></displayequation>
+広「は独立に動かせる。つまり、この式が成立する必要十分条件は各時刻で次の関係式が成立すること。」<displayequation><Image href="file://images/_review_math/_gen_1314a2da7a79d066314f8a18d54c89311f39d8e440ed454bb28f78c1a34b9cc0.pdf"/></displayequation>
+広「これが自由度の系においては、」<displayequation><Image href="file://images/_review_math/_gen_f7d4a782177991809c8e097338b0a85fa912671492c9ed283010da9afe136429.pdf"/></displayequation>
 広「になる。これがオイラーラグランジュ方程式。」<p>(キーンコーンカーンコーン)</p>
 広「気づけば昼時だね。今日はここまで。」広「……どう？役に立てた？」P「大変助かりました。」広「それはよかった。それじゃあ一緒にごはんを食べようか。」P「……相変わらずアレを食べているんですか？」広「もちろん。最も効率的に必要十分な栄養が得られる。」広「最小作用の原理からオイラーラグランジュ方程式が導かれるのと同じく、至極当然のことだ、よ。」<h2>14.7　ラグランジアンの基本的性質</h2>
 広「ラグランジアンには次のような性質がある。証明は省く。」<p>加法性：
 力学系が二つの部分<inlineequation><Image href="file://images/_review_math/_gen_b17c8419f544abd0648345006bbe975b43acf9fc878712a1116312f3e1e24b2e.pdf" type="inline"/></inlineequation>で構成されていて、その二つの系の相互作用が無視できるほど無限に離れている、ないしは相互に干渉しあわないとき、全体系のラグランジアン<inlineequation><Image href="file://images/_review_math/_gen_72dfcfb0c470ac255cde83fb8fe38de8a128188e03ea5ba5b2a93adbea1062fa.pdf" type="inline"/></inlineequation>は部分系のラグランジアンの和に一致する。つまり、</p>
-<Image href="file://images/_review_math/_gen_57d606b47e76fca59ef20cc54cde358d483c681e37ce861b6dcc22cd53f8edae.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_57d606b47e76fca59ef20cc54cde358d483c681e37ce861b6dcc22cd53f8edae.pdf"/></displayequation>
 <p>が成立する。
 不定性：
 ラグランジアンに座標と時間の任意関数<inlineequation><Image href="file://images/_review_math/_gen_f08aca680a8f98ea12434ca353609378f5351512e7b7532de533c2a1724f60a1.pdf" type="inline"/></inlineequation>の時間微分を加え、変分を実施してもその結果は変わらないから、そのような式を加えてもよいという任意性をもつ。</p>
 P「エネルギーについても孤立系同士について似たような性質がありますね。」広「プロデューサー鋭い。それは後々わかる。」P「ですが、なぜ食事中に突然ラグラジアンの性質を？」広「？ さっき、早くレッスンをして欲しいって言ってたよね？」P「──ええ、確かに言いましたね。」広「ちょうど時間があったから。これは、明日の授業への布石だよ。」広「それにこの程度は覚えてるし、手帳の余白で済むから、ね。」P「なるほど。」広「明日、テストするから覚えてくるように。」P「分かりました。篠澤先生。」広「先生。……新鮮な感覚。篠澤先生は他にもいるから、広先生って呼んでみない？」P「もう二度と呼びません。」<h2>14.8　ラグランジアンはどんな形をしているのか</h2>
 P「結局、ラグランジアンはどのような形をしているのですか？」広「それは条件によって異なる。プロデューサー、観測者については習った？」P「ええ習いました。観測者によってその現象を記述する式が異なるというやつですね。」広「現象を記述するには時刻と座標が必要。現象が起きた時刻と位置を一意に決めれるような系を基準系と呼ぶ。」広「基準系には外力の影響を受けずに運動する物体が速度を保つようなものがある。このような系を慣性基準系という。慣性基準系はいくつあると思う？」P「慣性系の存在が確認できれば無限個だと思います。なぜなら、慣性基準系に対して等速直線運動するような系も同様に慣性系になるからです。」広「正解、冴えてるね。慣性基準系について次のような原理があるよ。慣性基準系の存在も仮定していると思っていい。」<p>相対性原理：
 すべての自然法則は慣性基準系において同一である。</p>
-広「慣性基準系では座標原点・時間原点が特別な意味を持たない。プロデューサー、何でだと思う？」P「系に結び付いた時計と座標を人間が勝手に決めることができるからだと思います。それをしても等速直線運動している物体は同様に等速直線運動するので。」広「正解。このとき、等速直線運動している物体のラグランジアンが位置ベクトルと時間に陽に依存したら、座標原点と時間原点が特別な意味を持つから、相対性原理に反する。」広「このような性質を空間の等方性と時間の一様性というよ。つまり、このようなラグランジアンは速度ベクトルの向き、位置、時間に陽に依存しないから、」<Image href="file://images/_review_math/_gen_70a3b33ee2780a98ab91badea60008cabbce129ac21d8f1891dce60cc3b38a49.pdf"/>
-広「そろそろラグランジアンの関数形を決定しようか。K系に対して、無限に小さい速度で運動するK’系でラグランジアンがどう変換されるかを考える。そのようなラグランジアンをとしたとき、相対性原理から同じオイラーラグランジュ方程式が成立することがわかる。」広「つまり、ラグランジアンは元のラグランジアンに座標と時間の任意関数の時間微分を足したものと考えられる。だから、」<Image href="file://images/_review_math/_gen_286ebc31a1506dea432fe9f202904ae68055f062a8e26b989f739fd32c7ce836.pdf"/>
-広「さらにを中心としたテイラー展開をして、微小量の2次以上の項は無視することで、」<Image href="file://images/_review_math/_gen_b89e40cd08c8cb7da234ff794a6d6b8a68fa79b45517f06a3ab7e4518b9356d8.pdf"/>
-広「このとき、差が座標と時間の任意関数の時間微分とならなきゃいけない、微分のしくみから第2項は速度の2次式じゃなく、一次式にならなければいけないから偏微分は定数になるとわかる。よってとかける。」広「通常はとする。は質点の質量。この形にはプロデューサーもおぼえがあるはず。」P「運動エネルギーですね。」広「そう。だけど、私たちはまだエネルギーを定義してないことに注意してほしい。また、相互作用しない質点系についてラグランジアンの加法性から、」<Image href="file://images/_review_math/_gen_f2f259ba661d4808e0a1dd274edcdbba27ab630f974c6f1879d0b19dce7c8f5b.pdf"/>
+広「慣性基準系では座標原点・時間原点が特別な意味を持たない。プロデューサー、何でだと思う？」P「系に結び付いた時計と座標を人間が勝手に決めることができるからだと思います。それをしても等速直線運動している物体は同様に等速直線運動するので。」広「正解。このとき、等速直線運動している物体のラグランジアンが位置ベクトルと時間に陽に依存したら、座標原点と時間原点が特別な意味を持つから、相対性原理に反する。」広「このような性質を空間の等方性と時間の一様性というよ。つまり、このようなラグランジアンは速度ベクトルの向き、位置、時間に陽に依存しないから、」<displayequation><Image href="file://images/_review_math/_gen_70a3b33ee2780a98ab91badea60008cabbce129ac21d8f1891dce60cc3b38a49.pdf"/></displayequation>
+広「そろそろラグランジアンの関数形を決定しようか。K系に対して、無限に小さい速度で運動するK’系でラグランジアンがどう変換されるかを考える。そのようなラグランジアンをとしたとき、相対性原理から同じオイラーラグランジュ方程式が成立することがわかる。」広「つまり、ラグランジアンは元のラグランジアンに座標と時間の任意関数の時間微分を足したものと考えられる。だから、」<displayequation><Image href="file://images/_review_math/_gen_286ebc31a1506dea432fe9f202904ae68055f062a8e26b989f739fd32c7ce836.pdf"/></displayequation>
+広「さらにを中心としたテイラー展開をして、微小量の2次以上の項は無視することで、」<displayequation><Image href="file://images/_review_math/_gen_b89e40cd08c8cb7da234ff794a6d6b8a68fa79b45517f06a3ab7e4518b9356d8.pdf"/></displayequation>
+広「このとき、差が座標と時間の任意関数の時間微分とならなきゃいけない、微分のしくみから第2項は速度の2次式じゃなく、一次式にならなければいけないから偏微分は定数になるとわかる。よってとかける。」広「通常はとする。は質点の質量。この形にはプロデューサーもおぼえがあるはず。」P「運動エネルギーですね。」広「そう。だけど、私たちはまだエネルギーを定義してないことに注意してほしい。また、相互作用しない質点系についてラグランジアンの加法性から、」<displayequation><Image href="file://images/_review_math/_gen_f2f259ba661d4808e0a1dd274edcdbba27ab630f974c6f1879d0b19dce7c8f5b.pdf"/></displayequation>
 広「とできる。」P「篠澤さん、これ以上はレッスンに支障をきたします。そろそろ休憩を入れましょう。」広「ホントだ。見て、プロデューサー。チョークを挟んでる指がちょっとだけ震えてる。」P「……なぜそんなに嬉しそう──」P「──ああ、なるほど。」広「こんなに長く板書できたのは初めて。私、成長できてる、よ。」<h2>14.9　エネルギー</h2>
 広「解析力学では特定の条件下で保存するような量がある。まずは言葉の定義から──」<p>孤立系：系の外部と全く干渉しないような系
 開いた系：系の外部と物質的なやり取りがあるような系
 閉じた系：系の外部と物質的なやり取りはないような系</p>
-広「閉じた系・開いた系といった系は基本的に解析力学では考えないけど、熱力学・統計力学ではとっても重要な概念なので覚えておくといい。」広「ここでは、孤立系であると考える。孤立系ではラグランジアンは時間に陽に依存しないから、その時間微分はチェインルールより、」<Image href="file://images/_review_math/_gen_adcda754cda3f07e88dfcbe8c3c7be9e4d1e4be6b835cec8dc8b02cf8583e9f2.pdf"/>
-広「さらに、オイラーラグランジュ方程式から第1項について、」<Image href="file://images/_review_math/_gen_530ce93595ed342f026b97b502895b30d591555a1b287c8fb3a90e1fdc99b25a.pdf"/>
-広「つまり、孤立系において次のような量が保存する。」<Image href="file://images/_review_math/_gen_209b723c76afd304f44058c1b0200006ccc3cebd1a4116ab1c0d1ec5d710e7b0.pdf"/>
-広「このような量をエネルギーと呼ぶことにする。まだプロデューサーが知ってる形じゃないけど、エネルギーの加法性は容易にわかるね。」広「エネルギーが保存する条件はラグランジアンが時間に陽に依存しないことだから、外場があってもその項が時間に陽に依存しなければ保存するね。そういう場を保存場というよ。」広「次に、相互作用するような系について考える。質点間の相互作用は質点間の相互作用がないような質点系のラグランジアンに座標の関数を加えることで表せる。」<Image href="file://images/_review_math/_gen_3805309f843b48e0ed41d5d336379b6edc3943fe01bb946dcf6b3bc2517f1f61.pdf"/>
-広「第一項をのように記して、運動エネルギーという。またはポテンシャルエネルギーという。そして、オイラーラグランジュ方程式から次の方程式が成立する。」<Image href="file://images/_review_math/_gen_c0f6886e676dc84b2c639dca1fbf800cc0f6059b378959aa3ae142b548bce2aa.pdf"/>
-広「これは相互作用する質点系の運動方程式となってて、番目の質点に加わる力を表してる。運動を記述するのに、デカルト座標ではなく一般化座標を用いる場合には、」<Image href="file://images/_review_math/_gen_e745be3efd01be4d5b445243be0a3535410b955349c17c8175c484e6f77fcbee.pdf"/>
-広「運動エネルギーは次のようにできる。」<Image href="file://images/_review_math/_gen_4423dff9de1f3823c0bf9092b138bd55b3cc91f193dd6c5ff571139c769e9b98.pdf"/>
-P「なぜはの関数であると結論づけられるのですか？」広「がの関数だから、その偏微分はを含まない。だから、はそのような関数とわかる。はに依存しないから、」<Image href="file://images/_review_math/_gen_e3f7078f7c3f9282b234f68992f79b9d875fae95b687dc3ef32b12254019d162.pdf"/>
+広「閉じた系・開いた系といった系は基本的に解析力学では考えないけど、熱力学・統計力学ではとっても重要な概念なので覚えておくといい。」広「ここでは、孤立系であると考える。孤立系ではラグランジアンは時間に陽に依存しないから、その時間微分はチェインルールより、」<displayequation><Image href="file://images/_review_math/_gen_adcda754cda3f07e88dfcbe8c3c7be9e4d1e4be6b835cec8dc8b02cf8583e9f2.pdf"/></displayequation>
+広「さらに、オイラーラグランジュ方程式から第1項について、」<displayequation><Image href="file://images/_review_math/_gen_530ce93595ed342f026b97b502895b30d591555a1b287c8fb3a90e1fdc99b25a.pdf"/></displayequation>
+広「つまり、孤立系において次のような量が保存する。」<displayequation><Image href="file://images/_review_math/_gen_209b723c76afd304f44058c1b0200006ccc3cebd1a4116ab1c0d1ec5d710e7b0.pdf"/></displayequation>
+広「このような量をエネルギーと呼ぶことにする。まだプロデューサーが知ってる形じゃないけど、エネルギーの加法性は容易にわかるね。」広「エネルギーが保存する条件はラグランジアンが時間に陽に依存しないことだから、外場があってもその項が時間に陽に依存しなければ保存するね。そういう場を保存場というよ。」広「次に、相互作用するような系について考える。質点間の相互作用は質点間の相互作用がないような質点系のラグランジアンに座標の関数を加えることで表せる。」<displayequation><Image href="file://images/_review_math/_gen_3805309f843b48e0ed41d5d336379b6edc3943fe01bb946dcf6b3bc2517f1f61.pdf"/></displayequation>
+広「第一項をのように記して、運動エネルギーという。またはポテンシャルエネルギーという。そして、オイラーラグランジュ方程式から次の方程式が成立する。」<displayequation><Image href="file://images/_review_math/_gen_c0f6886e676dc84b2c639dca1fbf800cc0f6059b378959aa3ae142b548bce2aa.pdf"/></displayequation>
+広「これは相互作用する質点系の運動方程式となってて、番目の質点に加わる力を表してる。運動を記述するのに、デカルト座標ではなく一般化座標を用いる場合には、」<displayequation><Image href="file://images/_review_math/_gen_e745be3efd01be4d5b445243be0a3535410b955349c17c8175c484e6f77fcbee.pdf"/></displayequation>
+広「運動エネルギーは次のようにできる。」<displayequation><Image href="file://images/_review_math/_gen_4423dff9de1f3823c0bf9092b138bd55b3cc91f193dd6c5ff571139c769e9b98.pdf"/></displayequation>
+P「なぜはの関数であると結論づけられるのですか？」広「がの関数だから、その偏微分はを含まない。だから、はそのような関数とわかる。はに依存しないから、」<displayequation><Image href="file://images/_review_math/_gen_e3f7078f7c3f9282b234f68992f79b9d875fae95b687dc3ef32b12254019d162.pdf"/></displayequation>
 広「結局、とわかるから、となってプロデューサーが知ってる形になった。」<h2>14.10　対称性と保存則</h2>
 広「対称性とは──」<p>対称性：
 ある操作に対して系の形状や物理量が不変に保たれるとき、対称性があるという。</p>
@@ -70,19 +70,19 @@ P「なぜはの関数であると結論づけられるのですか？」広「�
 離散対称性：折り返しや鏡映変換などに対する対称性</p>
 広「連続対称性については次のような定理がある。」<p>ネーターの定理：
 時間も変化させる(無限小)連続変換に対して作用積分が不変であり、加えて変換前の一般化座標に対してオイラーラグランジュ方程式が成立していれば対応するような保存量がある。</p>
-広「この定理を示そう。まず、無限小連続変換とは、」<Image href="file://images/_review_math/_gen_f056be4b91577e4684542392fc01a211dd4ede42e4ae9f81bb3ba78b104f9ead.pdf"/>
+広「この定理を示そう。まず、無限小連続変換とは、」<displayequation><Image href="file://images/_review_math/_gen_f056be4b91577e4684542392fc01a211dd4ede42e4ae9f81bb3ba78b104f9ead.pdf"/></displayequation>
 広「ネーターの定理の主張は次のようになる。」<p>主張：
 作用積分が上記の変換に対して不変であり、加えてオイラーラグランジュ方程式を満たしていたなら</p>
-<Image href="file://images/_review_math/_gen_9ac1d79c92bd25765aae03811bd9c15f8f7b6ab086bedf1d8a409e4322137864.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_9ac1d79c92bd25765aae03811bd9c15f8f7b6ab086bedf1d8a409e4322137864.pdf"/></displayequation>
 <p>が保存する。</p>
 広「これを示したい。証明のポイントは──」<p>証明のポイント
 ：時間の任意関数<inlineequation><Image href="file://images/_review_math/_gen_6e663cff01f196860f176e07d2e99c6e3456232bee26d4a96e20ad34d75e7a2e.pdf" type="inline"/></inlineequation>は時間についての無限小変換でどう変わるのか
 ：オイラーラグランジュ方程式が成立することをどう生かすか</p>
-広「まず、について、これは次の2種の差を含んでいる。」<Image href="file://images/_review_math/_gen_7c61921528289eefbf7f16f91bd4bb832f162e898033520441d94ff69d565a40.pdf"/>
-広「が十分小さいことを利用して、」<Image href="file://images/_review_math/_gen_980dfc560ff37948c6b8f12fa4b89d8c263e3649f0b1983d772aca00d084d127.pdf"/>
-広「とできる。はリー微分と呼ばれるもので、通常の微分とは異なる。対して、は通常の微分と変わらず、関数の微小差である。テイラー展開し2次以上を無視することで、」<Image href="file://images/_review_math/_gen_dfdbf40c3c3b78feb7ca9334281b4c8dae7a69c07ca80e52b4ced62d1086cb9f.pdf"/>
-広「つまり、2次の微小量を無視すれば、演算子について、」<Image href="file://images/_review_math/_gen_d80d4605e65a0945e35a4bf51e5de7632b41679e4c896a59299a5583f3183878.pdf"/>
-広「が成立するとわかる。本証明に移る。作用が無限小連続変換に対して不変であるというのは関数形を変えるような変換ではないことから、次の式が成立することとわかる。」<Image href="file://images/_review_math/_gen_33167dfa190b3d1db29b964b47b07ddbfcc7814f4052e6d1a6a39dadbe29e140.pdf"/>
+広「まず、について、これは次の2種の差を含んでいる。」<displayequation><Image href="file://images/_review_math/_gen_7c61921528289eefbf7f16f91bd4bb832f162e898033520441d94ff69d565a40.pdf"/></displayequation>
+広「が十分小さいことを利用して、」<displayequation><Image href="file://images/_review_math/_gen_980dfc560ff37948c6b8f12fa4b89d8c263e3649f0b1983d772aca00d084d127.pdf"/></displayequation>
+広「とできる。はリー微分と呼ばれるもので、通常の微分とは異なる。対して、は通常の微分と変わらず、関数の微小差である。テイラー展開し2次以上を無視することで、」<displayequation><Image href="file://images/_review_math/_gen_dfdbf40c3c3b78feb7ca9334281b4c8dae7a69c07ca80e52b4ced62d1086cb9f.pdf"/></displayequation>
+広「つまり、2次の微小量を無視すれば、演算子について、」<displayequation><Image href="file://images/_review_math/_gen_d80d4605e65a0945e35a4bf51e5de7632b41679e4c896a59299a5583f3183878.pdf"/></displayequation>
+広「が成立するとわかる。本証明に移る。作用が無限小連続変換に対して不変であるというのは関数形を変えるような変換ではないことから、次の式が成立することとわかる。」<displayequation><Image href="file://images/_review_math/_gen_33167dfa190b3d1db29b964b47b07ddbfcc7814f4052e6d1a6a39dadbe29e140.pdf"/></displayequation>
 広「先ほどの記法を再度使い、微小量の2次を無視することでよりシンプルに書くことができて、あとは初等的な式変形とリー微分の性質、ライプニッツ則を使うことで示したい事実がわかる。参考文献[2] に詳しくあります。」広「実際どのような量が保存するのかについては、次のようになる。」<p>エネルギー保存則：時間の並進対称性から示される。
 運動量保存則：
 <inlineequation><Image href="file://images/_review_math/_gen_72dfcfb0c470ac255cde83fb8fe38de8a128188e03ea5ba5b2a93adbea1062fa.pdf" type="inline"/></inlineequation>の<inlineequation><Image href="file://images/_review_math/_gen_89d39a0fbc4c0befc2a40264d3997e8d6a2f3710ddd12ba4492e4740172c972b.pdf" type="inline"/></inlineequation>偏微分を一般化運動量と定義し（ニュートン力学との類似から）、空間の並進対称性から示される。

@@ -28,9 +28,9 @@
 <p>「うん。温度もその変数のひとつだから、正解。でも、高い山の上では水は地上よりも低い温度で沸騰するでしょ？同じ温度でも水が液相の場合と気相の場合があることになる<footnote>「ここでいう沸騰は、水だけの系に注目して液相と気相が平衡している状態を指す。蒸発は常温でも起きるけど、それは水以外に気体がある系での話になるから区別が必要」</footnote>」</p>
 <p>「なるほど。気圧によっても変わるということですか……」</p>
 <p>「そういうこと。正確には系のもつ<b>Gibbsの自由エネルギー</b>(Gibbsエネルギー)によって決まる、よ。Gibbsエネルギー<inlineequation><Image href="file://images/_review_math/_gen_333e0a1e27815d0ceee55c473fe3dc93d56c63e3bee2b3b4aee8eed6d70191a3.pdf" type="inline"/></inlineequation>はこのように表される:</p>
-<Image href="file://images/_review_math/_gen_eb1de7fe5c4381ac972836372e928c9e7b5485978b36d291baaf07db4a6e44b0.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_eb1de7fe5c4381ac972836372e928c9e7b5485978b36d291baaf07db4a6e44b0.pdf"/></displayequation>
 <p>ここで、それぞれの変数はこうなる:</p>
-<Image href="file://images/_review_math/_gen_e1f733c9eb1177c68c71b03cf3e7b1c700074f1d92124b5ad1e7c31151636cc3.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_e1f733c9eb1177c68c71b03cf3e7b1c700074f1d92124b5ad1e7c31151636cc3.pdf"/></displayequation>
 <p>今日のところは<bou>ものすごく</bou>定性的な説明にとどめるけど、Gibbsエネルギーはある物質が持つ熱力学的なエネルギーを色々まとめて代表させたもののうちのひとつ。物質が自身の内部に持っていて外に取り出したりできるエネルギーのことだと思ってもらえれば、一旦今日の議論には十分、かな。</p>
 <p>圧力・温度が一定の条件では、系の自発的な変化は必ずGibbsエネルギーが減少する向きに進むことが知られている。つまり、十分に長い時間が経った後には系のGibbsエネルギーが最小になった状態で安定になると言える。この状態を<b>平衡状態</b>という、よ。</p>
 <p>話を戻すとGibbsエネルギーは、気相、液相、固相それぞれの状態について存在していて、この中でGibbsエネルギーが最も小さくなるものが安定な状態となる。液相が固相になる凝固を例にすると、ある圧力・温度下で、液相のときのGibbsエネルギーを<inlineequation><Image href="file://images/_review_math/_gen_8c4226369b2e93e6f93f08caa568b08078897fa146252f38e6c27e1d5961bec6.pdf" type="inline"/></inlineequation>、固相のGibbsエネルギーを<inlineequation><Image href="file://images/_review_math/_gen_6bcb32fb1f100c0449a4c066c9a10b3d9813d261acd3812b1c027d842f72fbe7.pdf" type="inline"/></inlineequation>とすると、<inlineequation><Image href="file://images/_review_math/_gen_2d4ad96b6af14413db08f1b255ddde2c16c00ba905e48d524b4baca27cbc2c2f.pdf" type="inline"/></inlineequation>の場合に固相になるということ」</p>
@@ -50,11 +50,11 @@
 <img-caption>図11.2　液相に生成した微小な固相とその界面</img-caption>
 <p>「異なる相同士の界面はエネルギー的には不安定になってしまう。だから凝固が始まって液相と固相が共存する状態にあるときは、相変態によって得をするエネルギーと界面によって損するエネルギーを差し引きする必要がある。</p>
 <p>液相の中に生成した微小な固相を、半径<inlineequation><Image href="file://images/_review_math/_gen_454349e422f05297191ead13e21d3db520e5abef52055e4964b82fb213f593a1.pdf" type="inline"/></inlineequation>の球体だと考えてそのエネルギーの収支を考えてみよう。液相が固相に変態したときに放出される単位体積あたりのエネルギーを<inlineequation><Image href="file://images/_review_math/_gen_307d2c7e46d5ba73ececbd7b665bd3dea42490bd38dd719e803e1e8b5a22f10e.pdf" type="inline"/></inlineequation>とすると、微小な固相によって減少するエネルギーは、</p>
-<Image href="file://images/_review_math/_gen_0db85c660c7da474906fd63ee232d14c62fcb0bde6b61133f1be2cbb55fd85db.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_0db85c660c7da474906fd63ee232d14c62fcb0bde6b61133f1be2cbb55fd85db.pdf"/></displayequation>
 <p>固液界面によって増加する単位面積あたりのエネルギーを<inlineequation><Image href="file://images/_review_math/_gen_6db54b248f3844fc02280e6aaedcee42f7729665d499db185de5c5dc777408f7.pdf" type="inline"/></inlineequation>とすると、</p>
-<Image href="file://images/_review_math/_gen_08bbacb57c04fc03b9190c430801b90e6cff9e970f884f73ce893fd8ec9e5d13.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_08bbacb57c04fc03b9190c430801b90e6cff9e970f884f73ce893fd8ec9e5d13.pdf"/></displayequation>
 <p>ここでトータルのエネルギーを計算すると、</p>
-<Image href="file://images/_review_math/_gen_26b49a3f9b41eb2d399bb52e9377508f0751e12679244e39f20949bf9dc204e4.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_26b49a3f9b41eb2d399bb52e9377508f0751e12679244e39f20949bf9dc204e4.pdf"/></displayequation>
 <p>簡単のために係数をひとつの定数にまとめてしまったけど得られるエネルギーはこのようになる、ね。これをグラフで示すと、こう」</p>
 <Image href="file://images/kuromitz_imono/nucleation.png"/>
 <img-caption>図11.3　微小な固相の半径に対するエネルギーの変化</img-caption>

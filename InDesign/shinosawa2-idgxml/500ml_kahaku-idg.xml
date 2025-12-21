@@ -50,7 +50,7 @@
 <p>「これ以降は高校で習わない範囲ってことですか……」</p>
 <p>「ふふ……正解。その後、ホイヘンスの原理を発展させて、19世紀にフレネルが数式として表現し直したのが、こういう数式」</p>
 <note-title>ホイヘンス=フレネルの原理</note-title>
-<Image href="file://images/_review_math/_gen_ffeac881a42ef41f925e8352087343fad7fdb6797d72c8c09700972daf89d4e0.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_ffeac881a42ef41f925e8352087343fad7fdb6797d72c8c09700972daf89d4e0.pdf"/></displayequation>
 <Image href="file://images/500ml_kahaku/system1.pdf"/>
 <img-caption>図5.4　ホイヘンス=フレネルの原理における実験系。左のスリットを通った光が右のスクリーンに照射される。</img-caption>
 <p>「これはベクトル解析の定理から導出できるけど、日が暮れちゃうから、今日はその話はしない。代わりに、この式の意味を説明する。……いい？プロデューサー」</p>
@@ -79,9 +79,9 @@
 <Image href="file://images/500ml_kahaku/system2.pdf"/>
 <img-caption>図5.6　実験系にそれぞれ座標軸を導入した図。</img-caption>
 <p>「この座標系を使って、ホイヘンス=フレネルの原理を書き直すと、こうなる」</p>
-<Image href="file://images/_review_math/_gen_9e0372804e400d32e2f9a2cd5c95ab8e4f352a12380694dd26291b64f8ad7bc7.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_9e0372804e400d32e2f9a2cd5c95ab8e4f352a12380694dd26291b64f8ad7bc7.pdf"/></displayequation>
 <p>ただし</p>
-<Image href="file://images/_review_math/_gen_ef7aa58aba56c3bc1b817835e43315ff88f0b2c8b07626541e3434cc62c01113.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_ef7aa58aba56c3bc1b817835e43315ff88f0b2c8b07626541e3434cc62c01113.pdf"/></displayequation>
 <p>「これは、<inlineequation><Image href="file://images/_review_math/_gen_cd8890a1dcd9fd1baefa08626370b962adbd2ecae1c207cfc2c438fe60c05724.pdf" type="inline"/></inlineequation>上の平面にあるスクリーンにおける複素振幅<inlineequation><Image href="file://images/_review_math/_gen_7cec268ae7467073c2328a663b83c7b3bd23edbe1ee658874a131dd40d42e2d5.pdf" type="inline"/></inlineequation>が、<inlineequation><Image href="file://images/_review_math/_gen_ea427caa6a6950cf23138830b725d3575a2224dd3cda4151c589556968a174f2.pdf" type="inline"/></inlineequation>上のスリットから出た素元波の重ね合わせで書ける、って意味」</p>
 <p>「さっきまでの話を、具体的な座標で書き直したんですね」</p>
 <p>「そう。ここから、三種類の近似を適用して計算する、よ」</p>
@@ -89,22 +89,22 @@
 <p>「物理で出てくるような式の多くは、厳密に計算すると複雑すぎたりする。だから、ある程度、条件を理想化・妥協して、十分似ていて解けるような式を調べることで、問題に取り組む。今回のものは、スクリーンやスリットの大きさに比べて、そのふたつの間の距離<inlineequation><Image href="file://images/_review_math/_gen_3f39d5c348e5b79d06e842c114e6cc571583bbf44e4b0ebfda1a01ec05745d43.pdf" type="inline"/></inlineequation>が十分広いシチュエーションなら、回折のようすが分かる」</p>
 <p>そういうものなのか、と俺は少し意外に思った。物理学は難しい数式を解くものだとばかり思っていたが、どうやら難しい式を簡単な式に改めるとは。俺にとってはそれでもまだ難しいが。彼女は話を続ける。</p>
 <p>「近似のひとつめは、平方近似。指数の中に入ってる<inlineequation><Image href="file://images/_review_math/_gen_0c95d3415f0ad1121f5b4b7a8cdc8b0872ca2cbabc75c66e4e3ca3275d1295b5.pdf" type="inline"/></inlineequation>を、こうする」</p>
-<Image href="file://images/_review_math/_gen_912d8b57c1299119c090dcf61205c20dc2b790495b0e735f3975fd83b3066489.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_912d8b57c1299119c090dcf61205c20dc2b790495b0e735f3975fd83b3066489.pdf"/></displayequation>
 <p>「この近似は、<inlineequation><Image href="file://images/_review_math/_gen_ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb.pdf" type="inline"/></inlineequation>が十分0に近ければ、<inlineequation><Image href="file://images/_review_math/_gen_62e1c4f2ef77faec94c58105983aaf129f45a1c485cd0e8690e900f198705c2b.pdf" type="inline"/></inlineequation>で近似できることを使った。具体的には、<inlineequation><Image href="file://images/_review_math/_gen_195ed86bd067ef5935fb45201880db4a5e2212c257889fc6eb33b1495c970670.pdf" type="inline"/></inlineequation>が0に近いことにした」</p>
 <p>俺は、この近似と<inlineequation><Image href="file://images/_review_math/_gen_ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb.pdf" type="inline"/></inlineequation>の話の関連性がすぐには分からなかったので後で考えることにした。</p>
 <p>「これに加えるふたつめの近似として、分母の<inlineequation><Image href="file://images/_review_math/_gen_aefcf41929c2c2f8ea14b73283511512ce7fe00c285f16324a592a44b3634f23.pdf" type="inline"/></inlineequation>は、<inlineequation><Image href="file://images/_review_math/_gen_c99b948da2dff00c7ed43eb2677978cc2d3311cff58e683e761dcbd8c36b523a.pdf" type="inline"/></inlineequation>を完全に無視して、<inlineequation><Image href="file://images/_review_math/_gen_76ac003a7851bb97357575e705f77b6ba9e5d30104c470db988a4520e9173842.pdf" type="inline"/></inlineequation>にする。……すると、こんな式が得られる」</p>
 <note-title>フレネル回折</note-title>
-<Image href="file://images/_review_math/_gen_39c2652ce3d6bc43f4d7a88ee60be140af6475f79a2f7d814136e29fe3b2dedf.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_39c2652ce3d6bc43f4d7a88ee60be140af6475f79a2f7d814136e29fe3b2dedf.pdf"/></displayequation>
 <p>「これは……フレネル回折。近傍界という、スリットに比較的近い領域でよく適合する式だ、よ」</p>
 <p>「遠い領域ではどうなるんですか？」</p>
 <p>俺は、素直に疑問に思ったことを口に出した。</p>
 <p>「そこが今日の本題。より遠い領域（遠方界）では、みっつめの近似を使う。そのために、まずフレネル回折の式の指数関数を、展開して書き直す」</p>
-<Image href="file://images/_review_math/_gen_f83c1763cafa2bf5b27d6e117366166ac0422bb34b17fd68091fb0f29fcc13a9.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_f83c1763cafa2bf5b27d6e117366166ac0422bb34b17fd68091fb0f29fcc13a9.pdf"/></displayequation>
 <p>「スクリーンとスリット間の距離が、スリット開口部のサイズより十分遠いとき、積分内部の<inlineequation><Image href="file://images/_review_math/_gen_2a6df23855d49ab1fa9c6d91a513948680e3f5b1a36c7462354d33138a6f717e.pdf" type="inline"/></inlineequation>について、こういう近似を使う」</p>
-<Image href="file://images/_review_math/_gen_b0f46c7ed5c142ea0f9662ce7f3528f449532e08c8c259cc9bc5966146dbf009.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_b0f46c7ed5c142ea0f9662ce7f3528f449532e08c8c259cc9bc5966146dbf009.pdf"/></displayequation>
 <p>「これも、<inlineequation><Image href="file://images/_review_math/_gen_d138ec9bfdeb556319d2a0de01c3b796f724745790f4ac4a418883f0275a353e.pdf" type="inline"/></inlineequation>より<inlineequation><Image href="file://images/_review_math/_gen_3f39d5c348e5b79d06e842c114e6cc571583bbf44e4b0ebfda1a01ec05745d43.pdf" type="inline"/></inlineequation>のほうが十分に遠くて、<inlineequation><Image href="file://images/_review_math/_gen_838751ad878244ec634890e4c6ec9f0db9beeca9cdfac39e0ae60ed618081f6c.pdf" type="inline"/></inlineequation>がほぼ0になるような状況を考えてる。この近似を使って書き直すと、こういう式を得る」</p>
 <note-title>フラウンホーファー回折</note-title>
-<Image href="file://images/_review_math/_gen_1d3aba1b3f4f5c40951f29c52fee3acd64dc060e6b52234bbe94768dd90a7ee1.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_1d3aba1b3f4f5c40951f29c52fee3acd64dc060e6b52234bbe94768dd90a7ee1.pdf"/></displayequation>
 <p>「これを、フラウンホーファー回折っていう、よ。ふぅ……これでやっと、ひといき……」</p>
 <p>そう言いながら、彼女は伸びをして俺のほうを見た。説明を終えてリラックスしたのか、彼女の目は少しとろんと垂れている。俺と彼女の目が合っていることに気付いて、なんだか気恥ずかしいからと逸らそうとすると、やや上気した頬やすらっと伸びる首が気になってしまい、むしろ逆効果であった。かわいい。</p>
 <p>ややぎこちない間を置いて、彼女はまた話し始めた。</p>
@@ -118,7 +118,7 @@
 <p>「難しすぎても理解できないので、それくらいがありがたいです」俺は、本心からそう思った。</p>
 <p>「まず、2次元のフーリエ変換の定義式を書く<footnote>「この定義だと絶対可積分でない<inlineequation><Image href="file://images/_review_math/_gen_3ea7b9387ea71e1c88954b49096a4942f11869c8b33e7ea88bc03e70e7e7a486.pdf" type="inline"/></inlineequation>に対してどうするか……って問題がある、かも。でも、実験的には開口部も複素振幅も有限だから……まず大丈夫だ、よ」</footnote>。ある関数<inlineequation><Image href="file://images/_review_math/_gen_3ea7b9387ea71e1c88954b49096a4942f11869c8b33e7ea88bc03e70e7e7a486.pdf" type="inline"/></inlineequation>に対して、そのフーリエ変換<inlineequation><Image href="file://images/_review_math/_gen_40df81ba2f6e2854e8262c3bb636c66a2e32e9aa9cfb31eb7759cbce2b4c898f.pdf" type="inline"/></inlineequation>は、こう書ける、よ」</p>
 <note-title>2次元フーリエ変換</note-title>
-<Image href="file://images/_review_math/_gen_9a191a97a215c0faaa214e4b70e8b84931ec11af452cb64d8c2a2ece7f168e01.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_9a191a97a215c0faaa214e4b70e8b84931ec11af452cb64d8c2a2ece7f168e01.pdf"/></displayequation>
 <p>「この式とフラウンホーファー回折の式を見比べると、よく似てる。フラウンホーファー回折の式についてる位相の項は、強度を計算すれば消える、ね」</p>
 <p>そう言ったあと、彼女は数秒止まって、次何を言うべきか考えている様子だった。彼女は考えている時、口先を少しとがらせるくせがあり、それがすごくかわいい。俺は彼女の魅力を世界中に知らせるべき立場なのだが、こういった日常の景色をこっそり独り占めしていることについ、喜びを覚えてしまう。</p>
 <p>「2次元のフーリエ変換は……関数をいくつかの『縞模様』に分解することをイメージしてもらうのがいい、かな」</p>
@@ -127,28 +127,28 @@
 <p>「……えっと、<inlineequation><Image href="file://images/_review_math/_gen_2d1aff819a8ce8f2c11e0bf41b4f92397c982cbe90e35dc8e492fe99fa015bda.pdf" type="inline"/></inlineequation>を適当な定数として<inlineequation><Image href="file://images/_review_math/_gen_c93a8380c6c1aa4fbff1b965e3d1d5c249fa45e7ec94a9fdaf43beb161a33a54.pdf" type="inline"/></inlineequation>を<inlineequation><Image href="file://images/_review_math/_gen_769a4e6d0003189c7e96c5d9b7e810a0d11c3a12832527ec94b0f86d277f51ca.pdf" type="inline"/></inlineequation>平面でプロットしたとき、グラフは縞模様になる。なぜなら、<inlineequation><Image href="file://images/_review_math/_gen_9881d25ecd8958288519b03b5f819c2182af02fe321c061550f201e56a6142d7.pdf" type="inline"/></inlineequation>が定数となるような直線上では、<inlineequation><Image href="file://images/_review_math/_gen_c93a8380c6c1aa4fbff1b965e3d1d5c249fa45e7ec94a9fdaf43beb161a33a54.pdf" type="inline"/></inlineequation>の値が全て等しくなる、から。例えば、<inlineequation><Image href="file://images/_review_math/_gen_2054dee6b88694499600136afd6fd5df69c63fec9b0b4adfa91896d24fe8f400.pdf" type="inline"/></inlineequation>は、<inlineequation><Image href="file://images/_review_math/_gen_ad6f150b2aea7249573fcf7658653c7ab2ac937c6ed5834031d6e14d08d32633.pdf" type="inline"/></inlineequation>というふうに分解できる、よ」</p>
 <p>「つまり、いろんな関数を、複数の縞模様の式の足し算に分解したい、ということですか？」</p>
 <p>「そういうこと。プロデューサーは、察し力が高い。これを一般化して、ある関数<inlineequation><Image href="file://images/_review_math/_gen_3ea7b9387ea71e1c88954b49096a4942f11869c8b33e7ea88bc03e70e7e7a486.pdf" type="inline"/></inlineequation>が、いろんな縞模様で分解できると仮定する。つまり、さっきの<inlineequation><Image href="file://images/_review_math/_gen_c93a8380c6c1aa4fbff1b965e3d1d5c249fa45e7ec94a9fdaf43beb161a33a54.pdf" type="inline"/></inlineequation>について、いろんな<inlineequation><Image href="file://images/_review_math/_gen_2d1aff819a8ce8f2c11e0bf41b4f92397c982cbe90e35dc8e492fe99fa015bda.pdf" type="inline"/></inlineequation>の組を使った足し合わせで書けることにする。足し合わせるときの重みを表した係数を<inlineequation><Image href="file://images/_review_math/_gen_40df81ba2f6e2854e8262c3bb636c66a2e32e9aa9cfb31eb7759cbce2b4c898f.pdf" type="inline"/></inlineequation>とすれば、こういう式をみたすことになる」</p>
-<Image href="file://images/_review_math/_gen_ba65f2b6743abb47a2a4c48e1c57e759fbb397be9d9cd9dea0dc6d38578e85be.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_ba65f2b6743abb47a2a4c48e1c57e759fbb397be9d9cd9dea0dc6d38578e85be.pdf"/></displayequation>
 <p>「これは、『縞模様の式<inlineequation><Image href="file://images/_review_math/_gen_c93a8380c6c1aa4fbff1b965e3d1d5c249fa45e7ec94a9fdaf43beb161a33a54.pdf" type="inline"/></inlineequation>に係数<inlineequation><Image href="file://images/_review_math/_gen_40df81ba2f6e2854e8262c3bb636c66a2e32e9aa9cfb31eb7759cbce2b4c898f.pdf" type="inline"/></inlineequation>をかけて、<inlineequation><Image href="file://images/_review_math/_gen_2d1aff819a8ce8f2c11e0bf41b4f92397c982cbe90e35dc8e492fe99fa015bda.pdf" type="inline"/></inlineequation>について足し合わせると<inlineequation><Image href="file://images/_review_math/_gen_3ea7b9387ea71e1c88954b49096a4942f11869c8b33e7ea88bc03e70e7e7a486.pdf" type="inline"/></inlineequation>になった』という意味。<inlineequation><Image href="file://images/_review_math/_gen_2d1aff819a8ce8f2c11e0bf41b4f92397c982cbe90e35dc8e492fe99fa015bda.pdf" type="inline"/></inlineequation>は連続的な値だから、全部を足し算する代わりに積分を使った……ってイメージでいい、よ」</p>
 <p>俺が彼女の言葉の意味を咀嚼していると、彼女は次の式を書き始めた。</p>
 <p>「そうしたら、天下り式になるけど、こういうものを計算する」</p>
-<Image href="file://images/_review_math/_gen_ee2434b6b7b14218859cf2ab0b0f027450a545c3ac46c959df5035b75429c963.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_ee2434b6b7b14218859cf2ab0b0f027450a545c3ac46c959df5035b75429c963.pdf"/></displayequation>
 <p>「これにさっきの<inlineequation><Image href="file://images/_review_math/_gen_3ea7b9387ea71e1c88954b49096a4942f11869c8b33e7ea88bc03e70e7e7a486.pdf" type="inline"/></inlineequation>の右辺を代入すると、こうなる」</p>
-<Image href="file://images/_review_math/_gen_ebb664cf3bc163be59b4e643920c14e974a7584e16229af7e1147db32b844ab3.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_ebb664cf3bc163be59b4e643920c14e974a7584e16229af7e1147db32b844ab3.pdf"/></displayequation>
 <p>「ここで、積分の順番を入れ替える。この操作をするためにはいくつかの条件があるんだけど、今回はやっても大丈夫なことにする」</p>
-<Image href="file://images/_review_math/_gen_18837b132da21dabf88babace6c390fde8caec4967da50856a46f214de8ebd9f.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_18837b132da21dabf88babace6c390fde8caec4967da50856a46f214de8ebd9f.pdf"/></displayequation>
 <p>「ここで、デルタ関数っていう関数<footnote>「実はこれは超関数と呼ばれていて、ただの関数とはちょっと違うんだけど、詳しいことはここでは説明しない、よ」</footnote>が出てくる」</p>
-<Image href="file://images/_review_math/_gen_816aea3454f0b3e6b194f7a7e813739509eef4bfc407251602be2697116ad9ca.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_816aea3454f0b3e6b194f7a7e813739509eef4bfc407251602be2697116ad9ca.pdf"/></displayequation>
 <p>「デルタ関数は、<inlineequation><Image href="file://images/_review_math/_gen_b88c9fc09e5a1f6e2555bd6be9b652a9f332ed958a94d65a650ce061a4c465a2.pdf" type="inline"/></inlineequation>では無限大に発散して、それ以外では0をとるような関数で、特にこんな性質がある」</p>
-<Image href="file://images/_review_math/_gen_6de1ff00b8b8d86c8adb520e0abd9e8d7f529ca9063ac896bda1b4835c1a2f18.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_6de1ff00b8b8d86c8adb520e0abd9e8d7f529ca9063ac896bda1b4835c1a2f18.pdf"/></displayequation>
 <p>「積分内部の、<inlineequation><Image href="file://images/_review_math/_gen_944b4ba658dcc70bd792d5d264ef5db48c4d2ed8ee3c1ba048c89c36127924b5.pdf" type="inline"/></inlineequation>になるときの<inlineequation><Image href="file://images/_review_math/_gen_80dcbeeaaa63f176297193a0f0f1aa4e3a2a252c42145ca6227affb9aabbae5d.pdf" type="inline"/></inlineequation>だけを『取り出す』イメージと言えば、わかりやすい？この関係を使えば、さっきの式はこう変形できる」</p>
-<Image href="file://images/_review_math/_gen_478eef2edfa5cf68536298b895bfc1cc3d2405dff4c653255b1caec46a892316.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_478eef2edfa5cf68536298b895bfc1cc3d2405dff4c653255b1caec46a892316.pdf"/></displayequation>
 <p>「これは特定の<inlineequation><Image href="file://images/_review_math/_gen_cde1521b737f73920399396894f0eaae68763103ecc5b0ce2593fc15dd5d58af.pdf" type="inline"/></inlineequation>だけでなく、全ての<inlineequation><Image href="file://images/_review_math/_gen_2d1aff819a8ce8f2c11e0bf41b4f92397c982cbe90e35dc8e492fe99fa015bda.pdf" type="inline"/></inlineequation>で成り立つから、こういう式が得られる、よ」</p>
-<Image href="file://images/_review_math/_gen_e100a6d14c8b70de97be3fac28bb8c3d80ac29fde4abd03a3a3a5215f85c9261.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_e100a6d14c8b70de97be3fac28bb8c3d80ac29fde4abd03a3a3a5215f85c9261.pdf"/></displayequation>
 <p>「これこそがフーリエ変換。フーリエ変換の定義式は、<inlineequation><Image href="file://images/_review_math/_gen_3ea7b9387ea71e1c88954b49096a4942f11869c8b33e7ea88bc03e70e7e7a486.pdf" type="inline"/></inlineequation>が縞模様<inlineequation><Image href="file://images/_review_math/_gen_c93a8380c6c1aa4fbff1b965e3d1d5c249fa45e7ec94a9fdaf43beb161a33a54.pdf" type="inline"/></inlineequation>の足し合わせとして表せるときの、係数<inlineequation><Image href="file://images/_review_math/_gen_40df81ba2f6e2854e8262c3bb636c66a2e32e9aa9cfb31eb7759cbce2b4c898f.pdf" type="inline"/></inlineequation>を計算していたんだ、ね」</p>
 <p>彼女があっという間に式を変形していくのを俺は黙って眺めていることしかできなかった。内容は、少しくらいなら分かった──気がする。フーリエ変換のよく分からない定義式は、どんな縞模様がどれだけ含まれているかを求めている──ということ、のはず。それがつまり、彼女が最初に言っていた分解、という言葉の意味なのだろう。彼女は俺を少し待ってから、また話し始めた。</p>
 <p>「ここからは、フーリエ変換のさまざまな特徴について教える、よ。ひとつめの、フーリエ変換の最大の特徴は、逆変換があること」</p>
 <note-title>フーリエ逆変換</note-title>
-<Image href="file://images/_review_math/_gen_8fb9f8fc6ef1bc1a4f13a92755d50c77ab69a481e3efd4c39043825329565657.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_8fb9f8fc6ef1bc1a4f13a92755d50c77ab69a481e3efd4c39043825329565657.pdf"/></displayequation>
 <p>「これは、さっきも出てきた式。フーリエ変換と逆変換があれば、空間領域（<inlineequation><Image href="file://images/_review_math/_gen_769a4e6d0003189c7e96c5d9b7e810a0d11c3a12832527ec94b0f86d277f51ca.pdf" type="inline"/></inlineequation>平面）と変換後の周波数領域（<inlineequation><Image href="file://images/_review_math/_gen_e6184ce10e266134fdcfa401e8f1a95005bcd4f18d16b62b757323e2833fe9a9.pdf" type="inline"/></inlineequation>平面）を相互に行き来できるようになる。これがすごい」</p>
 <p>「それってすごいんですか？」</p>
 <p>「例えば、<inlineequation><Image href="file://images/_review_math/_gen_252f10c83610ebca1a059c0bae8255eba2f95be4d1d7bcfa89d7248a82d9f111.pdf" type="inline"/></inlineequation>と<inlineequation><Image href="file://images/_review_math/_gen_f67ab10ad4e4c53121b6a5fe4da9c10ddee905b978d3788d2723d7bfacbe28a9.pdf" type="inline"/></inlineequation>が一対一で対応しているから、周波数領域で<inlineequation><Image href="file://images/_review_math/_gen_f67ab10ad4e4c53121b6a5fe4da9c10ddee905b978d3788d2723d7bfacbe28a9.pdf" type="inline"/></inlineequation>にある操作<inlineequation><Image href="file://images/_review_math/_gen_559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd.pdf" type="inline"/></inlineequation>をすれば、空間領域で<inlineequation><Image href="file://images/_review_math/_gen_252f10c83610ebca1a059c0bae8255eba2f95be4d1d7bcfa89d7248a82d9f111.pdf" type="inline"/></inlineequation>に対応する操作<inlineequation><Image href="file://images/_review_math/_gen_ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb.pdf" type="inline"/></inlineequation>をしたことにできる」</p>
@@ -157,9 +157,9 @@
 <p>「なるほど、周波数領域で行うほうが有利な操作があったりするんですね」</p>
 <p>「これに加えてさらに重要なのは、線形性」</p>
 <note-title>フーリエ変換の線形性</note-title>
-<Image href="file://images/_review_math/_gen_a9fddf369451ef68bcfb5ef58dbfc66336466ffc6b5ad8c73c4e249019e2694c.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_a9fddf369451ef68bcfb5ef58dbfc66336466ffc6b5ad8c73c4e249019e2694c.pdf"/></displayequation>
 <p>ならば</p>
-<Image href="file://images/_review_math/_gen_407318a26dcc3f636207bb561bb4b0d62d2091a9a43aef5f47eed0814f8bc845.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_407318a26dcc3f636207bb561bb4b0d62d2091a9a43aef5f47eed0814f8bc845.pdf"/></displayequation>
 <p>が成り立つ。</p>
 <p>「これが便利ってことは、具体例を見せたほうがわかりやすい、ね」</p>
 <p>すると彼女は急にブラウザを開き、十数行のプログラムを書いたかと思いきや、以下のような三つの図を見せてきた。</p>

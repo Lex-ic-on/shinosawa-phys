@@ -51,7 +51,7 @@
 <p>「では、次元の話から始めよう」</p>
 <p>広は再び黒板に向き直り、白いチョークで数式を書き始めた。</p>
 <p>「次元の定義を数学的に表すと」</p>
-<Image href="file://images/_review_math/_gen_9059ac21f69f2d0c6eea040361da8a6a9f534d72f22fc34c2d0cf1a0e22a9598.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_9059ac21f69f2d0c6eea040361da8a6a9f534d72f22fc34c2d0cf1a0e22a9598.pdf"/></displayequation>
 <p>「0次元は点、1次元は線、2次元は平面、3次元は立体。わたしたちの空間は立体(<inlineequation><Image href="file://images/_review_math/_gen_93a5ba35734512923f594a7bad69101ff44811fe74d29893238fb45ef5862ae5.pdf" type="inline"/></inlineequation>)」</p>
 <p>プロデューサーはうなずきながらメモを取る。</p>
 <p>「でも篠澤さん。時間も次元ではないのですか？」</p>
@@ -67,7 +67,7 @@
 <p>「重力が強すぎて、惑星の軌道が不安定になる」</p>
 <p>「なぜですか？」</p>
 <p>「重力の法則が変わるから。3次元では距離の2乗に反比例するけど、4次元では3乗に反比例」</p>
-<Image href="file://images/_review_math/_gen_70d405d04775796e3bf20848e48d5edbd6be6bb3cf43df5ec55e65244a8b4893.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_70d405d04775796e3bf20848e48d5edbd6be6bb3cf43df5ec55e65244a8b4893.pdf"/></displayequation>
 <p>ここで<inlineequation><Image href="file://images/_review_math/_gen_1b16b1df538ba12dc3f97edbb85caa7050d46c148134290feba80f8236c83db9.pdf" type="inline"/></inlineequation>は空間次元。</p>
 <p>「力が<inlineequation><Image href="file://images/_review_math/_gen_fd8ecb8d5b6e656010c5c733ea5384dfc755682c1471cc48432644af620e3c86.pdf" type="inline"/></inlineequation>に比例すると、有効ポテンシャルが<inlineequation><Image href="file://images/_review_math/_gen_130de44173085a8886ef0cc2fbaa52a76efb5c5e301a31f703aaf0e76c2a324e.pdf" type="inline"/></inlineequation>となって、<inlineequation><Image href="file://images/_review_math/_gen_454349e422f05297191ead13e21d3db520e5abef52055e4964b82fb213f593a1.pdf" type="inline"/></inlineequation>が小さくなると両方の項が同じ次数で発散。安定な円軌道が存在しない」</p>
 <p>「つまり？」</p>
@@ -115,7 +115,7 @@
 <p>プロデューサーは驚いた。</p>
 <p>「5次元？どうやって？」</p>
 <p>「5次元計量テンソル <inlineequation><Image href="file://images/_review_math/_gen_aa80b7cabc22546a9b82fde22f16db3b5de22dafd13686479b6f39fe592ff962.pdf" type="inline"/></inlineequation> を分解すると、</p>
-<Image href="file://images/_review_math/_gen_1aa57333f0c2947d2409c1a93e45a55331c2951e52c9caa23f093e4b2230b5b4.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_1aa57333f0c2947d2409c1a93e45a55331c2951e52c9caa23f093e4b2230b5b4.pdf"/></displayequation>
 <p>ここで、<inlineequation><Image href="file://images/_review_math/_gen_1e1af7e6901fd3740e08a1e05b24f5f93a5725344b3376fbcb8f6f671c81cff0.pdf" type="inline"/></inlineequation>が四次元空間の重力、<inlineequation><Image href="file://images/_review_math/_gen_5535cdcf38db071085c61da52f93651efcef67638e9466d33ae8d4213c961659.pdf" type="inline"/></inlineequation> が電磁ポテンシャル。一般相対論が出て4年後に、4次元にあと一つ次元を足せば重力と電磁気学を同じものとして見れるって考えたんだね」</p>
 <p>「なるほど……しかし、時間も一つの次元としたとしても我々は5次元なんて見たことがないです。なぜ見えないんでしょうか？」</p>
 <p>広は少し間を置いて、プロデューサーに問いかけた。</p>
@@ -191,8 +191,8 @@
 <p>「そう。プロデューサーは、ある商品を980円で売ると決めている。この『980円』が、実験で精密に測定できる『観測質量』<inlineequation><Image href="file://images/_review_math/_gen_fddd47d64a3de1c2262937fd14abf41723258172e39c2e66fdadb2b22ec3ee0e.pdf" type="inline"/></inlineequation>。これは絶対に動かせない、確定した値」</p>
 <p>プロデューサーは頷いた。</p>
 <p>「商品を店に並べるには、まず『原価』<inlineequation><Image href="file://images/_review_math/_gen_754167d7159b56035b19857f514a9b6c273c2fec41cc8d6b0b3b30348d57a479.pdf" type="inline"/></inlineequation>がかかる。そして、工場からの『輸送費』<inlineequation><Image href="file://images/_review_math/_gen_04b5ebab90daea55c048273dbd39bb81039d354edd3ce244d512ea5e4b05d41b.pdf" type="inline"/></inlineequation>もかかる。だから、販売価格はこう決まるはず」</p>
-<Image href="file://images/_review_math/_gen_13688c37111c8d9c5ea79ac72ee689a5e1bcd7a58f85f262d27a4d8bccf42434.pdf"/>
-<Image href="file://images/_review_math/_gen_9e90bbee2f8cff7bd5ca4a71ed32f68df0d8e1107c56331995fed0160832212f.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_13688c37111c8d9c5ea79ac72ee689a5e1bcd7a58f85f262d27a4d8bccf42434.pdf"/></displayequation>
+<displayequation><Image href="file://images/_review_math/_gen_9e90bbee2f8cff7bd5ca4a71ed32f68df0d8e1107c56331995fed0160832212f.pdf"/></displayequation>
 <p>「ところが」</p>
 <p>広は続けた。</p>
 <p>「物理学の理論で、この『輸送費』<inlineequation><Image href="file://images/_review_math/_gen_04b5ebab90daea55c048273dbd39bb81039d354edd3ce244d512ea5e4b05d41b.pdf" type="inline"/></inlineequation>を計算しようとすると、結果が『無限大』になってしまう。これが、昨日話した点粒子の自己エネルギーの問題」</p>
@@ -211,9 +211,9 @@
 <p>広は満足そうに頷いた。</p>
 <p>「物理学者たちがやったのは、まさにそれ。観測できない『原価』<inlineequation><Image href="file://images/_review_math/_gen_754167d7159b56035b19857f514a9b6c273c2fec41cc8d6b0b3b30348d57a479.pdf" type="inline"/></inlineequation>は、理論の中だけの存在。だから、こう宣言する。『原価は固定された値ではなく、我々の輸送費計算ルール (<inlineequation><Image href="file://images/_review_math/_gen_4e73a24d6dbb26ffc7286927b7452dfaae09dbed05a0d0c38adab081c78d96fe.pdf" type="inline"/></inlineequation>) に応じて変動する調整可能なパラメータである』と」</p>
 <p>広は黒板の式を書き換えた。</p>
-<Image href="file://images/_review_math/_gen_1a03a098f821ded9e5de1c8cde510b99eb7a671e156765246470be12f7c0eb0a.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_1a03a098f821ded9e5de1c8cde510b99eb7a671e156765246470be12f7c0eb0a.pdf"/></displayequation>
 <p>「こうして、『原価』に、計算ルール<inlineequation><Image href="file://images/_review_math/_gen_4e73a24d6dbb26ffc7286927b7452dfaae09dbed05a0d0c38adab081c78d96fe.pdf" type="inline"/></inlineequation>への依存をすべて押し付けてしまう。すると、最終的な販売価格は……」</p>
-<Image href="file://images/_review_math/_gen_2ec0e78902e90245f64898b2c38413f620191bafa2f8e97d6fc0a5d012b1a1cb.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_2ec0e78902e90245f64898b2c38413f620191bafa2f8e97d6fc0a5d012b1a1cb.pdf"/></displayequation>
 <p>「……！なるほど……！観測できない『原価』を調整役にして、観測できる『販売価格』が計算ルールによらないようにした……。これが、繰り込み……」</p>
 <p>「そう。無限大に発散する部分を、観測できない『裸の』パラメータに吸収させてしまう。これが繰り込みの操作。現代的な『次元正則化』という手法では、この輸送費の無限大が <inlineequation><Image href="file://images/_review_math/_gen_a86a24cc386d28d416ee52a0fe9783a8783b8f22bcbae61bb0e3f0723f4c87e4.pdf" type="inline"/></inlineequation> という形で現れる。だから、『原価』<inlineequation><Image href="file://images/_review_math/_gen_754167d7159b56035b19857f514a9b6c273c2fec41cc8d6b0b3b30348d57a479.pdf" type="inline"/></inlineequation>の方に、あらかじめ <inlineequation><Image href="file://images/_review_math/_gen_ba9134dcd3df321866aca953314818464ff93ae3e76c388206a8f4246f3ce771.pdf" type="inline"/></inlineequation> という項を仕込んでおいて、足し算した時にきれいに無限大が消えるようにする」</p>
 <p>「でも、やっぱりごまかしているような……」</p>
@@ -228,15 +228,15 @@
 <p>「どんな側面ですか？」</p>
 <p>「正則化という方法がいくつかある。まずパウリ・ヴィラール正則化」</p>
 <note-title>パウリ・ヴィラール正則化</note-title>
-<Image href="file://images/_review_math/_gen_7d5c3c0cfb276d343d59390b49e14caf24c3c20dc474c9cf6f7e10bd9dd49b3f.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_7d5c3c0cfb276d343d59390b49e14caf24c3c20dc474c9cf6f7e10bd9dd49b3f.pdf"/></displayequation>
 <p>「重い仮想粒子（質量<inlineequation><Image href="file://images/_review_math/_gen_4e73a24d6dbb26ffc7286927b7452dfaae09dbed05a0d0c38adab081c78d96fe.pdf" type="inline"/></inlineequation>）を導入して、高エネルギーでの振る舞いを改善する。<inlineequation><Image href="file://images/_review_math/_gen_eb4c2e815f326249c3380f37a41d5ffefe5c1cff57dca48093567a32d34e87a4.pdf" type="inline"/></inlineequation>の極限で元の理論に戻る」</p>
 <p>「なるほど、人工的な粒子で無限大を抑える」</p>
 <p>「もう一つは次元正則化。これがより洗練された方法」</p>
-<Image href="file://images/_review_math/_gen_6b2b1d7db83a150271a10bfb9738f45861da1fcf4f5f5f91f76426c79b3b7b89.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_6b2b1d7db83a150271a10bfb9738f45861da1fcf4f5f5f91f76426c79b3b7b89.pdf"/></displayequation>
 <p>「4次元を<inlineequation><Image href="file://images/_review_math/_gen_38600d4fdc0f4ac381f42ad5682802bbc3149259c42e5a99f4b636ae2168336d.pdf" type="inline"/></inlineequation>次元に拡張。<inlineequation><Image href="file://images/_review_math/_gen_492247e1bab15272d1e53b8015c042bf6fa0cb8f23ec52cad93d6ba80dafb804.pdf" type="inline"/></inlineequation>は次元を合わせるための質量スケール」</p>
 <p>「次元を……変数にする？」</p>
 <p>「そう。すると積分結果は」</p>
-<Image href="file://images/_review_math/_gen_89d0936430920827140027fa97841e109b4536fcb75a66728784e6f18f7dfce1.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_89d0936430920827140027fa97841e109b4536fcb75a66728784e6f18f7dfce1.pdf"/></displayequation>
 <p>「<inlineequation><Image href="file://images/_review_math/_gen_c004c3c95a1ad7069cd94ea6d167353f5b3b189fa94f5cabae2a1c5a83b4f0fc.pdf" type="inline"/></inlineequation>はオイラー・マスケローニ定数。無限大が<inlineequation><Image href="file://images/_review_math/_gen_a86a24cc386d28d416ee52a0fe9783a8783b8f22bcbae61bb0e3f0723f4c87e4.pdf" type="inline"/></inlineequation>の極として現れる」</p>
 <p>広は続けた。</p>
 <p>「繰り込み可能な理論では、すべての無限大が有限個のパラメータの再定義で吸収できる。電子の質量と電荷だけを実験値に合わせれば、他のすべての物理量が有限になる」</p>
@@ -249,14 +249,14 @@
 <p>「なるほど……でも、その方法はどんな理論でも使えるんですか？」</p>
 <p>「いい質問だ、ね。実は、そこが重要で、その繰り込みが使えるかどうかという性質を『繰り込み可能性』と呼ぶ。そして、ある理論が繰り込み可能かどうかは、その理論の『結合定数』の次元を調べることで、ほとんど分かってしまう」</p>
 <p>「結合定数……粒子同士がどれくらいの強さで相互作用するか、を決める数だ、ね。QED（量子電磁力学）では、それは電子の電荷 <inlineequation><Image href="file://images/_review_math/_gen_3f79bb7b435b05321651daefd374cdc681dc06faa65e374e38337b88ca046dea.pdf" type="inline"/></inlineequation> にあたる。この <inlineequation><Image href="file://images/_review_math/_gen_3f79bb7b435b05321651daefd374cdc681dc06faa65e374e38337b88ca046dea.pdf" type="inline"/></inlineequation> の質量次元を見てみよう」</p>
-<Image href="file://images/_review_math/_gen_38216919e76f304ed85de95aae68638e2c040bdeb027b820e0fad48f5dfa2421.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_38216919e76f304ed85de95aae68638e2c040bdeb027b820e0fad48f5dfa2421.pdf"/></displayequation>
 <p>「4次元 (<inlineequation><Image href="file://images/_review_math/_gen_7781a45ef3328472d792bb9c11fa9e7165602a78d67eb543b0e97b65b878064b.pdf" type="inline"/></inlineequation>) では、<inlineequation><Image href="file://images/_review_math/_gen_7b502cd0f374a892ece97fcc803503bad3f6ff5fa2bb350dce1ea8b46d4d9c90.pdf" type="inline"/></inlineequation>。つまり、無次元。これが、繰り込み可能性の鍵」</p>
 <p>「次元がゼロだと、なぜ良いんですか？ただの数、ということですよね？」</p>
 <p>「うん。さっきの『お店の経営』の例えで考えてみよう。結合定数が無次元の理論は、いわば、『経営モデルがシンプルなお店』。計算で出てくる発散（諸経費）は、どんなに複雑な取引をしても、いつも同じ種類の『基本的な経費』の組み合わせで書ける。だから、最初に用意した『原価』（裸の質量）と『消費税率』（裸の電荷）という、有限個の調整ノブを回すだけで、すべての発散を吸収して、観測量（販売価格）を有限に保つことができる。これが繰り込み可能な理論」</p>
 <p>「でも重力は違う……」</p>
 <p>広の表情が曇った。</p>
 <p>「重力の結合定数は、ニュートン定数 <inlineequation><Image href="file://images/_review_math/_gen_4b4aad952969f96a6096405e5c15c44f7cc03e99a0e54022610a6e8175115889.pdf" type="inline"/></inlineequation> だ、ね。その次元は……」<footnote>ここで扱っている単位は<inlineequation><Image href="file://images/_review_math/_gen_7ff4121bb7e1e25bffad23e010889214bae59256719ca6623fc939d80df1cadf.pdf" type="inline"/></inlineequation>の自然単位系だから、MKS単位系とはニュートン定数の次元が異なる、ね</footnote></p>
-<Image href="file://images/_review_math/_gen_fd2da50006aebf712dfd96426e2782f86c41960e03380289da2b8e20b81f1a99.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_fd2da50006aebf712dfd96426e2782f86c41960e03380289da2b8e20b81f1a99.pdf"/></displayequation>
 <p>「質量次元が、負になっている……。これは『経営モデルが複雑なお店』のようなものだ、ね。計算の次数が上がるたびに、つまり、より複雑な取引を考えるたびに、どんどん新しい、もっとひどい種類の発散が現れる」</p>
 <p>「つまり？」</p>
 <p>「最初の取引では『輸送費』の発散だけだったのが、次の取引では『関税』という新しい発散が、その次の取引では『港湾利用料』という、さらに新しい発散が……というように、無限に新しい種類の経費が追加されていく。そのたびに、新しい調整ノブ、つまり新しい『裸のパラメータ』を理論に追加しないと、価格を一定に保てない。1ループで<inlineequation><Image href="file://images/_review_math/_gen_03cd5a90c4468e52dae9b576e4925763b2a60475a696f734d44c964e496abd87.pdf" type="inline"/></inlineequation>、2ループで<inlineequation><Image href="file://images/_review_math/_gen_bc2ad8d7ccac0f29d54f34c7944cfc37167c0d388be007fa221fc233e30b3fff.pdf" type="inline"/></inlineequation>……と、無限個の counter term が必要になってしまう。これでは、理論は予測能力を失ってしまう。どんな実験結果が出ても、『ああ、それはこういう新しいパラメータがあったからですよ』と後付けで説明できてしまうから。これが『繰り込み不可能』ということ」</p>
@@ -278,7 +278,7 @@
 <p>「その通り。わたしたちの観測能力の限界で点に見えているだけで、本当は広がりを持っているかもしれない。物理学者たちは、その可能性に賭けた」</p>
 <p>「でも、一体どこまで小さく見れば、その『広がり』が見えるんですか？」</p>
 <p>「そこが、面白いところ。実は、物理学には『これ以上は原理的に見ることができない』という究極の長さの限界がある。それがさっき言ったプランク長さ」</p>
-<Image href="file://images/_review_math/_gen_8d8185826eb6e124b82fa48680e005bc234b5024b16f27e6bbd590c27c165881.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_8d8185826eb6e124b82fa48680e005bc234b5024b16f27e6bbd590c27c165881.pdf"/></displayequation>
 <p>「これは、単に技術的な限界じゃない。もし、この長さより小さい領域を無理やり見ようとすると、不確定性原理によって、そこに途方もないエネルギーを集中させる必要がある。そして、アインシュタインの理論によれば、エネルギーは質量と等価(<inlineequation><Image href="file://images/_review_math/_gen_f2be93acefe998252eb1b8ddbcbfe428f547b60689dfea6eecc3886d21d73dee.pdf" type="inline"/></inlineequation>)。つまり、その領域はあまりの質量密度に耐えきれず、自分自身の重力で崩壊して、ブラックホールになってしまう」</p>
 <p>「ブラックホールに……！？」</p>
 <p>「そう。見ようとした対象が、事象の地平線の向こうに隠れてしまう。だから、プランク長さは、わたしたちが意味のある形で『距離』を語れる、最後のフロンティア。それより先では、時空そのものが量子的に泡立ち、わたしたちの知る時空の概念が意味をなさなくなる、と考えられている」</p>
@@ -293,7 +293,7 @@
 <p>「ひも……ですか？」</p>
 <p>「そう。大きさゼロの点ではなく、プランク長さほどの長さを持つ、1次元に広がった小さな弦。その動きは、こんな作用（action）で記述される」</p>
 <note-title>南部・後藤作用(Nambu-Goto action)</note-title>
-<Image href="file://images/_review_math/_gen_aadf929d0497f6627f7c7549131bdcefc452716677990077fe71d18530891ebf.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_aadf929d0497f6627f7c7549131bdcefc452716677990077fe71d18530891ebf.pdf"/></displayequation>
 <p>「これは南部・後藤作用(Nambu-Goto action)。弦が時間と共に動いて作る『世界面（ワールドシート）』の面積が、最小になるように動きなさい、という意味だ、ね」</p>
 <p>「うーん……式が複雑で、よく分からないです……」</p>
 <p>「ふふ、大丈夫。見た目は難しそうだけど、一つ一つの部品に分解すれば、その意味が見えてくる。これは、物理学の最も美しい原則の一つ、『最小作用の原理』を弦に適用したものなんだね」</p>
@@ -309,7 +309,7 @@
 <p>「なるほど……。じゃあ、最後の、一番難しいルートの中身は……？」</p>
 <p>「それが、その小さなパッチ一枚の『面積』を計算する公式」</p>
 <p>広はルートの中身を指でなぞった。</p>
-<Image href="file://images/_review_math/_gen_0032a7a5b108cdc3d64fa0b0240cbb2a51f21113ccc6470e6379593e7220a6f6.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_0032a7a5b108cdc3d64fa0b0240cbb2a51f21113ccc6470e6379593e7220a6f6.pdf"/></displayequation>
 <p>「<inlineequation><Image href="file://images/_review_math/_gen_4b68ab3847feda7d6c62c1fbcbeebfa35eab7351ed5e78f4ddadea5df64b8015.pdf" type="inline"/></inlineequation> は、時空の中での弦の位置。そして <inlineequation><Image href="file://images/_review_math/_gen_e4a6195de615071659bb4f3e6889c4a2b689ae48ebc19514e73d4a4e185548bb.pdf" type="inline"/></inlineequation> (エックス・ドット) は、弦のある一点が時間 <inlineequation><Image href="file://images/_review_math/_gen_55d1823545b5b4c3cbc42b784c5e84605ffbe8e59d1dee9782cd87741eef9dc3.pdf" type="inline"/></inlineequation> でどれだけ動くか、つまり『速度』。<inlineequation><Image href="file://images/_review_math/_gen_f5857cac0ddcea35a4a3d1605d41622f43f500eb8382d697816245ac89573ed0.pdf" type="inline"/></inlineequation> (エックス・プライム) は、弦に沿って <inlineequation><Image href="file://images/_review_math/_gen_9c3245dfb4ac54c1623a60e7b8d1fc07cb02eae1229435230c7dab5e71083a26.pdf" type="inline"/></inlineequation> だけ動いた時に位置がどう変わるか、つまり弦の『向き』や『伸び』を表している」</p>
 <p>「この二つのベクトル <inlineequation><Image href="file://images/_review_math/_gen_e4a6195de615071659bb4f3e6889c4a2b689ae48ebc19514e73d4a4e185548bb.pdf" type="inline"/></inlineequation> と <inlineequation><Image href="file://images/_review_math/_gen_f5857cac0ddcea35a4a3d1605d41622f43f500eb8382d697816245ac89573ed0.pdf" type="inline"/></inlineequation> が、小さなパッチの2つの辺を定義する。そして、ルートの中身全体は、この2辺が作る小さな平行四辺形の面積を、時空の中で正しく計算するための、幾何学の公式。ふふ、ちょっと難しいけど、時空版の『底辺×高さ』だと思ってくれていい」</p>
 <p>「つまり、この式は……」</p>
@@ -409,36 +409,36 @@
 <p>「ありがとう」広は頷き、チョークを握った。</p>
 <p>「まず、弦の動きを記述する、世界面（ワールドシート）の作用をもう一度見てみよう」</p>
 <p>広は黒板に、以前も書いた南部・後藤作用（Nambu-Goto action）を書いた。</p>
-<Image href="file://images/_review_math/_gen_fefb5760e1d1d51eaa9382182ae836b1c6aa62f60c3f3ba9228bdb79e2a08655.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_fefb5760e1d1d51eaa9382182ae836b1c6aa62f60c3f3ba9228bdb79e2a08655.pdf"/></displayequation>
 <p>ここで <inlineequation><Image href="file://images/_review_math/_gen_e14cb192aabec81c4fa957c8f5c78d985aa6a7c9aaa4beb972cfec2a27fa88f4.pdf" type="inline"/></inlineequation> は弦の張力、ドットは時間微分 <inlineequation><Image href="file://images/_review_math/_gen_a2f34286c4589ec17960f016e988c4cc223a450d1e951a0343c33740aac784c2.pdf" type="inline"/></inlineequation>、プライムは空間微分 <inlineequation><Image href="file://images/_review_math/_gen_36b40add299a8f506a8568595d856c9f16c98305f4c39b332d997d6f3c9b318b.pdf" type="inline"/></inlineequation> を表す。</p>
 <p>「この作用は、弦が作る世界面の面積を最小にする、という美しい意味を持っている。でも……」</p>
 <p>「でも？」</p>
 <p>「この平方根が、量子化の計算をとても難しくするんだ、ね。だから、これと等価な別の作用、ポリヤコフ作用（Polyakov action）を使う」</p>
-<Image href="file://images/_review_math/_gen_fe7e0ef97c2f06ba8bacf2a330ab31cac89308643cd4a3de516c0756c284fa15.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_fe7e0ef97c2f06ba8bacf2a330ab31cac89308643cd4a3de516c0756c284fa15.pdf"/></displayequation>
 <p>「<inlineequation><Image href="file://images/_review_math/_gen_a67f6de55581f6c0b4b7d566eab4bfa752c0c2faeda4f9d9fae1f9dea3aba7dd.pdf" type="inline"/></inlineequation> は、世界面上の計量テンソル<footnote>時空の距離では大体<inlineequation><Image href="file://images/_review_math/_gen_9135467db1e92ace02eed9ead73ce2833937f493bd5d3b6a38aa2b18b3eb956c.pdf" type="inline"/></inlineequation>が使われるけど、今回は世界面の計量だから<inlineequation><Image href="file://images/_review_math/_gen_a67f6de55581f6c0b4b7d566eab4bfa752c0c2faeda4f9d9fae1f9dea3aba7dd.pdf" type="inline"/></inlineequation>を利用した、ね。</footnote>。補助的な場だね。これを導入することで、平方根が消えて、計算がずっと楽になる」</p>
 <p>「計量……難しそうですね」</p>
 <p>「大丈夫。この理論には『再パラメトリゼーション不変性』というゲージ対称性があって、それを使うと、この <inlineequation><Image href="file://images/_review_math/_gen_a67f6de55581f6c0b4b7d566eab4bfa752c0c2faeda4f9d9fae1f9dea3aba7dd.pdf" type="inline"/></inlineequation> を単純な形に固定できる。その一つが、今日使う『光錐ゲージ』」</p>
 <p>「光錐座標 <inlineequation><Image href="file://images/_review_math/_gen_10fe529731b094c07fbb4bd37b43d77cbe8bc341938f58e6e2a722131ef9334c.pdf" type="inline"/></inlineequation> を導入して、弦の時間発展パラメータ <inlineequation><Image href="file://images/_review_math/_gen_55d1823545b5b4c3cbc42b784c5e84605ffbe8e59d1dee9782cd87741eef9dc3.pdf" type="inline"/></inlineequation> を光錐時間 <inlineequation><Image href="file://images/_review_math/_gen_209afa5f0628d3548353a542ed492428872ce4dea70e00f0eae43c8b79f1fef1.pdf" type="inline"/></inlineequation> に選ぶのだ、ね。<inlineequation><Image href="file://images/_review_math/_gen_a195af487302b27a7419b23293b2deb63f3e6d7c712df7d5e52684ca35f12b9c.pdf" type="inline"/></inlineequation>。これは、弦が光速で特定の方向に進み続けると見なす座標系の選び方だ、ね」</p>
 <p>「そのゲージを選ぶと、弦の運動方程式は、驚くほど簡単な形になる」</p>
-<Image href="file://images/_review_math/_gen_7698655fe8571137a3d4b1b29863e9b7ed48bb8a50bc274205ee0a254b9fa1f8.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_7698655fe8571137a3d4b1b29863e9b7ed48bb8a50bc274205ee0a254b9fa1f8.pdf"/></displayequation>
 <p>「ここで <inlineequation><Image href="file://images/_review_math/_gen_1e28247b5719d530cf40626c330f892eec6849ab5873447e6e45447a9ead13b7.pdf" type="inline"/></inlineequation> は、弦が動ける横方向（Transverse）の次元。<inlineequation><Image href="file://images/_review_math/_gen_1628be5c1cc28e7e3ea5e81fdd91374c5c40c7ad50a24c3ea04c4827f9b8cdb7.pdf" type="inline"/></inlineequation> までの <inlineequation><Image href="file://images/_review_math/_gen_5eb4047173c639fb46788177be242baf637282ef04e41d82b3290f7e87da687e.pdf" type="inline"/></inlineequation> 個ある」</p>
 <p>「これって、ただの波の方程式じゃないですか？」</p>
 <p>プロデューサーが、少し興奮したように声を上げた。</p>
 <p>「高校の物理で習った、ギターの弦の振動を表す式にそっくりです。空間についての二階微分と、時間についての二階微分があって、その差がゼロになる……。つまり、弦の『曲がり具合』が、その点の『加速度』を決める、という関係ですよね。これはまさに、波が伝わる様子そのものじゃないですか？」</p>
 <p>「その通り。難しい理論が、ただの波の集まりになった。そして、波の解はフーリエ級数で書ける。つまり、弦の動きは、たくさんの振動（モード）の重ね合わせとして表現できる、ということだ、ね」</p>
 <p>広は、弦の横方向の揺れを表すモード展開の式を、黒板に丁寧に書き出した。</p>
-<Image href="file://images/_review_math/_gen_5feb72e5ebfbb94fc9dd7bbddcefb6728266b24a174d236100af0073d14ad170.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_5feb72e5ebfbb94fc9dd7bbddcefb6728266b24a174d236100af0073d14ad170.pdf"/></displayequation>
 <p>「<inlineequation><Image href="file://images/_review_math/_gen_48f4a03fbc55289771143bbb51f68bb87439678e7b238cd1256c4d15b5842305.pdf" type="inline"/></inlineequation> と <inlineequation><Image href="file://images/_review_math/_gen_97bae72ced80959b338160219e8a5b3d9b9b625decd4916a8e2be3df4737b2c0.pdf" type="inline"/></inlineequation> は弦全体の重心の位置と運動量。そして、この <inlineequation><Image href="file://images/_review_math/_gen_cfefdc908253c9669757968685c79adbddc2bd600478b92e1b6d160a93d0e554.pdf" type="inline"/></inlineequation> が、弦の<inlineequation><Image href="file://images/_review_math/_gen_1b16b1df538ba12dc3f97edbb85caa7050d46c148134290feba80f8236c83db9.pdf" type="inline"/></inlineequation>番目の振動モードの振幅を表す。これが、弦理論の最も基本的な構成要素になる」</p>
 <p>広はチョークを置き、椅子に座った。少し息が上がっている。</p>
 <p>「プロデューサー、ここまでの内容は大丈夫そう？古典的な弦が、たくさんの調和振動子（ハーモニック・オシレーター）の集まりであることが分かった。次のステップは、これを量子化すること。つまり、この振動の一つ一つを、量子の世界に持っていくんだ、ね」</p>
 <p>「量子化……。つまり、二日前の話にあった、すべてが揺らいでいる世界に、ということですか？」</p>
 <p>「その通り。古典的な世界では、振動の振幅 <inlineequation><Image href="file://images/_review_math/_gen_cfefdc908253c9669757968685c79adbddc2bd600478b92e1b6d160a93d0e554.pdf" type="inline"/></inlineequation> はただの複素数だった。でも、量子力学では、これらは『演算子（オペレーター）』になる。そして、演算子は、一般的には交換しない。交換関係(Commutation Relation)っていう規則がある」</p>
-<Image href="file://images/_review_math/_gen_98678785ecf9292a8486657ef55fa2b02abbcfbcd3a821f6369ef649703b1e4a.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_98678785ecf9292a8486657ef55fa2b02abbcfbcd3a821f6369ef649703b1e4a.pdf"/></displayequation>
 <p>「交換関係……？」</p>
 <p>「<inlineequation><Image href="file://images/_review_math/_gen_f3136e33a7eeba46cf111663c82ee186006b420120b1e8054413ee39f94d439c.pdf" type="inline"/></inlineequation> のこと。これがゼロにならない、というのが量子論の本質の一つ。この <inlineequation><Image href="file://images/_review_math/_gen_cfefdc908253c9669757968685c79adbddc2bd600478b92e1b6d160a93d0e554.pdf" type="inline"/></inlineequation> は、量子的な調和振動子における生成・消滅演算子とほとんど同じもの。<inlineequation><Image href="file://images/_review_math/_gen_67500429cdd36beba6a6b015ccfa15bb06e8ef7a54ae4a5c55ec9349fa45c1ea.pdf" type="inline"/></inlineequation> の <inlineequation><Image href="file://images/_review_math/_gen_cfefdc908253c9669757968685c79adbddc2bd600478b92e1b6d160a93d0e554.pdf" type="inline"/></inlineequation> は振動を一つ『消し』、<inlineequation><Image href="file://images/_review_math/_gen_92d5f7a63b41d51e038ed6fc9a4f24041d4db211e454603321969008e9202368.pdf" type="inline"/></inlineequation> は振動を一つ『生み出す』」</p>
 <p>「弦の振動を、生成したり消滅させたりする……？」</p>
 <p>「そう。そして、弦全体のエネルギー、つまりハミルトニアンは、これらの振動モードすべてのエネルギーの合計として書ける。そして、相対性理論によれば、静止した物体のエネルギーは質量に等しい (<inlineequation><Image href="file://images/_review_math/_gen_f2be93acefe998252eb1b8ddbcbfe428f547b60689dfea6eecc3886d21d73dee.pdf" type="inline"/></inlineequation>)。だから、弦の質量（の2乗）は、こうなる」</p>
-<Image href="file://images/_review_math/_gen_97cd4bea99b15282efafd5f651995044a5b4259b26d691eb7b2f062e65cbee4c.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_97cd4bea99b15282efafd5f651995044a5b4259b26d691eb7b2f062e65cbee4c.pdf"/></displayequation>
 <p>(ここで <inlineequation><Image href="file://images/_review_math/_gen_f1fb87c81b1a53c360625460bb5dee8c19420b8c412453599b285b6e7af2aeee.pdf" type="inline"/></inlineequation> は弦のパラメータ)</p>
 <p>「この式が言っているのは、弦の質量は、その内部にある無数の振動のエネルギーの合計で決まる、ということ」</p>
 <p>「なるほど……。振動が激しいほど、重い粒子に見える、ということですね」</p>
@@ -453,20 +453,20 @@
 <p>「そう。そのために、演算子の順番を並べ替える。生成演算子（<inlineequation><Image href="file://images/_review_math/_gen_9ad74228f73e5633be2030dbefb9abfbf4bccce72778fede971dcc32ab82c731.pdf" type="inline"/></inlineequation>）が、必ず消滅演算子（<inlineequation><Image href="file://images/_review_math/_gen_a823753ea21932332a9bbed00c19a27e09d547e245426c2691aff71db4020eac.pdf" type="inline"/></inlineequation>）の左側に来るように、ね。この操作を正規順序化と呼んで、その結果である正規順序積をコロン（:）で囲んで表す。<inlineequation><Image href="file://images/_review_math/_gen_a45955aa524df07b5dab361f8a7bf0b6c434fa969e0fe99acf8197fa128f06ce.pdf" type="inline"/></inlineequation> のような感じで。でも、この並べ替えはタダではできない。演算子を交換するときに、交換関係から有限の定数が『ゴミ』として出てくる」</p>
 <p>「そのゴミが、例の定数ですか？」</p>
 <p>「その通り。この定数 <inlineequation><Image href="file://images/_review_math/_gen_ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb.pdf" type="inline"/></inlineequation> は、まさにあの無限個のゼロ点エネルギーのなごりだね。計算してみると、こうなる」</p>
-<Image href="file://images/_review_math/_gen_347b9620d2da7ff496714b6aacaa52f4164aa04521af9cdee4a3ed645c820883.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_347b9620d2da7ff496714b6aacaa52f4164aa04521af9cdee4a3ed645c820883.pdf"/></displayequation>
 <p>「<inlineequation><Image href="file://images/_review_math/_gen_5eb4047173c639fb46788177be242baf637282ef04e41d82b3290f7e87da687e.pdf" type="inline"/></inlineequation> は、弦が揺れることができる横方向の次元の数。そして、この <inlineequation><Image href="file://images/_review_math/_gen_4713ce2ce3d0f5c4af05e58ef0f8de50f2aa3b7517bfdb26ab59c2458abb8117.pdf" type="inline"/></inlineequation> という無限級数。もちろん、普通に足したら無限大に発散する」</p>
 <p>「ですよね……？これをどうするんですか？」</p>
 <p>「ここで、数学の魔法を使う。『ゼータ関数による正則化』という方法だね。リーマンのゼータ関数 <inlineequation><Image href="file://images/_review_math/_gen_2e918abdf9370a26b6a6b8655d122ee8aebd69f1d8169951b60ede281037d541.pdf" type="inline"/></inlineequation> を使うと、この発散する級数に、有限な値を割り当てることができる」</p>
-<Image href="file://images/_review_math/_gen_363310b6d32015650f86412cee555f42f30c023a4a97fa14f6ba2e93cb555da0.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_363310b6d32015650f86412cee555f42f30c023a4a97fa14f6ba2e93cb555da0.pdf"/></displayequation>
 <p>「1+2+3……が、マイナスの分数に……？」</p>
 <p>「ふふ、信じられないよね。これは『解析接続』という数学の魔法を使った結果。<footnote><inlineequation><Image href="file://images/_review_math/_gen_f86c014e4ed0965b2544787b4afe7f6a6f0d19f5c871fe96d11d3cb63626f759.pdf" type="inline"/></inlineequation>は<inlineequation><Image href="file://images/_review_math/_gen_0ae7484d9b05ea817880f6dad06e7a805cf66e7990813db11c3d2c32b807a43d.pdf" type="inline"/></inlineequation>でのみ収束するけど、解析接続で<inlineequation><Image href="file://images/_review_math/_gen_23d6f9b37783d50d251dee8726fbde989cee1806ff043ac2a0814a72e3b96441.pdf" type="inline"/></inlineequation>まで拡張すると<inlineequation><Image href="file://images/_review_math/_gen_1da257e4a54896868092ca4d44c413e2ee6f4063a5ad81cec69ed1f526b0b431.pdf" type="inline"/></inlineequation>になる。これは通常の和ではなく、発散する級数に物理的に意味のある有限値を割り当てる正則化の処方箋。Casimir効果などで実験的にも検証されてる、んだね。</footnote>ゼータ関数は、もともと限られた範囲でしか定義できない級数だけど、その『行儀の良い』部分の形を頼りに、定義域の外まで滑らかに延長していくことができる。そうやって<inlineequation><Image href="file://images/_review_math/_gen_23d6f9b37783d50d251dee8726fbde989cee1806ff043ac2a0814a72e3b96441.pdf" type="inline"/></inlineequation>まで延長した先の値が、<inlineequation><Image href="file://images/_review_math/_gen_a500f279cf324a5f74a0d1255d3f43c0ce799278e8b977bafb9f631e3e61a796.pdf" type="inline"/></inlineequation>なんだね。元の級数とは違うけれど、物理学の様々な場面で、この値が正しい結果を与えることが知られている、ということだ、ね。この結果を使うと、零点エネルギーの寄与が求まる」</p>
-<Image href="file://images/_review_math/_gen_4a6c9c745d62d8c1ff808fb956a937ce885f1365ce91303b0236ba45bafa649a.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_4a6c9c745d62d8c1ff808fb956a937ce885f1365ce91303b0236ba45bafa649a.pdf"/></displayequation>
 <p>「ハミルトニアンの定義から、計算の途中でマイナス符号がいくつか出てきて、最終的にこの負の値になる、ね」</p>
 <p>広はチョークを置き、プロデューサーに向き直った。</p>
 <p>「この零点エネルギーを考慮すると、物理的に意味のある質量公式はこうなる」</p>
-<Image href="file://images/_review_math/_gen_81809ae3d516eb4f391d1556dee750901719c0ca52aa6bcce9be91f9cfd2d88a.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_81809ae3d516eb4f391d1556dee750901719c0ca52aa6bcce9be91f9cfd2d88a.pdf"/></displayequation>
 <p>「ここで <inlineequation><Image href="file://images/_review_math/_gen_f202369f5df949d82c953fa98cae802d05c6bdecf6d6740e036d91009652b70c.pdf" type="inline"/></inlineequation> は、弦の振動のエネルギーを表す『数演算子』。そして、この式を <inlineequation><Image href="file://images/_review_math/_gen_0daa62bbcb6284d8db6266dea88c59bb58e7767988c498d2cb7af892e7c985cc.pdf" type="inline"/></inlineequation> の形で書くと、定数 <inlineequation><Image href="file://images/_review_math/_gen_ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb.pdf" type="inline"/></inlineequation> の値が」</p>
-<Image href="file://images/_review_math/_gen_4703e9ce460f707fa6de2377b28ec35649bcf25f65718aca917495959586ad9a.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_4703e9ce460f707fa6de2377b28ec35649bcf25f65718aca917495959586ad9a.pdf"/></displayequation>
 <p>「と決まる。この <inlineequation><Image href="file://images/_review_math/_gen_ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb.pdf" type="inline"/></inlineequation> は、正規順序化から生じる補正項として、時たま、『正規順序定数』(normal ordering constant)などと呼ばれることもある、ね」</p>
 <p>広はプロデューサーの方を向いた。</p>
 <p>「これで、舞台は整った。この質量公式と、さっきの交換関係。この二つだけを使って、アインシュタインの相対性理論が、量子の世界でもちゃんと成立するかを確かめる。そうすると、次元 <inlineequation><Image href="file://images/_review_math/_gen_3f39d5c348e5b79d06e842c114e6cc571583bbf44e4b0ebfda1a01ec05745d43.pdf" type="inline"/></inlineequation> の値が、ひとりでに決まってしまう」</p>
@@ -476,12 +476,12 @@
 <p>「この不変性は、ローレンツ変換の生成子（ジェネレーター） <inlineequation><Image href="file://images/_review_math/_gen_5c03d7a78b3549a2fbfafc908e3c76a2b26d75ce7e1dcc46d36477556167005c.pdf" type="inline"/></inlineequation> が、特定の代数関係（交換関係）を満たすことで保証される。古典論では、もちろん満たされている。問題は、量子化した後でも、この関係が保たれているか、ということだね」</p>
 <p>「壊れてしまう可能性があるんですか？」</p>
 <p>「ある。量子化に伴う演算子の順序や発散のせいで、古典的な対称性が壊れてしまうことがある。これを『アノマリー』と呼ぶ。そして、弦理論で最も注意深く調べる必要があるのが、この交換関係」</p>
-<Image href="file://images/_review_math/_gen_282322760265147199d9e67d5e429a5ec941aa37e19fdeb7c1e8f910c0a89d32.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_282322760265147199d9e67d5e429a5ec941aa37e19fdeb7c1e8f910c0a89d32.pdf"/></displayequation>
 <p>「<inlineequation><Image href="file://images/_review_math/_gen_fef0a6b87de4d312dc57cfe9b76c7136cf40e92a65e9e84872b727c3c7213913.pdf" type="inline"/></inlineequation> は、ブースト（速度を上げる変換）に関わる生成子の一部。古典的には、この交換関係は必ずゼロになる。でも、量子論では……この交換関係を、これまで導いた <inlineequation><Image href="file://images/_review_math/_gen_cfefdc908253c9669757968685c79adbddc2bd600478b92e1b6d160a93d0e554.pdf" type="inline"/></inlineequation> の量子的なルールで計算していくと、ほとんどの項はゼロになるけど、どうしても消えない『アノマリー項』が残ってしまう。その項の最終的な形は、驚くほどシンプルになるのだ、ね」</p>
-<Image href="file://images/_review_math/_gen_ebfe20dbfd20461c18a3815c641b890518a82a7d4d16185576b324933f88d017.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_ebfe20dbfd20461c18a3815c641b890518a82a7d4d16185576b324933f88d017.pdf"/></displayequation>
 <p>「途中の計算は省略したけど、さっきの定数 <inlineequation><Image href="file://images/_review_math/_gen_ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb.pdf" type="inline"/></inlineequation> などが複雑に絡み合った結果、最終的にこの <inlineequation><Image href="file://images/_review_math/_gen_1d95465cb7bf6a47a5c88b1b434ca7ab18abae8c06fc83351179138bd6867dce.pdf" type="inline"/></inlineequation> という項だけが残る」<footnote>光錐ゲージでは計算は簡単になるけどローレンツ対称性は明示的に破れる。量子論でもこの対称性を保つには、ブースト生成子<inlineequation><Image href="file://images/_review_math/_gen_fef0a6b87de4d312dc57cfe9b76c7136cf40e92a65e9e84872b727c3c7213913.pdf" type="inline"/></inlineequation>の交換関係<inlineequation><Image href="file://images/_review_math/_gen_47f8077d427a27c68f5aba727174fe75e8fb9c54a318b851c42f7a1de6857451.pdf" type="inline"/></inlineequation>が必要。正規順序化のアノマリーを計算すると、世界面の共形場理論の中心電荷<inlineequation><Image href="file://images/_review_math/_gen_ae7b3d759dad402871d81ae9d3842fb247ec62ed62c686ae754fdfeff423f3a7.pdf" type="inline"/></inlineequation>がゼロになる条件<inlineequation><Image href="file://images/_review_math/_gen_734abfb82aa316bd01f3130dc211018f9201a3718022c151f38079f6949ac7fc.pdf" type="inline"/></inlineequation>が得られる、ね。</footnote></p>
 <p>「つまり、ローレンツ不変性が保たれる、アノマリーがゼロになるという条件は……」</p>
-<Image href="file://images/_review_math/_gen_66f992c3f9f21ad175200693b04dbf601fccfae93b9b4ba6cf7116126b60d4e9.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_66f992c3f9f21ad175200693b04dbf601fccfae93b9b4ba6cf7116126b60d4e9.pdf"/></displayequation>
 <p>「つまり…… <inlineequation><Image href="file://images/_review_math/_gen_734abfb82aa316bd01f3130dc211018f9201a3718022c151f38079f6949ac7fc.pdf" type="inline"/></inlineequation>」</p>
 <p>プロデューサーが、か細い声で言った。</p>
 <p>「そう。ボソン弦理論は、26次元時空でなければ、物理理論として存在できない。これが、臨界次元の導出の結末」</p>
@@ -498,7 +498,7 @@
 <p>「そして、このアノマリーの量を計算するとき、弦の様々な要素がまるで『スコア』のように数値を足し引きしていく。弦が時空の中で揺れる振動、超対称性によって加わった物質粒子（フェルミオン）の振動、そして、理論を数学的に正しく成り立たせるためだけに導入される『ゴースト』という架空の存在……。これら全てが、アノマリーのスコアに貢献する」</p>
 <p>「ボソン弦理論では、これらのスコアを全部足し算した結果がゼロになるのが、ちょうど<inlineequation><Image href="file://images/_review_math/_gen_734abfb82aa316bd01f3130dc211018f9201a3718022c151f38079f6949ac7fc.pdf" type="inline"/></inlineequation>のときだった。でも、超弦理論では、フェルミオンや、それに対応する新しいゴースト（β-γゴースト）が加わったことで、スコアのバランスが全く変わってしまう。そして、新しい構成でスコアの合計がゼロになる条件を探すと、それが今度は<inlineequation><Image href="file://images/_review_math/_gen_8d976f198cd22ec884bfb9293113e1baa29cb4cb9b9dbfdb4c006dc194da8503.pdf" type="inline"/></inlineequation>になる」</p>
 <p>「つまり、物質粒子を含んだ、より現実に近い安定した理論を求めると、理論自身が『舞台は10次元でなければならない』と告げてくる」</p>
-<Image href="file://images/_review_math/_gen_2cf7c03b00b366c1f5fef270393252d9cac76aace3d18614865421449c158254.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_2cf7c03b00b366c1f5fef270393252d9cac76aace3d18614865421449c158254.pdf"/></displayequation>
 <p>「この簡単な一次方程式を解くと……<footnote>この式の各項の意味を説明すると、<inlineequation><Image href="file://images/_review_math/_gen_3f39d5c348e5b79d06e842c114e6cc571583bbf44e4b0ebfda1a01ec05745d43.pdf" type="inline"/></inlineequation>は時空座標<inlineequation><Image href="file://images/_review_math/_gen_0d14c535f344c5f0f382f4c4c0ed24f1103cfc56b530c5b282f5bdd382170c7b.pdf" type="inline"/></inlineequation>からの寄与（各ボソン場が中心電荷<inlineequation><Image href="file://images/_review_math/_gen_682607c9a4877b48b14ae0b08d6a64e0010dc31282128f16b2d0056039c0f68c.pdf" type="inline"/></inlineequation>）、<inlineequation><Image href="file://images/_review_math/_gen_8d5639cab91e9072ff984afb4933eec75a8cb059fc1c27599d56160af05cbacf.pdf" type="inline"/></inlineequation>はワールドシートフェルミオン<inlineequation><Image href="file://images/_review_math/_gen_a47b442d53060341baa84487bb4158a6ad1a8d7297ccfce8bc6337ce678153c9.pdf" type="inline"/></inlineequation>の寄与（各フェルミオンが<inlineequation><Image href="file://images/_review_math/_gen_988b4a7468f130e83d15d80a3235bacb6de47ef1fa1cd1c5a6ed01849fc91e88.pdf" type="inline"/></inlineequation>）、<inlineequation><Image href="file://images/_review_math/_gen_e25db7f6607883e05e293552f367401965f84a57638c7a656116cfbd379001b2.pdf" type="inline"/></inlineequation>はbc-ゴースト系、<inlineequation><Image href="file://images/_review_math/_gen_3af938f5a040391aeb4d3411ec62e6f9948c53d5671e8d7f53c81cf275f6c58f.pdf" type="inline"/></inlineequation>は<inlineequation><Image href="file://images/_review_math/_gen_b53fc444fb00c9621882dd3fbbe2e2c9172343e64e2cc514ef15ec91d252f47f.pdf" type="inline"/></inlineequation>-ゴースト系の寄与。これらの中心電荷の総和がゼロ、つまり<inlineequation><Image href="file://images/_review_math/_gen_1e11b13680180d03971bb03d85d38c14505aaa5de83456716b0d55aed00ca725.pdf" type="inline"/></inlineequation>になる条件が、世界面の共形場理論が矛盾なく定義される条件になってる。各項の数値はVirasoro代数や超Virasoro代数の表現論から厳密に計算される、んだね。</footnote> <inlineequation><Image href="file://images/_review_math/_gen_bc142d4392576083446f12fe66d060c32e3aad47e0b07b79f47d872fb0c0c222.pdf" type="inline"/></inlineequation>、つまり <inlineequation><Image href="file://images/_review_math/_gen_8d976f198cd22ec884bfb9293113e1baa29cb4cb9b9dbfdb4c006dc194da8503.pdf" type="inline"/></inlineequation> が出てくる。これが、超弦理論が10次元でなければならない理由の計算的な骨子。ボソンとフェルミオン、そしてそれぞれのゴーストたちが、まるで奇跡のように手を取り合って、10次元という舞台でだけ、完璧な理論を成立させる。つまり、物質粒子を含み、かつ安定な理論を求めると、世界は10次元でなければならない、と理論自身が教えてくれる。ふふ、よく出来てるでしょ？」</p>
 <p>「時間1次元、空間9次元」</p>
 <p>広は片手で指を9本立てようとして、できないことに気づいた。</p>

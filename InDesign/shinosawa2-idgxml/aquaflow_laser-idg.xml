@@ -73,7 +73,7 @@
 <p>「そうでしたね．」</p>
 <p>「それをさっきのエネルギーの図で描くとこう．再結合した時に電子は伝導体から価電子帯に移る<footnote>再結合が起こると電子やホールが回路を1周せず電流が流れていないように見えるかもしれないが，回路内のそれぞれの場所に電子の流れがあれば全体として電流は流れている．よってこの状態でも電流は生じる．</footnote>．エネルギーが低いところに行ったぶん，エネルギーが余る．LEDやレーザーダイオードではこの余ったエネルギーが光になっている<footnote>では再結合時のエネルギー差分が全部光になるのか？と言うとそんなことはなく，例えば熱に変わることもある．再結合でエネルギーがどんな形で放出されるかを議論するには結晶格子や波動関数の波数といった議論が必要になるが，発光から話が離れてしまうので今回は割愛する．</footnote><span type="bibno">[3] </span><span type="bibno">[4] </span><span type="bibno">[5] </span>．」</p>
 <p>「電子がエネルギーを持っているように，光にもエネルギーがある．光のエネルギーと波長には決まった関係があって，こういう式で書ける．</p>
-<Image href="file://images/_review_math/_gen_e269892287ae1be6569875fd345c38d897aa2d413a95785f0b6dc66a130cb239.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_e269892287ae1be6569875fd345c38d897aa2d413a95785f0b6dc66a130cb239.pdf"/></displayequation>
 <p><inlineequation><Image href="file://images/_review_math/_gen_a9f51566bd6705f7ea6ad54bb9deb449f795582d6529a0e22207b8981233ec58.pdf" type="inline"/></inlineequation>が光のエネルギーで，<inlineequation><Image href="file://images/_review_math/_gen_2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6.pdf" type="inline"/></inlineequation>は真空中の光の速さ，<inlineequation><Image href="file://images/_review_math/_gen_583cf6290785d72cc1b71808962dd4bd72ca369f004fb5cb587694fc1b26149f.pdf" type="inline"/></inlineequation>は光の波長．<inlineequation><Image href="file://images/_review_math/_gen_aaa9402664f1a41f40ebbc52c9993eb66aeb366602958fdfaa283b71e64db123.pdf" type="inline"/></inlineequation>はプランク定数で，プランクって人が黒体輻射について調べたときに初めて使われたからこの名前．」</p>
 <p>「黒体輻射とは？」</p>
 <p>「あらゆる電磁波を吸収する物体からの光や電磁波の放射のこと．近いのは電球のフィラメントや1000度の鉄球みたいにものを熱したときに出る光．黒体はその光り方を議論するときに使う仮想の物質．」</p>

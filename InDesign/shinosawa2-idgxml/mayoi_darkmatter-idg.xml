@@ -87,17 +87,17 @@
 <p>「……これまでのページを見るに、もう手遅れじゃないですか？」</p>
 <p>「……それはそう」</p>
 <p>篠澤さんは納得したようにうなずくと、ホワイトボードにすらすらと数式を書き始めた。</p>
-<Image href="file://images/_review_math/_gen_9a66598dac94a1a9b542512234f33e31579c143a389252ba4f4cf1e6a4d82d72.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_9a66598dac94a1a9b542512234f33e31579c143a389252ba4f4cf1e6a4d82d72.pdf"/></displayequation>
 <p>「まず、ダークマターの存在量<inlineequation><Image href="file://images/_review_math/_gen_acdb1aa91ad9723d25532a89a9f9c84a677bcb86227f18c94525556310b0aba3.pdf" type="inline"/></inlineequation>を<inlineequation><Image href="file://images/_review_math/_gen_62c66a7a5dd70c3146618063c344e531e6d4b59e379808443ce962b3abd63c5a.pdf" type="inline"/></inlineequation>で割って、体積あたりの個数<inlineequation><Image href="file://images/_review_math/_gen_1b16b1df538ba12dc3f97edbb85caa7050d46c148134290feba80f8236c83db9.pdf" type="inline"/></inlineequation>を求める」</p>
-<Image href="file://images/_review_math/_gen_1cea35940e74a63f379bfd2dce1f69c9e24c5df3986c9a78c51227615c69be34.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_1cea35940e74a63f379bfd2dce1f69c9e24c5df3986c9a78c51227615c69be34.pdf"/></displayequation>
 <p>「これにダークマターの速さ<inlineequation><Image href="file://images/_review_math/_gen_4c94485e0c21ae6c41ce1dfe7b6bfaceea5ab68e40a2476f50208e526f506080.pdf" type="inline"/></inlineequation>をかけたのが、フラックス<inlineequation><Image href="file://images/_review_math/_gen_f67ab10ad4e4c53121b6a5fe4da9c10ddee905b978d3788d2723d7bfacbe28a9.pdf" type="inline"/></inlineequation>。<inlineequation><Image href="file://images/_review_math/_gen_86a21c290849de0af1e07c2c2e931a61ca35f69a4c38b8866d6ebbac6973907e.pdf" type="inline"/></inlineequation>の紙を置いておくと、<inlineequation><Image href="file://images/_review_math/_gen_6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.pdf" type="inline"/></inlineequation>秒あたり<inlineequation><Image href="file://images/_review_math/_gen_0e9e3b5a0b16d53c47da0ea21dac9645fa5b5f1a97e6f52acb87dff00472d196.pdf" type="inline"/></inlineequation>個のダークマターが通過する」</p>
 <p>「あれ、意外と多いですね。牛乳パック一つ分という話では？」</p>
 <p>「ひとつひとつが軽いから」</p>
-<Image href="file://images/_review_math/_gen_2678ab27dc2b1925f06ac5f18dbd5dad51b7e30d2730cd663d6bf32c142311a8.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_2678ab27dc2b1925f06ac5f18dbd5dad51b7e30d2730cd663d6bf32c142311a8.pdf"/></displayequation>
 <p>「私の中に陽子や中性子がたくさんあるから、総断面積はそれだけ大きくなる。体重<inlineequation><Image href="file://images/_review_math/_gen_08f271887ce94707da822d5263bae19d5519cb3614e0daedc4c7ce5dab7473f1.pdf" type="inline"/></inlineequation>を核子の重さ<inlineequation><Image href="file://images/_review_math/_gen_f32891d7dfdd471eafff1b569de3ee4741483f8bcd551e473f875da319f2445c.pdf" type="inline"/></inlineequation>で割って、<inlineequation><Image href="file://images/_review_math/_gen_9c3245dfb4ac54c1623a60e7b8d1fc07cb02eae1229435230c7dab5e71083a26.pdf" type="inline"/></inlineequation>にかける<footnote>本当は、重い原子核では核子の寄与が位相をそろえて加わって（コヒーレンス）、断面積が質量数の二乗で大きくなることがあるよ。プロデューサーには荷が重そうだから、今日は無視しよう。</footnote>」</p>
 <p>「体重が重いほど有利になりますね。篠澤さん、もっと食べましょう」</p>
 <p>俺の軽口を無言で受け流して、続きの数式に取り組む篠澤さん。</p>
-<Image href="file://images/_review_math/_gen_4eb89de0bd478e9f3b9c5aa3aad9d9ea26e2e1fe3032edf6e1b6761251bb4c2c.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_4eb89de0bd478e9f3b9c5aa3aad9d9ea26e2e1fe3032edf6e1b6761251bb4c2c.pdf"/></displayequation>
 <p>「最後にフラックスと断面積を掛け合わせて、衝突頻度が求められる。つまり──百万年に一回くらい」</p>
 <p>「少なっ！　やっぱり嘘なんじゃないですか、さっきの」</p>
 <p>「ふふっ、起きちゃった。百万年に一度の奇跡」</p>
@@ -211,7 +211,7 @@
 <p>「カロリー消費のため。頑張って」</p>
 <p>篠澤さんが差し出したペンを、月村さんは悔しそうな表情で受け取った。ホワイトボードの隅の方で筆算を始める。</p>
 <p>「手毬が計算してる間に先に進めよう。だいたい<inlineequation><Image href="file://images/_review_math/_gen_964e4c53e5372fec6c3e4ae170e75e45c20eaf35985da553acd24bd97bfb6304.pdf" type="inline"/></inlineequation>で、音速は<inlineequation><Image href="file://images/_review_math/_gen_6b66dafa78322cd0446cac0ab0e79153326bb4db70f538b03da08341c4a1d6ca.pdf" type="inline"/></inlineequation>。簡単のために<inlineequation><Image href="file://images/_review_math/_gen_0ffa7fb1a4fe59af4df36aede4dca102c76ae702c3e99f8aa3bf97b80edfae19.pdf" type="inline"/></inlineequation>として──」</p>
-<Image href="file://images/_review_math/_gen_918330976d555eeee9d1ee66de9705fc6d0b54d3427aeddb86b0c180ab28d97d.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_918330976d555eeee9d1ee66de9705fc6d0b54d3427aeddb86b0c180ab28d97d.pdf"/></displayequation>
 <p>「一回振動する間に波が進む距離を計算すれば、波長はこの通り計算できる」</p>
 <p>「<inlineequation><Image href="file://images/_review_math/_gen_683d098205b11550f2d71016c82c4377a96c9f808e132f83f15ba9bd058c7b20.pdf" type="inline"/></inlineequation>！　<inlineequation><Image href="file://images/_review_math/_gen_1a948f1b4374f4e3f02501c7feb43784021718a93c1ed5f9f19adf357bb2d20e.pdf" type="inline"/></inlineequation>かける<inlineequation><Image href="file://images/_review_math/_gen_e3f6959781c353c201d378e02d9da532601673e08a1706fa15a5ebbd9ea1bd36.pdf" type="inline"/></inlineequation>は、<inlineequation><Image href="file://images/_review_math/_gen_683d098205b11550f2d71016c82c4377a96c9f808e132f83f15ba9bd058c7b20.pdf" type="inline"/></inlineequation>！」</p>
 <p>「ありがとう。じゃあ、<inlineequation><Image href="file://images/_review_math/_gen_9644294ac4ffb3091eef01219b3fe4fe467f05890cc56af961dce68fddbb7704.pdf" type="inline"/></inlineequation>割る<inlineequation><Image href="file://images/_review_math/_gen_683d098205b11550f2d71016c82c4377a96c9f808e132f83f15ba9bd058c7b20.pdf" type="inline"/></inlineequation>は？　最初の二桁だけでいいよ」</p>
@@ -220,7 +220,7 @@
 <p>「そう」</p>
 <p>筆算の記号を書き終えて忙しそうな月村さんににらまれた。篠澤さんはそれを意にも介さず、ホワイトボードに向き直って解説を続ける。</p>
 <p>「ベースの方は、三オクターブくらい低い<inlineequation><Image href="file://images/_review_math/_gen_22a3e7106326b88077276c1c751692e5fda26e1398748904ec9ac3f15ca7547e.pdf" type="inline"/></inlineequation>とすると」</p>
-<Image href="file://images/_review_math/_gen_72e6e3c5dedcfab0bca59f9a1cb63a1aafba6c079a1ca9166d1e9286de2626d9.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_72e6e3c5dedcfab0bca59f9a1cb63a1aafba6c079a1ca9166d1e9286de2626d9.pdf"/></displayequation>
 <p>「0.55！」</p>
 <p>「うん、<inlineequation><Image href="file://images/_review_math/_gen_168f0b8488eb0e3379d257c87b93f6b4471f5c6500a2a441a113b716efedbd87.pdf" type="inline"/></inlineequation>は<inlineequation><Image href="file://images/_review_math/_gen_c7f8f37395663ba0d1fb16c06c8a1f6bdabdcbfba5ce14900781a76c2b12bd87.pdf" type="inline"/></inlineequation>、そのくらいだと思う。じゃあ次は──」</p>
 <p>「ちょっと！　私が計算しなくてもどんどん先に進んでるじゃない！」</p>
@@ -315,7 +315,7 @@
 <p>「だから普通のコンピューターは、球上のこの二点しか表せない」</p>
 <p>そう言いながら、太い実線の矢印を書き加える。</p>
 <p>「一方で、量子ビットでは状態の重ね合わせが許される。数式で書くと、」</p>
-<Image href="file://images/_review_math/_gen_d91e7ea4f1433f096902a30cc2273c784fb315fbd566ef175253cd9753df72e5.pdf"/>
+<displayequation><Image href="file://images/_review_math/_gen_d91e7ea4f1433f096902a30cc2273c784fb315fbd566ef175253cd9753df72e5.pdf"/></displayequation>
 <p>「ここで使ったふたつのパラメーター、<inlineequation><Image href="file://images/_review_math/_gen_2b4af44cb17349bb9452292a447fe70d48c9ce08e68dd2f74e9628cf8ac625b8.pdf" type="inline"/></inlineequation>と<inlineequation><Image href="file://images/_review_math/_gen_10ce0200b450ea955833553e717821c7721818b8a95cffd7e54b46e08918b512.pdf" type="inline"/></inlineequation>が図の球座標に対応する。つまり──」</p>
 <p>数式に現れたのと同じ記号を、図にも書き加える。</p>
 <p>……正直、篠澤さんの言うことはいつも三割もわからない。でも、それでいい。俺の役割は、すべてを理解することじゃない。</p>
