@@ -6,6 +6,8 @@ require 'fileutils'
 DEFAULT_GLOB = '*-idg.xml'
 PATTERN = '</say><say'
 HEADING_REGEX = /(?<=.)(?<![\r\n])(<h[234]\b)/
+DTP_BEFORE_REGEX = /(?<=.)(?<![\r\n])(<\?dtp\b)/
+DTP_AFTER_REGEX = /(<\?dtp\b.*?\?>)(?=[^\r\n])/
 
 repo_root = File.expand_path('../..', __dir__)
 default_dir = File.join(repo_root, 'InDesign', 'shinosawa2-idgxml')
@@ -65,7 +67,11 @@ paths.each do |path|
 
   say_count = content.scan(PATTERN).length
   heading_count = content.scan(HEADING_REGEX).length
-  count = say_count + heading_count
+  dtp_before_count = content.scan(DTP_BEFORE_REGEX).length
+  dtp_after_count = content.scan(DTP_AFTER_REGEX).length
+  dtp_count = dtp_before_count + dtp_after_count
+
+  count = say_count + heading_count + dtp_count
   next if count == 0
 
   total_matches += count
@@ -82,10 +88,12 @@ paths.each do |path|
     replaced = content
       .gsub(PATTERN, "</say>#{newline}<say")
       .gsub(HEADING_REGEX, "#{newline}\\1")
+      .gsub(DTP_BEFORE_REGEX, "#{newline}\\1")
+      .gsub(DTP_AFTER_REGEX, "\\1#{newline}")
     File.binwrite(path, replaced)
 
     if options[:verbose]
-      details = "total=#{count} say=#{say_count} heading=#{heading_count}"
+      details = "total=#{count} say=#{say_count} heading=#{heading_count} dtp=#{dtp_count}(before=#{dtp_before_count},after=#{dtp_after_count})"
       if backup_path
         puts "APPLY #{path} (#{details}) backup=#{backup_path}"
       else
@@ -93,7 +101,7 @@ paths.each do |path|
       end
     end
   else
-    puts "DRYRUN #{path} (total=#{count} say=#{say_count} heading=#{heading_count})"
+    puts "DRYRUN #{path} (total=#{count} say=#{say_count} heading=#{heading_count} dtp=#{dtp_count}(before=#{dtp_before_count},after=#{dtp_after_count}))"
   end
 end
 

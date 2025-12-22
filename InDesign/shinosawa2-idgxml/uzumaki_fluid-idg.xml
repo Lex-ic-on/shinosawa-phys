@@ -2,7 +2,8 @@
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第12章　篠澤広に学ぶ流体力学</h1>
 <?dtp level="1" section="第12章　篠澤広に学ぶ流体力学"?>
 <h2>12.1　導入</h2>
-<?dtp level="2" section="12.1　導入"?><Image href="file://images/uzumaki_fluid/1_.png" scale="0.9"/>
+<?dtp level="2" section="12.1　導入"?>
+<Image href="file://images/uzumaki_fluid/1_.png" scale="0.9"/>
 <img-caption>図12.1　2025年鳥人間コンテスト(琵琶湖)</img-caption>
 <say><name>P</name>➤<line>「何を見ているんです？」</line></say>
 <say><name>広</name>➤<line>「鳥人間コンテストだよ。」</line></say>
@@ -14,12 +15,14 @@
 <say><name>P</name>➤<line>「流体力学……、川の流れとかを学ぶ学問でしょうか。少し気になりますね。」</line></say>
 <say><name>広</name>➤<line>「いいね、プロデューサーに流体力学の考え方を教えてあげる。」</line></say>
 <h2>12.2　流体力学の全体像</h2>
-<?dtp level="2" section="12.2　流体力学の全体像"?><say><name>広</name>➤<line>「まずは、流体力学の全体像をイメージして。」</line></say>
+<?dtp level="2" section="12.2　流体力学の全体像"?>
+<say><name>広</name>➤<line>「まずは、流体力学の全体像をイメージして。」</line></say>
 <say><name>P</name>➤<line>「これが流体力学の全体像……。」</line></say>
 <say><name>広</name>➤<line>「ここから<span type="image">図12.2</span>の7つのブロックを1つずつ詳しく説明する。」</line></say><Image href="file://images/uzumaki_fluid/2_.png" scale="0.9"/>
 <img-caption>図12.2　流体力学の全体像</img-caption>
 <h3>本稿の立ち位置</h3>
-<?dtp level="3" section="本稿の立ち位置"?><say><name>広</name>➤<line>「と言っても、プロデューサーはまだ大学1年生だから、プロデューサーにわかる範囲で教える。」</line></say>
+<?dtp level="3" section="本稿の立ち位置"?>
+<say><name>広</name>➤<line>「と言っても、プロデューサーはまだ大学1年生だから、プロデューサーにわかる範囲で教える。」</line></say>
 <say><name>P</name>➤<line>「まあ飛び級や海外の大学を卒業とかはしてないですね。」</line></say>
 <say><name>広</name>➤<line>「プロデューサーは大学入学共通テストで理科は何を選択した？」</line></say>
 <say><name>P</name>➤<line>「一応化学と物理ですが……。」</line></say>
@@ -29,28 +32,33 @@
 <say><name>広</name>➤<line>「それでも大学2年生の工学部機械科の流体力学の講義が始まる前に必ず役に立つくらいの内容は話せる。流体力学の全体像を。」</line></say>
 <say><name>P</name>➤<line>「わかりました、よろしくお願いします。」</line></say><pagebreak/>
 <h3>学部生で習う流体力学</h3>
-<?dtp level="3" section="学部生で習う流体力学"?><say><name>広</name>➤<line>「<span type="image">図12.3</span>は大学の学部で習う範囲を示す。」</line></say>
+<?dtp level="3" section="学部生で習う流体力学"?>
+<say><name>広</name>➤<line>「<span type="image">図12.3</span>は大学の学部で習う範囲を示す。」</line></say>
 <say><name>P</name>➤<line>「流体力学の一部だけってことですね。」</line></say>
 <say><name>広</name>➤<line>「あとで説明するけど、流れ場、圧力場、流体力は“①実測実験”、“②管内流れ”、“③ポテンシャル流れ”、“④粘性流体の流れ”の4つの流体力学のゴールと言える。」</line></say>
 <say><name>P</name>➤<line>「流れ場、圧力場、流体力を求める方法が4つあるんですね。」</line></say><Image href="file://images/uzumaki_fluid/3_.png" scale="0.8"/>
 <img-caption>図12.3　学部生で習う主要の4つの流体力学</img-caption>
 <h3>学部生の流体力学+大学院の流体力学</h3>
-<?dtp level="3" section="学部生の流体力学+大学院の流体力学"?><say><name>P</name>➤<line>「<span type="image">図12.3</span>の4つ以外の流体力学もあるんですか？」</line></say>
+<?dtp level="3" section="学部生の流体力学+大学院の流体力学"?>
+<say><name>P</name>➤<line>「<span type="image">図12.3</span>の4つ以外の流体力学もあるんですか？」</line></say>
 <say><name>広</name>➤<line>「あるよ。」</line></say>
 <say><name>広</name>➤<line>「私は学部で習う4つの流体力学と、大学院レベルの7つの流体力学で説明する。」</line></say>
 <say><name>P</name>➤<line>「大学院レベルの話は私がついて行けないので、学部生の範囲でお願いしたいです。」</line></say>
 <say><name>広</name>➤<line>「そうだね。まあ最後に大学院レベルの7つの流体力学も簡単に説明するよ。」</line></say><Image href="file://images/uzumaki_fluid/4_.png" scale="0.8"/>
 <img-caption>図12.4　学部(上4つ)と大学院(下7つ)で習う流体力学</img-caption>
 <h3>順を追った流体力学の解説</h3>
-<?dtp level="3" section="順を追った流体力学の解説"?><say><name>広</name>➤<line>「4つの流体力学と言えど、<span type="image">図12.2</span>の7ブロックは多いよね。」</line></say>
+<?dtp level="3" section="順を追った流体力学の解説"?>
+<say><name>広</name>➤<line>「4つの流体力学と言えど、<span type="image">図12.2</span>の7ブロックは多いよね。」</line></say>
 <say><name>P</name>➤<line>「まあ……。わかりやすくしていただけると助かります。」</line></say>
 <say><name>広</name>➤<line>「じゃあ、物体形状と流体力の関係を軸に後からどんどん追加していこう。」</line></say><Image href="file://images/uzumaki_fluid/5_.png" scale="0.9"/>
 <img-caption>図12.5　物体形状と流体力の関係</img-caption>
 <pagebreak/>
 <h2>12.3　流体力学のスタートとゴール</h2>
-<?dtp level="2" section="12.3　流体力学のスタートとゴール"?><say><name>広</name>➤<line>「物体形状と流体力は深い関係がある。」</line></say>
+<?dtp level="2" section="12.3　流体力学のスタートとゴール"?>
+<say><name>広</name>➤<line>「物体形状と流体力は深い関係がある。」</line></say>
 <h3>流体力とは？</h3>
-<?dtp level="3" section="流体力とは？"?><say><name>広</name>➤<line>「まずは流体力について。」</line></say>
+<?dtp level="3" section="流体力とは？"?>
+<say><name>広</name>➤<line>「まずは流体力について。」</line></say>
 <say><name>広</name>➤<line>「流体力は、流れによって物体に働く力の総称だよ。」</line></say>
 <say><name>P</name>➤<line>「流れによる力？」</line></say>
 <say><name>広</name>➤<line>「そう、風車は揚力で回転し、飛行機は揚力で空を飛ぶ。」</line></say>
@@ -61,7 +69,8 @@
 <Image href="file://images/uzumaki_fluid/7_.png" scale="0.9"/>
 <img-caption>図12.7　流体力のイメージ</img-caption>
 <h3>物体形状とは？</h3>
-<?dtp level="3" section="物体形状とは？"?><say><name>広</name>➤<line>「次に物体形状について」</line></say>
+<?dtp level="3" section="物体形状とは？"?>
+<say><name>広</name>➤<line>「次に物体形状について」</line></say>
 <say><name>広</name>➤<line>「物体形状は、流体の流れを妨げるもの。」</line></say>
 <say><name>P</name>➤<line>「流体の流れを妨げるもの？」</line></say>
 <say><name>広</name>➤<line>「ちょっと暴論だけどね。流体は真っすぐ進みたいのに固体を避けて流れないといけない。」</line></say>
@@ -72,7 +81,8 @@
 <Image href="file://images/uzumaki_fluid/9_.png" scale="0.9"/>
 <img-caption>図12.9　流体の流れは物体形状を貫通できない</img-caption>
 <h3>流体力と物体形状の関係</h3>
-<?dtp level="3" section="流体力と物体形状の関係"?><say><name>P</name>➤<line>「では流体力と物体形状にはどんな関係があるのです？」</line></say>
+<?dtp level="3" section="流体力と物体形状の関係"?>
+<say><name>P</name>➤<line>「では流体力と物体形状にはどんな関係があるのです？」</line></say>
 <say><name>広</name>➤<line>「物体形状を変えると流体力が変わる。」</line></say>
 <say><name>広</name>➤<line>「分かりやすいもので言うと、帆船は帆と言う物体形状によって、風から流体力を受け取る。」</line></say>
 <say><name>P</name>➤<line>「マストだけじゃ船は進まず、外国に行けませんね。」</line></say>
@@ -83,7 +93,8 @@
 <Image href="file://images/uzumaki_fluid/11_.png" scale="0.9"/>
 <img-caption>図12.11　目的によっても流体力の増減方向は異なる</img-caption>
 <h3>人類の願いは流体力のコントロール</h3>
-<?dtp level="3" section="人類の願いは流体力のコントロール"?><say><name>広</name>➤<line>「そう、つまり人類は流れの中から流体力をコントロールしたい。」</line></say>
+<?dtp level="3" section="人類の願いは流体力のコントロール"?>
+<say><name>広</name>➤<line>「そう、つまり人類は流れの中から流体力をコントロールしたい。」</line></say>
 <say><name>P</name>➤<line>「だから物体形状を変更して、流体力をコントロールするんですね。」</line></say>
 <say><name>広</name>➤<line>「でも物体形状と流体力の関係だけじゃ、最適な物体形状はわからない。」</line></say>
 <say><name>P</name>➤<line>「最適な物体形状ですか……。たくさんあてずっぽうで実験するとか？」</line></say>
@@ -96,7 +107,8 @@
 <Image href="file://images/uzumaki_fluid/13_.png" scale="0.85"/>
 <img-caption>図12.13　つるつるとでこぼこの流体力の違い</img-caption>
 <h2>12.4　流れ場と圧力場の真価</h2>
-<?dtp level="2" section="12.4　流れ場と圧力場の真価"?><say><name>P</name>➤<line>「流れ場と圧力場？聞いたことないですね。」</line></say>
+<?dtp level="2" section="12.4　流れ場と圧力場の真価"?>
+<say><name>P</name>➤<line>「流れ場と圧力場？聞いたことないですね。」</line></say>
 <say><name>広</name>➤<line>「流れ場は、流速の空間分布。」</line></say>
 <say><name>広</name>➤<line>「圧力場は、圧力の空間分布。」</line></say>
 <say><name>広</name>➤<line>「そして流れ場と圧力場は2つで1つ。」</line></say><Image href="file://images/uzumaki_fluid/14_.png" scale="0.8"/>
@@ -104,7 +116,8 @@
 <Image href="file://images/uzumaki_fluid/15_.png" scale="0.8"/>
 <img-caption>図12.15　流れ場(流速の空間分布):右と圧力場(圧力の空間分布):左</img-caption>
 <h3>流れ場とは？</h3>
-<?dtp level="3" section="流れ場とは？"?><say><name>P</name>➤<line>「まず流体力学と言えば、流れるもののイメージがあります。」</line></say>
+<?dtp level="3" section="流れ場とは？"?>
+<say><name>P</name>➤<line>「まず流体力学と言えば、流れるもののイメージがあります。」</line></say>
 <say><name>広</name>➤<line>「そのイメージに近いものだと、流れ場が当てはまるね。」</line></say>
 <say><name>広</name>➤<line>「流れ場は、流速の空間分布。」</line></say>
 <say><name>広</name>➤<line>「管内流れや物体周りの流れについて、流速の速い所と遅い所を示す場。」</line></say>
@@ -112,14 +125,16 @@
 <say><name>広</name>➤<line>「イメージと理解を繋げるのは大事。」</line></say><Image href="file://images/uzumaki_fluid/16_.png" scale="0.7"/>
 <img-caption>図12.16　流れ場は流速の空間分布</img-caption>
 <h3>圧力場とは？</h3>
-<?dtp level="3" section="圧力場とは？"?><say><name>P</name>➤<line>「圧力場とはなんですか？」</line></say>
+<?dtp level="3" section="圧力場とは？"?>
+<say><name>P</name>➤<line>「圧力場とはなんですか？」</line></say>
 <say><name>広</name>➤<line>「圧力場は、圧力の空間分布。」</line></say>
 <say><name>広</name>➤<line>「管内流れや物体周りの流れについて、圧力の大きい所と小さい所を示す場。」</line></say>
 <say><name>P</name>➤<line>「はぁ、いまいち圧力場の存在意義がわかりにくいですね。」</line></say>
 <say><name>広</name>➤<line>「圧力場単体というより、流体力学は流れ場と圧力場の相互関係が重要だからね。」</line></say><Image href="file://images/uzumaki_fluid/17_.png" scale="0.7"/>
 <img-caption>図12.17　圧力場は圧力の空間分布</img-caption>
 <h3>流れ場と圧力場の関係</h3>
-<?dtp level="3" section="流れ場と圧力場の関係"?><say><name>P</name>➤<line>「それで、先ほどの流れ場と圧力場は2つで1つとは？」</line></say>
+<?dtp level="3" section="流れ場と圧力場の関係"?>
+<say><name>P</name>➤<line>「それで、先ほどの流れ場と圧力場は2つで1つとは？」</line></say>
 <say><name>広</name>➤<line>「実は流れ場と圧力場は、時間的、空間的に、密接に関連してる。」</line></say>
 <say><name>広</name>➤<line>「数値計算で可視化した円柱周りの流れ場と圧力場を見よう。」</line></say>
 <say><name>P</name>➤<line>「うーん……？」</line></say>
@@ -128,7 +143,8 @@
 <say><name>P</name>➤<line>「流れ場と圧力場が密接に関連しているとして、何が良いんです？」</line></say><Image href="file://images/uzumaki_fluid/18_.png" scale="0.65"/>
 <img-caption>図12.18　数値計算した流れ場と圧力場</img-caption>
 <h3>見える流れ場と見えない圧力場</h3>
-<?dtp level="3" section="見える流れ場と見えない圧力場"?><say><name>広</name>➤<line>「まず流体の流れは見えると思う？」</line></say>
+<?dtp level="3" section="見える流れ場と見えない圧力場"?>
+<say><name>広</name>➤<line>「まず流体の流れは見えると思う？」</line></say>
 <say><name>P</name>➤<line>「それは見えると思います。蛇口から出る水や川の流れのように。」</line></say>
 <say><name>広</name>➤<line>「そうだね。でも流体力学の視点からは、流体の流れは見えないんだ。」</line></say>
 <say><name>広</name>➤<line>「プロデューサーが見てるのは水と空気の境目。」</line></say>
@@ -136,7 +152,8 @@
 <say><name>P</name>➤<line>「落ち葉を巻き上げたりしない限り見る事は難しいですね……。」</line></say><Image href="file://images/uzumaki_fluid/19_.png" scale="0.65"/>
 <img-caption>図12.19　右:川の流れ 左:自動車</img-caption>
 <h4>流れ場の可視化という流体力学的な特殊操作</h4>
-<?dtp level="4" section="流れ場の可視化という流体力学的な特殊操作"?><say><name>P</name>➤<line>「でも煙を流したりすれば見えるのではないでしょうか。」</line></say>
+<?dtp level="4" section="流れ場の可視化という流体力学的な特殊操作"?>
+<say><name>P</name>➤<line>「でも煙を流したりすれば見えるのではないでしょうか。」</line></say>
 <say><name>広</name>➤<line>「そう、流れを観察するには“可視化”と言う特殊な操作が必要になる。」</line></say>
 <say><name>広</name>➤<line>「例えば煙を流したり、タフトを貼ったり、泡を作ったり、アルミニウム粉を流したり。」</line></say>
 <say><name>広</name>➤<line>「落ち葉もある意味可視化の1つだね。」</line></say>
@@ -147,7 +164,8 @@
 <Image href="file://images/uzumaki_fluid/21_.png" scale="1"/>
 <img-caption>図12.21　右:泡による可視化 左:アルミニウム粉による可視化</img-caption>
 <h4>圧力場の可視化はできない</h4>
-<?dtp level="4" section="圧力場の可視化はできない"?><say><name>P</name>➤<line>「圧力場は実験で可視化できないんですか？」</line></say>
+<?dtp level="4" section="圧力場の可視化はできない"?>
+<say><name>P</name>➤<line>「圧力場は実験で可視化できないんですか？」</line></say>
 <say><name>広</name>➤<line>「流れ場のように実験的な可視化は難しいかな。」</line></say>
 <say><name>広</name>➤<line>「シュリーレン法は密度勾配を見れるけど、やっぱり圧力場ではない。」</line></say>
 <say><name>P</name>➤<line>「じゃあどうやって圧力場を見るんです？」</line></say>
@@ -159,7 +177,8 @@
 <Image href="file://images/uzumaki_fluid/23_.png" scale="1"/>
 <img-caption>図12.23　右:円柱の圧力場(数値計算) 左:トラックの圧力場(数値計算)</img-caption>
 <h4>流れ場の可視化による圧力場の推測</h4>
-<?dtp level="4" section="流れ場の可視化による圧力場の推測"?><say><name>P</name>➤<line>「数値計算ということは、圧力場の実測はほぼ不可能なのですね。」</line></say>
+<?dtp level="4" section="流れ場の可視化による圧力場の推測"?>
+<say><name>P</name>➤<line>「数値計算ということは、圧力場の実測はほぼ不可能なのですね。」</line></say>
 <say><name>広</name>➤<line>「実験で圧力場の直接観察は難しい。」</line></say>
 <say><name>p</name>➤<line>「そうなんですか……。」</line></say>
 <say><name>広</name>➤<line>「でも幸い、流れ場と圧力場は時間的空間的に密接に連動する。」</line></say>
@@ -170,7 +189,8 @@
 <Image href="file://images/uzumaki_fluid/25_.png" scale="1"/>
 <img-caption>図12.25　自動車周りの流れ(流れ場から圧力場の推測)</img-caption>
 <h2>12.5　流れ場と圧力場と流体力と物体形状</h2>
-<?dtp level="2" section="12.5　流れ場と圧力場と流体力と物体形状"?><say><name>広</name>➤<line>「ここまで流れ場と圧力場と流体力と物体形状を個別に説明した。」</line></say>
+<?dtp level="2" section="12.5　流れ場と圧力場と流体力と物体形状"?>
+<say><name>広</name>➤<line>「ここまで流れ場と圧力場と流体力と物体形状を個別に説明した。」</line></say>
 <say><name>P</name>➤<line>「ここからは4つの関係を見ていくんですね。」</line></say>
 <say><name>広</name>➤<line>「人類の目標は、流体力をコントロールしたい。」</line></say>
 <say><name>広</name>➤<line>「物体形状を変更すれば、流体力も変わる。」</line></say>
@@ -181,7 +201,8 @@
 <Image href="file://images/uzumaki_fluid/27_.png" scale="0.65"/>
 <img-caption>図12.27　物体形状と流れ場と圧力場と流体力の具体例(円柱)</img-caption>
 <h3>5つの流体力と流れ場と圧力場</h3>
-<?dtp level="3" section="5つの流体力と流れ場と圧力場"?><say><name>広</name>➤<line>「流体力と圧力場の関係を説明するね。」</line></say>
+<?dtp level="3" section="5つの流体力と流れ場と圧力場"?>
+<say><name>広</name>➤<line>「流体力と圧力場の関係を説明するね。」</line></say>
 <say><name>P</name>➤<line>「この円グラフは……？」</line></say>
 <say><name>広</name>➤<line>「100km/hの自動車の抗力の内訳だよ。」</line></say>
 <say><name>広</name>➤<line>「流体力の内訳は5つあるけど、あとで説明する。」</line></say>
@@ -193,7 +214,8 @@
 <Image href="file://images/uzumaki_fluid/29_.png" scale="0.75"/>
 <img-caption>図12.29　抗力の内訳の例(Re=2.5×10<sup>6</sup>)(ただし画像はRe=4×10<sup>3</sup>)</img-caption>
 <h3>圧力抗力のメカニズム(円柱)</h3>
-<?dtp level="3" section="圧力抗力のメカニズム(円柱)"?><say><name>広</name>➤<line>「円柱周りの圧力場を見てみよう。」</line></say>
+<?dtp level="3" section="圧力抗力のメカニズム(円柱)"?>
+<say><name>広</name>➤<line>「円柱周りの圧力場を見てみよう。」</line></say>
 <say><name>P</name>➤<line>「円柱の上流側は圧力が高く、円柱の下流側は圧力が低いことがわかりますね。」</line></say>
 <say><name>広</name>➤<line>「円柱表面に加わる圧力を矢印で示そう。(<span type="image">図12.30</span>)」</line></say>
 <say><name>P</name>➤<line>「上流側は圧力が高く、円柱を下流へ押そうとしていますが、」</line></say>
@@ -211,7 +233,8 @@
 <Image href="file://images/uzumaki_fluid/31_.png" scale="0.9"/>
 <img-caption>図12.31　流れ場(渦流出)と流体力の時間的変動</img-caption>
 <h3>圧力抗力のメカニズム(トラック)</h3>
-<?dtp level="3" section="圧力抗力のメカニズム(トラック)"?><say><name>広</name>➤<line>「物体全表面の積分値、という圧力抗力のメカニズムは複雑な物体形状でも変わらない。」</line></say>
+<?dtp level="3" section="圧力抗力のメカニズム(トラック)"?>
+<say><name>広</name>➤<line>「物体全表面の積分値、という圧力抗力のメカニズムは複雑な物体形状でも変わらない。」</line></say>
 <say><name>P</name>➤<line>「なるほど、トラックでも上流側は正圧、下流側は負圧になっていますね。」</line></say>
 <say><name>広</name>➤<line>「これが最も簡易的な圧力抗力の説明。」</line></say>
 <say><name>広</name>➤<line>「教科書では物体の全表面の圧力の積分値と言われるかもだけど、やってることはこれだけ。」</line></say>
@@ -221,7 +244,8 @@
 <Image href="file://images/uzumaki_fluid/33_.png" scale="0.85"/>
 <img-caption>図12.33　自動車にかかる流体力の内48%は圧力抗力</img-caption>
 <h3>5つの流体力と流れ場と圧力場の関係</h3>
-<?dtp level="3" section="5つの流体力と流れ場と圧力場の関係"?><say><name>P</name>➤<line>「他の5つの流体力も流れ場と圧力場に関係あるのですか？」</line></say>
+<?dtp level="3" section="5つの流体力と流れ場と圧力場の関係"?>
+<say><name>P</name>➤<line>「他の5つの流体力も流れ場と圧力場に関係あるのですか？」</line></say>
 <say><name>広</name>➤<line>「あるね。ちょっと強引だけど、」</line></say>
 <say><name>広</name>➤<line>「①摩擦抗力は流れ場、②圧力抗力は圧力場、③誘導抗力は圧力場、④造波抗力は圧力場、⑤干渉抗力は圧力場かな。」</line></say>
 <say><name>P</name>➤<line>「なるほど……。ほとんど圧力場が関係してくるんですね。」</line></say>
@@ -233,7 +257,8 @@
 <img-caption>図12.34　5つの抗力と流れ場/圧力場の関係</img-caption>
 <pagebreak/>
 <h3>物体形状の視点</h3>
-<?dtp level="3" section="物体形状の視点"?><say><name>広</name>➤<line>「ここまでの流れ場と圧力場と流体力の説明に、もう1つ付け加える。」</line></say>
+<?dtp level="3" section="物体形状の視点"?>
+<say><name>広</name>➤<line>「ここまでの流れ場と圧力場と流体力の説明に、もう1つ付け加える。」</line></say>
 <say><name>P</name>➤<line>「物体形状ですか？」</line></say>
 <say><name>広</name>➤<line>「そう、流れ場と圧力場を観察して、欲しい流体力になるよう物体形状を変更する。」</line></say>
 <say><name>P</name>➤<line>「具体的には、どう流れ場と圧力場を読み解くのです？」</line></say>
@@ -246,17 +271,20 @@
 <img-caption>図12.36　物体形状を変えると流れ場/圧力場/流体力が全て変わる</img-caption>
 <pagebreak/>
 <h2>12.6　主流速と流体密度と流体粘度</h2>
-<?dtp level="2" section="12.6　主流速と流体密度と流体粘度"?><say><name>P</name>➤<line>「その前に、この表にはまだ主流速と流体密度と流体粘度が気になります。」</line></say>
+<?dtp level="2" section="12.6　主流速と流体密度と流体粘度"?>
+<say><name>P</name>➤<line>「その前に、この表にはまだ主流速と流体密度と流体粘度が気になります。」</line></say>
 <say><name>広</name>➤<line>「そうだね。そこを説明しよう。」</line></say><Image href="file://images/uzumaki_fluid/37_.png" scale="0.75"/>
 <img-caption>図12.37　主流速と流体密度と流体粘度</img-caption>
 <h3>主流速とは？</h3>
-<?dtp level="3" section="主流速とは？"?><say><name>広</name>➤<line>「主流速は、物体から十分離れた上流の流速。」</line></say>
+<?dtp level="3" section="主流速とは？"?>
+<say><name>広</name>➤<line>「主流速は、物体から十分離れた上流の流速。」</line></say>
 <say><name>広</name>➤<line>「円柱周りの流れを見て。」</line></say>
 <say><name>P</name>➤<line>「物体付近は複雑な流速の空間分布がありますが、上流側では綺麗に流れていますね。」</line></say>
 <say><name>広</name>➤<line>「その綺麗に流れている部分の流速が、主流速。」</line></say><Image href="file://images/uzumaki_fluid/38_.png" scale="0.75"/>
 <img-caption>図12.38　主流速とは？</img-caption>
 <h3>流体密度と流体粘度とは？</h3>
-<?dtp level="3" section="流体密度と流体粘度とは？"?><say><name>広</name>➤<line>「流体密度と流体粘度は、流体の密度と流体の粘度。」</line></say>
+<?dtp level="3" section="流体密度と流体粘度とは？"?>
+<say><name>広</name>➤<line>「流体密度と流体粘度は、流体の密度と流体の粘度。」</line></say>
 <say><name>P</name>➤<line>「そのままですね。」</line></say>
 <say><name>広</name>➤<line>「空気は20℃で、密度1.199kg/m<sup>3</sup>、粘度1.82×10<sup>-5</sup>Pa･s」</line></say>
 <say><name>広</name>➤<line>「蒸留水は20℃で、密度998.207kg/m<sup>3</sup>、粘度1.0016×10<sup>-3</sup>Pa･s」</line></say>
@@ -264,7 +292,8 @@
 <say><name>広</name>➤<line>「温度でも変わるから、理科年表などを参照してね。」</line></say><Image href="file://images/uzumaki_fluid/39_.png" scale="0.81"/>
 <img-caption>図12.39　水と空気の流体密度と流体粘度</img-caption>
 <h4>物性値は流体種類で決定される</h4>
-<?dtp level="4" section="物性値は流体種類で決定される"?><say><name>広</name>➤<line>「あと、密度1.199kg/m<sup>3</sup>、粘度1.0016×10<sup>-3</sup>Pa･sの物質って存在すると思う？」</line></say>
+<?dtp level="4" section="物性値は流体種類で決定される"?>
+<say><name>広</name>➤<line>「あと、密度1.199kg/m<sup>3</sup>、粘度1.0016×10<sup>-3</sup>Pa･sの物質って存在すると思う？」</line></say>
 <say><name>P</name>➤<line>「空気の密度と、水の粘度を組み合わせた物質ですか……。」</line></say>
 <say><name>広</name>➤<line>「私は基本的に存在しないと思う。密度が小さすぎるか粘度が大きすぎる。」</line></say>
 <say><name>P</name>➤<line>「ということは、流体密度と流体粘度がチグハグになることはないのですね。」</line></say>
@@ -272,7 +301,8 @@
 <say><name>広</name>➤<line>「“流体種類”とまとめられる。」</line></say><Image href="file://images/uzumaki_fluid/40_.png" scale="0.81"/>
 <img-caption>図12.40　物性値はただの数字ではない</img-caption>
 <h2>12.7　7.流れ場と圧力場と流体力の求め方</h2>
-<?dtp level="2" section="12.7　7.流れ場と圧力場と流体力の求め方"?><say><name>P</name>➤<line>「流体力を適切に変更するには、流れ場と圧力場を見る事が重要で、」</line></say>
+<?dtp level="2" section="12.7　7.流れ場と圧力場と流体力の求め方"?>
+<say><name>P</name>➤<line>「流体力を適切に変更するには、流れ場と圧力場を見る事が重要で、」</line></say>
 <say><name>P</name>➤<line>「流れ場と圧力場を見るためには、主流速と流体密度と流体粘度と物体形状が必要なんですね。」</line></say>
 <say><name>広</name>➤<line>「伝わってくれたみたいだね。これで流体力学は完全理解。」</line></say>
 <say><name>P</name>➤<line>「これで流体力学は完全理解なんですか？」</line></say>
@@ -280,7 +310,8 @@
 <say><name>広</name>➤<line>「見るだけでも方程式を見てみようか。」</line></say><Image href="file://images/uzumaki_fluid/41_.png" scale="0.6"/>
 <img-caption>図12.41　流体力学の全体像</img-caption>
 <h3>流れ場と圧力場と流体力を求める方程式</h3>
-<?dtp level="3" section="流れ場と圧力場と流体力を求める方程式"?><say><name>広</name>➤<line>「ざっくり流れ場と圧力場と流体力を求める方法は、4つある。」</line></say>
+<?dtp level="3" section="流れ場と圧力場と流体力を求める方程式"?>
+<say><name>広</name>➤<line>「ざっくり流れ場と圧力場と流体力を求める方法は、4つある。」</line></say>
 <say><name>P</name>➤<line>「1つも聞いたことないですね。」</line></say>
 <say><name>広</name>➤<line>「プロデューサーは標準的な高校生の学力だから、まあそうだね。」</line></say>
 <say><name>広</name>➤<line>「歴史で言う、古代･中世･近世･近代･現代の枠組みに近くて、」</line></say>
@@ -288,7 +319,8 @@
 <say><name>P</name>➤<line>「なるほど、学部生で主要な流体力学はこの4つなんですね。」</line></say><Image href="file://images/uzumaki_fluid/42_.png" scale="0.6"/>
 <img-caption>図12.42　学部生で習う4つの流体力学 ※対応する方程式は目安</img-caption>
 <h3>4つの流体力学は並列</h3>
-<?dtp level="3" section="4つの流体力学は並列"?><say><name>広</name>➤<line>「重要なこととしてこの4つの流体力学は、並列になる。」</line></say>
+<?dtp level="3" section="4つの流体力学は並列"?>
+<say><name>広</name>➤<line>「重要なこととしてこの4つの流体力学は、並列になる。」</line></say>
 <say><name>P</name>➤<line>「並列……？どういうですか？」</line></say>
 <say><name>広</name>➤<line>「実測実験には実測実験の流れ場、圧力場、流体力の求め方が」</line></say>
 <say><name>広</name>➤<line>「管内流れには管内流れの流れ場、圧力場、流体力の求め方が」</line></say>
@@ -305,7 +337,8 @@
 <img-caption>図12.43　4つの流体力学は独立している</img-caption>
 <pagebreak/>
 <h2>12.8　まとめ</h2>
-<?dtp level="2" section="12.8　まとめ"?><say><name>広</name>➤<line>「プロデューサーに数式が伝われば、もう少し深い説明まで行ける。」</line></say>
+<?dtp level="2" section="12.8　まとめ"?>
+<say><name>広</name>➤<line>「プロデューサーに数式が伝われば、もう少し深い説明まで行ける。」</line></say>
 <say><name>P</name>➤<line>「これは私の力不足……。というより私はいたって一般的で普通な気はしますが。」</line></say>
 <say><name>P</name>➤<line>「それでも流体力学の概要はちょっとわかった気はします。」</line></say>
 <say><name>広</name>➤<line>「流体力学とは？」</line></say>
@@ -316,4 +349,5 @@
 <say><name>広</name>➤<line>「私の伝えたいことは大体伝わったみたいだね。」</line></say>
 <say><name>P</name>➤<line>「ありがとうございます。」</line></say>
 <h2>参考文献</h2>
-<?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-">日本機械学会『JSMEテキストシリーズ 流体力学』 (丸善出版，2016年)</bibitem><span type="bibno">[2] </span><bibitem id="bib-">巽友正『新物理シリーズ21 流体力学』 (培風館 2021年)</bibitem><span type="bibno">[3] </span><bibitem id="bib-">今井 功『物理テキストシリーズ 流体力学』 (岩波書店 1993年)</bibitem><span type="bibno">[4] </span><bibitem id="bib-">須藤浩三,長谷川富市,白樫正高『流体の力学』 (コロナ社 1994年)</bibitem><span type="bibno">[5] </span><bibitem id="bib-">新井紀夫 『複素流体力学ノート』 (コロナ社 2012年)</bibitem><span type="bibno">[6] </span><bibitem id="bib-">柴田正和『漸近級数と特異摂動法:微分方程式の体系的近似解法』 (森北出版 2009年)</bibitem><span type="bibno">[7] </span><bibitem id="bib-">坂下志郎,池内了『新物理学シリーズ 宇宙流体力学』 (培風館 2024年)</bibitem><span type="bibno">[8] </span><bibitem id="bib-">日本レオロジー学会『新講座･レオロジー』 (太洋堂 2014年)</bibitem><span type="bibno">[9] </span><bibitem id="bib-">佐野理『連続体の力学』 (裳華房 2000年)</bibitem></aid:doc>
+<?dtp level="2" section="参考文献"?>
+<span type="bibno">[1] </span><bibitem id="bib-">日本機械学会『JSMEテキストシリーズ 流体力学』 (丸善出版，2016年)</bibitem><span type="bibno">[2] </span><bibitem id="bib-">巽友正『新物理シリーズ21 流体力学』 (培風館 2021年)</bibitem><span type="bibno">[3] </span><bibitem id="bib-">今井 功『物理テキストシリーズ 流体力学』 (岩波書店 1993年)</bibitem><span type="bibno">[4] </span><bibitem id="bib-">須藤浩三,長谷川富市,白樫正高『流体の力学』 (コロナ社 1994年)</bibitem><span type="bibno">[5] </span><bibitem id="bib-">新井紀夫 『複素流体力学ノート』 (コロナ社 2012年)</bibitem><span type="bibno">[6] </span><bibitem id="bib-">柴田正和『漸近級数と特異摂動法:微分方程式の体系的近似解法』 (森北出版 2009年)</bibitem><span type="bibno">[7] </span><bibitem id="bib-">坂下志郎,池内了『新物理学シリーズ 宇宙流体力学』 (培風館 2024年)</bibitem><span type="bibno">[8] </span><bibitem id="bib-">日本レオロジー学会『新講座･レオロジー』 (太洋堂 2014年)</bibitem><span type="bibno">[9] </span><bibitem id="bib-">佐野理『連続体の力学』 (裳華房 2000年)</bibitem></aid:doc>

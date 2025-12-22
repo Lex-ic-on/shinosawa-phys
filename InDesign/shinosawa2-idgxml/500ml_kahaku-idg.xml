@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第5章　篠澤広さんに光学のちょっとした話を教わりたい</h1>
-<?dtp level="1" section="第5章　篠澤広さんに光学のちょっとした話を教わりたい"?><p>「教えてあげない、よ」</p>
+<?dtp level="1" section="第5章　篠澤広さんに光学のちょっとした話を教わりたい"?>
+<p>「教えてあげない、よ」</p>
 <p>俺は驚きを顔に出さないように最大限努力したつもりだったが、彼女の眼のニヤリと笑った様子は、それが無意味だったことを示していた。</p>
 <p>初星学園の一角にある、俺と彼女のために割り当てられた教室。ここで俺は担当アイドルの篠澤広さんに勉強を教わりたかった。俺の知らない物事を説明してくれる彼女はきっと、普段よりもやや大人びた雰囲気がして、彼女の黄金色の眼と透き通った肌のなせる神秘的なビジュアルがそれと調和し強調するのだろう。そんな彼女を見てみたい。そう思っての提案は、このありさまである。</p>
 <p>「最近、二人の時間が少ない。倦怠期？」</p>
@@ -38,7 +39,8 @@
 <p>「あっ、はい。どうぞ」</p>
 <p>俺はカバンからタブレットを取り出して彼女に渡し、隣に座った。すると彼女はこのように話し始めた。</p>
 <h2>5.1　フラウンホーファー回折</h2>
-<?dtp level="2" section="5.1　フラウンホーファー回折"?><p>「光の回折現象は、障害物の角に当たった光が回り込んで、障害物の後ろが少し明るくなったり、小さいスリット（隙間）にまっすぐ進む光を通すと、スリットの後から光が広がるように進んだりする現象のこと。これは、光の波としての性質による現象で、こういった現象が起きる理由は、何世紀も研究されていた、よ」</p>
+<?dtp level="2" section="5.1　フラウンホーファー回折"?>
+<p>「光の回折現象は、障害物の角に当たった光が回り込んで、障害物の後ろが少し明るくなったり、小さいスリット（隙間）にまっすぐ進む光を通すと、スリットの後から光が広がるように進んだりする現象のこと。これは、光の波としての性質による現象で、こういった現象が起きる理由は、何世紀も研究されていた、よ」</p>
 <p>彼女はその細い指で付属のペンをスラスラとさばき、タブレットのノートアプリにこう書いた。<footnote>「以下の全ての議論では、光は単色。つまり、ある波長<inlineequation><Image href="file://images/_review_math/_gen_583cf6290785d72cc1b71808962dd4bd72ca369f004fb5cb587694fc1b26149f.pdf" type="inline"/></inlineequation>以外の成分はまったくないものとする、よ」</footnote></p>
 <note><note-title>ホイヘンスの原理</note-title>
 <p>波は、現在の波面（一次波）の各点から小さな球面波（素元波）を出し、それらの包絡線が新たな波面（二次波）となることで進んでいく。</p>
@@ -114,7 +116,8 @@
 <p>「お恥ずかしながら」</p>
 <p>「知らないことは別に恥ずかしいことじゃない、よ。分からないことを素直に質問できて、えらい。広先生に、任せて」</p>
 <h2>5.2　フーリエ変換</h2>
-<?dtp level="2" section="5.2　フーリエ変換"?><p>「任せてって言ったけど……フーリエ変換は、厳密に話そうとすると難しい。今からルベーグ積分に入門するだけの時間はないから、プロデューサーには、要点やイメージだけをかいつまんで説明する。ごめんね」</p>
+<?dtp level="2" section="5.2　フーリエ変換"?>
+<p>「任せてって言ったけど……フーリエ変換は、厳密に話そうとすると難しい。今からルベーグ積分に入門するだけの時間はないから、プロデューサーには、要点やイメージだけをかいつまんで説明する。ごめんね」</p>
 <p>「難しすぎても理解できないので、それくらいがありがたいです」俺は、本心からそう思った。</p>
 <p>「まず、2次元のフーリエ変換の定義式を書く<footnote>「この定義だと絶対可積分でない<inlineequation><Image href="file://images/_review_math/_gen_3ea7b9387ea71e1c88954b49096a4942f11869c8b33e7ea88bc03e70e7e7a486.pdf" type="inline"/></inlineequation>に対してどうするか……って問題がある、かも。でも、実験的には開口部も複素振幅も有限だから……まず大丈夫だ、よ」</footnote>。ある関数<inlineequation><Image href="file://images/_review_math/_gen_3ea7b9387ea71e1c88954b49096a4942f11869c8b33e7ea88bc03e70e7e7a486.pdf" type="inline"/></inlineequation>に対して、そのフーリエ変換<inlineequation><Image href="file://images/_review_math/_gen_40df81ba2f6e2854e8262c3bb636c66a2e32e9aa9cfb31eb7759cbce2b4c898f.pdf" type="inline"/></inlineequation>は、こう書ける、よ」</p>
 <note><note-title>2次元フーリエ変換</note-title>
@@ -175,7 +178,8 @@
 <p>「ほかにもおもしろい性質がいろいろあって、分かりやすいものだと、鏡映対称性や回転対称性。空間領域のグラフで鏡うつしになるような軸があるとき、周波数領域でも同じ方向に鏡うつしになるし、回転して重なるような回転軸があるなら、同じように中心を軸に回転すると重なる」</p>
 <p>「フーリエ変換の説明はこんなものかな。まとめると、フーリエ変換と逆変換を使えば、空間領域と周波数領域を行き来できる。このふたつの領域には対応関係があって、周波数領域を調べれば空間領域のことが分かるから、便利なツールとして使われる、よ」</p>
 <h2>5.3　まとめ</h2>
-<?dtp level="2" section="5.3　まとめ"?><p>「……これで、わたしが模様からスリットを言い当てられた理由、わかった？」</p>
+<?dtp level="2" section="5.3　まとめ"?>
+<p>「……これで、わたしが模様からスリットを言い当てられた理由、わかった？」</p>
 <p>「はい、フーリエ変換の特徴を理解していれば、大まかに推理することができるんですね」</p>
 <p>「そういうこと」</p>
 <p>彼女はノートアプリを閉じ、続けてこう言った。</p>
@@ -186,4 +190,5 @@
 <p>俺が今教わった内容を頭の中で咀嚼していると、彼女が俺のシャツの裾を引っぱる。</p>
 <p>「デートの続き、しよ」</p>
 <h2>参考文献</h2>
-<?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-">河波 保雄 『国立科学博物館で学ぶ物理学』 <a linkurl="http://wondephysics.web.fc2.com/index.html">http://wondephysics.web.fc2.com/index.html</a> (2025年7月19日閲覧)</bibitem><span type="bibno">[2] </span><bibitem id="bib-">E. Hecht <i>Optics</i> Pearson Education Limited (2017)</bibitem><span type="bibno">[3] </span><bibitem id="bib-">W. Goodman <i>Introduction to Fourier Optics</i> W.H. Freeman (2017)</bibitem><span type="bibno">[4] </span><bibitem id="bib-">桜井 敏雄 計測と制御 13(1974)285</bibitem><span type="bibno">[5] </span><bibitem id="bib-">ディジタル画像処理編集委員会 『ディジタル画像処理』 画像情報教育振興協会 (2020)</bibitem></aid:doc>
+<?dtp level="2" section="参考文献"?>
+<span type="bibno">[1] </span><bibitem id="bib-">河波 保雄 『国立科学博物館で学ぶ物理学』 <a linkurl="http://wondephysics.web.fc2.com/index.html">http://wondephysics.web.fc2.com/index.html</a> (2025年7月19日閲覧)</bibitem><span type="bibno">[2] </span><bibitem id="bib-">E. Hecht <i>Optics</i> Pearson Education Limited (2017)</bibitem><span type="bibno">[3] </span><bibitem id="bib-">W. Goodman <i>Introduction to Fourier Optics</i> W.H. Freeman (2017)</bibitem><span type="bibno">[4] </span><bibitem id="bib-">桜井 敏雄 計測と制御 13(1974)285</bibitem><span type="bibno">[5] </span><bibitem id="bib-">ディジタル画像処理編集委員会 『ディジタル画像処理』 画像情報教育振興協会 (2020)</bibitem></aid:doc>

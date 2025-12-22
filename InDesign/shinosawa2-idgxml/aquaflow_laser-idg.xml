@@ -2,7 +2,8 @@
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第3章　週末のライブがちょっと楽しくなる光の話 LED・レーザー編</h1>
 <?dtp level="1" section="第3章　週末のライブがちょっと楽しくなる光の話 LED・レーザー編"?>
 <h2>導入</h2>
-<?dtp level="2" section="導入"?><p>一日の授業を終えた俺は，いつものように「教室」に向かった．いつもと違うのは，大きな箱を積んだ台車を持っていることである．扉の前に台車を止めて扉を開けると，俺の担当アイドル──篠澤広と目が合う．</p>
+<?dtp level="2" section="導入"?>
+<p>一日の授業を終えた俺は，いつものように「教室」に向かった．いつもと違うのは，大きな箱を積んだ台車を持っていることである．扉の前に台車を止めて扉を開けると，俺の担当アイドル──篠澤広と目が合う．</p>
 <p>「あ，プロデューサー．見て見て．」</p>
 <p>「なんですか篠澤さん，また藪から棒に．」</p>
 <p>「じゃん．千奈のペンライト．」</p>
@@ -33,7 +34,8 @@
 <p>「この2つの発光原理は一緒．半導体ダイオードの再結合って現象を利用してる．どういうことかちょっと説明するね．」</p>
 <p>そう言うと，黒板に何やら図を描き出した．</p>
 <h2>半導体の発光</h2>
-<?dtp level="2" section="半導体の発光"?><p>「これは，見たことある？」</p>
+<?dtp level="2" section="半導体の発光"?>
+<p>「これは，見たことある？」</p>
 <p>大きな丸と，それを取り囲む丸の中に小さい丸をいくつか描きだした(<span type="image">図3.2</span>)．</p>
 <Image href="file://images/aquaflow_laser/fig2_atom.pdf"/>
 <img-caption>図3.2　原子と電子の簡単なモデルと,電子のエネルギーの簡単な図.</img-caption>
@@ -86,7 +88,8 @@
 <p>「大丈夫．ライブの本番は成功させる．」</p>
 <p>机には，ばらばらになったままのペンライトが転がっていた．</p>
 <h2>レーザーダイオード</h2>
-<?dtp level="2" section="レーザーダイオード"?><p>「光り方の説明は一通りしたけど，LEDとレーザーダイオードの違いがまだだった．」</p>
+<?dtp level="2" section="レーザーダイオード"?>
+<p>「光り方の説明は一通りしたけど，LEDとレーザーダイオードの違いがまだだった．」</p>
 <p>そう言って彼女は再び立ち上がった．</p>
 <p>「LEDでは，再結合した光がそのまま放射されているけどレーザーはそうじゃない．レーザーはLight Amplification by Stimulated Emission of Radiation，直訳すると誘導放射による光増幅．この名前がそのままレーザーで起こっている現象を表してる．」</p>
 <p>「誘導放射が何か説明する．原子と光の関係を，アインシュタインが自然放射，誘導放射，吸収の3つの過程に分けて説明してる．いままで見てきた再結合による発光は自然放射．光と関係なく起こる放射だ，よ．」</p>
@@ -102,7 +105,8 @@
 <p>「効率よく光を増幅するためには，光が増幅できるところに光と電子を多くしたい．そのために実際には送り込んだ電子や発生した光をなるべく閉じ込めるための工夫をする<span type="bibno">[6] </span><span type="bibno">[7] </span><span type="bibno">[8] </span>．光を閉じ込めるための構造は共振器．わかりやすく言うと合わせ鏡<footnote>形状としては単純な合わせ鏡ではない構造の共振器も存在するが，半導体レーザーの共振器は(活性層とP/N各領域の)接合面を利用することが多く，形状としては合わせ鏡に近い．なお，半導体以外のレーザー，例えばガスレーザーなどではミラーで共振器を作り，その中に媒質となるガスなどを封入したセルを入れている．</footnote><span type="bibno">[6] </span>．最後にそこから光を一部取り出して使う．」</p>
 <p>「これがレーザー．増幅させることで，LEDと出てくる光も変わる．次はその話をする，ね．」</p>
 <h2>レーザーの光と舞台演出</h2>
-<?dtp level="2" section="レーザーの光と舞台演出"?><p>こういう話を聞いていると，アイドル活動をしていると忘れてしまいそうになる飛び級で大学を出た才女ということを思い出させる．</p>
+<?dtp level="2" section="レーザーの光と舞台演出"?>
+<p>こういう話を聞いていると，アイドル活動をしていると忘れてしまいそうになる飛び級で大学を出た才女ということを思い出させる．</p>
 <p>「光は電磁波の一種だから，波の性質も持ってる．海の水や，音も波を作るね．波を強くする時，プロデューサーならどうする？」</p>
 <p>物理の説明をどうにか消化しようとしながら，別の思いにもふけっているところで急に質問を振られてしまった．</p>
 <p>「海の波のことでいいですか？」</p>
@@ -153,4 +157,5 @@
 <p>そう言うと，少しだけ不満げな顔をしながら広は「教室」を出て行った．</p>
 <p>普段こうやって物理の話をすることはあまりないが，説明をする姿はつまらなそうには見えなかった．ステージやプロデュースも様々な物理現象に支えられているのだろう．今日教わったのはきっとそのほんの一部だけれど，少しでもその光景を覗けたことはプロデュースのささやかなご褒美の一つと言うことにしておこう．</p>
 <h2>参考文献</h2>
-<?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-bandfig">東芝デバイス&amp;ストレージ株式会社. ショットキーバリアダイオードの基礎 1-1. エネルギーバンド図. <a linkurl="https://toshiba.semicon-storage.com/jp/semiconductor/knowledge/e-learning/basics-of-schottky-barrier-diodes/chap1/chap1-2.html">https://toshiba.semicon-storage.com/jp/semiconductor/knowledge/e-learning/basics-of-schottky-barrier-diodes/chap1/chap1-2.html</a>[アクセス日: 2025-10-11].</bibitem><span type="bibno">[2] </span><bibitem id="bib-semicon">ローム株式会社. 半導体の仕組み: 半導体の定義や性質から詳しく解説 (techweb), 2023.<a linkurl="https://techweb.rohm.co.jp/trend/glossary/18926/">https://techweb.rohm.co.jp/trend/glossary/18926/</a>[アクセス日:2025-10-11].</bibitem><span type="bibno">[3] </span><bibitem id="bib-kagohakko">秋本克洋. 化合物半導体による発光,受光デバイス. 化学と教育, Vol. 69, No. 11, pp.484–487, 2021.</bibitem><span type="bibno">[4] </span><bibitem id="bib-LEDdev">ローム株式会社. Led デバイスについて (techweb), 2022. <a linkurl="https://techweb.rohm.co.jp/product/opto-electronics/led/16284/">https://techweb.rohm.co.jp/product/opto-electronics/led/16284/</a>[アクセス日:2025-10-11].</bibitem><span type="bibno">[5] </span><bibitem id="bib-LEDkiso">菊池昭彦, 岸野克巳. 今さら聞けない? 若手会員のための led 基礎. 応用物理, Vol. 84, No. 1, pp. 66–70, 2015.</bibitem><span type="bibno">[6] </span><bibitem id="bib-LDtoha">ローム株式会社. レーザーダイオード(半導体レーザー)とは? (techweb), 2024. <a linkurl="https://techweb.rohm.co.jp/product/opto-electronics/laser-diodes/18793/">https://techweb.rohm.co.jp/product/opto-electronics/laser-diodes/18793/</a>[アクセス日: 2025-10-11].</bibitem><span type="bibno">[7] </span><bibitem id="bib-LDkiso1">須崎渉. 半導体レーザーの基礎 i. レーザー研究, Vol. 29, No. 8, pp. 549–555, 2001.</bibitem><span type="bibno">[8] </span><bibitem id="bib-LDandouyou">中田修. 半導体レーザーとその応用. テレビジョン, Vol. 27, No. 2, pp. 78–87, 1973.</bibitem><span type="bibno">[9] </span><bibitem id="bib-laserclass">株式会社日本レーザー. 【レーザー製品の安全基準】レーザークラスの分類と安全対策、関連する法令等について解説, 2023. <a linkurl="https://www.japanlaser.co.jp/column/&#x3010;&#x30EC;&#x30FC;&#x30B6;&#x30FC;&#x88FD;&#x54C1;&#x306E;&#x5B89;&#x5168;&#x57FA;&#x6E96;&#x3011;&#x30EC;&#x30FC;&#x30B6;&#x30FC;&#x30AF;&#x30E9;&#x30B9;&#x306E;&#x5206;/">https://www.japanlaser.co.jp/column/【レーザー製品の安全基準】レーザークラスの分/</a>[アクセス日:2025-10-11].</bibitem><span type="bibno">[10] </span><bibitem id="bib-kukan">ランダム株式会社. 空間演出のご紹介. <a linkurl="https://random.co.jp/space">https://random.co.jp/space</a>[アクセス日: 2025-10-11].</bibitem><span type="bibno">[11] </span><bibitem id="bib-smoke">まろまゆ. 【小ネタ】ライブでの音響とスモークのはなし, 2016. <a linkurl="https://maromayubnn.hatenablog.com/entry/2016/05/27/213545">https://maromayubnn.hatenablog.com/entry/2016/05/27/213545</a>[アクセス日: 2025-10-11].</bibitem></aid:doc>
+<?dtp level="2" section="参考文献"?>
+<span type="bibno">[1] </span><bibitem id="bib-bandfig">東芝デバイス&amp;ストレージ株式会社. ショットキーバリアダイオードの基礎 1-1. エネルギーバンド図. <a linkurl="https://toshiba.semicon-storage.com/jp/semiconductor/knowledge/e-learning/basics-of-schottky-barrier-diodes/chap1/chap1-2.html">https://toshiba.semicon-storage.com/jp/semiconductor/knowledge/e-learning/basics-of-schottky-barrier-diodes/chap1/chap1-2.html</a>[アクセス日: 2025-10-11].</bibitem><span type="bibno">[2] </span><bibitem id="bib-semicon">ローム株式会社. 半導体の仕組み: 半導体の定義や性質から詳しく解説 (techweb), 2023.<a linkurl="https://techweb.rohm.co.jp/trend/glossary/18926/">https://techweb.rohm.co.jp/trend/glossary/18926/</a>[アクセス日:2025-10-11].</bibitem><span type="bibno">[3] </span><bibitem id="bib-kagohakko">秋本克洋. 化合物半導体による発光,受光デバイス. 化学と教育, Vol. 69, No. 11, pp.484–487, 2021.</bibitem><span type="bibno">[4] </span><bibitem id="bib-LEDdev">ローム株式会社. Led デバイスについて (techweb), 2022. <a linkurl="https://techweb.rohm.co.jp/product/opto-electronics/led/16284/">https://techweb.rohm.co.jp/product/opto-electronics/led/16284/</a>[アクセス日:2025-10-11].</bibitem><span type="bibno">[5] </span><bibitem id="bib-LEDkiso">菊池昭彦, 岸野克巳. 今さら聞けない? 若手会員のための led 基礎. 応用物理, Vol. 84, No. 1, pp. 66–70, 2015.</bibitem><span type="bibno">[6] </span><bibitem id="bib-LDtoha">ローム株式会社. レーザーダイオード(半導体レーザー)とは? (techweb), 2024. <a linkurl="https://techweb.rohm.co.jp/product/opto-electronics/laser-diodes/18793/">https://techweb.rohm.co.jp/product/opto-electronics/laser-diodes/18793/</a>[アクセス日: 2025-10-11].</bibitem><span type="bibno">[7] </span><bibitem id="bib-LDkiso1">須崎渉. 半導体レーザーの基礎 i. レーザー研究, Vol. 29, No. 8, pp. 549–555, 2001.</bibitem><span type="bibno">[8] </span><bibitem id="bib-LDandouyou">中田修. 半導体レーザーとその応用. テレビジョン, Vol. 27, No. 2, pp. 78–87, 1973.</bibitem><span type="bibno">[9] </span><bibitem id="bib-laserclass">株式会社日本レーザー. 【レーザー製品の安全基準】レーザークラスの分類と安全対策、関連する法令等について解説, 2023. <a linkurl="https://www.japanlaser.co.jp/column/&#x3010;&#x30EC;&#x30FC;&#x30B6;&#x30FC;&#x88FD;&#x54C1;&#x306E;&#x5B89;&#x5168;&#x57FA;&#x6E96;&#x3011;&#x30EC;&#x30FC;&#x30B6;&#x30FC;&#x30AF;&#x30E9;&#x30B9;&#x306E;&#x5206;/">https://www.japanlaser.co.jp/column/【レーザー製品の安全基準】レーザークラスの分/</a>[アクセス日:2025-10-11].</bibitem><span type="bibno">[10] </span><bibitem id="bib-kukan">ランダム株式会社. 空間演出のご紹介. <a linkurl="https://random.co.jp/space">https://random.co.jp/space</a>[アクセス日: 2025-10-11].</bibitem><span type="bibno">[11] </span><bibitem id="bib-smoke">まろまゆ. 【小ネタ】ライブでの音響とスモークのはなし, 2016. <a linkurl="https://maromayubnn.hatenablog.com/entry/2016/05/27/213545">https://maromayubnn.hatenablog.com/entry/2016/05/27/213545</a>[アクセス日: 2025-10-11].</bibitem></aid:doc>

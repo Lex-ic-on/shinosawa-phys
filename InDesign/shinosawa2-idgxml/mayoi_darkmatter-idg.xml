@@ -2,7 +2,8 @@
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第1章　ちょっと休憩（それとダークマターの話）</h1>
 <?dtp level="1" section="第1章　ちょっと休憩（それとダークマターの話）"?>
 <h2>1.1　ダークマターって？</h2>
-<?dtp level="2" section="1.1　ダークマターって？"?><p>ある日のダンスレッスン中。しばらくへろへろとした動きを続けていた篠澤さんは、案の定、ステップの途中でばったり倒れ込んで動かなくなった。</p>
+<?dtp level="2" section="1.1　ダークマターって？"?>
+<p>ある日のダンスレッスン中。しばらくへろへろとした動きを続けていた篠澤さんは、案の定、ステップの途中でばったり倒れ込んで動かなくなった。</p>
 <p>「……一応聞きますけど、大丈夫ですか？」</p>
 <p>もはやこの程度では動揺しない自分が怖い。当の篠澤さんは、床に顔を伏せたまま、くぐもった声で答えた。</p>
 <p>「だめ。ダークマターがぶつかって来たみたい」</p>
@@ -19,7 +20,8 @@
 <p>やはり俺の判断は間違っていなかった。篠澤さんが有名なアイドルになれば、こういう唐突な表情に、虜になるファンは多いことだろう。</p>
 <p>……これで床にうつ伏せじゃなければ、完璧なんだけど。</p>
 <h4>観測的証拠</h4>
-<?dtp level="4" section="観測的証拠"?><p>上体を起こした篠澤さんが、壁にもたれかかって座る。</p>
+<?dtp level="4" section="観測的証拠"?>
+<p>上体を起こした篠澤さんが、壁にもたれかかって座る。</p>
 <p>なんだかんだ言いながら、結局こうして篠澤さんの休憩に付き合ってしまう。俺もまだまだ甘い。</p>
 <p>「そもそも、ダークマターって本当にあるんですか？　直接は観測できないなら、幽霊の存在を証明するみたいな話じゃありません？」</p>
 <p>「全然違う。証拠はいろいろあるよ。例えば……」</p>
@@ -33,7 +35,8 @@
 <p>「……ビッグバン後の宇宙の膨張史を説明する、いまのところ最有力の宇宙論模型が、<inlineequation><Image href="file://images/_review_math/_gen_4e73a24d6dbb26ffc7286927b7452dfaae09dbed05a0d0c38adab081c78d96fe.pdf" type="inline"/></inlineequation>-CDM模型。宇宙の全方向から来る電波のことをCMBと呼ぶけど、それだけじゃなく、いろんな観測をまとめて説明できる。そこから話す？」</p>
 <p>「長くなりそうなので、その話はまた今度に」</p>
 <h4>性質</h4>
-<?dtp level="4" section="性質"?><p>「ダークマターって、身の周りにもあるんですか？」</p>
+<?dtp level="4" section="性質"?>
+<p>「ダークマターって、身の周りにもあるんですか？」</p>
 <p>「うん。むしろ、ダークマターがなければ私たちは存在しない。最初にダークマターが集まり、その重力に引き寄せられた物質が銀河を作った。ダークマターが先、私たちは後」</p>
 <p>「なかなか常識を覆しますね。具体的には、どのくらいあるんですか？」</p>
 <p>「<inlineequation><Image href="file://images/_review_math/_gen_dd1354afdd4444c042bae6dcea6b7d5c47f731b7aa662016c30c98941687ee70.pdf" type="inline"/></inlineequation>くらい。地球全体だと、牛乳パック一つ分の重さ」</p>
@@ -53,7 +56,8 @@
 <p>「人聞きの悪いこと言わないでくださいよ⁉　篠澤さんが人並みに練習をこなせれば、もっと早く帰れるんですからね」</p>
 </note>
 <h2>1.2　ダークマターの直接探索</h2>
-<?dtp level="2" section="1.2　ダークマターの直接探索"?><p>「ダークマター探しはすごく難しいけど、いくつか方法が試されてるよ。なかでも面白いのが『直接探索』（レビュー：<span type="bibno">[2] </span>）──身の周りにあるダークマターを、研究室に置いた検出器で直接狙うやり方<footnote>宇宙の観測からダークマター由来の信号を探す『間接探索』や、加速器でダークマターを作って探す方法もあるけど、ここでは触れない、よ。</footnote>」</p>
+<?dtp level="2" section="1.2　ダークマターの直接探索"?>
+<p>「ダークマター探しはすごく難しいけど、いくつか方法が試されてるよ。なかでも面白いのが『直接探索』（レビュー：<span type="bibno">[2] </span>）──身の周りにあるダークマターを、研究室に置いた検出器で直接狙うやり方<footnote>宇宙の観測からダークマター由来の信号を探す『間接探索』や、加速器でダークマターを作って探す方法もあるけど、ここでは触れない、よ。</footnote>」</p>
 <p>「待ってください。相互作用がわからないなら、検出器の作りようがないのでは？」</p>
 <p>「それはそう。だから、考えられる可能性を全部当たる」</p>
 <p>「……いま、なんと？」</p>
@@ -68,7 +72,8 @@
 <list current_no="3" total_no="4">集団励起モード</list>
 <list current_no="4" total_no="4">量子センサー</list>
 <h4>原子核散乱</h4>
-<?dtp level="4" section="原子核散乱"?><p>「最初は、ダークマターとぶつかって跳ね返された原子核を探すやり方。ここで問題。原子核散乱で探せるダークマターは、どのくらいの重さのものだと思う？」</p>
+<?dtp level="4" section="原子核散乱"?>
+<p>「最初は、ダークマターとぶつかって跳ね返された原子核を探すやり方。ここで問題。原子核散乱で探せるダークマターは、どのくらいの重さのものだと思う？」</p>
 <p>「本当に答えを期待してます？　全く見当もつきません」</p>
 <p>「簡単な想像でわかる。まず軽すぎると、ぶつかってもエネルギーが足りず原子核を動かせない」</p>
 <p>「なるほど、ビー玉をぶつけても車は動きませんからね。それなら逆に、重ければ重いほどいいんでしょうか？」</p>
@@ -121,7 +126,8 @@
 <p>「プロデューサーの鬼。そういうところも好き」</p>
 </note>
 <h4>電子散乱</h4>
-<?dtp level="4" section="電子散乱"?><p>「原子核散乱を使って、人類は何十年もダークマターを探してきた。でもいまのところ、何も見つかっていない」</p>
+<?dtp level="4" section="電子散乱"?>
+<p>「原子核散乱を使って、人類は何十年もダークマターを探してきた。でもいまのところ、何も見つかっていない」</p>
 <p>「ままなりませんね」</p>
 <p>「ならない。だけど原子核で探せるのは、<inlineequation><Image href="file://images/_review_math/_gen_d59eced1ded07f84c145592f65bdf854358e009c5cd705f5215bf18697fed103.pdf" type="inline"/></inlineequation>桁もある質量範囲の上の方、数桁だけ。だから、もっと軽い側も探そうという流れが生まれた」</p>
 <p>「ダークマター界隈にもそういった流行があるんですね」</p>
@@ -182,7 +188,8 @@
 <p>「バナナ以外も食べましょうね‼」</p>
 </note>
 <h4>集団励起モード</h4>
-<?dtp level="4" section="集団励起モード"?><p>「まあ百歩譲って写真を撮るのはいいですけど……気をつけてくださいね」</p>
+<?dtp level="4" section="集団励起モード"?>
+<p>「まあ百歩譲って写真を撮るのはいいですけど……気をつけてくださいね」</p>
 <p>「何を？」</p>
 <p>「授業中に写真を見ていて、スマホを没収された例がありますから」</p>
 <p>プロデューサー科の同期から聞いた話を思い出す。担当アイドルに写真を撮られ、没収されたスマホからそれが見つかって面倒なことになったらしい。</p>
@@ -277,7 +284,8 @@
 <p>「すぐ元に戻してください！」</p>
 </note>
 <h4>量子センサー</h4>
-<?dtp level="4" section="量子センサー"?><p>「ここまでの話はわかった？」</p>
+<?dtp level="4" section="量子センサー"?>
+<p>「ここまでの話はわかった？」</p>
 <p>「ええ、雰囲気はつかめました。いろんな探索手法があるんですね」</p>
 <p>「ちゃんと伝わったみたいでよかった。……ふぅ」</p>
 <p>「しゃべり疲れましたか？」</p>
@@ -337,7 +345,8 @@
 <p>「そう。とても険しくて、果ての見えない道。だから──」</p>
 <p>言いかけて、篠澤さんは首をかしげた。何を言いかけたのか自分でも探るように、きょとんとした表情で固まる。たぶん、俺にはわかる。</p>
 <h2>1.3　休憩終わり</h2>
-<?dtp level="2" section="1.3　休憩終わり"?><p>「篠澤さん」</p>
+<?dtp level="2" section="1.3　休憩終わり"?>
+<p>「篠澤さん」</p>
 <p>だから、思わず口を開いた。</p>
 <p>「あなたは、全部うまくいってつまらないと言いましたよね。それが研究をやめてアイドルに転身した理由だと」</p>
 <p>「うん」</p>
@@ -361,4 +370,5 @@
 <p>だから俺は、『鬼のプロデューサー』に戻って、心臓の拍動に抗うように叫んだ。</p>
 <p>「早くダンスレッスンに戻ってください！」</p>
 <h2>参考文献</h2>
-<?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-pdg">S. Navas et al. (Particle Data Group), Phys. Rev. D 110, 030001 (2024) and 2025 update</bibitem><span type="bibno">[2] </span><bibitem id="bib-DMDD">T. Lin, PoS 333 (2019) 009</bibitem><span type="bibno">[3] </span><bibitem id="bib-PandaX">Y. Meng et al. (PandaX-4T collaboration), Phys.Rev.Lett. 127 (2021) 26, 261802</bibitem><span type="bibno">[4] </span><bibitem id="bib-LZ">J. Aalbers et al. (LZ collaboration), Phys.Rev.Lett. 131 (2023) 4, 041002</bibitem><span type="bibno">[5] </span><bibitem id="bib-XENON">E. Aprile et al. (XENON collaboration), Phys.Rev.Lett. 131 (2023) 4, 041003</bibitem><span type="bibno">[6] </span><bibitem id="bib-DAMIC-M">K. Aggarwal et al. (DAMIC-M collaboration), Phys.Rev.Lett. 135 (2025) 7, 071002</bibitem><span type="bibno">[7] </span><bibitem id="bib-SENSEI">P. Adari et al. (SENSEI collaboration), Phys.Rev.Lett. 134 (2025) 1, 011804</bibitem><span type="bibno">[8] </span><bibitem id="bib-SuperCDMS">I. Alkhatib et al. (SuperCDMS collaboration), Phys.Rev.Lett. 127 (2021) 061801</bibitem><span type="bibno">[9] </span><bibitem id="bib-CRESST">G. Angloher et al. (CRESST collaboration), Phys.Rev.D 107 (2023) 12, 122003</bibitem><span type="bibno">[10] </span><bibitem id="bib-TESSERACT">C. L. Chang et al. (TESSERACT collaboration), arXiv: 2503.03683</bibitem></aid:doc>
+<?dtp level="2" section="参考文献"?>
+<span type="bibno">[1] </span><bibitem id="bib-pdg">S. Navas et al. (Particle Data Group), Phys. Rev. D 110, 030001 (2024) and 2025 update</bibitem><span type="bibno">[2] </span><bibitem id="bib-DMDD">T. Lin, PoS 333 (2019) 009</bibitem><span type="bibno">[3] </span><bibitem id="bib-PandaX">Y. Meng et al. (PandaX-4T collaboration), Phys.Rev.Lett. 127 (2021) 26, 261802</bibitem><span type="bibno">[4] </span><bibitem id="bib-LZ">J. Aalbers et al. (LZ collaboration), Phys.Rev.Lett. 131 (2023) 4, 041002</bibitem><span type="bibno">[5] </span><bibitem id="bib-XENON">E. Aprile et al. (XENON collaboration), Phys.Rev.Lett. 131 (2023) 4, 041003</bibitem><span type="bibno">[6] </span><bibitem id="bib-DAMIC-M">K. Aggarwal et al. (DAMIC-M collaboration), Phys.Rev.Lett. 135 (2025) 7, 071002</bibitem><span type="bibno">[7] </span><bibitem id="bib-SENSEI">P. Adari et al. (SENSEI collaboration), Phys.Rev.Lett. 134 (2025) 1, 011804</bibitem><span type="bibno">[8] </span><bibitem id="bib-SuperCDMS">I. Alkhatib et al. (SuperCDMS collaboration), Phys.Rev.Lett. 127 (2021) 061801</bibitem><span type="bibno">[9] </span><bibitem id="bib-CRESST">G. Angloher et al. (CRESST collaboration), Phys.Rev.D 107 (2023) 12, 122003</bibitem><span type="bibno">[10] </span><bibitem id="bib-TESSERACT">C. L. Chang et al. (TESSERACT collaboration), arXiv: 2503.03683</bibitem></aid:doc>

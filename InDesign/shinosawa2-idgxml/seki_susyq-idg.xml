@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第17章　篠澤広は超対称性量子力学でパートナーを見つけたい</h1>
-<?dtp level="1" section="第17章　篠澤広は超対称性量子力学でパートナーを見つけたい"?><p>「プロデューサー，何読んでるの？」</p>
+<?dtp level="1" section="第17章　篠澤広は超対称性量子力学でパートナーを見つけたい"?>
+<p>「プロデューサー，何読んでるの？」</p>
 <p>と，篠澤広が顔を覗き込んできて尋ねた．</p>
 <p>「今は……，そうですね，結婚情報誌を読んでいたところです」</p>
 <p>「やっと結婚してくれる気になったんだ，ね」</p>
@@ -9,7 +10,8 @@
 <p>「でもプロデューサー，パートナーに関してならわたし，詳しい．せっかくだから教えてあげるね」</p>
 <p>そうして，彼女は唐突にホワイトボードを引っぱり出してきた．</p>
 <h2>17.1　調和振動子</h2>
-<?dtp level="2" section="17.1　調和振動子"?><p>「プロデューサーは，量子力学のことはどれくらい知ってる？」</p>
+<?dtp level="2" section="17.1　調和振動子"?>
+<p>「プロデューサーは，量子力学のことはどれくらい知ってる？」</p>
 <p>「……量子力学，ですか？」</p>
 <p>結婚の話題から量子力学の話題に切り替わったことに，少し戸惑うものの，いつものように，彼女の話に付き合うことにした．</p>
 <p>「篠澤さんには何度か量子力学の話をされましたから，ある程度なら」</p>
@@ -36,7 +38,8 @@
 <p>「はい．今のところは大丈夫です」</p>
 <p>「それならよかった．じゃあ，次の話題に進む，よ」</p>
 <h2>17.2　超対称量子力学の導入</h2>
-<?dtp level="2" section="17.2　超対称量子力学の導入"?><p>「じゃあ，本題．超対称量子力学の話をする．物理学においては，対称性というのがとても大切」</p>
+<?dtp level="2" section="17.2　超対称量子力学の導入"?>
+<p>「じゃあ，本題．超対称量子力学の話をする．物理学においては，対称性というのがとても大切」</p>
 <p>「超対称量子力学……?はじめて聞きました．どのようなものなのですか？」</p>
 <p>「……ふふ」</p>
 <p>「プロデューサー，いつにもなく積極的」</p>
@@ -64,7 +67,8 @@
 <p>「なるほど．確かに違っていますね．ではなぜこのようなハミルトニアンを考える必要があるのでしょうか」</p>
 <p>「いい質問．実は，このように書くことができるハミルトニアンは多くの特別な性質を持つ．少し休憩してからその特徴について説明する，ね」</p>
 <h2>17.3　超対称量子力学の特徴</h2>
-<?dtp level="2" section="17.3　超対称量子力学の特徴"?><p>「それじゃあプロデューサー，準備はいい？」</p>
+<?dtp level="2" section="17.3　超対称量子力学の特徴"?>
+<p>「それじゃあプロデューサー，準備はいい？」</p>
 <p>「私も暇なわけではないのですが……．まあ，いいでしょう．それで，どのような特徴があるのですか？」</p>
 <p>「まず，超対称量子力学ではいかなる状態のエネルギーも負の値を取らない」</p>
 <p>「これを確かめるために<inlineequation><Image href="file://images/_review_math/_gen_622acd3af75b54581ee05aab7ad099310f75448fcb7390acae1989950d6bcf94.pdf" type="inline"/></inlineequation>を満たす状態<inlineequation><Image href="file://images/_review_math/_gen_8aeed55dbaa2f317afa5d37035848332b038b5c456ba2e1a53a6c38e9af4bf56.pdf" type="inline"/></inlineequation>におけるハミルトニアンの期待値を考える．すると」</p>
@@ -98,7 +102,8 @@
 <displayequation><Image href="file://images/_review_math/_gen_d80a821cb7e3f95f7c402a3d06b8a727175d0db9c9d0d4dd38b08328b1703dc3.pdf"/></displayequation>
 <p>「見てきたように，エネルギーが0か，そうじゃないかで様子が変わってくるのが面白い．本当は基底状態の存在の有無が超対称性が自発的に破れるかどうかに関わってきたり，色々面白い話が続くけど，ここでは割愛．その代わりに具体的な計算をしてみる」</p>
 <h2>17.4　超対称パートナーポテンシャル</h2>
-<?dtp level="2" section="17.4　超対称パートナーポテンシャル"?><p>「ところで，初めはパートナーの話について詳しいということでしたが，その話はどこに行ってしまったのですか？」</p>
+<?dtp level="2" section="17.4　超対称パートナーポテンシャル"?>
+<p>「ところで，初めはパートナーの話について詳しいということでしたが，その話はどこに行ってしまったのですか？」</p>
 <p>「その話もそろそろ出てくる．超対称量子力学は，パートナーを見つけるための学問と言っても過言ではない」</p>
 <p>「そんな俗っぽい学問が存在するはずないでしょう」</p>
 <p>「詳しく知りたくて仕方ないと思う．首を長くして待ってて」</p>
@@ -123,7 +128,8 @@
 <p>「このことを言うためにわざわざ講義を開いたのですか？」</p>
 <p>「もちろん．わたしたちの将来の話はとても，大事」</p>
 <h2>17.5　具体例</h2>
-<?dtp level="2" section="17.5　具体例"?><p>「ここまできたら具体例を確認できる．超対称パートナーポテンシャルが具体的にどのような関係があるかもここで見ていく，よ」</p>
+<?dtp level="2" section="17.5　具体例"?>
+<p>「ここまできたら具体例を確認できる．超対称パートナーポテンシャルが具体的にどのような関係があるかもここで見ていく，よ」</p>
 <p>「ここでは，<inlineequation><Image href="file://images/_review_math/_gen_a86ef458cc61e377412bd6c855ad591d857e0a4f1385f43b15fd1a6a33212a0d.pdf" type="inline"/></inlineequation>と<inlineequation><Image href="file://images/_review_math/_gen_62c66a7a5dd70c3146618063c344e531e6d4b59e379808443ce962b3abd63c5a.pdf" type="inline"/></inlineequation>を復活させてみる」</p>
 <displayequation><Image href="file://images/_review_math/_gen_62b1720b84437654a6260ca92056c450b507b9ed5d74c8ca471f57ccd95df94d.pdf"/></displayequation>
 <p>「例えば，<inlineequation><Image href="file://images/_review_math/_gen_3b5b4ec4407e0ddccf9388cc4ac88db6a606cd58ff83c5c03d731ff752844dec.pdf" type="inline"/></inlineequation>とする．このとき，」</p>
@@ -171,11 +177,13 @@
 <p>「なるほど．確かに，超対称パートナーポテンシャルであることを知らなければ，無限に深い井戸型ポテンシャルとPöschl-Tellerポテンシャルの関係を見つけるのは難しそうですし，Pöschl-Tellerポテンシャルのエネルギー固有値を計算するのは難しそうです」</p>
 <p>「そう．だから，超対称量子力学はパートナーを見つけるための学問」</p>
 <h2>17.6　終幕</h2>
-<?dtp level="2" section="17.6　終幕"?><p>「今日はここまで．パートナーのことについては詳しくなった？」</p>
+<?dtp level="2" section="17.6　終幕"?>
+<p>「今日はここまで．パートナーのことについては詳しくなった？」</p>
 <p>「色々な話が聞けて楽しかったです．ありがとうございました」</p>
 <p>「今回はパートナーのことについて話したけど，超対称量子力学は他にも色々面白い話があるから，いつでも教えてあげる，よ」</p>
 <p>「ええ．ありがとうございます」</p>
 <p>「ですが，そのお話が聞けるのはずいぶんと遠くなりそうですね」</p>
 <p>積み重なる書類の山を見つめながら，そう呟いた．</p>
 <h2>参考文献</h2>
-<?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-">坂本眞人，量子力学から超対称性へ : 超対称性のエッセンスを捉える, サイエンス社, (2012.12)</bibitem><span type="bibno">[2] </span><bibitem id="bib-">David Tong, <i>supersymmetric quantum mechanics</i>, <a linkurl="http://www.damtp.cam.ac.uk/user/tong/susy.html">http://www.damtp.cam.ac.uk/user/tong/susy.html</a></bibitem><span type="bibno">[3] </span><bibitem id="bib-">江口徹,位相的場の理論とその周辺，<a linkurl="https://www2.yukawa.kyoto-u.ac.jp/~masashi.hamanaka/topofie.pdf">https://www2.yukawa.kyoto-u.ac.jp/~masashi.hamanaka/topofie.pdf</a>(1999)</bibitem></aid:doc>
+<?dtp level="2" section="参考文献"?>
+<span type="bibno">[1] </span><bibitem id="bib-">坂本眞人，量子力学から超対称性へ : 超対称性のエッセンスを捉える, サイエンス社, (2012.12)</bibitem><span type="bibno">[2] </span><bibitem id="bib-">David Tong, <i>supersymmetric quantum mechanics</i>, <a linkurl="http://www.damtp.cam.ac.uk/user/tong/susy.html">http://www.damtp.cam.ac.uk/user/tong/susy.html</a></bibitem><span type="bibno">[3] </span><bibitem id="bib-">江口徹,位相的場の理論とその周辺，<a linkurl="https://www2.yukawa.kyoto-u.ac.jp/~masashi.hamanaka/topofie.pdf">https://www2.yukawa.kyoto-u.ac.jp/~masashi.hamanaka/topofie.pdf</a>(1999)</bibitem></aid:doc>

@@ -2,7 +2,8 @@
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第7章　ミラクルナナ(ﾟ∀ﾟ)！</h1>
 <?dtp level="1" section="第7章　ミラクルナナ(ﾟ∀ﾟ)！"?>
 <h2>7.1　夢とヒーロー</h2>
-<?dtp level="2" section="7.1　夢とヒーロー"?><p>子供の頃の夢はなんだっただろうか。</p>
+<?dtp level="2" section="7.1　夢とヒーロー"?>
+<p>子供の頃の夢はなんだっただろうか。</p>
 <p>男の子ならプロ野球選手だろうか、サッカー選手だろうか警察官や消防士、最近だとYouTuberなんてのもある。</p>
 <p>私の夢はヒーローだった。悪いやつをやっつけ、人々を守り、地球を、世界を救うすごいヒーローだ。</p>
 <p>しかし月日は流れ、いろいろなことを知った。</p>
@@ -72,7 +73,8 @@
 <say><name>広</name>➤<line>「実はもう候補者がいる。」</line></say><p/>
 <p>そう言って彼女はゆっくりとテレビを指をさす、その先にはひどく個性的なアイドルが映っていた。</p>
 <h2>7.3　エネルギー収支と地球の温度</h2>
-<?dtp level="2" section="7.3　エネルギー収支と地球の温度"?><say><name>広</name>➤<line>「と、いうわけで南極大陸に着いた。南極観測隊アイドルの篠澤広と」</line></say>
+<?dtp level="2" section="7.3　エネルギー収支と地球の温度"?>
+<say><name>広</name>➤<line>「と、いうわけで南極大陸に着いた。南極観測隊アイドルの篠澤広と」</line></say>
 <say><name>安</name>➤<line>「歌って踊れる声優兼観測隊アイドル、ウサミンこと安部菜々でーっす！」</line></say>
 <say><name>広</name>➤<line>「やっと着いた。ふふ、死ぬかと思った。」</line></say>
 <say><name>安</name>➤<line>「本当ですよ！ペンギンが広ちゃんを引きずってそのまま海に飛び込もうとしたときなんか血の気が引きましたからね！！」</line></say>
@@ -141,7 +143,8 @@
 <say><name>安</name>➤<line>「あー！ナナ知ってます！二酸化炭素ですよね！」</line></say>
 <say><name>広</name>➤<line>「ふふ、残念。二酸化炭素もそうだけど、ほとんどは水蒸気。貢献度でいくと8割くらいが水蒸気。地球に水がなかったら平均気温は-10℃くらいになってる。それが地球という場所。」</line></say>
 <h2>7.4　安定した安定と安定してない安定</h2>
-<?dtp level="2" section="7.4　安定した安定と安定してない安定"?><say><name>広</name>➤<line>「さて、ここまでが前提知識。」</line></say>
+<?dtp level="2" section="7.4　安定した安定と安定してない安定"?>
+<say><name>広</name>➤<line>「さて、ここまでが前提知識。」</line></say>
 <say><name>安</name>➤<line>「ナナは前提知識でもういっぱいいっぱいなんですが。」</line></say>
 <say><name>広</name>➤<line>「大丈夫、ウサミンには理解してもらわないとダメ。次はフィードバックについて学んでもらう。突然だけどウサミンはいまお金に困ってたりする？」</line></say>
 <say><name>安</name>➤<line>「本当に突然ですね。う〜ん、ちょっと前まではメイドカフェでバイトとかしてましたけど、最近はお仕事が安定してきたので困ってるってことはないですね。」</line></say>
@@ -181,7 +184,8 @@
 <say><name>安</name>➤<line>「あのー、強制力というのは？」</line></say>
 <say><name>広</name>➤<line>「強制力は外からかかる力。ボールの場合は横から押す力だし、地球の熱収支の場合は二酸化炭素による温室効果だったり太陽放射の増加だったりする。」</line></say>
 <h2>7.5　気候の安定性</h2>
-<?dtp level="2" section="7.5　気候の安定性"?><say><name>安</name>➤<line>「ん？でもちょっと待ってください。地球全体の話ばっかりしてましたけど、じゃあなんでナナたちは南極にいるんですか？」</line></say>
+<?dtp level="2" section="7.5　気候の安定性"?>
+<say><name>安</name>➤<line>「ん？でもちょっと待ってください。地球全体の話ばっかりしてましたけど、じゃあなんでナナたちは南極にいるんですか？」</line></say>
 <say><name>広</name>➤<line><p>「そう、それが重要な部分。実はさっき計算した熱収支の式だけど、あれは平衡状態を計算したもの。なので平衡状態が崩れるときには外部からの強制力<inlineequation><Image href="file://images/_review_math/_gen_19eb6ae2fe83e18ae917bfff83526525985038c6cb4ca5de3cc7a6ca3ea476e3.pdf" type="inline"/></inlineequation>が入ってきて</p>
 <displayequation><Image href="file://images/_review_math/_gen_e76a947e52bdcd8e73b93613a102706940a78db54dafa390aefb7b187fdb25bb.pdf"/></displayequation>
 <p>こうなる。そしてこの<inlineequation><Image href="file://images/_review_math/_gen_19eb6ae2fe83e18ae917bfff83526525985038c6cb4ca5de3cc7a6ca3ea476e3.pdf" type="inline"/></inlineequation>は式<span type="eq">式7.6</span>と同じ。つまり熱収支の式をベースにして微分・線形化すると温度変化に対する応答のフィードバックの式になる。地球の気候がどのくらい安定かは式<span type="eq">式7.6</span>の分母の<inlineequation><Image href="file://images/_review_math/_gen_655a2346291c5ec88214ef684861f7d2c20b8feab30a9b112cdc68e7dd77dcdc.pdf" type="inline"/></inlineequation>で決まる。ここで<inlineequation><Image href="file://images/_review_math/_gen_583cf6290785d72cc1b71808962dd4bd72ca369f004fb5cb587694fc1b26149f.pdf" type="inline"/></inlineequation>は<inlineequation><Image href="file://images/_review_math/_gen_99e94562e518121b19d4e59e669ad114e97274fcc01aaa95a425c88556d6ebc4.pdf" type="inline"/></inlineequation>の温度微分なので</p>
@@ -234,7 +238,8 @@
 <say><name>広</name>➤<line>「うん、わたしもそう“思ってた”。」</line></say>
 <say><name>安</name>➤<line>「……え？」</line></say>
 <h2>7.6　3%</h2>
-<?dtp level="2" section="7.6　3%"?><say><name>広</name>➤<line>「よく思い出して、いままでの話だと結局『なんでナナたちは南極にいるんですか？』の質問の答えになってない。」</line></say>
+<?dtp level="2" section="7.6　3%"?>
+<say><name>広</name>➤<line>「よく思い出して、いままでの話だと結局『なんでナナたちは南極にいるんですか？』の質問の答えになってない。」</line></say>
 <say><name>安</name>➤<line>「あ～……そう言えば計算に使った式も値も全部わざわざ南極に来る必要がなかったような……」</line></say>
 <say><name>広</name>➤<line>「南極でわたしが調べていたのは雪と地面、つまり反射率、アルベドを調べていた。そしていままでの値がちょっとだけ間違ってることを発見した。南極はみんなが思っているより氷が少なく、汚れていて、地球のアルベドもほんの少し小さかった。具体的には3%」</line></say>
 <say><name>安</name>➤<line>「へ～、すごい発見ですね！ノーベル賞とかもらえちゃいます？」</line></say>
@@ -264,7 +269,8 @@
 <say><name>安</name>➤<line>「そんな……」</line></say>
 <say><name>広</name>➤<line>「もう無理。いまの地球は山の上のボールが谷底に転がり落ち始めちゃってる状態。ここから力を入れてもちょっと速度が弱まるだけ。人類には『熱暴走を食い止める』のは無理。だってもう『地球熱暴走』は『始まっちゃってる』。そして熱暴走による気温の上昇はみんなが思っているよりずっと早い。このあとは南極の氷床融解により暖かい深層水が南極沿岸に入り込む連鎖的氷床融解が待ってる。地球上の氷が溶けきるまでもって20年ってところ。つまり、人類はこの“3 %” の誤差のせいで、もうすぐ絶滅する。」</line></say>
 <h2>7.7　南極大陸ライブ</h2>
-<?dtp level="2" section="7.7　南極大陸ライブ"?><p>動悸がすごい。目の前がチカチカする……当たり前だ。担当アイドルの講義を受けていると思ったらとんでもない事実を知らされた。人類が滅亡する？いつかテレビで見た偉そうな学者が『このままだと100年もしたら地球の気温は2℃も上がるぞ』と言っていた。その時はそのうちだれかが何とかするだろうなんて思っていたが……もって20年？うそだろ？こんなことを聞かされてどうしたらいいんだ。政府に訴える？NASA？いやダメだ、篠澤さんが無理だと言ったんだ。どうにかなることならそんなこと言わない。彼女は嘘はつかないし冗談でこんなことは言わない。ちくしょう、私はアイドルのプロデューサーだぞ、ハリウッド映画の主人公じゃない、せいぜいが逃げ惑う民衆Bだ。私の夢はどうなる？そうだ、トップアイドルを……私はトップアイドルを育てなければならない。</p>
+<?dtp level="2" section="7.7　南極大陸ライブ"?>
+<p>動悸がすごい。目の前がチカチカする……当たり前だ。担当アイドルの講義を受けていると思ったらとんでもない事実を知らされた。人類が滅亡する？いつかテレビで見た偉そうな学者が『このままだと100年もしたら地球の気温は2℃も上がるぞ』と言っていた。その時はそのうちだれかが何とかするだろうなんて思っていたが……もって20年？うそだろ？こんなことを聞かされてどうしたらいいんだ。政府に訴える？NASA？いやダメだ、篠澤さんが無理だと言ったんだ。どうにかなることならそんなこと言わない。彼女は嘘はつかないし冗談でこんなことは言わない。ちくしょう、私はアイドルのプロデューサーだぞ、ハリウッド映画の主人公じゃない、せいぜいが逃げ惑う民衆Bだ。私の夢はどうなる？そうだ、トップアイドルを……私はトップアイドルを育てなければならない。</p>
 <p>しかし……なんだこの違和感は。篠澤さんがショックを受けていないのは分かる、そういう人だ。なぜか菜々さんをずっと見つめている。そして菜々さんの方は……なにか焦っている？私のようにショックを受けているとは違う。</p>
 <p>……そうだ、違和感の正体が分かった。私の知っている篠澤さんはどんなに辛くて苦しいことでも自ら進んでやるような人間だ。「やろうと思ったけどできなかった」なんて聞き分けのいい人じゃない。むしろ絶対できないことをいつまでもやり続ける人だ。</p>
 <p>むしろ、逆だ。これはできないことを続けているんじゃなくて、問題を解決し終わったときの篠澤さんだ。</p>
@@ -294,7 +300,8 @@
 <p/>
 <say><name>安</name>➤<line>「地球を救うライブ、いっきま～す！キャハッ☆」</line></say><p align="center">&lt;地球のアルベドを 3 % 上げるライブに成功!!&gt;</p>
 <h2>7.8　夢とヒロ</h2>
-<?dtp level="2" section="7.8　夢とヒロ"?><p>子供の頃の夢はなんだっただろうか。</p>
+<?dtp level="2" section="7.8　夢とヒロ"?>
+<p>子供の頃の夢はなんだっただろうか。</p>
 <p>昔の私の夢はヒーローだった。悪いやつをやっつけ、人々を守り、地球を、世界を救うすごいヒーローだ。</p>
 <p>今の私の夢はトップアイドルを育てることだ。</p>
 <p/>
@@ -304,4 +311,5 @@
 <p/>
 <say><name/><line>「それでは次の曲です。みなさんご存じ、篠澤広さんで、ミラクルナナ(ﾟ∀ﾟ)！です！どうぞ！！」</line></say><p align="center">&lt;Miracle End&gt;</p>
 <h2>参考文献</h2>
-<?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-">D. Hestenes, M. Wells and G. Swackhamer, Phys. Teacher 30 (1992) 141.</bibitem><span type="bibno">[2] </span><bibitem id="bib-">L.C. McDermott and the Physics Education Group at the University of Washington, Physics by Inquiry, Vol. 1, John Wiley &amp; Sons (1995).</bibitem><span type="bibno">[3] </span><bibitem id="bib-">N. Kurita et al., Nat. Commun. 16 (2025) 6764.</bibitem><span type="bibno">[4] </span><bibitem id="bib-">J. Hansen et al., Rev. Geophys. 48 (2010) RG4004.</bibitem><span type="bibno">[5] </span><bibitem id="bib-">M. Lenton et al., Proc. Natl. Acad. Sci. USA 105 (2008) 1786.</bibitem><span type="bibno">[6] </span><bibitem id="bib-">Intergovernmental Panel on Climate Change (IPCC), Sixth Assessment Report (AR6), IPCC, Geneva (2023).</bibitem><span type="bibno">[7] </span><bibitem id="bib-">伊勢武史『「地球システム」を科学する』（ベレ出版，2018年）.</bibitem><span type="bibno">[8] </span><bibitem id="bib-">Y Suganuma et al., Nat. Geosci. (2025), Antarctic ice-shelf collapse in Holocene driven by meltwater release feedbacks.</bibitem></aid:doc>
+<?dtp level="2" section="参考文献"?>
+<span type="bibno">[1] </span><bibitem id="bib-">D. Hestenes, M. Wells and G. Swackhamer, Phys. Teacher 30 (1992) 141.</bibitem><span type="bibno">[2] </span><bibitem id="bib-">L.C. McDermott and the Physics Education Group at the University of Washington, Physics by Inquiry, Vol. 1, John Wiley &amp; Sons (1995).</bibitem><span type="bibno">[3] </span><bibitem id="bib-">N. Kurita et al., Nat. Commun. 16 (2025) 6764.</bibitem><span type="bibno">[4] </span><bibitem id="bib-">J. Hansen et al., Rev. Geophys. 48 (2010) RG4004.</bibitem><span type="bibno">[5] </span><bibitem id="bib-">M. Lenton et al., Proc. Natl. Acad. Sci. USA 105 (2008) 1786.</bibitem><span type="bibno">[6] </span><bibitem id="bib-">Intergovernmental Panel on Climate Change (IPCC), Sixth Assessment Report (AR6), IPCC, Geneva (2023).</bibitem><span type="bibno">[7] </span><bibitem id="bib-">伊勢武史『「地球システム」を科学する』（ベレ出版，2018年）.</bibitem><span type="bibno">[8] </span><bibitem id="bib-">Y Suganuma et al., Nat. Geosci. (2025), Antarctic ice-shelf collapse in Holocene driven by meltwater release feedbacks.</bibitem></aid:doc>

@@ -1,8 +1,10 @@
 <?xml version="1.0"?>
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第21章　アイドルの頂点を目指す者 ~頂点代数入門講義~</h1>
-<?dtp level="1" section="第21章　アイドルの頂点を目指す者 ~頂点代数入門講義~"?><lead><b>概要</b>頂点を目指すために、頂点代数を学ぶ。【キーワード】群、リー代数、頂点代数</lead>
+<?dtp level="1" section="第21章　アイドルの頂点を目指す者 ~頂点代数入門講義~"?>
+<lead><b>概要</b>頂点を目指すために、頂点代数を学ぶ。【キーワード】群、リー代数、頂点代数</lead>
 <h2>21.1　登場人物紹介</h2>
-<?dtp level="2" section="21.1　登場人物紹介"?><dl><dt>花海 咲季</dt>
+<?dtp level="2" section="21.1　登場人物紹介"?>
+<dl><dt>花海 咲季</dt>
 <dd>初星学園の入試を首席で合格した。</dd>
 <dt>花海 佑芽</dt>
 <dd>補欠入学。咲季の妹。</dd>
@@ -10,7 +12,8 @@
 <dd>筆記試験で1位だった。物理と数学が得意。</dd>
 </dl>
 <h2>21.2　中間試験後</h2>
-<?dtp level="2" section="21.2　中間試験後"?><say><name>咲季</name>➤<line>中間試験の結果が貼り出されてるらしいわよ。</line></say>
+<?dtp level="2" section="21.2　中間試験後"?>
+<say><name>咲季</name>➤<line>中間試験の結果が貼り出されてるらしいわよ。</line></say>
 <say><name>佑芽</name>➤<line>ほんと！？お姉ちゃんはきっと1位だよね！</line></say>
 <say><name>咲季</name>➤<line>そうね。ちゃんと勉強もしたし。</line></say><p/>
 <p>＊＊＊</p>
@@ -37,7 +40,8 @@
 <say><name>咲季</name>➤<line>そうね、わたしはアイドルの頂点を目指すつもりよ。だから、アイドルの頂点を目指すのにふさわしい内容を教えて頂戴。</line></say>
 <say><name>広</name>➤<line>アイドルの、頂点……。わかった。</line></say>
 <h2>21.3　群</h2>
-<?dtp level="2" section="21.3　群"?><say><name>佑芽</name>➤<line>おねえちゃ～ん！広ちゃんから伝言だよ～！</line></say>
+<?dtp level="2" section="21.3　群"?>
+<say><name>佑芽</name>➤<line>おねえちゃ～ん！広ちゃんから伝言だよ～！</line></say>
 <say><name>咲季</name>➤<line>何があったの？</line></say>
 <say><name>佑芽</name>➤<line>「放課後、2組の教室で待ってる。アイドルの頂点を目指す講義を始めるよ」だって！</line></say>
 <say><name>咲季</name>➤<line>あのとき言ってたやつね。どんな講義をしてくれるのかしら。</line></say><p/>
@@ -91,7 +95,8 @@
 <say><name>広</name>➤<line>………………きゅう…………。</line></say>
 <say><name>咲季</name>➤<line>ちょっと、倒れないでよ！？</line></say>
 <h2>21.4　リー代数</h2>
-<?dtp level="2" section="21.4　リー代数"?><say><name>咲季</name>➤<line>あの後、自分で勉強を進めたのよ。群論の本も買ったし、ベクトル空間についてもわかるようになったわ！</line></say>
+<?dtp level="2" section="21.4　リー代数"?>
+<say><name>咲季</name>➤<line>あの後、自分で勉強を進めたのよ。群論の本も買ったし、ベクトル空間についてもわかるようになったわ！</line></say>
 <say><name>広</name>➤<line>素晴らしい。</line></say>
 <say><name>咲季</name>➤<line>だから、どんな内容でもどんとこいよ！</line></say>
 <say><name>広</name>➤<line>じゃあ今日はリー代数の話をするね。</line></say>
@@ -181,11 +186,13 @@
 <say><name>広</name>➤<line>お茶飲みすぎた……。</line></say>
 <say><name>咲季</name>➤<line>あー。</line></say>
 <h3>広の講義レジュメ</h3>
-<?dtp level="3" section="広の講義レジュメ"?><p><inlineequation><Image href="file://images/_review_math/_gen_fe092026f9d407566a7e40da2e33ead3b6d0159f4015f5244832fac78d164e1d.pdf" type="inline"/></inlineequation>と<inlineequation><Image href="file://images/_review_math/_gen_d8696536d4d7a2d6e9398163dd69c0c4409c5691807411a512822c9ffc0837cd.pdf" type="inline"/></inlineequation>で張られる線形空間にリーブラケットを</p>
+<?dtp level="3" section="広の講義レジュメ"?>
+<p><inlineequation><Image href="file://images/_review_math/_gen_fe092026f9d407566a7e40da2e33ead3b6d0159f4015f5244832fac78d164e1d.pdf" type="inline"/></inlineequation>と<inlineequation><Image href="file://images/_review_math/_gen_d8696536d4d7a2d6e9398163dd69c0c4409c5691807411a512822c9ffc0837cd.pdf" type="inline"/></inlineequation>で張られる線形空間にリーブラケットを</p>
 <displayequation><Image href="file://images/_review_math/_gen_73012286f8f56a650c5d5c2765aae56e9c83b445bc2989fe624e28c138eede6f.pdf"/></displayequation>
 <p>により定めるとリー代数となる。これをHeisenbergリー代数という。</p>
 <h2>21.5　頂点代数</h2>
-<?dtp level="2" section="21.5　頂点代数"?><say><name>咲季</name>➤<line>はい、どうぞ。</line></say>
+<?dtp level="2" section="21.5　頂点代数"?>
+<say><name>咲季</name>➤<line>はい、どうぞ。</line></say>
 <say><name>佑芽</name>➤<line>ありがと～！おねえちゃんのつくってくれるドリンク、だいすき！</line></say>
 <say><name>咲季</name>➤<line>えへへ。</line></say>
 <say><name>佑芽</name>➤<line>あれ？今日はいつもよりたくさんつくった？</line></say>
@@ -375,27 +382,33 @@
 <say><name>広</name>➤<line>……もう、だめ……。（ばたり）</line></say>
 <say><name>咲季</name>➤<line>倒れちゃった。限界を超えてよくがんばったわね。お疲れさま。</line></say>
 <h3>広の講義レジュメ</h3>
-<?dtp level="3" section="広の講義レジュメ"?><p>補題から補題の証明は余裕があればやる。</p>
+<?dtp level="3" section="広の講義レジュメ"?>
+<p>補題から補題の証明は余裕があればやる。</p>
 <h4>補題の証明</h4>
-<?dtp level="4" section="補題の証明"?><displayequation><Image href="file://images/_review_math/_gen_3a62378c0c28e9900c8c9addc21b59da47283cd57da1d7a4be847bdc4ad3abcd.pdf"/></displayequation>
+<?dtp level="4" section="補題の証明"?>
+<displayequation><Image href="file://images/_review_math/_gen_3a62378c0c28e9900c8c9addc21b59da47283cd57da1d7a4be847bdc4ad3abcd.pdf"/></displayequation>
 <h4>補題の証明</h4>
-<?dtp level="4" section="補題の証明"?><p>十分大きな<inlineequation><Image href="file://images/_review_math/_gen_08f271887ce94707da822d5263bae19d5519cb3614e0daedc4c7ce5dab7473f1.pdf" type="inline"/></inlineequation>に対して</p>
+<?dtp level="4" section="補題の証明"?>
+<p>十分大きな<inlineequation><Image href="file://images/_review_math/_gen_08f271887ce94707da822d5263bae19d5519cb3614e0daedc4c7ce5dab7473f1.pdf" type="inline"/></inlineequation>に対して</p>
 <displayequation><Image href="file://images/_review_math/_gen_737feb3f2c02ac8195d110d309c7d7171a528b950edd5bc7e22e7c929fa2e14c.pdf"/></displayequation>
 <p>を示せばよい。<inlineequation><Image href="file://images/_review_math/_gen_73556734a1b65291c18274f09d830812e49b1bcb01fb332e625047be4cd7b536.pdf" type="inline"/></inlineequation>とすると</p>
 <displayequation><Image href="file://images/_review_math/_gen_1920744d3c63346241fd73eac8e0eee3740add42980fa926be2889af279e85e2.pdf"/></displayequation>
 <p>となる。<inlineequation><Image href="file://images/_review_math/_gen_df701b27f24bbe71493c9006593d224f5516f8a4f16b334945191428cb391f91.pdf" type="inline"/></inlineequation>を大きくとれば、<inlineequation><Image href="file://images/_review_math/_gen_3048148b18b3c98d5e4f119871be3783cd71dbb9584c1a5018da163be21ee419.pdf" type="inline"/></inlineequation>と<inlineequation><Image href="file://images/_review_math/_gen_ea54f7aabc11128fed7fe2940f3c4754f4d336786e2c535107315304c63d89f6.pdf" type="inline"/></inlineequation>の順番を入れ替えられる。<inlineequation><Image href="file://images/_review_math/_gen_de7d1b721a1e0632b7cf04edf5032c8ecffa9f9a08492152b926f1a5a7e765d7.pdf" type="inline"/></inlineequation>が小さいとき、<inlineequation><Image href="file://images/_review_math/_gen_e945b5ddcecdc573299f67dddca1fe8581f856dcd49c90b851995cb6d6a04573.pdf" type="inline"/></inlineequation>を大きくとることで<inlineequation><Image href="file://images/_review_math/_gen_5acd5c44a7a51b3b5c8a79352fd10bf21dd189eba263c3481013cf819b07aaae.pdf" type="inline"/></inlineequation>と<inlineequation><Image href="file://images/_review_math/_gen_ea54f7aabc11128fed7fe2940f3c4754f4d336786e2c535107315304c63d89f6.pdf" type="inline"/></inlineequation>の順番を入れ替えられる。<inlineequation><Image href="file://images/_review_math/_gen_de7d1b721a1e0632b7cf04edf5032c8ecffa9f9a08492152b926f1a5a7e765d7.pdf" type="inline"/></inlineequation>が大きいとき、<inlineequation><Image href="file://images/_review_math/_gen_f46f65580518e137ee18c5fa1765ae9440eff8b09001fdcef71ace2b8d26f69f.pdf" type="inline"/></inlineequation>および<inlineequation><Image href="file://images/_review_math/_gen_991820ee2196a64b077005e5475012a728803b4aeff26a19dfafb71e9ac61a8b.pdf" type="inline"/></inlineequation>が入れ替え可能なことを用いるとよい。</p>
 <h4>補題の証明</h4>
-<?dtp level="4" section="補題の証明"?><p><inlineequation><Image href="file://images/_review_math/_gen_060bda1c891ffe877b4ec4d44b7e8590c4a370475fa057db713de8e7a69b2cad.pdf" type="inline"/></inlineequation>に対して</p>
+<?dtp level="4" section="補題の証明"?>
+<p><inlineequation><Image href="file://images/_review_math/_gen_060bda1c891ffe877b4ec4d44b7e8590c4a370475fa057db713de8e7a69b2cad.pdf" type="inline"/></inlineequation>に対して</p>
 <displayequation><Image href="file://images/_review_math/_gen_9cb87de6c7f1e00e2777588c9d9e8d786947dcd0dae1d8826c6b36760f377387.pdf"/></displayequation>
 <p>vacuum axiomより、<inlineequation><Image href="file://images/_review_math/_gen_781777f552184519b89a2089e1afaf91b1d458e7c30e48b6e14b39ba85ee2b9b.pdf" type="inline"/></inlineequation>と<inlineequation><Image href="file://images/_review_math/_gen_71b7327d6ce589ec36ac89940521951a33ddc1e4f7ab2eb26f120f48e75571f1.pdf" type="inline"/></inlineequation>は<inlineequation><Image href="file://images/_review_math/_gen_50e721e49c013f00c62cf59f2163542a9d8df02464efeb615d31051b0fddc326.pdf" type="inline"/></inlineequation>に関する負べきを含まない級数である。<inlineequation><Image href="file://images/_review_math/_gen_adfbe2a303f9c444e9dc06196ac73e1ba8907adb19cf0dd8fff08de5334ce801.pdf" type="inline"/></inlineequation>を代入すると、<inlineequation><Image href="file://images/_review_math/_gen_9f3606f990b84004763330356f63e6124565e9cd83973365e38b44be5bf70d87.pdf" type="inline"/></inlineequation>が得られる。これが任意の<inlineequation><Image href="file://images/_review_math/_gen_060bda1c891ffe877b4ec4d44b7e8590c4a370475fa057db713de8e7a69b2cad.pdf" type="inline"/></inlineequation>に対して成り立つので、<inlineequation><Image href="file://images/_review_math/_gen_1759091b1250a262c0ce1848bb91bcd02ae81fb7aea54510d0c59785878d5502.pdf" type="inline"/></inlineequation>である。</p>
 <h4>補題の証明</h4>
-<?dtp level="4" section="補題の証明"?><p><inlineequation><Image href="file://images/_review_math/_gen_4c807af89a16f704465901eacdb2491d2f783df0c765809255e42c2f0f35020b.pdf" type="inline"/></inlineequation>とおくと、<inlineequation><Image href="file://images/_review_math/_gen_7b6f7ea3bf1d1a496a8d18ef2841176f36900fdb92876fa8f8381448a79d7472.pdf" type="inline"/></inlineequation>ならば<inlineequation><Image href="file://images/_review_math/_gen_4020582e2f96401e79811eed4a1a342eac0163b5852aa248faf2015d48bc2e03.pdf" type="inline"/></inlineequation>および<inlineequation><Image href="file://images/_review_math/_gen_ca77e525baa03593875bec5e50d18a1d7388a4e4cd9666aae1b6c83c67b1fcdd.pdf" type="inline"/></inlineequation>が成り立つ。また<inlineequation><Image href="file://images/_review_math/_gen_3d0263df918dd31403e2749927b23c6884cddc45e337f9924d6b858c5aea8cbe.pdf" type="inline"/></inlineequation>なので、帰納的に</p>
+<?dtp level="4" section="補題の証明"?>
+<p><inlineequation><Image href="file://images/_review_math/_gen_4c807af89a16f704465901eacdb2491d2f783df0c765809255e42c2f0f35020b.pdf" type="inline"/></inlineequation>とおくと、<inlineequation><Image href="file://images/_review_math/_gen_7b6f7ea3bf1d1a496a8d18ef2841176f36900fdb92876fa8f8381448a79d7472.pdf" type="inline"/></inlineequation>ならば<inlineequation><Image href="file://images/_review_math/_gen_4020582e2f96401e79811eed4a1a342eac0163b5852aa248faf2015d48bc2e03.pdf" type="inline"/></inlineequation>および<inlineequation><Image href="file://images/_review_math/_gen_ca77e525baa03593875bec5e50d18a1d7388a4e4cd9666aae1b6c83c67b1fcdd.pdf" type="inline"/></inlineequation>が成り立つ。また<inlineequation><Image href="file://images/_review_math/_gen_3d0263df918dd31403e2749927b23c6884cddc45e337f9924d6b858c5aea8cbe.pdf" type="inline"/></inlineequation>なので、帰納的に</p>
 <displayequation><Image href="file://images/_review_math/_gen_d0c5cae77b1e24413ce7f0c3ef6c86f94f10a2ee5e9ec76337dea7263c161294.pdf"/></displayequation>
 <p>が得られる。よって</p>
 <displayequation><Image href="file://images/_review_math/_gen_1ae541b2ef49e789df1e03c583d42b841d8c616e973e8c6b6aba3d217663d562.pdf"/></displayequation>
 <p>が成り立つ。</p>
 <h2>21.6　頂点作用素代数</h2>
-<?dtp level="2" section="21.6　頂点作用素代数"?><say><name>咲季</name>➤<line>わたしの作ったごはん、どうかしら？</line></say>
+<?dtp level="2" section="21.6　頂点作用素代数"?>
+<say><name>咲季</name>➤<line>わたしの作ったごはん、どうかしら？</line></say>
 <say><name>広</name>➤<line>見た目の美しさを排除して、徹底的に合理性を追求した作品。気に入った。</line></say>
 <say><name>咲季</name>➤<line>えへへ。それはよかったわ。</line></say>
 <say><name>広</name>➤<line>咲季がつくるごはん、またたべたい。</line></say>
@@ -475,7 +488,8 @@
 <say><name>広</name>➤<line>咲季ならできる。</line></say>
 <say><name>咲季</name>➤<line>そう聞いたらますますやる気になってきちゃうじゃない！頂点を目指すしかないわね！</line></say>
 <h2>21.7　期末試験後</h2>
-<?dtp level="2" section="21.7　期末試験後"?><say><name>佑芽</name>➤<line>広ちゃん！期末試験の結果が貼り出されたよ！</line></say>
+<?dtp level="2" section="21.7　期末試験後"?>
+<say><name>佑芽</name>➤<line>広ちゃん！期末試験の結果が貼り出されたよ！</line></say>
 <say><name>広</name>➤<line>そうなんだ。</line></say>
 <say><name>佑芽</name>➤<line>一緒に見に行こ！</line></say><p/>
 <p>＊＊＊</p>
@@ -497,4 +511,5 @@
 <say><name>広</name>➤<line>ばいばい、3位の人。</line></say>
 <say><name>咲季</name>➤<line>ぐぬぬ……。篠澤広～～～～～！覚えてなさ～～～～～い！！！！！</line></say>
 <h2>参考文献</h2>
-<?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-">Edward Frenkel and David Ben-Zvi. Vertex algebras and algebraic curves. 2nd revised and expanded ed. Vol. 88. Math. Surv. Monogr. Providence, RI: American Mathematical Society (AMS), 2004.</bibitem><span type="bibno">[2] </span><bibitem id="bib-">Victor G. Kac, Ashok K. Raina, and Natasha Rozhkovskaya. Bombay lectures on highest weight representations of infinite dimensional Lie algebras. 2nd ed. Vol. 29. Adv. Ser. Math. Phys. Hackensack, NJ: World Scientific, 2013.</bibitem><span type="bibno">[3] </span><bibitem id="bib-">Atsushi Matsuo. “Lectures on vertex algebras”. In: Algebraic combinatorics and the monster group. Cambridge: Cambridge University Press, 2024, pp. 3–142.</bibitem><span type="bibno">[4] </span><bibitem id="bib-">Loring W. Tu. An introduction to manifolds. 2nd revised ed. 2nd ed. Universitext. New York, NY: Springer, 2011.</bibitem></aid:doc>
+<?dtp level="2" section="参考文献"?>
+<span type="bibno">[1] </span><bibitem id="bib-">Edward Frenkel and David Ben-Zvi. Vertex algebras and algebraic curves. 2nd revised and expanded ed. Vol. 88. Math. Surv. Monogr. Providence, RI: American Mathematical Society (AMS), 2004.</bibitem><span type="bibno">[2] </span><bibitem id="bib-">Victor G. Kac, Ashok K. Raina, and Natasha Rozhkovskaya. Bombay lectures on highest weight representations of infinite dimensional Lie algebras. 2nd ed. Vol. 29. Adv. Ser. Math. Phys. Hackensack, NJ: World Scientific, 2013.</bibitem><span type="bibno">[3] </span><bibitem id="bib-">Atsushi Matsuo. “Lectures on vertex algebras”. In: Algebraic combinatorics and the monster group. Cambridge: Cambridge University Press, 2024, pp. 3–142.</bibitem><span type="bibno">[4] </span><bibitem id="bib-">Loring W. Tu. An introduction to manifolds. 2nd revised ed. 2nd ed. Universitext. New York, NY: Springer, 2011.</bibitem></aid:doc>
