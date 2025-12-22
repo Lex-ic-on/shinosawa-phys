@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第12章　篠澤広に学ぶ流体力学</h1>
-<?dtp level="1" section="第12章　篠澤広に学ぶ流体力学"?><h2>12.1　導入</h2>
+<?dtp level="1" section="第12章　篠澤広に学ぶ流体力学"?>
+<h2>12.1　導入</h2>
 <?dtp level="2" section="12.1　導入"?><Image href="file://images/uzumaki_fluid/1_.png" scale="0.9"/>
 <img-caption>図12.1　2025年鳥人間コンテスト(琵琶湖)</img-caption>
 <say><name>P</name>➤<line>「何を見ているんです？」</line></say>
@@ -11,7 +12,8 @@
 <say><name>P</name>➤<line>「アイドルのプロデュースとはまた違った知識が必要そうです。」</line></say>
 <say><name>広</name>➤<line>「機械工学全般が必要だけど、特に必要なのは流体力学かな。」</line></say>
 <say><name>P</name>➤<line>「流体力学……、川の流れとかを学ぶ学問でしょうか。少し気になりますね。」</line></say>
-<say><name>広</name>➤<line>「いいね、プロデューサーに流体力学の考え方を教えてあげる。」</line></say><h2>12.2　流体力学の全体像</h2>
+<say><name>広</name>➤<line>「いいね、プロデューサーに流体力学の考え方を教えてあげる。」</line></say>
+<h2>12.2　流体力学の全体像</h2>
 <?dtp level="2" section="12.2　流体力学の全体像"?><say><name>広</name>➤<line>「まずは、流体力学の全体像をイメージして。」</line></say>
 <say><name>P</name>➤<line>「これが流体力学の全体像……。」</line></say>
 <say><name>広</name>➤<line>「ここから<span type="image">図12.2</span>の7つのブロックを1つずつ詳しく説明する。」</line></say><Image href="file://images/uzumaki_fluid/2_.png" scale="0.9"/>
@@ -25,7 +27,8 @@
 <say><name>広</name>➤<line>「ただ高校生の物理では微分方程式を取り扱わない。」</line></say>
 <say><name>広</name>➤<line>「この範囲でプロデューサーにわかるように説明しようと思う。」</line></say>
 <say><name>広</name>➤<line>「それでも大学2年生の工学部機械科の流体力学の講義が始まる前に必ず役に立つくらいの内容は話せる。流体力学の全体像を。」</line></say>
-<say><name>P</name>➤<line>「わかりました、よろしくお願いします。」</line></say><pagebreak/><h3>学部生で習う流体力学</h3>
+<say><name>P</name>➤<line>「わかりました、よろしくお願いします。」</line></say><pagebreak/>
+<h3>学部生で習う流体力学</h3>
 <?dtp level="3" section="学部生で習う流体力学"?><say><name>広</name>➤<line>「<span type="image">図12.3</span>は大学の学部で習う範囲を示す。」</line></say>
 <say><name>P</name>➤<line>「流体力学の一部だけってことですね。」</line></say>
 <say><name>広</name>➤<line>「あとで説明するけど、流れ場、圧力場、流体力は“①実測実験”、“②管内流れ”、“③ポテンシャル流れ”、“④粘性流体の流れ”の4つの流体力学のゴールと言える。」</line></say>
@@ -43,8 +46,10 @@
 <say><name>P</name>➤<line>「まあ……。わかりやすくしていただけると助かります。」</line></say>
 <say><name>広</name>➤<line>「じゃあ、物体形状と流体力の関係を軸に後からどんどん追加していこう。」</line></say><Image href="file://images/uzumaki_fluid/5_.png" scale="0.9"/>
 <img-caption>図12.5　物体形状と流体力の関係</img-caption>
-<pagebreak/><h2>12.3　流体力学のスタートとゴール</h2>
-<?dtp level="2" section="12.3　流体力学のスタートとゴール"?><say><name>広</name>➤<line>「物体形状と流体力は深い関係がある。」</line></say><h3>流体力とは？</h3>
+<pagebreak/>
+<h2>12.3　流体力学のスタートとゴール</h2>
+<?dtp level="2" section="12.3　流体力学のスタートとゴール"?><say><name>広</name>➤<line>「物体形状と流体力は深い関係がある。」</line></say>
+<h3>流体力とは？</h3>
 <?dtp level="3" section="流体力とは？"?><say><name>広</name>➤<line>「まずは流体力について。」</line></say>
 <say><name>広</name>➤<line>「流体力は、流れによって物体に働く力の総称だよ。」</line></say>
 <say><name>P</name>➤<line>「流れによる力？」</line></say>
@@ -226,7 +231,8 @@
 <say><name>広</name>➤<line>「今は流れ場と圧力場と流体力は密接に関係してることを押さえて。」</line></say>
 <say><name>P</name>➤<line>「わかりました。」</line></say><Image href="file://images/uzumaki_fluid/34_.png" scale="1"/>
 <img-caption>図12.34　5つの抗力と流れ場/圧力場の関係</img-caption>
-<pagebreak/><h3>物体形状の視点</h3>
+<pagebreak/>
+<h3>物体形状の視点</h3>
 <?dtp level="3" section="物体形状の視点"?><say><name>広</name>➤<line>「ここまでの流れ場と圧力場と流体力の説明に、もう1つ付け加える。」</line></say>
 <say><name>P</name>➤<line>「物体形状ですか？」</line></say>
 <say><name>広</name>➤<line>「そう、流れ場と圧力場を観察して、欲しい流体力になるよう物体形状を変更する。」</line></say>
@@ -238,7 +244,8 @@
 <img-caption>図12.35　物体形状を繰り返し変更し流体力を調整する</img-caption>
 <Image href="file://images/uzumaki_fluid/36_.png" scale="0.72"/>
 <img-caption>図12.36　物体形状を変えると流れ場/圧力場/流体力が全て変わる</img-caption>
-<pagebreak/><h2>12.6　主流速と流体密度と流体粘度</h2>
+<pagebreak/>
+<h2>12.6　主流速と流体密度と流体粘度</h2>
 <?dtp level="2" section="12.6　主流速と流体密度と流体粘度"?><say><name>P</name>➤<line>「その前に、この表にはまだ主流速と流体密度と流体粘度が気になります。」</line></say>
 <say><name>広</name>➤<line>「そうだね。そこを説明しよう。」</line></say><Image href="file://images/uzumaki_fluid/37_.png" scale="0.75"/>
 <img-caption>図12.37　主流速と流体密度と流体粘度</img-caption>
@@ -296,7 +303,8 @@
 <say><name>P</name>➤<line>「ってことですかね……。」</line></say>
 <say><name>広</name>➤<line>「そのイメージで良いかな。」</line></say><Image href="file://images/uzumaki_fluid/43_.png" scale="1"/>
 <img-caption>図12.43　4つの流体力学は独立している</img-caption>
-<pagebreak/><h2>12.8　まとめ</h2>
+<pagebreak/>
+<h2>12.8　まとめ</h2>
 <?dtp level="2" section="12.8　まとめ"?><say><name>広</name>➤<line>「プロデューサーに数式が伝われば、もう少し深い説明まで行ける。」</line></say>
 <say><name>P</name>➤<line>「これは私の力不足……。というより私はいたって一般的で普通な気はしますが。」</line></say>
 <say><name>P</name>➤<line>「それでも流体力学の概要はちょっとわかった気はします。」</line></say>
@@ -306,5 +314,6 @@
 <say><name>P</name>➤<line>「①実測実験②管内流れ③ポテンシャル流れ④粘性流体の流れ。」</line></say>
 <say><name>P</name>➤<line>「4つの流体力学の分野は、基礎は同じだが独立してると考えた方が理解しやすい。」</line></say>
 <say><name>広</name>➤<line>「私の伝えたいことは大体伝わったみたいだね。」</line></say>
-<say><name>P</name>➤<line>「ありがとうございます。」</line></say><h2>参考文献</h2>
+<say><name>P</name>➤<line>「ありがとうございます。」</line></say>
+<h2>参考文献</h2>
 <?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-">日本機械学会『JSMEテキストシリーズ 流体力学』 (丸善出版，2016年)</bibitem><span type="bibno">[2] </span><bibitem id="bib-">巽友正『新物理シリーズ21 流体力学』 (培風館 2021年)</bibitem><span type="bibno">[3] </span><bibitem id="bib-">今井 功『物理テキストシリーズ 流体力学』 (岩波書店 1993年)</bibitem><span type="bibno">[4] </span><bibitem id="bib-">須藤浩三,長谷川富市,白樫正高『流体の力学』 (コロナ社 1994年)</bibitem><span type="bibno">[5] </span><bibitem id="bib-">新井紀夫 『複素流体力学ノート』 (コロナ社 2012年)</bibitem><span type="bibno">[6] </span><bibitem id="bib-">柴田正和『漸近級数と特異摂動法:微分方程式の体系的近似解法』 (森北出版 2009年)</bibitem><span type="bibno">[7] </span><bibitem id="bib-">坂下志郎,池内了『新物理学シリーズ 宇宙流体力学』 (培風館 2024年)</bibitem><span type="bibno">[8] </span><bibitem id="bib-">日本レオロジー学会『新講座･レオロジー』 (太洋堂 2014年)</bibitem><span type="bibno">[9] </span><bibitem id="bib-">佐野理『連続体の力学』 (裳華房 2000年)</bibitem></aid:doc>

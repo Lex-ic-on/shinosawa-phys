@@ -1,12 +1,14 @@
 <?xml version="1.0"?>
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第15章　ニュートリノ振動について</h1>
-<?dtp level="1" section="第15章　ニュートリノ振動について"?><h2>第1話 導入</h2>
+<?dtp level="1" section="第15章　ニュートリノ振動について"?>
+<h2>第1話 導入</h2>
 <?dtp level="2" section="第1話 導入"?><say><name>プロデューサー</name>➤<line>「篠澤さん、トレーニングの参考になるものを探していたんですが、最近のニュースでハイパーカミオカンデの穴掘りが終わったというものを見ました。」</line></say>
 <say><name>篠澤広</name>➤<line>「プロデューサー、もしかしてわたしに穴掘りさせようとしてる？鬼……」</line></say>
 <say><name>P</name>➤<line>「あくまで参考です。ちなみに篠澤さんはこれは何をするものか知っていますか？調べてみると『ハイパーカミオカンデ　無駄』などのサジェストが出てくるのですが……」</line></say>
 <say><name>広</name>➤<line>「知ってる。無駄……いい言葉、だね。実際、この分野の研究って壮大な趣味って感じの側面もある。」</line></say>
 <say><name>P</name>➤<line>「……あまりピンと来ていないのですが、何をするためのものなのか俺にわかるように説明をお願いできますか？」</line></say>
-<say><name>広</name>➤<line>「いいよ。千奈や佑芽たちに教えるみたいに、物理に興味がある高校生<footnote>微積と線形代数を知ってることにした。高校生もこれくらいやるべき。</footnote>なら理解できるレベルを意識して何とか説明する。わからなかったらごめんね。」</line></say><h2>第2話 ハイパーカミオカンデ</h2>
+<say><name>広</name>➤<line>「いいよ。千奈や佑芽たちに教えるみたいに、物理に興味がある高校生<footnote>微積と線形代数を知ってることにした。高校生もこれくらいやるべき。</footnote>なら理解できるレベルを意識して何とか説明する。わからなかったらごめんね。」</line></say>
+<h2>第2話 ハイパーカミオカンデ</h2>
 <?dtp level="2" section="第2話 ハイパーカミオカンデ"?><say><name>広</name>➤<line>「じゃあ始める、よ。まずは、ハイパーカミオカンデがなんなのか、だね。カミオカンデは聞いたことある？」</line></say>
 <say><name>P</name>➤<line>「一応は……たしか、ノーベル賞を取った実験？ですよね。」</line></say>
 <say><name>広</name>➤<line>「そう。カミオカンデ実験の成果として、超新星ニュートリノを観測して <span type="bibno">[1] </span>、ノーベル賞を取った。実はそれだけじゃなくて、アップグレード版のスーパーカミオカンデでもニュートリノ振動の証拠を見つけて <span type="bibno">[2] </span>、ノーベル賞を取ってる。」</line></say>
@@ -19,7 +21,8 @@
 <say><name>P</name>➤<line>「ハイパーカミオカンデについてはわかりましたが、ニュートリノに興味がわいてきました。超新星ニュートリノというのはまあ超新星爆発<footnote>恒星が一生を終えるときに起こす大爆発。たくさんの粒子が出てくる。けど、どういうメカニズムなのかは実はあまりわかっていない。</footnote>で出てくるのだろうと想像できなくはないのですが、ニュートリノ振動がなんなのかピンときません……振動しながら移動しているということでしょうか。」</line></say>
 <say><name>広</name>➤<line>「あってるけど、あってない。たぶんプロデューサーはニュートリノが縦とか横に揺れながら飛んでるのを想像してる。」</line></say>
 <say><name>P</name>➤<line>「でも、それだと何が振動しているのですか？」</line></say>
-<say><name>広</name>➤<line>「そこがニュートリノ振動のキモ、だね。じゃあせっかくだし、ニュートリノ振動が何なのか紐解いていこう。」</line></say><h2>第3話 ニュートリノ振動の発見</h2>
+<say><name>広</name>➤<line>「そこがニュートリノ振動のキモ、だね。じゃあせっかくだし、ニュートリノ振動が何なのか紐解いていこう。」</line></say>
+<h2>第3話 ニュートリノ振動の発見</h2>
 <?dtp level="2" section="第3話 ニュートリノ振動の発見"?><say><name>広</name>➤<line>「結論から言うと、ニュートリノの種類が飛んでる間に振動する、という現象のことだよ。」</line></say>
 <say><name>P</name>➤<line>「？？？まずニュートリノの種類、というのがわかっていないのですが……」</line></say>
 <say><name>広</name>➤<line>「ニュートリノは、電子ニュートリノ<inlineequation><Image href="file://images/_review_math/_gen_a8bd244de30267ad76b913c9e492808a3de07be95f26ba2bb9162880cabcb6df.pdf" type="inline"/></inlineequation>、ミューニュートリノ<inlineequation><Image href="file://images/_review_math/_gen_8915a5a298b77fdd41a69f9115a68cebd33337387454c2f01766cdd69fd53603.pdf" type="inline"/></inlineequation>、タウニュートリノ<inlineequation><Image href="file://images/_review_math/_gen_b02b14a35b467d11f54bff8381fd42ac7a31fa55c6be7be1dca383b18db3cf9a.pdf" type="inline"/></inlineequation>の3種類ある。これらのニュートリノが飛んでる間に、別の種類になっちゃう。」</line></say>
@@ -30,7 +33,8 @@
 <say><name>P</name>➤<line>「読めてきました。ミューニュートリノが別のニュートリノに変化していたんですね。」</line></say>
 <say><name>広</name>➤<line>「その通り。先読みがうまい、ね。その後も色々な実験で、長距離飛行したニュートリノの数がなぜか理論と全く合わないって結果が出た。太陽関連の理論を疑ったり、測定精度の問題点を洗い出したり、いろいろしてみたけど、結果としてカミオカンデの測定結果とかによって、ニュートリノが他の種類に変化しているということがわかった。これがニュートリノ振動の発見だね。」</line></say>
 <say><name>P</name>➤<line>「でもなぜ『振動』と呼ぶのですか？」</line></say>
-<say><name>広</name>➤<line>「当然の疑問、だね。その理由も説明しちゃおうか。ここから先は簡単な量子力学と特殊相対論についての知識が必要だから、そこから解説していく、よ。」</line></say><h2>第3話 量子力学導入</h2>
+<say><name>広</name>➤<line>「当然の疑問、だね。その理由も説明しちゃおうか。ここから先は簡単な量子力学と特殊相対論についての知識が必要だから、そこから解説していく、よ。」</line></say>
+<h2>第3話 量子力学導入</h2>
 <?dtp level="2" section="第3話 量子力学導入"?><say><name>広</name>➤<line>「ここからが本番<footnote>なるべく最短でニュートリノの話にもっていけるように最低限の話にとどめてる。不正確な話もしてるけど、ごめんね。</footnote>。頑張ってついてきて。」</line></say>
 <say><name>P</name>➤<line>「はい……」</line></say>
 <say><name>広</name>➤<line>「まずは、波動関数とシュレディンガー方程式について説明する、ね。量子力学というのは、物体だったり、場<footnote>電場とか磁場とか、その時空の状態を表すもの。歪みみたいな？突き詰めていくと粒子も場。</footnote>だったり色々なものの状態を波動関数<inlineequation><Image href="file://images/_review_math/_gen_451f3c450ccd07eb7f940d9de3db065275521575a46e5cbf0c721c3eb69b9593.pdf" type="inline"/></inlineequation>によって記述できる、というもの。ここでいう<inlineequation><Image href="file://images/_review_math/_gen_5fc857b5adfce641109f17d6b3065595a2c88f025693cc1915d7180cbb737501.pdf" type="inline"/></inlineequation>は空間座標だね。」</line></say>
@@ -60,7 +64,8 @@
 </line></say>
 <say><name>P</name>➤<line>「感覚として不思議ですね。」</line></say>
 <say><name>広</name>➤<line>「不思議だけど、これのおかげで2重スリット実験とかの結果を説明できるから、量子力学はすごい。それでこの重ね合わせが……ニュートリノ振動を説明するうえですごく重要。本格的にニュートリノ振動の話に入る、ね。」</line></say>
-<say><name>P</name>➤<line>「『波動』と『振動』で少し関連性が見えてきた気がします。あと一歩だと思って頑張りますね。」</line></say><h2>第4話 ニュートリノ振動の原理</h2>
+<say><name>P</name>➤<line>「『波動』と『振動』で少し関連性が見えてきた気がします。あと一歩だと思って頑張りますね。」</line></say>
+<h2>第4話 ニュートリノ振動の原理</h2>
 <?dtp level="2" section="第4話 ニュートリノ振動の原理"?><say><name>広</name>➤<line>「さっき、3種類のニュートリノ<inlineequation><Image href="file://images/_review_math/_gen_a8bd244de30267ad76b913c9e492808a3de07be95f26ba2bb9162880cabcb6df.pdf" type="inline"/></inlineequation>、<inlineequation><Image href="file://images/_review_math/_gen_8915a5a298b77fdd41a69f9115a68cebd33337387454c2f01766cdd69fd53603.pdf" type="inline"/></inlineequation>、<inlineequation><Image href="file://images/_review_math/_gen_b02b14a35b467d11f54bff8381fd42ac7a31fa55c6be7be1dca383b18db3cf9a.pdf" type="inline"/></inlineequation>があるって話をしたよね。」</line></say>
 <say><name>P</name>➤<line>「はい。何とか覚えていますよ。」</line></say>
 <say><name>広</name>➤<line>「ニュートリノに限らず素粒子では種類のことをフレーバーって呼ぶから、今後はフレーバーとするよ。素粒子物理学も量子力学<footnote>正確には相対論的量子力学で、ディラック方程式が基本方程式だけど、なんかシュレディンガー方程式と同じ形式で議論できる。これも面白いよ。</footnote>に基づいてシュレディンガー方程式<span type="eq">式15.1</span>を満たすわけだから、各フレーバーもシュレディンガー方程式の解として、フレーバー固有状態と呼ばれているよ。波動関数としては<inlineequation><Image href="file://images/_review_math/_gen_20ad840b7718df2d4dabc33bb6a5478bda9412a51fc91aff4fd6bef028d32bf5.pdf" type="inline"/></inlineequation>って書くこともあるけど、大変だからもはや<inlineequation><Image href="file://images/_review_math/_gen_a8bd244de30267ad76b913c9e492808a3de07be95f26ba2bb9162880cabcb6df.pdf" type="inline"/></inlineequation>自体を波動関数として扱うことが多いよ。」</line></say>
@@ -141,7 +146,8 @@
 <say><name>広</name>➤<line>「ニュートリノについても当然標準模型は記述していて、ニュートリノが起こす反応とかも大体全部完璧に計算で再現できちゃう。そんな標準模型だけど、この理論の中ではニュートリノは質量が完全に0とされてる、よ。」</line></say>
 <say><name>P</name>➤<line>「先ほどニュートリノ振動があるということは『ニュートリノには質量がある』と言っていましたよね？おかしい気がしますが……」</line></say>
 <say><name>広</name>➤<line>「そう。そこがすごいところ。ほとんどの現象を説明できる完璧な理論の標準模型において、唯一に近い矛盾点が、ニュートリノ振動。標準模型の範疇ではニュートリノの質量が0で、ニュートリノ振動は起きるはずがない。だから、物理学者たちは完璧なはずの標準模型に穴があるとわかってしまって、『標準模型を超えたさらに完全な理論があるはず』と考えて、必死で標準模型に反する現象を調べたり、より良い理論を構想したりしてる。」</line></say>
-<say><name>P</name>➤<line>「確かにそう考えると、『ニュートリノに質量がある』というのはものすごい発見ですね。」</line></say><h2>第5話 結び</h2>
+<say><name>P</name>➤<line>「確かにそう考えると、『ニュートリノに質量がある』というのはものすごい発見ですね。」</line></say>
+<h2>第5話 結び</h2>
 <?dtp level="2" section="第5話 結び"?><say><name>P</name>➤<line>「聞くところによるとカミオカンデ系列でのニュートリノ振動の観測はかなり昔から行われているようですが、最近はどんな感じなんですか？」</line></say>
 <say><name>広</name>➤<line><p>「スーパーカミオカンデでは、いろんなニュートリノ振動のパラメータを測定してるよ。さっきは2フレーバーを考えて式<span type="eq">式15.8</span>、<span type="eq">式15.9</span>でやったけど、3フレーバーだと流石にパラメーターが複雑になるから、よく行列を使って</p>
 <note><p>PMNS (Pontecorvo–Maki–Nakagawa–Sakata)行列:</p>
@@ -158,5 +164,6 @@
 <say><name>P</name>➤<line>「なるほど。標準模型の検証にとどまらず、宇宙の起源まで迫れるわけですね。」</line></say>
 <say><name>広</name>➤<line>「そう。ハイパーカミオカンデは、<inlineequation><Image href="file://images/_review_math/_gen_38c426fce08c972645ff35fe6b751baa23b63e83a2ae9eb42dbb7a9559b4ab92.pdf" type="inline"/></inlineequation>の測定を始めとしていろんなニュートリノのパラメータ―を詳細に調べることが目的の一つで、これに向けて今研究者たちが頑張ってる。確かにこれは無駄、かもしれないけど、これ自体はこの世界がどうなっているかを確かめたいという人類の壮大な趣味、かもね。」</line></say>
 <say><name>P</name>➤<line>「今日はありがとうございました。色々わかったようで、わからなかったようで、楽しかったです。」</line></say>
-<say><name>広</name>➤<line>「わからない所があったら、何でも聞いてね。じゃあ私も穴掘り、初めてみる。」</line></say><h2>参考文献</h2>
+<say><name>広</name>➤<line>「わからない所があったら、何でも聞いてね。じゃあ私も穴掘り、初めてみる。」</line></say>
+<h2>参考文献</h2>
 <?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-Kamiokande-II:1987idp">K. Hirata <i>et al.</i>, Phys. Rev. Lett. <b>58</b>, 1490-1493 (1987)</bibitem><span type="bibno">[2] </span><bibitem id="bib-Super-Kamiokande:1998kpq">Y. Fukuda <i>et al.</i>, Phys. Rev. Lett. <b>81</b>, 1562-1567 (1998)</bibitem><span type="bibno">[3] </span><bibitem id="bib-KATRIN:2024cdt">M. Aker <i>et al.</i>, Science <b>388</b>, no.6743, adq9592 (2025)</bibitem><span type="bibno">[4] </span><bibitem id="bib-Sakharov:1967dj">A. D. Sakharov, Pisma Zh. Eksp. Teor. Fiz. <b>5</b>, 32-35 (1967)</bibitem><span type="bibno">[5] </span><bibitem id="bib-">R. Davis, Prog. Part. Nucl. Phys. <b>32</b>, 13-32 (1994)</bibitem></aid:doc>

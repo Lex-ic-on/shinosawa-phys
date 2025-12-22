@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第14章　解析力学の基礎を篠澤さんに教えてもらう</h1>
-<?dtp level="1" section="第14章　解析力学の基礎を篠澤さんに教えてもらう"?><h2>14.1　登場人物</h2>
+<?dtp level="1" section="第14章　解析力学の基礎を篠澤さんに教えてもらう"?>
+<h2>14.1　登場人物</h2>
 <?dtp level="2" section="14.1　登場人物"?><p><b>・広</b>：篠澤広。初星学園高等部アイドル科1年2組所属。大学では理論物理学を研究していた。
 <b>・P</b>：広のプロデューサー。初星学園プロデューサー科に通う専門大学1年生。高校では物理と数学が得意だった。大学の教養科目で力学について学んでいる。</p>
 <h2>14.2　あらすじ</h2>
@@ -31,7 +32,8 @@
 <say><name>広</name>➤<line>「でも、大学の成績が良ければ、回り回って私のプロデュースに役立つ、よね？」</line></say>
 <say><name>P</name>➤<line>「しかし──」</line></say>
 <say><name>広</name>➤<line>「私に教えさせて、これも趣味、だよ。」</line></say>
-<say><name>広</name>➤<line>「───難しいと嬉しい、かも」</line></say><h2>14.5　系・座標・速度</h2>
+<say><name>広</name>➤<line>「───難しいと嬉しい、かも」</line></say>
+<h2>14.5　系・座標・速度</h2>
 <?dtp level="2" section="14.5　系・座標・速度"?><say><name>広</name>➤<line>「始めるよ。まずは復習。物理学において重要な概念である系・系の自由度は──」</line></say><p>(篠澤広は黒板に何かを書き始めた)</p>
 <note><p>系：物理学において考察の対象となるような部分空間
 系の自由度：ある系の位置を決定するのに必要な<b>独立な量</b>の個数</p>
@@ -48,7 +50,8 @@
 <say><name>P</name>➤<line>「どうしてそのようなことが言えるのですか？」</line></say>
 <say><name>広</name>➤<line>「困ってる、ね。もっと悩んでいたい？」</line></say>
 <say><name>P</name>➤<line>「いえ、早くレッスンへ向かって欲しいです」</line></say>
-<say><name>広</name>➤<line>「いじわる。……ある時刻での座標と速度を定めると、加速度が定まって、運動方程式から微小時間後の座標と速度が定まるから、これを繰り返すことで原理的には予言できるよ。もっとも、多粒子系でこれをするのは全くもって現実的じゃない。復習はこれで終わり。」</line></say><h2>14.6　ラグランジュ形式</h2>
+<say><name>広</name>➤<line>「いじわる。……ある時刻での座標と速度を定めると、加速度が定まって、運動方程式から微小時間後の座標と速度が定まるから、これを繰り返すことで原理的には予言できるよ。もっとも、多粒子系でこれをするのは全くもって現実的じゃない。復習はこれで終わり。」</line></say>
+<h2>14.6　ラグランジュ形式</h2>
 <?dtp level="2" section="14.6　ラグランジュ形式"?><say><name>広</name>➤<line>「ラグランジュ形式は変分原理から始まる。変分原理とは──」</line></say><note><p>変分原理：
 座標と速度と時間の関数であって、系の状態を特徴づけるものがあり（ラグランジアンとよばれる）</p>
 <displayequation><Image href="file://images/_review_math/_gen_f9031237c645f4e1aaf1803b4d5fc0d703eee54a7c66cb6e83d23f1405098e21.pdf"/></displayequation>
@@ -79,7 +82,8 @@
 <say><name>広</name>➤<line>「それはよかった。それじゃあ一緒にごはんを食べようか。」</line></say>
 <say><name>P</name>➤<line>「……相変わらずアレを食べているんですか？」</line></say>
 <say><name>広</name>➤<line>「もちろん。最も効率的に必要十分な栄養が得られる。」</line></say>
-<say><name>広</name>➤<line>「最小作用の原理からオイラーラグランジュ方程式が導かれるのと同じく、至極当然のことだ、よ。」</line></say><h2>14.7　ラグランジアンの基本的性質</h2>
+<say><name>広</name>➤<line>「最小作用の原理からオイラーラグランジュ方程式が導かれるのと同じく、至極当然のことだ、よ。」</line></say>
+<h2>14.7　ラグランジアンの基本的性質</h2>
 <?dtp level="2" section="14.7　ラグランジアンの基本的性質"?><say><name>広</name>➤<line>「ラグランジアンには次のような性質がある。証明は省く。」</line></say><note><p>加法性：
 力学系が二つの部分<inlineequation><Image href="file://images/_review_math/_gen_b17c8419f544abd0648345006bbe975b43acf9fc878712a1116312f3e1e24b2e.pdf" type="inline"/></inlineequation>で構成されていて、その二つの系の相互作用が無視できるほど無限に離れている、ないしは相互に干渉しあわないとき、全体系のラグランジアン<inlineequation><Image href="file://images/_review_math/_gen_72dfcfb0c470ac255cde83fb8fe38de8a128188e03ea5ba5b2a93adbea1062fa.pdf" type="inline"/></inlineequation>は部分系のラグランジアンの和に一致する。つまり、</p>
 <displayequation><Image href="file://images/_review_math/_gen_57d606b47e76fca59ef20cc54cde358d483c681e37ce861b6dcc22cd53f8edae.pdf"/></displayequation>
@@ -97,7 +101,8 @@
 <say><name>広</name>➤<line>「明日、テストするから覚えてくるように。」</line></say>
 <say><name>P</name>➤<line>「分かりました。篠澤先生。」</line></say>
 <say><name>広</name>➤<line>「先生。……新鮮な感覚。篠澤先生は他にもいるから、広先生って呼んでみない？」</line></say>
-<say><name>P</name>➤<line>「もう二度と呼びません。」</line></say><h2>14.8　ラグランジアンはどんな形をしているのか</h2>
+<say><name>P</name>➤<line>「もう二度と呼びません。」</line></say>
+<h2>14.8　ラグランジアンはどんな形をしているのか</h2>
 <?dtp level="2" section="14.8　ラグランジアンはどんな形をしているのか"?><say><name>P</name>➤<line>「結局、ラグランジアンはどのような形をしているのですか？」</line></say>
 <say><name>広</name>➤<line>「それは条件によって異なる。プロデューサー、観測者については習った？」</line></say>
 <say><name>P</name>➤<line>「ええ習いました。観測者によってその現象を記述する式が異なるというやつですね。」</line></say>
@@ -122,7 +127,8 @@
 <say><name>広</name>➤<line>「ホントだ。見て、プロデューサー。チョークを挟んでる指がちょっとだけ震えてる。」</line></say>
 <say><name>P</name>➤<line>「……なぜそんなに嬉しそう──」</line></say>
 <say><name>P</name>➤<line>「──ああ、なるほど。」</line></say>
-<say><name>広</name>➤<line>「こんなに長く板書できたのは初めて。私、成長できてる、よ。」</line></say><h2>14.9　エネルギー</h2>
+<say><name>広</name>➤<line>「こんなに長く板書できたのは初めて。私、成長できてる、よ。」</line></say>
+<h2>14.9　エネルギー</h2>
 <?dtp level="2" section="14.9　エネルギー"?><say><name>広</name>➤<line>「解析力学では特定の条件下で保存するような量がある。まずは言葉の定義から──」</line></say><note><p>孤立系：系の外部と全く干渉しないような系
 開いた系：系の外部と物質的なやり取りがあるような系
 閉じた系：系の外部と物質的なやり取りはないような系</p>
@@ -138,7 +144,8 @@
 <say><name>広</name>➤<line>「運動エネルギーは次のようにできる。」</line></say><displayequation><Image href="file://images/_review_math/_gen_4423dff9de1f3823c0bf9092b138bd55b3cc91f193dd6c5ff571139c769e9b98.pdf"/></displayequation>
 <say><name>P</name>➤<line>「なぜ<inlineequation><Image href="file://images/_review_math/_gen_e632b7095b0bf32c260fa4c539e9fd7b852d0de454e9be26f24d0d6f91d069d3.pdf" type="inline"/></inlineequation>は<inlineequation><Image href="file://images/_review_math/_gen_8bd8cde67ec501c7dc8cac8f63a23462e77df8f70bf813980acc9b130466cc5c.pdf" type="inline"/></inlineequation>の関数であると結論づけられるのですか？」</line></say>
 <say><name>広</name>➤<line>「<inlineequation><Image href="file://images/_review_math/_gen_095b358cbc4ad8dd43465c983f1a18916cc0f1a40a397b95d6d5fb911246df24.pdf" type="inline"/></inlineequation>が<inlineequation><Image href="file://images/_review_math/_gen_8e35c2cd3bf6641bdb0e2050b76932cbb2e6034a0ddacc1d9bea82a6ba57f7cf.pdf" type="inline"/></inlineequation>の関数だから、その<inlineequation><Image href="file://images/_review_math/_gen_8e35c2cd3bf6641bdb0e2050b76932cbb2e6034a0ddacc1d9bea82a6ba57f7cf.pdf" type="inline"/></inlineequation>偏微分は<inlineequation><Image href="file://images/_review_math/_gen_244b6de5cf753b7c6ab792f17120dd5b946799e2ef5ec3f5d138908b0dd7ad76.pdf" type="inline"/></inlineequation>を含まない。だから、<inlineequation><Image href="file://images/_review_math/_gen_e632b7095b0bf32c260fa4c539e9fd7b852d0de454e9be26f24d0d6f91d069d3.pdf" type="inline"/></inlineequation>はそのような関数とわかる。<inlineequation><Image href="file://images/_review_math/_gen_a25513c7e0f6eaa80a3337ee18081b9e2ed09e00af8531c8f7bb2542764027e7.pdf" type="inline"/></inlineequation>は<inlineequation><Image href="file://images/_review_math/_gen_1f4ef0824eeed49821f9144a31f9048a8ffeca0db20467013cc9bfc54f843f18.pdf" type="inline"/></inlineequation>に依存しないから、」</line></say><displayequation><Image href="file://images/_review_math/_gen_e3f7078f7c3f9282b234f68992f79b9d875fae95b687dc3ef32b12254019d162.pdf"/></displayequation>
-<say><name>広</name>➤<line>「結局、<inlineequation><Image href="file://images/_review_math/_gen_33c035dae43a4ffff816e88b18f18bef2508bd1d8925e53e0ef95c681d71a3ec.pdf" type="inline"/></inlineequation>とわかるから、<inlineequation><Image href="file://images/_review_math/_gen_caf61255ec833c3eceb9fb9339a2e3ea9ee37fcc9c6b5c56effbff9b80fbf270.pdf" type="inline"/></inlineequation>となってプロデューサーが知ってる形になった。」</line></say><h2>14.10　対称性と保存則</h2>
+<say><name>広</name>➤<line>「結局、<inlineequation><Image href="file://images/_review_math/_gen_33c035dae43a4ffff816e88b18f18bef2508bd1d8925e53e0ef95c681d71a3ec.pdf" type="inline"/></inlineequation>とわかるから、<inlineequation><Image href="file://images/_review_math/_gen_caf61255ec833c3eceb9fb9339a2e3ea9ee37fcc9c6b5c56effbff9b80fbf270.pdf" type="inline"/></inlineequation>となってプロデューサーが知ってる形になった。」</line></say>
+<h2>14.10　対称性と保存則</h2>
 <?dtp level="2" section="14.10　対称性と保存則"?><say><name>広</name>➤<line>「対称性とは──」</line></say><note><p>対称性：
 ある操作に対して系の形状や物理量が不変に保たれるとき、対称性があるという。</p>
 </note><say><name>広</name>➤<line>「解析力学において保存則は作用の持つ対称性から導かれる。今回は次のような対称性を用いる。」</line></say><note><p>並進対称性：<b>平行移動</b>に対して系が不変性を持つこと
@@ -166,7 +173,8 @@
 <inlineequation><Image href="file://images/_review_math/_gen_72dfcfb0c470ac255cde83fb8fe38de8a128188e03ea5ba5b2a93adbea1062fa.pdf" type="inline"/></inlineequation>の<inlineequation><Image href="file://images/_review_math/_gen_89d39a0fbc4c0befc2a40264d3997e8d6a2f3710ddd12ba4492e4740172c972b.pdf" type="inline"/></inlineequation>偏微分を一般化運動量と定義し（ニュートン力学との類似から）、空間の並進対称性から示される。
 角運動量保存則：
 空間の回転対称性から示される。（示す際にスカラー3重積の性質を用いる。）</p>
-</note><h2>14.11　終わりに</h2>
+</note>
+<h2>14.11　終わりに</h2>
 <?dtp level="2" section="14.11　終わりに"?><say><name>広</name>➤<line>「プロデューサーへの授業はここまで、かな。……どう、面白かった？」</line></say>
 <say><name>P</name>➤<line>「そうですね、解析力学、関わりが薄いと思っていた分野ですが、プロデューサー科で扱う学問にも通ずる大変汎用性の高い分野だと感じました。」</line></say>
 <say><name>広</name>➤<line>「そうだね。解析力学は物理においては古典だけど、ここ30～40年で新たに定式化がなされてる。近代になされた数学者による幾何学的形式化は力学は完成した分野であるという認識を覆した。」</line></say>

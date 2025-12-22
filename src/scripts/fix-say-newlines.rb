@@ -5,6 +5,7 @@ require 'fileutils'
 
 DEFAULT_GLOB = '*-idg.xml'
 PATTERN = '</say><say'
+HEADING_REGEX = /(?<=.)(?<![\r\n])(<h[234]\b)/
 
 repo_root = File.expand_path('../..', __dir__)
 default_dir = File.join(repo_root, 'InDesign', 'shinosawa2-idgxml')
@@ -60,15 +61,15 @@ changed_files = 0
 
 paths.each do |path|
   content = File.binread(path)
-  next unless content.include?(PATTERN)
-
   newline = content.include?("\r\n") ? "\r\n" : "\n"
-  count = content.scan(PATTERN).length
-  total_matches += count
 
-  if count > 0
-    changed_files += 1
-  end
+  say_count = content.scan(PATTERN).length
+  heading_count = content.scan(HEADING_REGEX).length
+  count = say_count + heading_count
+  next if count == 0
+
+  total_matches += count
+  changed_files += 1
 
   if options[:apply]
     backup_path = nil
@@ -78,18 +79,21 @@ paths.each do |path|
       FileUtils.cp(path, backup_path)
     end
 
-    replaced = content.gsub(PATTERN, "</say>#{newline}<say")
+    replaced = content
+      .gsub(PATTERN, "</say>#{newline}<say")
+      .gsub(HEADING_REGEX, "#{newline}\\1")
     File.binwrite(path, replaced)
 
     if options[:verbose]
+      details = "total=#{count} say=#{say_count} heading=#{heading_count}"
       if backup_path
-        puts "APPLY #{path} (#{count} replacements) backup=#{backup_path}"
+        puts "APPLY #{path} (#{details}) backup=#{backup_path}"
       else
-        puts "APPLY #{path} (#{count} replacements)"
+        puts "APPLY #{path} (#{details})"
       end
     end
   else
-    puts "DRYRUN #{path} (#{count} replacements)"
+    puts "DRYRUN #{path} (total=#{count} say=#{say_count} heading=#{heading_count})"
   end
 end
 

@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第19章　てふてふ、綺麗だね <sub>`もうマイク入ってますよ、篠澤さん！！！'</sub></h1>
-<?dtp level="1" section="第19章　てふてふ、綺麗だね `もうマイク入ってますよ、篠澤さん！！！&amp;#39;"?><h2>19.1　雑な導入</h2>
+<?dtp level="1" section="第19章　てふてふ、綺麗だね `もうマイク入ってますよ、篠澤さん！！！&amp;#39;"?>
+<h2>19.1　雑な導入</h2>
 <?dtp level="2" section="19.1　雑な導入"?><say><name>P</name>➤<line>`篠澤さん.'</line></say>
 <say><name>広</name>➤<line>プロデューサー? どうしたの?</line></say>
 <say><name>P</name>➤<line>`この前レポートを書いていたときに, TeXのエラーで苦労しまして.'</line></say>
@@ -18,7 +19,8 @@
 <say><name>P</name>➤<line>`いいえ. では教えていただけますか?'</line></say>
 <say><name>広</name>➤<line>ふっふっふ…… そう頼まれては仕方ない. この広先生が教えてあげよう, といいたいところ. だけど, 今から話すとこの後のトレーニングがなくなることになる.</line></say>
 <say><name>P</name>➤<line>`つまり結構時間がかかるんですね.'</line></say>
-<say><name>広</name>➤<line>そういうこと. 日を改めて広先生のところに教わりに来るといい.</line></say><h2>19.2　TeXについて</h2>
+<say><name>広</name>➤<line>そういうこと. 日を改めて広先生のところに教わりに来るといい.</line></say>
+<h2>19.2　TeXについて</h2>
 <?dtp level="2" section="19.2　TeXについて"?><p align="center">～後日～</p>
 <say><name>広</name>➤<line>では, これから広先生の講義を始める. </line></say>
 <say><name>P</name>➤<line>`よろしくお願いします. 篠澤先生.'</line></say>
@@ -125,7 +127,8 @@
 <say><name>広</name>➤<line>さて, このへんでTeXについてのお話はお終い. どうだった?</line></say>
 <say><name>P</name>➤<line>`中々ややこしいな, と思いました.'</line></say>
 <say><name>広</name>➤<line>ふふ, そんなプロデューサーに朗報. まだ話は終わりじゃない, よ.</line></say>
-<say><name>P</name>➤<line>`!?'</line></say><h2>19.3　TeXの周りについて</h2>
+<say><name>P</name>➤<line>`!?'</line></say>
+<h2>19.3　TeXの周りについて</h2>
 <?dtp level="2" section="19.3　TeXの周りについて"?><say><name>広</name>➤<line>そもそも, プロデューサーはTeXの出力形式については知ってる?</line></say>
 <say><name>P</name>➤<line>`pdf, でしょうか.'</line></say>
 <say><name>広</name>➤<line>プロデューサーの場合は, まちがい. 前にプロデューサーに訊かれたときについでに環境設定見ちゃった.</line></say>
@@ -168,7 +171,8 @@
 <say><name>P</name>➤<line>`大体理解しました. じゃあ実際のフローは次のようになるわけですね'</line></say><Image href="file://images/suima_tex/fig2.pdf"/>
 <img-caption>図19.2　TeXからpdfへの流れ</img-caption>
 <say><name>広</name>➤<line>そういうこと. よくできました, えらいえらい.</line></say>
-<say><name>P</name>➤<line>`……'</line></say><h2>19.4　TeX言語について</h2>
+<say><name>P</name>➤<line>`……'</line></say>
+<h2>19.4　TeX言語について</h2>
 <?dtp level="2" section="19.4　TeX言語について"?><say><name>広</name>➤<line>それで, ここまで, TeXとか, TeXまわりの処理の流れを教えたけど.</line></say>
 <say><name>P</name>➤<line>`はい.'</line></say>
 <say><name>広</name>➤<line>ここからは, TeXの処理の話, ね.</line></say>
@@ -386,7 +390,8 @@
 <say><name>広</name>➤<line>ちなみに, ここら辺は普通の<inlineequation><Image href="file://images/_review_math/_gen_42e1a4038e537701046ae10aeeaa9816ba8ee37c0303a7fd5d5db6a53c876cbf.pdf" type="inline"/></inlineequation> をする分にはやる必要は, 特に現在なら, ないし, そもそも<tt type="inline-code">\def</tt>とかは使うべきでもない, よ</line></say>
 <say><name>P</name>➤<line>`では何故お話を……?'</line></say>
 <say><name>広</name>➤<line>プロデューサーにも, TeXのままならなさを知ってほしかった.</line></say>
-<say><name>P</name>➤<line>`まあ, 大分ままならないものではありましたが……'</line></say><h2>19.5　TeXっぽいことについて</h2>
+<say><name>P</name>➤<line>`まあ, 大分ままならないものではありましたが……'</line></say>
+<h2>19.5　TeXっぽいことについて</h2>
 <?dtp level="2" section="19.5　TeXっぽいことについて"?><say><name>P</name>➤<line>`う～ん……'</line></say>
 <say><name>広</name>➤<line>どうしたの, プロデューサー.</line></say>
 <say><name>P</name>➤<line>`ここまで聞いて思ったんですが, TeX以外の方法はないんでしょうか?'</line></say>

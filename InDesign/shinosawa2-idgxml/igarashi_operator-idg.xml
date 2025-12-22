@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第20章　補習組と作用素環入門</h1>
-<?dtp level="1" section="第20章　補習組と作用素環入門"?><h2>20.1　線型代数の復習</h2>
+<?dtp level="1" section="第20章　補習組と作用素環入門"?>
+<h2>20.1　線型代数の復習</h2>
 <?dtp level="2" section="20.1　線型代数の復習"?><say><name>広</name>➤<line>というわけで，今日も数学のゼミをする，よ．</line></say>
 <say><name>千奈</name>➤<line>はいっ，よろしくお願いしますわ！</line></say>
 <say><name>佑芽</name>➤<line>よろしくお願いしまーす！</line></say>
@@ -57,7 +58,8 @@
 <say><name>千奈</name>➤<line>行列の計算は扱いませんの？</line></say>
 <say><name>広</name>➤<line>そこは本編に関わってくるから本編で扱うよ．</line></say>
 <say><name>佑芽</name>➤<line>あのすごいかけ算の話が関係してくるの？</line></say>
-<say><name>広</name>➤<line>ある意味では．あの計算をそのまま扱うわけではないけどね．</line></say><h2>20.2　Banach環と作用素環</h2>
+<say><name>広</name>➤<line>ある意味では．あの計算をそのまま扱うわけではないけどね．</line></say>
+<h2>20.2　Banach環と作用素環</h2>
 <?dtp level="2" section="20.2　Banach環と作用素環"?><say><name>広</name>➤<line>いよいよ今日の本題，Banach環に入っていくけど，まずは正方行列の演算による代数構造を見ていくよ．</line></say>
 <say><name>佑芽</name>➤<line>正方行列の演算って，たし算とかけ算と，あとは実数倍だっけ？があったよね．</line></say>
 <say><name>千奈</name>➤<line>スカラー倍でしたわね．</line></say><theorem type="&#x5B9A;&#x7FA9;"><theorem-title>行列の演算</theorem-title>
@@ -179,7 +181,8 @@
 <say><name>広</name>➤<line>ということで作用素環はBanach環になるということが示されました．ぱちぱちぱち～</line></say>
 <say><name>千奈</name>➤<line>なかなかに確認することが重いですわね……</line></say>
 <say><name>佑芽</name>➤<line>でも思ったよりは短いかも？</line></say>
-<say><name>広</name>➤<line>じゃああとはHilbert空間の作用素で<inlineequation><Image href="file://images/_review_math/_gen_6023b95954c36f1dcdbb802d533e4f6eadd45980d46af0603eb66d2f55044278.pdf" type="inline"/></inlineequation>環の話を軽くして今日は終わろうか．</line></say><h2>20.3　<inlineequation><Image href="file://images/_review_math/_gen_6023b95954c36f1dcdbb802d533e4f6eadd45980d46af0603eb66d2f55044278.pdf" type="inline"/></inlineequation>環</h2>
+<say><name>広</name>➤<line>じゃああとはHilbert空間の作用素で<inlineequation><Image href="file://images/_review_math/_gen_6023b95954c36f1dcdbb802d533e4f6eadd45980d46af0603eb66d2f55044278.pdf" type="inline"/></inlineequation>環の話を軽くして今日は終わろうか．</line></say>
+<h2>20.3　<inlineequation><Image href="file://images/_review_math/_gen_6023b95954c36f1dcdbb802d533e4f6eadd45980d46af0603eb66d2f55044278.pdf" type="inline"/></inlineequation>環</h2>
 <?dtp level="2" section="20.3　環"?><say><name>広</name>➤<line>線型代数のところで，随伴行列ってあったよね，覚えてる？</line></say>
 <say><name>佑芽</name>➤<line>ひっくり返して複素共軛，だよね．</line></say>
 <say><name>千奈</name>➤<line>随伴行列が自分自身になるとHermite行列でしたわね．</line></say>
@@ -212,5 +215,6 @@
 <say><name>広</name>➤<line>それと，泉正己著『数理科学のための関数解析学』<span type="bibno">[2] </span>．これは京都大学での泉先生の講義「函数解析学」「函数解析学続論」の講義ノートを書籍にしたものだよ．</line></say>
 <say><name>佑芽</name>➤<line>大学の先生ってよく自分の本を教科書に指定するっていうけど，これは逆に講義を教科書にしたって感じだね．</line></say>
 <say><name>千奈</name>➤<line>そういえば「前の回」の話がちょくちょく出てきましたわね……．</line></say>
-<say><name>広</name>➤<line>線型代数を概観する回はプロデューサーが主宰するサークル篠澤理数研究所の「篠澤広と数学しよう！2さつめ！」に掲載されるよ(予定)．</line></say><h2>参考文献</h2>
+<say><name>広</name>➤<line>線型代数を概観する回はプロデューサーが主宰するサークル篠澤理数研究所の「篠澤広と数学しよう！2さつめ！」に掲載されるよ(予定)．</line></say>
+<h2>参考文献</h2>
 <?dtp level="2" section="参考文献"?><span type="bibno">[1] </span><bibitem id="bib-BD08569428">戸松 玲治. 作用素環論入門 = Introduction to theory of operator algebras. 共立出版, 2024. url: <a linkurl="https://ci.nii.ac.jp/ncid/BD08569428">https://ci.nii.ac.jp/ncid/BD08569428</a>.</bibitem><span type="bibno">[2] </span><bibitem id="bib-BC1204549X">泉 正己. 数理科学のための関数解析学. ライブラリ数理科学のための数学とその展開 F5. サイエンス社, 2021. url: <a linkurl="https://ci.nii.ac.jp/ncid/BC1204549X">https://ci.nii.ac.jp/ncid/BC1204549X</a>.</bibitem></aid:doc>

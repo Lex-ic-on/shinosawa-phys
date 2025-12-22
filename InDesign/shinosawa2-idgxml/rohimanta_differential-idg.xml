@@ -1,11 +1,13 @@
 <?xml version="1.0"?>
 <aid:doc xmlns:aid="http://ns.adobe.com/AdobeInDesign/4.0/"><h1>第4章　広先生の微分方程式で考える感染症教室</h1>
-<?dtp level="1" section="第4章　広先生の微分方程式で考える感染症教室"?><h2>～ある保健の授業にて～</h2>
+<?dtp level="1" section="第4章　広先生の微分方程式で考える感染症教室"?>
+<h2>～ある保健の授業にて～</h2>
 <?dtp level="2" section="～ある保健の授業にて～"?><say><name>教師</name>➤<line>「～という感じに、昔から人類はスペイン風邪や天然痘などの感染症と戦ってきました。これで今日の分の授業は終わりですが、時間が余ったので余談をしましょう。こういう感染症が流行ったとき、感染者数の推移などから感染症の収束がいつぐらいになるかなどの予測ができるのですが、どうやると思いますか。倉本さん、どうでしょう？」</line></say>
 <say><name>千奈</name>➤<line>「うーん、難しいですわ、見当もつきませんの。」</line></say>
 <say><name>教師</name>➤<line>「では篠澤さん、どう思いますか？」</line></say>
 <say><name>広</name>➤<line>「感染症にもよるけど、たとえば天然痘なら未感染者の数を<inlineequation><Image href="file://images/_review_math/_gen_8de0b3c47f112c59745f717a626932264c422a7563954872e237b223af4ad643.pdf" type="inline"/></inlineequation>, 感染して生き残った人の数を<inlineequation><Image href="file://images/_review_math/_gen_8c2574892063f995fdf756bce07f46c1a5193e54cd52837ed91e32008ccf41ac.pdf" type="inline"/></inlineequation>とおいて年齢<inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation>を独立変数とした関数の微分方程式で求めていたはず。」</line></say>
-<say><name>教師</name>➤<line>「よく知っていますね、すばらしいです。はい、今篠澤さんが言ったように、未感染者を<inlineequation><Image href="file://images/_review_math/_gen_8de0b3c47f112c59745f717a626932264c422a7563954872e237b223af4ad643.pdf" type="inline"/></inlineequation>、免疫獲得者を<inlineequation><Image href="file://images/_review_math/_gen_8c2574892063f995fdf756bce07f46c1a5193e54cd52837ed91e32008ccf41ac.pdf" type="inline"/></inlineequation>としてそれらについての方程式を立てます。微分方程式というのは聞きなじみがないと思いますが、ちょっと特殊な方程式だと思ってください。感染者数の予測などは現代でもありますが、こんなところに数学は使われていたりするんですね。」</line></say><h2>～授業後～</h2>
+<say><name>教師</name>➤<line>「よく知っていますね、すばらしいです。はい、今篠澤さんが言ったように、未感染者を<inlineequation><Image href="file://images/_review_math/_gen_8de0b3c47f112c59745f717a626932264c422a7563954872e237b223af4ad643.pdf" type="inline"/></inlineequation>、免疫獲得者を<inlineequation><Image href="file://images/_review_math/_gen_8c2574892063f995fdf756bce07f46c1a5193e54cd52837ed91e32008ccf41ac.pdf" type="inline"/></inlineequation>としてそれらについての方程式を立てます。微分方程式というのは聞きなじみがないと思いますが、ちょっと特殊な方程式だと思ってください。感染者数の予測などは現代でもありますが、こんなところに数学は使われていたりするんですね。」</line></say>
+<h2>～授業後～</h2>
 <?dtp level="2" section="～授業後～"?><say><name>千奈</name>➤<line>「篠澤さん、教えてほしいことがありますわ！」</line></say>
 <say><name>広</name>➤<line>「どうしたの千奈。」</line></say>
 <say><name>千奈</name>➤<line>「先生が先ほどの授業でおっしゃっていた“びぶんほうていしき”とはなんですの？あとは、その感染症との関係も知りたいですわ！」</line></say>
@@ -15,7 +17,8 @@
 </line></say>
 <say><name>千奈</name>➤<line>「ど、どうかんすう？でぃーえっくすでぃーわい？わからない言葉がいっぱいですわーー！？」</line></say>
 <say><name>広</name>➤<line>「ごめん、微分はまだだったね。それも含めて解説すると時間がたくさんいるから、また今度に説明するね。」</line></say>
-<say><name>千奈</name>➤<line>「お願いしますわ！」</line></say><h2>～ある日～</h2>
+<say><name>千奈</name>➤<line>「お願いしますわ！」</line></say>
+<h2>～ある日～</h2>
 <?dtp level="2" section="～ある日～"?><say><name>広</name>➤<line>「ということで、これから広先生の微分方程式で考える感染症教室をはじめるよ。これからわたしのことは広先生って呼んで。」</line></say>
 <say><name>千奈</name>➤<line>「わかりましたわ、広先生！それで、前言っていたどうかんすうとはなんですの？」</line></say>
 <say><name>広</name>➤<line><p>「そうだね、まず導関数の説明をするよ。きっちりと定義から話すと</p>
@@ -36,7 +39,8 @@
 <say><name>千奈</name>➤<line>「およそ導関数や微分の意味はわかりましたわ。ただ、limという記号は初めて見たので少々意味が曖昧に感じますわ。」</line></say>
 <say><name>広</name>➤<line>「細かい説明や厳密な話は省くけど、<inlineequation><Image href="file://images/_review_math/_gen_6602c2f65fbdf11bc46cf498b0a9b98963b00a628e4cbb07ac9106c47614c2ca.pdf" type="inline"/></inlineequation>というのは<inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation>を<inlineequation><Image href="file://images/_review_math/_gen_ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb.pdf" type="inline"/></inlineequation>に限りなく近づけたときに<inlineequation><Image href="file://images/_review_math/_gen_259072e6c653cc56ea0e6a6031c2bbb5dede2c4066d63855fd7690ee8bd61bbc.pdf" type="inline"/></inlineequation>が限りなく<inlineequation><Image href="file://images/_review_math/_gen_4893e9df8b5496ebe7a0f1c2cc92a39fb6df03085030e3b97cfcc4d45136db5a.pdf" type="inline"/></inlineequation>に近づくという意味であること、<inlineequation><Image href="file://images/_review_math/_gen_e7613c65eb2ea5baa92998c2de6b35459af0d51520c4acfb281be910e72f1d3b.pdf" type="inline"/></inlineequation>だということだけ覚えておいて。」</line></say>
 <say><name>千奈</name>➤<line>「わかりましたわ。ふう、なんとなく呑み込めましたけれど、ずっと頭を使っていたのでつかれましたわ。」</line></say>
-<say><name>広</name>➤<line>「そうだね、いったんお菓子を食べて休憩しよう。」</line></say><h2>～休憩後～</h2>
+<say><name>広</name>➤<line>「そうだね、いったんお菓子を食べて休憩しよう。」</line></say>
+<h2>～休憩後～</h2>
 <?dtp level="2" section="～休憩後～"?><say><name>広</name>➤<line>「さて、さっきの話をおさらいすると、微分とはある関数の導関数を求める操作で、導関数とはある関数の接線の傾きについての関数で<inlineequation><Image href="file://images/_review_math/_gen_e136114a8f831ef517b139a098b4c0f5b5341d3def84e7ebbd2e0c0b3679eb9d.pdf" type="inline"/></inlineequation>で求められた。ちなみに導関数の表し方はいくつかあって、<inlineequation><Image href="file://images/_review_math/_gen_cae8bef0ccd003aca3b0b1c7a747e605949f7aa088a9f825c55661735220c9a2.pdf" type="inline"/></inlineequation>などの表し方がある。後述する理由から微分方程式では一般に<inlineequation><Image href="file://images/_review_math/_gen_20933958f4f67750344fb8bc279c3877344bd3aa85cc9b728804a61107561a5c.pdf" type="inline"/></inlineequation>の形を用いる。<inlineequation><Image href="file://images/_review_math/_gen_20933958f4f67750344fb8bc279c3877344bd3aa85cc9b728804a61107561a5c.pdf" type="inline"/></inlineequation>は<inlineequation><Image href="file://images/_review_math/_gen_c5715f53253f728aa5a6711cd72d4ddd8e9c80a963f0ff8ffe75e0e4119eb9f2.pdf" type="inline"/></inlineequation>という意味で捉えておいて欲しい。言い忘れてたけど、今回扱う関数はすべて微分可能であることを前提とするよ。」</line></say>
 <say><name>千奈</name>➤<line>「わかりましたわ。それで、これでようやく微分方程式の話をはじめられますのね。」</line></say>
 <say><name>広</name>➤<line><p>「ううん。まだだよ。積分という微分の逆操作を考えないとだめ。これから積分の簡単な定義を教えるね。ただ、積分は高校範囲と大学範囲で定義が違ってややこしいから、今回は特に支障がないから簡単な方の高校数学で定義するね。以下の式を満たす関数<inlineequation><Image href="file://images/_review_math/_gen_331980589ed7140f6e496b92bcc006e298d08c14e56119f808b377a5bbae12a0.pdf" type="inline"/></inlineequation>を考える。</p>
