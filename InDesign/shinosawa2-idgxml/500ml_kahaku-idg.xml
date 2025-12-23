@@ -41,7 +41,9 @@
 <h2>5.1　フラウンホーファー回折</h2>
 <?dtp level="2" section="5.1　フラウンホーファー回折"?>
 <p>「光の回折現象は、障害物の角に当たった光が回り込んで、障害物の後ろが少し明るくなったり、小さいスリット（隙間）にまっすぐ進む光を通すと、スリットの後から光が広がるように進んだりする現象のこと。これは、光の波としての性質による現象で、こういった現象が起きる理由は、何世紀も研究されていた、よ」</p>
-<p>彼女はその細い指で付属のペンをスラスラとさばき、タブレットのノートアプリにこう書いた。<footnote>「以下の全ての議論では、光は単色。つまり、ある波長<inlineequation><Image href="file://images/_review_math/_gen_583cf6290785d72cc1b71808962dd4bd72ca369f004fb5cb587694fc1b26149f.pdf" type="inline"/></inlineequation>以外の成分はまったくないものとする、よ」</footnote></p>
+<p>彼女はその細い指で付属のペンをスラスラとさばき、タブレットのノートアプリにこう書いた。
+<footnote>「以下の全ての議論では、光は単色。つまり、ある波長<inlineequation><Image href="file://images/_review_math/_gen_583cf6290785d72cc1b71808962dd4bd72ca369f004fb5cb587694fc1b26149f.pdf" type="inline"/></inlineequation>以外の成分はまったくないものとする、よ」</footnote>
+</p>
 <note><note-title>ホイヘンスの原理</note-title>
 <p>波は、現在の波面（一次波）の各点から小さな球面波（素元波）を出し、それらの包絡線が新たな波面（二次波）となることで進んでいく。</p>
 </note><Image href="file://images/500ml_kahaku/wavelet.pdf"/>
@@ -61,7 +63,9 @@
 <p>「測定位置と明るさをプロットしてグラフを作ればよい、ということですよね」</p>
 <p>「そう。式中の<inlineequation><Image href="file://images/_review_math/_gen_3b0a5714e8bc884ef672b937e4378969a7e7b75ae2c3b61960052fdec6df066c.pdf" type="inline"/></inlineequation>というのは、ある地点<inlineequation><Image href="file://images/_review_math/_gen_5c62e091b8c0565f1bafad0dad5934276143ae2ccef7a5381e8ada5b1a8d26d2.pdf" type="inline"/></inlineequation>での光の強さ……のようなもの」</p>
 <p>「ようなもの、というのは？」</p>
-<p>「計算の都合上<footnote>「光の重ね合わせは、複素振幅を採用することで、シンプルな足し算になる、よ」</footnote>、地点<inlineequation><Image href="file://images/_review_math/_gen_5c62e091b8c0565f1bafad0dad5934276143ae2ccef7a5381e8ada5b1a8d26d2.pdf" type="inline"/></inlineequation>での光の強度は<inlineequation><Image href="file://images/_review_math/_gen_7ebd06d6683821796efa4a0c2998f4a336b330230077d2f22c6c8c7786c44a93.pdf" type="inline"/></inlineequation>であって、<inlineequation><Image href="file://images/_review_math/_gen_3b0a5714e8bc884ef672b937e4378969a7e7b75ae2c3b61960052fdec6df066c.pdf" type="inline"/></inlineequation>自体は光の複素振幅とよばれる。複素振幅は、位相っていう、波が強くなるタイミングの情報を含めた書き方」</p>
+<p>「計算の都合上
+<footnote>「光の重ね合わせは、複素振幅を採用することで、シンプルな足し算になる、よ」</footnote>
+、地点<inlineequation><Image href="file://images/_review_math/_gen_5c62e091b8c0565f1bafad0dad5934276143ae2ccef7a5381e8ada5b1a8d26d2.pdf" type="inline"/></inlineequation>での光の強度は<inlineequation><Image href="file://images/_review_math/_gen_7ebd06d6683821796efa4a0c2998f4a336b330230077d2f22c6c8c7786c44a93.pdf" type="inline"/></inlineequation>であって、<inlineequation><Image href="file://images/_review_math/_gen_3b0a5714e8bc884ef672b937e4378969a7e7b75ae2c3b61960052fdec6df066c.pdf" type="inline"/></inlineequation>自体は光の複素振幅とよばれる。複素振幅は、位相っていう、波が強くなるタイミングの情報を含めた書き方」</p>
 <p>「位相？」</p>
 <p>「今日はあまり考えなくていい、よ。とにかく、複素振幅<inlineequation><Image href="file://images/_review_math/_gen_3b0a5714e8bc884ef672b937e4378969a7e7b75ae2c3b61960052fdec6df066c.pdf" type="inline"/></inlineequation>がわかれば、スクリーンに映る像のようすは、その2乗を計算して調べられる。だから、地点<inlineequation><Image href="file://images/_review_math/_gen_e50b5dbfe7add1372bd9bc29acad76c8d15ab66e522229296afdd5f2281be9b7.pdf" type="inline"/></inlineequation>での複素振幅<inlineequation><Image href="file://images/_review_math/_gen_c6a3f8256cd9f3ca55df3c553c37916e192d5d27ae32981d934e0cd59123c18b.pdf" type="inline"/></inlineequation>と、スリット開口部<inlineequation><Image href="file://images/_review_math/_gen_d65d75b1e6562713a3936bb38fdfe6832fb5b96c946de58f7ce0992057665aa8.pdf" type="inline"/></inlineequation>上の地点<inlineequation><Image href="file://images/_review_math/_gen_d1641bdc80ea783cb4b4b7ceb68eac3a6726c2d865a2a47bbaac3a25fab2cc41.pdf" type="inline"/></inlineequation>での複素振幅<inlineequation><Image href="file://images/_review_math/_gen_eea93fd47e3ec39bedf52a03c8aef63b60d082b9136524401427cffae0fbc7ae.pdf" type="inline"/></inlineequation>の間の関係を示したこの式は、光のふるまいを記述していると言える」</p>
 <p>俺はうなづきながら、少し考えた。──つまりこの式は、回折が起こった後の地点<inlineequation><Image href="file://images/_review_math/_gen_e50b5dbfe7add1372bd9bc29acad76c8d15ab66e522229296afdd5f2281be9b7.pdf" type="inline"/></inlineequation>の複素振幅<inlineequation><Image href="file://images/_review_math/_gen_c6a3f8256cd9f3ca55df3c553c37916e192d5d27ae32981d934e0cd59123c18b.pdf" type="inline"/></inlineequation>が、スリットがある面の地点<inlineequation><Image href="file://images/_review_math/_gen_d1641bdc80ea783cb4b4b7ceb68eac3a6726c2d865a2a47bbaac3a25fab2cc41.pdf" type="inline"/></inlineequation>の複素振幅<inlineequation><Image href="file://images/_review_math/_gen_eea93fd47e3ec39bedf52a03c8aef63b60d082b9136524401427cffae0fbc7ae.pdf" type="inline"/></inlineequation>によって定まる、という意味だ。複素振幅が分かれば光の強度が分かるというのだから、スクリーンに映った像はスリットを通った光によって決まる、と言い換えてもよいのだろう。</p>
@@ -119,7 +123,9 @@
 <?dtp level="2" section="5.2　フーリエ変換"?>
 <p>「任せてって言ったけど……フーリエ変換は、厳密に話そうとすると難しい。今からルベーグ積分に入門するだけの時間はないから、プロデューサーには、要点やイメージだけをかいつまんで説明する。ごめんね」</p>
 <p>「難しすぎても理解できないので、それくらいがありがたいです」俺は、本心からそう思った。</p>
-<p>「まず、2次元のフーリエ変換の定義式を書く<footnote>「この定義だと絶対可積分でない<inlineequation><Image href="file://images/_review_math/_gen_3ea7b9387ea71e1c88954b49096a4942f11869c8b33e7ea88bc03e70e7e7a486.pdf" type="inline"/></inlineequation>に対してどうするか……って問題がある、かも。でも、実験的には開口部も複素振幅も有限だから……まず大丈夫だ、よ」</footnote>。ある関数<inlineequation><Image href="file://images/_review_math/_gen_3ea7b9387ea71e1c88954b49096a4942f11869c8b33e7ea88bc03e70e7e7a486.pdf" type="inline"/></inlineequation>に対して、そのフーリエ変換<inlineequation><Image href="file://images/_review_math/_gen_40df81ba2f6e2854e8262c3bb636c66a2e32e9aa9cfb31eb7759cbce2b4c898f.pdf" type="inline"/></inlineequation>は、こう書ける、よ」</p>
+<p>「まず、2次元のフーリエ変換の定義式を書く
+<footnote>「この定義だと絶対可積分でない<inlineequation><Image href="file://images/_review_math/_gen_3ea7b9387ea71e1c88954b49096a4942f11869c8b33e7ea88bc03e70e7e7a486.pdf" type="inline"/></inlineequation>に対してどうするか……って問題がある、かも。でも、実験的には開口部も複素振幅も有限だから……まず大丈夫だ、よ」</footnote>
+。ある関数<inlineequation><Image href="file://images/_review_math/_gen_3ea7b9387ea71e1c88954b49096a4942f11869c8b33e7ea88bc03e70e7e7a486.pdf" type="inline"/></inlineequation>に対して、そのフーリエ変換<inlineequation><Image href="file://images/_review_math/_gen_40df81ba2f6e2854e8262c3bb636c66a2e32e9aa9cfb31eb7759cbce2b4c898f.pdf" type="inline"/></inlineequation>は、こう書ける、よ」</p>
 <note><note-title>2次元フーリエ変換</note-title>
 <displayequation><Image href="file://images/_review_math/_gen_9a191a97a215c0faaa214e4b70e8b84931ec11af452cb64d8c2a2ece7f168e01.pdf"/></displayequation>
 </note><p>「この式とフラウンホーファー回折の式を見比べると、よく似てる。フラウンホーファー回折の式についてる位相の項は、強度を計算すれば消える、ね」</p>
@@ -139,7 +145,9 @@
 <displayequation><Image href="file://images/_review_math/_gen_ebb664cf3bc163be59b4e643920c14e974a7584e16229af7e1147db32b844ab3.pdf"/></displayequation>
 <p>「ここで、積分の順番を入れ替える。この操作をするためにはいくつかの条件があるんだけど、今回はやっても大丈夫なことにする」</p>
 <displayequation><Image href="file://images/_review_math/_gen_18837b132da21dabf88babace6c390fde8caec4967da50856a46f214de8ebd9f.pdf"/></displayequation>
-<p>「ここで、デルタ関数っていう関数<footnote>「実はこれは超関数と呼ばれていて、ただの関数とはちょっと違うんだけど、詳しいことはここでは説明しない、よ」</footnote>が出てくる」</p>
+<p>「ここで、デルタ関数っていう関数
+<footnote>「実はこれは超関数と呼ばれていて、ただの関数とはちょっと違うんだけど、詳しいことはここでは説明しない、よ」</footnote>
+が出てくる」</p>
 <displayequation><Image href="file://images/_review_math/_gen_816aea3454f0b3e6b194f7a7e813739509eef4bfc407251602be2697116ad9ca.pdf"/></displayequation>
 <p>「デルタ関数は、<inlineequation><Image href="file://images/_review_math/_gen_b88c9fc09e5a1f6e2555bd6be9b652a9f332ed958a94d65a650ce061a4c465a2.pdf" type="inline"/></inlineequation>では無限大に発散して、それ以外では0をとるような関数で、特にこんな性質がある」</p>
 <displayequation><Image href="file://images/_review_math/_gen_6de1ff00b8b8d86c8adb520e0abd9e8d7f529ca9063ac896bda1b4835c1a2f18.pdf"/></displayequation>
@@ -166,7 +174,9 @@
 <p>が成り立つ。</p>
 </note><p>「これが便利ってことは、具体例を見せたほうがわかりやすい、ね」</p>
 <p>すると彼女は急にブラウザを開き、十数行のプログラムを書いたかと思いきや、以下のような三つの図を見せてきた。</p>
-<p>「実際にフーリエ変換のシミュレーション<footnote>「これは高速フーリエ変換といって、離散的な値を変換しているから、今話しているものとは厳密には違うんだけど……」</footnote>をしてみた、よ」</p>
+<p>「実際にフーリエ変換のシミュレーション
+<footnote>「これは高速フーリエ変換といって、離散的な値を変換しているから、今話しているものとは厳密には違うんだけど……」</footnote>
+をしてみた、よ」</p>
 <Image href="file://images/500ml_kahaku/stripe1.png"/>
 <img-caption>図5.7　(a)縦方向の縞模様。(b)それをフーリエ変換した図。</img-caption>
 <Image href="file://images/500ml_kahaku/stripe2.png"/>
@@ -183,7 +193,9 @@
 <p>「はい、フーリエ変換の特徴を理解していれば、大まかに推理することができるんですね」</p>
 <p>「そういうこと」</p>
 <p>彼女はノートアプリを閉じ、続けてこう言った。</p>
-<p>「この方法は、X線結晶構造解析という技術に応用されている、よ。いろんな結晶にX線を照射して、得られた回折像を調べることで、元の結晶の構造がわかる<footnote>「プロデューサーは気づいたかどうかわからないけど、X線の強度は<inlineequation><Image href="file://images/_review_math/_gen_a50e51bab99418e18a8d722732f706351af31ffc2badb431cf0438c979c23301.pdf" type="inline"/></inlineequation>に比例していて、位相の情報が絶対値の2乗によって失われているから、フーリエ逆変換があっても、これだけから<inlineequation><Image href="file://images/_review_math/_gen_3ea7b9387ea71e1c88954b49096a4942f11869c8b33e7ea88bc03e70e7e7a486.pdf" type="inline"/></inlineequation>を逆算することはできない、よ。これは位相問題と言われていて、解決するためにいろいろ工夫がなされているから、よかったら調べてみて」</footnote>。金属や半導体の結晶はもちろん、有機物も結晶を作れれば調べられる。有名な例だと、ワトソンとクリックがDNAの二重らせん構造を発見したのもこの方法」</p>
+<p>「この方法は、X線結晶構造解析という技術に応用されている、よ。いろんな結晶にX線を照射して、得られた回折像を調べることで、元の結晶の構造がわかる
+<footnote>「プロデューサーは気づいたかどうかわからないけど、X線の強度は<inlineequation><Image href="file://images/_review_math/_gen_a50e51bab99418e18a8d722732f706351af31ffc2badb431cf0438c979c23301.pdf" type="inline"/></inlineequation>に比例していて、位相の情報が絶対値の2乗によって失われているから、フーリエ逆変換があっても、これだけから<inlineequation><Image href="file://images/_review_math/_gen_3ea7b9387ea71e1c88954b49096a4942f11869c8b33e7ea88bc03e70e7e7a486.pdf" type="inline"/></inlineequation>を逆算することはできない、よ。これは位相問題と言われていて、解決するためにいろいろ工夫がなされているから、よかったら調べてみて」</footnote>
+。金属や半導体の結晶はもちろん、有機物も結晶を作れれば調べられる。有名な例だと、ワトソンとクリックがDNAの二重らせん構造を発見したのもこの方法」</p>
 <p>「すごいですね……でもなぜレンズで拡大するのではなく、そんな方法を使うんですか？」</p>
 <p>「すごくいい質問。X線を使うのは、可視光よりも波長が短くて透過力が高く、結晶の内部を難なく通れるから。結晶の内部を通れないことには、回折も起こらないし、内部構造を知ることもできない、よ」</p>
 <p>「そんな背景があるんですね……」</p>

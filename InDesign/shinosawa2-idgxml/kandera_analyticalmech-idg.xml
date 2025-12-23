@@ -71,7 +71,9 @@
 <say><name>P</name>➤<line>「なるほど。ですが、あまり納得感はないですね。」</line></say>
 <say><name>広</name>➤<line>「それは原理だから仕方ない。でも、諸法則がこういう仮定をすることで導かれるから、正当性がある。とりあえず、変分原理から関係式を導けるか考える」</line></say>
 <say><name>P</name>➤<line>「やはり、経路が作用を最小にするというのが肝なのですか？」</line></say>
-<say><name>広</name>➤<line>「鋭いね。ただ、最小値である事実そのものは使わずに、停留点の性質から第一変分が0であることを使うよ。<footnote>天の声(参考文献<span type="bibno">[1] </span>に詳しい説明があります。)</footnote>」</line></say>
+<say><name>広</name>➤<line>「鋭いね。ただ、最小値である事実そのものは使わずに、停留点の性質から第一変分が0であることを使うよ。
+<footnote>天の声(参考文献<span type="bibno">[1] </span>に詳しい説明があります。)</footnote>
+」</line></say>
 <say><name>広</name>➤<line>「系の自由度が1のとき、作用を最小にするような経路が満たす条件を求める。つまり、<inlineequation><Image href="file://images/_review_math/_gen_9bc1438f292a2f55885b2339e00e403379a376dc5285081eb7eeec21b4a17895.pdf" type="inline"/></inlineequation>とおく。このとき、作用が <inlineequation><Image href="file://images/_review_math/_gen_9bc1438f292a2f55885b2339e00e403379a376dc5285081eb7eeec21b4a17895.pdf" type="inline"/></inlineequation>で最小になるというのは、<inlineequation><Image href="file://images/_review_math/_gen_344b379a20bc69d2b7e3085154edf218a6f20c87ac23c29ac46378090e3bc4d7.pdf" type="inline"/></inlineequation>に取り換えたときに作用が増大するということ。<inlineequation><Image href="file://images/_review_math/_gen_81fa7be25107f11a5073dbe33ab56545510303304e67ca3e979fdf97ae833b1e.pdf" type="inline"/></inlineequation>は<inlineequation><Image href="file://images/_review_math/_gen_4a91a5f18c66e831434c99af2e63cc2a473a0b4474a464b24080bc6d3f79e153.pdf" type="inline"/></inlineequation>の変分といわれる微小量で時間のみの関数。」</line></say>
 <say><name>広</name>➤<line>「また、作用を最小にするような経路を考えるから、端点を固定し、<inlineequation><Image href="file://images/_review_math/_gen_4574be1b3b1d3087b697daf413e7695d3b5ab59c782fa4fbe0986df5239d5c00.pdf" type="inline"/></inlineequation>とする。このとき、作用に生じる差は、」</line></say><displayequation><Image href="file://images/_review_math/_gen_b6e4cec8e32973e376074e70e4b3a0cedab71f6c658a7472fcc49c5a94b4b210.pdf"/></displayequation>
 <say><name>広</name>➤<line>「このとき、最小値を取るような点は停留点だから、一次の変化、つまり第一変分が0で、つぎの式が成立する。」</line></say><displayequation><Image href="file://images/_review_math/_gen_bdaec3b91981d3babf43f80658a085722d27092ddf4092e2d17fcfd0b237115a.pdf"/></displayequation>
@@ -177,7 +179,9 @@
 <say><name>広</name>➤<line>「とできる。<inlineequation><Image href="file://images/_review_math/_gen_8c763553d8e43ee204f896bb3bdc5a5504fd03c4178aaffe1f22c5aeca4b534d.pdf" type="inline"/></inlineequation>はリー微分と呼ばれるもので、通常の微分とは異なる。対して、<inlineequation><Image href="file://images/_review_math/_gen_a8afb02132942c22f2a708c91c76f5a49f3544ac859b92579fc3ffd56729067f.pdf" type="inline"/></inlineequation>は通常の微分と変わらず、関数の微小差である。テイラー展開し2次以上を無視することで、」</line></say><displayequation><Image href="file://images/_review_math/_gen_dfdbf40c3c3b78feb7ca9334281b4c8dae7a69c07ca80e52b4ced62d1086cb9f.pdf"/></displayequation>
 <say><name>広</name>➤<line>「つまり、2次の微小量を無視すれば、演算子について、」</line></say><displayequation><Image href="file://images/_review_math/_gen_d80d4605e65a0945e35a4bf51e5de7632b41679e4c896a59299a5583f3183878.pdf"/></displayequation>
 <say><name>広</name>➤<line>「が成立するとわかる。本証明に移る。作用が無限小連続変換に対して不変であるというのは関数形を変えるような変換ではないことから、次の式が成立することとわかる。」</line></say><displayequation><Image href="file://images/_review_math/_gen_33167dfa190b3d1db29b964b47b07ddbfcc7814f4052e6d1a6a39dadbe29e140.pdf"/></displayequation>
-<say><name>広</name>➤<line>「先ほどの記法を再度使い、微小量の2次を無視することでよりシンプルに書くことができて、あとは初等的な式変形とリー微分の性質、ライプニッツ則を使うことで示したい事実がわかる。<footnote>参考文献<span type="bibno">[2] </span>に詳しくあります。</footnote>」</line></say>
+<say><name>広</name>➤<line>「先ほどの記法を再度使い、微小量の2次を無視することでよりシンプルに書くことができて、あとは初等的な式変形とリー微分の性質、ライプニッツ則を使うことで示したい事実がわかる。
+<footnote>参考文献<span type="bibno">[2] </span>に詳しくあります。</footnote>
+」</line></say>
 <say><name>広</name>➤<line>「実際どのような量が保存するのかについては、次のようになる。」</line></say><note><p>エネルギー保存則：時間の並進対称性から示される。
 運動量保存則：
 <inlineequation><Image href="file://images/_review_math/_gen_72dfcfb0c470ac255cde83fb8fe38de8a128188e03ea5ba5b2a93adbea1062fa.pdf" type="inline"/></inlineequation>の<inlineequation><Image href="file://images/_review_math/_gen_89d39a0fbc4c0befc2a40264d3997e8d6a2f3710ddd12ba4492e4740172c972b.pdf" type="inline"/></inlineequation>偏微分を一般化運動量と定義し（ニュートン力学との類似から）、空間の並進対称性から示される。

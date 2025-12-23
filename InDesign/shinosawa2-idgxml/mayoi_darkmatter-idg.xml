@@ -27,7 +27,9 @@
 <p>「全然違う。証拠はいろいろあるよ。例えば……」</p>
 <p>そう言ってよろよろと立ち上がると、ホワイトボードに箇条書きしながら説明を始めた。（レビュー：<span type="bibno">[1] </span>の27章周辺）</p>
 <list current_no="1" total_no="3">銀河の回転曲線: 星の周回速度を測り、見える星から推定される重力と比較する。光らない『ダークな』物質が大量にないと、測定された速度を説明できない。</list>
-<list current_no="2" total_no="3">宇宙マイクロ波背景放射（CMB）: 宇宙の全方向から来る微弱な電波の温度ゆらぎを調べる。ダークマターを含む<inlineequation><Image href="file://images/_review_math/_gen_4e73a24d6dbb26ffc7286927b7452dfaae09dbed05a0d0c38adab081c78d96fe.pdf" type="inline"/></inlineequation>-CDM模型<footnote><inlineequation><Image href="file://images/_review_math/_gen_4e73a24d6dbb26ffc7286927b7452dfaae09dbed05a0d0c38adab081c78d96fe.pdf" type="inline"/></inlineequation>-CDM模型の“CDM”は『冷たいダークマター』の意味。<inlineequation><Image href="file://images/_review_math/_gen_4e73a24d6dbb26ffc7286927b7452dfaae09dbed05a0d0c38adab081c78d96fe.pdf" type="inline"/></inlineequation>は別の成分で、いわゆるダークエネルギー。この二つの正体不明な成分が、宇宙の全エネルギーの約95%を占めてる。すごく理不尽で、わくわくするね。</footnote>で、角相関が精度よく説明できる。</list>
+<list current_no="2" total_no="3">宇宙マイクロ波背景放射（CMB）: 宇宙の全方向から来る微弱な電波の温度ゆらぎを調べる。ダークマターを含む<inlineequation><Image href="file://images/_review_math/_gen_4e73a24d6dbb26ffc7286927b7452dfaae09dbed05a0d0c38adab081c78d96fe.pdf" type="inline"/></inlineequation>-CDM模型
+<footnote><inlineequation><Image href="file://images/_review_math/_gen_4e73a24d6dbb26ffc7286927b7452dfaae09dbed05a0d0c38adab081c78d96fe.pdf" type="inline"/></inlineequation>-CDM模型の“CDM”は『冷たいダークマター』の意味。<inlineequation><Image href="file://images/_review_math/_gen_4e73a24d6dbb26ffc7286927b7452dfaae09dbed05a0d0c38adab081c78d96fe.pdf" type="inline"/></inlineequation>は別の成分で、いわゆるダークエネルギー。この二つの正体不明な成分が、宇宙の全エネルギーの約95%を占めてる。すごく理不尽で、わくわくするね。</footnote>
+で、角相関が精度よく説明できる。</list>
 <list current_no="3" total_no="3">その他: 宇宙の大規模構造、バリオン音響振動（BAO）、重力レンズ効果、など。</list>
 <p>「……CMB？　<inlineequation><Image href="file://images/_review_math/_gen_4e73a24d6dbb26ffc7286927b7452dfaae09dbed05a0d0c38adab081c78d96fe.pdf" type="inline"/></inlineequation>-CDM模型？」</p>
 <p>「まず、宇宙が始まってから約38万年の間に──」</p>
@@ -57,7 +59,9 @@
 </note>
 <h2>1.2　ダークマターの直接探索</h2>
 <?dtp level="2" section="1.2　ダークマターの直接探索"?>
-<p>「ダークマター探しはすごく難しいけど、いくつか方法が試されてるよ。なかでも面白いのが『直接探索』（レビュー：<span type="bibno">[2] </span>）──身の周りにあるダークマターを、研究室に置いた検出器で直接狙うやり方<footnote>宇宙の観測からダークマター由来の信号を探す『間接探索』や、加速器でダークマターを作って探す方法もあるけど、ここでは触れない、よ。</footnote>」</p>
+<p>「ダークマター探しはすごく難しいけど、いくつか方法が試されてるよ。なかでも面白いのが『直接探索』（レビュー：<span type="bibno">[2] </span>）──身の周りにあるダークマターを、研究室に置いた検出器で直接狙うやり方
+<footnote>宇宙の観測からダークマター由来の信号を探す『間接探索』や、加速器でダークマターを作って探す方法もあるけど、ここでは触れない、よ。</footnote>
+」</p>
 <p>「待ってください。相互作用がわからないなら、検出器の作りようがないのでは？」</p>
 <p>「それはそう。だから、考えられる可能性を全部当たる」</p>
 <p>「……いま、なんと？」</p>
@@ -79,13 +83,17 @@
 <p>「なるほど、ビー玉をぶつけても車は動きませんからね。それなら逆に、重ければ重いほどいいんでしょうか？」</p>
 <p>「エネルギー的にはそう。でも、観測から質量密度が決まってる。重いほど個数が少なくなるから、見つけづらい」</p>
 <p>「では、その間に一番見つけやすい質量があるわけですね」</p>
-<p>「うん。原子核散乱は、原子核と同程度の質量に最も感度が出る。理論的にもその辺りに有力候補<footnote>Weakly-interacting massive particle (WIMP)と呼ばれる候補。超対称性標準模型などを考えると、自然に出てくるよ。</footnote>があるから、実験は早くから活発だった」</p>
+<p>「うん。原子核散乱は、原子核と同程度の質量に最も感度が出る。理論的にもその辺りに有力候補
+<footnote>Weakly-interacting massive particle (WIMP)と呼ばれる候補。超対称性標準模型などを考えると、自然に出てくるよ。</footnote>
+があるから、実験は早くから活発だった」</p>
 <p>そこまで言って、篠澤さんは俺にペンを向けた。</p>
 <p>「じゃあ、次の練習問題。ダークマターが私の体と衝突する頻度を求めてみよう。まだギリギリ見つかっていないところ<span type="bibno">[3] </span><span type="bibno">[4] </span><span type="bibno">[5] </span>を想定して──」</p>
 <list current_no="1" total_no="2">質量 <inlineequation><Image href="file://images/_review_math/_gen_374baf9cda5f4e4fd3cd309e0976387d48d5ec328373c32bf2e2f2de0837d9b1.pdf" type="inline"/></inlineequation></list>
 <list current_no="2" total_no="2">陽子・中性子との散乱断面積 <inlineequation><Image href="file://images/_review_math/_gen_ef403bf431a7df9ffc0b2bbb2c2074363dce1f95eb114f7bb6d6fb337b364b0f.pdf" type="inline"/></inlineequation></list>
 <p>書かれた記号を見て目を白黒させていると、篠澤さんが補足してくれる。</p>
-<p>「ここで、<inlineequation><Image href="file://images/_review_math/_gen_389145343df71406c39018d808e9971ee4c958d668bdfca583467be784999768.pdf" type="inline"/></inlineequation>はエネルギーや質量の単位<footnote>有名なアインシュタインの方程式<inlineequation><Image href="file://images/_review_math/_gen_f2be93acefe998252eb1b8ddbcbfe428f547b60689dfea6eecc3886d21d73dee.pdf" type="inline"/></inlineequation>でエネルギーと質量は関係付くよ。光速<inlineequation><Image href="file://images/_review_math/_gen_2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6.pdf" type="inline"/></inlineequation>を<inlineequation><Image href="file://images/_review_math/_gen_6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.pdf" type="inline"/></inlineequation>とする自然単位系では、さまざまな量を共通の単位<inlineequation><Image href="file://images/_review_math/_gen_389145343df71406c39018d808e9971ee4c958d668bdfca583467be784999768.pdf" type="inline"/></inlineequation>で測れて、かんたん。</footnote>。散乱断面積は──ビー玉をふたつぶつけるとき、断面積が大きいものほどぶつかりやすい。それと同じで、素粒子同士の衝突しやすさを表すのが、散乱断面積」</p>
+<p>「ここで、<inlineequation><Image href="file://images/_review_math/_gen_389145343df71406c39018d808e9971ee4c958d668bdfca583467be784999768.pdf" type="inline"/></inlineequation>はエネルギーや質量の単位
+<footnote>有名なアインシュタインの方程式<inlineequation><Image href="file://images/_review_math/_gen_f2be93acefe998252eb1b8ddbcbfe428f547b60689dfea6eecc3886d21d73dee.pdf" type="inline"/></inlineequation>でエネルギーと質量は関係付くよ。光速<inlineequation><Image href="file://images/_review_math/_gen_2e7d2c03a9507ae265ecf5b5356885a53393a2029d241394997265a1a25aefc6.pdf" type="inline"/></inlineequation>を<inlineequation><Image href="file://images/_review_math/_gen_6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.pdf" type="inline"/></inlineequation>とする自然単位系では、さまざまな量を共通の単位<inlineequation><Image href="file://images/_review_math/_gen_389145343df71406c39018d808e9971ee4c958d668bdfca583467be784999768.pdf" type="inline"/></inlineequation>で測れて、かんたん。</footnote>
+。散乱断面積は──ビー玉をふたつぶつけるとき、断面積が大きいものほどぶつかりやすい。それと同じで、素粒子同士の衝突しやすさを表すのが、散乱断面積」</p>
 <p>「なるほど、なんとなくわかりました。じゃあ続きを……どうしました？」</p>
 <p>篠澤さんが腕を上げたまま固まっている。何かを思い悩んでいるように見えた。</p>
 <p>「どうしよう、プロデューサー。このままだと数式を書くことになっちゃう」</p>
@@ -101,7 +109,9 @@
 <p>「あれ、意外と多いですね。牛乳パック一つ分という話では？」</p>
 <p>「ひとつひとつが軽いから」</p>
 <displayequation><Image href="file://images/_review_math/_gen_2678ab27dc2b1925f06ac5f18dbd5dad51b7e30d2730cd663d6bf32c142311a8.pdf"/></displayequation>
-<p>「私の中に陽子や中性子がたくさんあるから、総断面積はそれだけ大きくなる。体重<inlineequation><Image href="file://images/_review_math/_gen_08f271887ce94707da822d5263bae19d5519cb3614e0daedc4c7ce5dab7473f1.pdf" type="inline"/></inlineequation>を核子の重さ<inlineequation><Image href="file://images/_review_math/_gen_f32891d7dfdd471eafff1b569de3ee4741483f8bcd551e473f875da319f2445c.pdf" type="inline"/></inlineequation>で割って、<inlineequation><Image href="file://images/_review_math/_gen_9c3245dfb4ac54c1623a60e7b8d1fc07cb02eae1229435230c7dab5e71083a26.pdf" type="inline"/></inlineequation>にかける<footnote>本当は、重い原子核では核子の寄与が位相をそろえて加わって（コヒーレンス）、断面積が質量数の二乗で大きくなることがあるよ。プロデューサーには荷が重そうだから、今日は無視しよう。</footnote>」</p>
+<p>「私の中に陽子や中性子がたくさんあるから、総断面積はそれだけ大きくなる。体重<inlineequation><Image href="file://images/_review_math/_gen_08f271887ce94707da822d5263bae19d5519cb3614e0daedc4c7ce5dab7473f1.pdf" type="inline"/></inlineequation>を核子の重さ<inlineequation><Image href="file://images/_review_math/_gen_f32891d7dfdd471eafff1b569de3ee4741483f8bcd551e473f875da319f2445c.pdf" type="inline"/></inlineequation>で割って、<inlineequation><Image href="file://images/_review_math/_gen_9c3245dfb4ac54c1623a60e7b8d1fc07cb02eae1229435230c7dab5e71083a26.pdf" type="inline"/></inlineequation>にかける
+<footnote>本当は、重い原子核では核子の寄与が位相をそろえて加わって（コヒーレンス）、断面積が質量数の二乗で大きくなることがあるよ。プロデューサーには荷が重そうだから、今日は無視しよう。</footnote>
+」</p>
 <p>「体重が重いほど有利になりますね。篠澤さん、もっと食べましょう」</p>
 <p>俺の軽口を無言で受け流して、続きの数式に取り組む篠澤さん。</p>
 <displayequation><Image href="file://images/_review_math/_gen_4eb89de0bd478e9f3b9c5aa3aad9d9ea26e2e1fe3032edf6e1b6761251bb4c2c.pdf"/></displayequation>
@@ -217,7 +227,9 @@
 <p>「当然ですけど、会場の中とは全く違う聞こえ方をしますね。低音が強調されて、ずんずんと響いてくる感じと言いますか」</p>
 <p>「そう。それが重要な波の性質。音は空気の密度の波で、波長によって伝わりやすさが決まる。例えば──手毬の“Luna say maybe”って、最高音はどれくらい？」</p>
 <p>「hiD♯」</p>
-<p>「ってことはちょうどhiAとhihiAの中間だから、周波数は<inlineequation><Image href="file://images/_review_math/_gen_8b47a21c53ffb54bc9cab2b2ba2adec9ccfc4ef74fda9f14ddff47958041263e.pdf" type="inline"/></inlineequation><footnote>hiAはよくチューニングに使われて、<inlineequation><Image href="file://images/_review_math/_gen_d86241ea1e1553de4d24bfad9f59b7f1b23fc0a5276cd3aebe56ab1007aba30d.pdf" type="inline"/></inlineequation>周辺に音が取られるね。これを基準に、周波数の2倍幅を1オクターブと呼ぶ。ピアノの音に対応する十二平均律は、1オクターブをログ等間隔で12分割する。だからhiD♯は6音下のhiAよりも<inlineequation><Image href="file://images/_review_math/_gen_a546f4efcaafb7d8286765e64a4eaea85540f66d4119f14527df57d47206d0b8.pdf" type="inline"/></inlineequation>倍大きな周波数を持つけど、非有理数倍の周波数ではきれいにハモりづらい。響きを優先する場合は、和音の周波数が簡単な有利数倍になるような純正律を採用する、よ。</footnote>。……手毬、<inlineequation><Image href="file://images/_review_math/_gen_1a948f1b4374f4e3f02501c7feb43784021718a93c1ed5f9f19adf357bb2d20e.pdf" type="inline"/></inlineequation>かける<inlineequation><Image href="file://images/_review_math/_gen_e3f6959781c353c201d378e02d9da532601673e08a1706fa15a5ebbd9ea1bd36.pdf" type="inline"/></inlineequation>は？」</p>
+<p>「ってことはちょうどhiAとhihiAの中間だから、周波数は<inlineequation><Image href="file://images/_review_math/_gen_8b47a21c53ffb54bc9cab2b2ba2adec9ccfc4ef74fda9f14ddff47958041263e.pdf" type="inline"/></inlineequation>
+<footnote>hiAはよくチューニングに使われて、<inlineequation><Image href="file://images/_review_math/_gen_d86241ea1e1553de4d24bfad9f59b7f1b23fc0a5276cd3aebe56ab1007aba30d.pdf" type="inline"/></inlineequation>周辺に音が取られるね。これを基準に、周波数の2倍幅を1オクターブと呼ぶ。ピアノの音に対応する十二平均律は、1オクターブをログ等間隔で12分割する。だからhiD♯は6音下のhiAよりも<inlineequation><Image href="file://images/_review_math/_gen_a546f4efcaafb7d8286765e64a4eaea85540f66d4119f14527df57d47206d0b8.pdf" type="inline"/></inlineequation>倍大きな周波数を持つけど、非有理数倍の周波数ではきれいにハモりづらい。響きを優先する場合は、和音の周波数が簡単な有利数倍になるような純正律を採用する、よ。</footnote>
+。……手毬、<inlineequation><Image href="file://images/_review_math/_gen_1a948f1b4374f4e3f02501c7feb43784021718a93c1ed5f9f19adf357bb2d20e.pdf" type="inline"/></inlineequation>かける<inlineequation><Image href="file://images/_review_math/_gen_e3f6959781c353c201d378e02d9da532601673e08a1706fa15a5ebbd9ea1bd36.pdf" type="inline"/></inlineequation>は？」</p>
 <p>「は？　なんで私がそんなこと」</p>
 <p>「カロリー消費のため。頑張って」</p>
 <p>篠澤さんが差し出したペンを、月村さんは悔しそうな表情で受け取った。ホワイトボードの隅の方で筆算を始める。</p>
@@ -302,7 +314,9 @@
 <p>「それじゃあこれまでのように、量子センサーの強みを説明してもらいましょうか」</p>
 <p>「量子センサーは、量子性が強い物理系で信号を拾うセンサー。例えば量子コンピューターの超伝導量子ビットを流用する。メリットは──」</p>
 <list current_no="1" total_no="3">状態操作と組み合わせて高感度プロトコル開発（ラムゼー干渉、スピンエコーなど）</list>
-<list current_no="2" total_no="3">量子資源で感度向上（量子もつれ、スクイージングなど）<footnote>独立試行の感度限界は標準量子限界（SQL）と呼ばれる。量子もつれやスクイージングを使うと、SQLを上回るハイゼンベルク限界まで到達しうる、よ。</footnote></list>
+<list current_no="2" total_no="3">量子資源で感度向上（量子もつれ、スクイージングなど）
+<footnote>独立試行の感度限界は標準量子限界（SQL）と呼ばれる。量子もつれやスクイージングを使うと、SQLを上回るハイゼンベルク限界まで到達しうる、よ。</footnote>
+</list>
 <list current_no="3" total_no="3">将来的には量子計算・最適推定と統合可能（データ処理や読み出しの最適化）</list>
 <p>「このメリットを活かすには量子情報の知識が要る。状態を作り、正しい読み出し方法を設計する必要があるから」</p>
 <p>ホワイトボードの左上に残っていたベン図に、『量子情報』という円が書き加えられる。三つの円が交わった領域を指して、篠澤さんは続けた。</p>

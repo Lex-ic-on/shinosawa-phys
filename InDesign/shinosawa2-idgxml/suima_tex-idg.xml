@@ -54,7 +54,13 @@
 <say><name>P</name>➤<line>`知らないですね.'</line></say>
 <say><name>広</name>➤<line>D. E. Knuthだよ. </line></say>
 <say><name>P</name>➤<line>`すみません, どなたですか.'</line></say>
-<say><name>広</name>➤<line>巨大数<footnote>クヌースの矢印表記, みんなは知ってる？</footnote>とか, 他にも計算機科学<footnote>計算量について, オーダー記法を使うことを定着させた立役者だね.</footnote>とかの分野の権威だね. 今も毎年不定期に教鞭執ってるらしい, よ.<footnote>あと, 上付き文字をサーカムフレックスで表す, っていうのもクヌース先生の発案だ, よ.(クヌースの矢印表記の略記として ^ を定めたのと, TeXの上付き文字が ^ でできた, っていうのが理由だけど, 今回はこのお話じゃないからまた今度, ね)</footnote></line></say>
+<say><name>広</name>➤<line>巨大数
+<footnote>クヌースの矢印表記, みんなは知ってる？</footnote>
+とか, 他にも計算機科学
+<footnote>計算量について, オーダー記法を使うことを定着させた立役者だね.</footnote>
+とかの分野の権威だね. 今も毎年不定期に教鞭執ってるらしい, よ.
+<footnote>あと, 上付き文字をサーカムフレックスで表す, っていうのもクヌース先生の発案だ, よ.(クヌースの矢印表記の略記として ^ を定めたのと, TeXの上付き文字が ^ でできた, っていうのが理由だけど, 今回はこのお話じゃないからまた今度, ね)</footnote>
+</line></say>
 <say><name>P</name>➤<line>`なるほど, よくわからない.'</line></say>
 <say><name>広</name>➤<line>大きい数の表し方とかの研究とか, コンピュータがその問題を解くのにどれくらいの時間がかかるのか, とかの研究をしている人だよ.</line></say>
 <say><name>P</name>➤<line>`なるほど, 大雑把には理解できました.'</line></say>
@@ -82,26 +88,38 @@
 <say><name>P</name>➤<line>`ああ, なんとなく分かりました. その言葉で表現できる範囲で, 計算が一通りできることが, チューリング完全. ということですね.'</line></say>
 <say><name>広</name>➤<line>そう.</line></say>
 <say><name>P</name>➤<line>`それは分かったんですが, それって重要なんですか?'</line></say>
-<say><name>広</name>➤<line>重要. このおかげで, TeXでは, いろいろなことを自動でやってもらうことができる, よ.<footnote>この文書のオリジナルのソースも, 毎行初めにフックして処理をしている, ね. ふふ, わたし知ってるよ.</footnote></line></say>
+<say><name>広</name>➤<line>重要. このおかげで, TeXでは, いろいろなことを自動でやってもらうことができる, よ.
+<footnote>この文書のオリジナルのソースも, 毎行初めにフックして処理をしている, ね. ふふ, わたし知ってるよ.</footnote>
+</line></say>
 <say><name>広</name>➤<line>と, ここまでTeXの話をしてきたけど, 実はオリジナルのTeXには大きな問題がある.</line></say>
 <say><name>P</name>➤<line>`何でしょう.'</line></say>
-<say><name>広</name>➤<line>実は, ASCIIにしか対応していない. <footnote>げんみつには, 入力がASCIIにしか対応していない, よ. 内部的には独自の文字コードを使ってる. これを読んでいる人にも, T1エンコードを強制しないといけないって, 呪文みたいに読んだことがある人が居るとおもう, よ.</footnote></line></say>
+<say><name>広</name>➤<line>実は, ASCIIにしか対応していない. 
+<footnote>げんみつには, 入力がASCIIにしか対応していない, よ. 内部的には独自の文字コードを使ってる. これを読んでいる人にも, T1エンコードを強制しないといけないって, 呪文みたいに読んだことがある人が居るとおもう, よ.</footnote>
+</line></say>
 <say><name>P</name>➤<line>`出版社でしょうか?'</line></say>
 <say><name>広</name>➤<line>それは日本ASCII, TeXの話をする上で重要な会社だけど, いまはそれのことじゃない, よ. 文字コードのこと.</line></say>
 <say><name>P</name>➤<line>`unicodeとかShift JISとかの仲間でしょうか?'</line></say>
 <say><name>広</name>➤<line>そう, 技術的にはunicodeのおとうさんにあたる. アルファベットと基礎的な記号を, 7bitで表現する, よ.</line></say>
 <say><name>P</name>➤<line>`7bitといいますと, <inlineequation><Image href="file://images/_review_math/_gen_6c6c1ce1cd7e593fd8f62bc89d3b210704e65028c2c066b13e1cd330fd45bcb1.pdf" type="inline"/></inlineequation>で128個の文字しか表現できない, ということでしょうか?'</line></say>
-<say><name>広</name>➤<line>そうなるね. <footnote>ほんとうは, 制御文字があるからもっと少ないけど, ね</footnote></line></say>
+<say><name>広</name>➤<line>そうなるね. 
+<footnote>ほんとうは, 制御文字があるからもっと少ないけど, ね</footnote>
+</line></say>
 <say><name>P</name>➤<line>`それじゃあ日本語は表現できないじゃないですか.'</line></say>
 <say><name>広</name>➤<line>ちっちっち……</line></say>
 <say><name>P</name>➤<line>`何か違うんですか?'</line></say>
 <say><name>広</name>➤<line>日本語はおろか, 純粋で, なにもついていないラテン・アルファベット以外をつかう言葉…… つまり, 英語以外表現できない, よ.</line></say>
 <say><name>P</name>➤<line>`ダメじゃないですか.'</line></say>
-<say><name>広</name>➤<line>ううん, 初期のコンピューターでの連絡でも, ASCIIは, 英語以外もちゃんと読める方法を用意してはいた, よ.<footnote>結局, ヨーロッパだと, ASCIIを拡張した文字コードを幾つか定義したけど, ね.</footnote></line></say>
+<say><name>広</name>➤<line>ううん, 初期のコンピューターでの連絡でも, ASCIIは, 英語以外もちゃんと読める方法を用意してはいた, よ.
+<footnote>結局, ヨーロッパだと, ASCIIを拡張した文字コードを幾つか定義したけど, ね.</footnote>
+</line></say>
 <say><name>広</name>➤<line>でも, これはあくまで読める, であって, ちゃんとした普通の文字に出来たわけではなかった. けど, TeXはそのへんは解決した, よ.</line></say>
 <say><name>P</name>➤<line>`では日本語も表現できたんですか?'</line></say>
 <say><name>広</name>➤<line>頭ごなしには否定できない. NTT <inlineequation><Image href="file://images/_review_math/_gen_c36e86679a516d1007fdaeaffdb5b1f92a8cd8cb70462c6f5d61723acc6689e8.pdf" type="inline"/></inlineequation> っていうものがあって, これは, 内部的には日本語文字の入力を英字に対応させるんだけど, その後, 日本語文字に対応していた英字のフォントを切り替えることで, 日本語文字を表示する, という手法をとっていた, よ.</line></say>
-<say><name>広</name>➤<line>このNTT JTeXは, 技術的には殆ど改造を加えていない, <footnote>これはあくまで組版とか, 内部コードの処理とかが, これ以外の日本語対応TeXに比べて変わってない, って意味で, JTeXが何もしていないって事ではない, よ</footnote>「ほとんどTeX」だから, これを踏まえるなら, TeXは日本語に対応できた, となる.<footnote>ほかにも, TeXマクロレベルでJTeXと似たことをして, 日本語組版をした人たちもいた，よ.</footnote></line></say>
+<say><name>広</name>➤<line>このNTT JTeXは, 技術的には殆ど改造を加えていない, 
+<footnote>これはあくまで組版とか, 内部コードの処理とかが, これ以外の日本語対応TeXに比べて変わってない, って意味で, JTeXが何もしていないって事ではない, よ</footnote>
+「ほとんどTeX」だから, これを踏まえるなら, TeXは日本語に対応できた, となる.
+<footnote>ほかにも, TeXマクロレベルでJTeXと似たことをして, 日本語組版をした人たちもいた，よ.</footnote>
+</line></say>
 <say><name>P</name>➤<line>`ううむ……'</line></say>
 <say><name>広</name>➤<line>でも, オリジナルのTeXは, 日本語が出来た, とはしなくていいよ.</line></say>
 <say><name>広</name>➤<line>それに, 日本語に対応するように改変されたTeXで, 一般的になったものは, JTeXじゃなかった, よ.</line></say>
@@ -117,14 +135,25 @@
 <say><name>広</name>➤<line>だから, その改善として<inlineequation><Image href="file://images/_review_math/_gen_252c2f4800cf6dc4f3e0151d968ffd3c37d3837bd33f404f06ca122bb967ecf2.pdf" type="inline"/></inlineequation> が開発された.</line></say>
 <say><name>広</name>➤<line>一方, 日本では, 日本ASCII社によって, <inlineequation><Image href="file://images/_review_math/_gen_50476cd8ebaf5a5dba0a818e8ab7c706b9b5674f055d884d3e619955e11a6c0a.pdf" type="inline"/></inlineequation> が開発された, よ. これは, 日本語に積極的に対応させたもので, さっき一瞬話した<inlineequation><Image href="file://images/_review_math/_gen_c36e86679a516d1007fdaeaffdb5b1f92a8cd8cb70462c6f5d61723acc6689e8.pdf" type="inline"/></inlineequation> よりも, おおきく中身を書き換えてる.</line></say>
 <say><name>広</name>➤<line>pTeXは, その後に文字コードがunicodeになった<inlineequation><Image href="file://images/_review_math/_gen_1c881c1d8f07f9224ed796c461f540c3385f8c709ecba4c8214f566196392a10.pdf" type="inline"/></inlineequation> と, e-TeX 拡張に対応した<inlineequation><Image href="file://images/_review_math/_gen_27ed1b96e240a157ad3aa7726052db4ea7bfacea2b22d479a4079a1c99a97f13.pdf" type="inline"/></inlineequation> の二つの派生が生まれて</line></say>
-<say><name>広</name>➤<line>最終的に, 今はその二つを合体させた<inlineequation><Image href="file://images/_review_math/_gen_28162b1892badf8b0b378b648528d54201c250496d02fac07019d6070c97e4fb.pdf" type="inline"/></inlineequation> が利用されている, よ.<footnote>少なくとも, TeX live 2025ではptex,uptex,eptex,platexは全部e-upTeXのそれぞれの互換モードでの起動のためのリンクになってる, よ</footnote></line></say>
-<say><name>広</name>➤<line>欧米では, pdf出力に対応した<inlineequation><Image href="file://images/_review_math/_gen_79aa0445422a88eeb04176d747a19080ff0b2994803c39d33aa34ad513c1eae4.pdf" type="inline"/></inlineequation> と, 多言語に対応した<inlineequation><Image href="file://images/_review_math/_gen_2190234280dffcf03838d7825ecf23f2a7f1c11c54f011135e3e1b264b0dcf28.pdf" type="inline"/></inlineequation><footnote>双方向組版もできる, よ. だからロゴが左右対称</footnote>が開発されて, pdfTeXからは, 更にプログラミング言語のLuaを利用できるようにした<inlineequation><Image href="file://images/_review_math/_gen_c73326de23cdfe755613d150c2269d024e39fe215982e45dede4bdc9392e599d.pdf" type="inline"/></inlineequation> が生まれた, よ.</line></say>
+<say><name>広</name>➤<line>最終的に, 今はその二つを合体させた<inlineequation><Image href="file://images/_review_math/_gen_28162b1892badf8b0b378b648528d54201c250496d02fac07019d6070c97e4fb.pdf" type="inline"/></inlineequation> が利用されている, よ.
+<footnote>少なくとも, TeX live 2025ではptex,uptex,eptex,platexは全部e-upTeXのそれぞれの互換モードでの起動のためのリンクになってる, よ</footnote>
+</line></say>
+<say><name>広</name>➤<line>欧米では, pdf出力に対応した<inlineequation><Image href="file://images/_review_math/_gen_79aa0445422a88eeb04176d747a19080ff0b2994803c39d33aa34ad513c1eae4.pdf" type="inline"/></inlineequation> と, 多言語に対応した<inlineequation><Image href="file://images/_review_math/_gen_2190234280dffcf03838d7825ecf23f2a7f1c11c54f011135e3e1b264b0dcf28.pdf" type="inline"/></inlineequation>
+<footnote>双方向組版もできる, よ. だからロゴが左右対称</footnote>
+が開発されて, pdfTeXからは, 更にプログラミング言語のLuaを利用できるようにした<inlineequation><Image href="file://images/_review_math/_gen_c73326de23cdfe755613d150c2269d024e39fe215982e45dede4bdc9392e599d.pdf" type="inline"/></inlineequation> が生まれた, よ.</line></say>
 <say><name>P</name>➤<line>(あれ, そもそもTeXの出力ってpdfじゃないのか)</line></say>
-<say><name>広</name>➤<line>それで, ね. TeXは組版に特化したプログラミング言語だけど, これのまま組版をすることは難しい<footnote>より正確には, 今では「素の」TeXで組版をすることは, 原理的に出来ない, よ. texを起動するときに, texと打ち込んだとしても, plain TeXで起動するし, 何もマクロパッケージを読み込まないためには, 今のTeXでは-ini オプションを使うしかないけど, iniTeX だと組版は出来ない,(組版のためのプリミティブが幾つか無視される)よ. 昔はvartexで素のTeXが起動できたらしいけど, 今はもうplain texで起動するみたい.</footnote></line></say>
+<say><name>広</name>➤<line>それで, ね. TeXは組版に特化したプログラミング言語だけど, これのまま組版をすることは難しい
+<footnote>より正確には, 今では「素の」TeXで組版をすることは, 原理的に出来ない, よ. texを起動するときに, texと打ち込んだとしても, plain TeXで起動するし, 何もマクロパッケージを読み込まないためには, 今のTeXでは-ini オプションを使うしかないけど, iniTeX だと組版は出来ない,(組版のためのプリミティブが幾つか無視される)よ. 昔はvartexで素のTeXが起動できたらしいけど, 今はもうplain texで起動するみたい.</footnote>
+</line></say>
 <say><name>広</name>➤<line>だから, L. B. Lamportという人が, LaTeX というものを開発した, よ.</line></say>
-<say><name>広</name>➤<line>これは, TeX上のマクロパッケージ…… TeXで書かれた, TeXのうごきかたを変更するためのもので, <footnote>げんみつにはちょっと違うけど, この説明がわかりやすいと思う, よ.</footnote>普通の人はLaTeX上で処理を行う, よ.</line></say>
+<say><name>広</name>➤<line>これは, TeX上のマクロパッケージ…… TeXで書かれた, TeXのうごきかたを変更するためのもので, 
+<footnote>げんみつにはちょっと違うけど, この説明がわかりやすいと思う, よ.</footnote>
+普通の人はLaTeX上で処理を行う, よ.</line></say>
 <say><name>P</name>➤<line>`と, いいますと?'</line></say>
-<say><name>広</name>➤<line>いまどき, Knuthせんせいが設定した「オリジナルのTeX組版」である, plain TeXを使う人はほとんどいなくて, 大体の人はLaTeX用のTeXコードを書いている, よ. <footnote>わたしはConTeXtも良いと思うけど, 日本だと使ってる人すくないから, 今日はお話ししない, よ.</footnote><footnote>著者注: 他にもTeXマクロは存在しますが, 今回は無視させていただきます. マイナーな奴は情報源少なすぎるんじゃ</footnote></line></say>
+<say><name>広</name>➤<line>いまどき, Knuthせんせいが設定した「オリジナルのTeX組版」である, plain TeXを使う人はほとんどいなくて, 大体の人はLaTeX用のTeXコードを書いている, よ. 
+<footnote>わたしはConTeXtも良いと思うけど, 日本だと使ってる人すくないから, 今日はお話ししない, よ.</footnote>
+<footnote>著者注: 他にもTeXマクロは存在しますが, 今回は無視させていただきます. マイナーな奴は情報源少なすぎるんじゃ</footnote>
+</line></say>
 <say><name>P</name>➤<line>`なるほど.'</line></say>
 <say><name>広</name>➤<line>さて, このへんでTeXについてのお話はお終い. どうだった?</line></say>
 <say><name>P</name>➤<line>`中々ややこしいな, と思いました.'</line></say>
@@ -299,12 +328,18 @@
 <say><name>広</name>➤<line>ここからカテゴリーコード2の<tt type="inline-code"/>}までの間にある文字は<tt type="inline-code">a,r,t,i,c,l,e</tt>だから, <tt type="inline-code">\documentclass</tt>には<tt type="inline-code">article</tt>というトークン列が一つのものとして渡されることになる.</line></say>
 <say><name>P</name>➤<line>`なるほど.'</line></say>
 <say><name>広</name>➤<line>この次の<tt type="inline-code">\begin{document</tt>}も同様. この直後からがまた別のお話.</line></say>
-<say><name>広</name>➤<line>LaTeXの場合, <tt type="inline-code">\begin{document</tt>~\end{document}}の部分にある文字が最終的なPDFに出力される, よ. <footnote>実際には<tt type="inline-code">\begin{document}</tt>が<tt type="inline-code">\document</tt>, <tt type="inline-code">\end{document}</tt>が<tt type="inline-code">\enddocument</tt>に展開される, とかのお話はあるけど, ね</footnote></line></say>
+<say><name>広</name>➤<line>LaTeXの場合, <tt type="inline-code">\begin{document</tt>~\end{document}}の部分にある文字が最終的なPDFに出力される, よ. 
+<footnote>実際には<tt type="inline-code">\begin{document}</tt>が<tt type="inline-code">\document</tt>, <tt type="inline-code">\end{document}</tt>が<tt type="inline-code">\enddocument</tt>に展開される, とかのお話はあるけど, ね</footnote>
+</line></say>
 <say><name>広</name>➤<line>だから, 今回の例だと 最初の<tt type="inline-code">T,h,i,s</tt>がまず出力される文字になる.</line></say>
-<say><name>広</name>➤<line>次に, Thisの直後のスペースも, 普通に出力される, よ.<footnote>ここについても, スペースが2個以上続いても一つになる, とかがあるんだけど, ね.</footnote></line></say>
+<say><name>広</name>➤<line>次に, Thisの直後のスペースも, 普通に出力される, よ.
+<footnote>ここについても, スペースが2個以上続いても一つになる, とかがあるんだけど, ね.</footnote>
+</line></say>
 <say><name>P</name>➤<line>`そりゃそうでしょう.'</line></say>
 <say><name>広</name>➤<line>うん. isの直後もおなじ. でも, 次の制御綴<tt type="inline-code">\LaTeX</tt>の後は別のお話.</line></say>
-<say><name>広</name>➤<line>制御綴直後の空白文字は, 空白として出力されない, よ. ここが出力されちゃうと, 何の副作用もない制御綴の終了が面倒くさくなる, よ. <footnote>そうだったとしても^^@(NUL)とかのカテゴリーコード9の文字を使ってあげればいいけど, ね.</footnote></line></say>
+<say><name>広</name>➤<line>制御綴直後の空白文字は, 空白として出力されない, よ. ここが出力されちゃうと, 何の副作用もない制御綴の終了が面倒くさくなる, よ. 
+<footnote>そうだったとしても^^@(NUL)とかのカテゴリーコード9の文字を使ってあげればいいけど, ね.</footnote>
+</line></say>
 <say><name>P</name>➤<line>`あ～理解は出来ました.'</line></say>
 <say><name>広</name>➤<line>さて, これで簡単な例は終了だ, よ.</line></say>
 <say><name>P</name>➤<line>`あっ.'</line></say>
@@ -317,7 +352,9 @@
 <say><name>P</name>➤<line>`なるほど'</line></say>
 <say><name>広</name>➤<line>そして, 先に14行目から説明していく, ね.</line></say>
 <say><name>P</name>➤<line>`何故です?'</line></say>
-<say><name>広</name>➤<line>そっちの方が, 説明がスムーズだ, よ. <footnote>これは, 展開順序の関係もある, よ</footnote></line></say>
+<say><name>広</name>➤<line>そっちの方が, 説明がスムーズだ, よ. 
+<footnote>これは, 展開順序の関係もある, よ</footnote>
+</line></say>
 <say><name>P</name>➤<line>`ふむ.'</line></say>
 <say><name>広</name>➤<line>まず, 14行目の<tt type="inline-code">\uccode</tt>について. これは, 大文字を定義する, よ.</line></say>
 <say><name>P</name>➤<line>`といいますと?'</line></say>
@@ -347,7 +384,9 @@
 <say><name>P</name>➤<line>`ふむ……'</line></say>
 <say><name>広</name>➤<line>まず, <tt type="inline-code">\string</tt>は簡単. 直後に来たものを, 文字としてそのまま扱う, よ.</line></say>
 <say><name>P</name>➤<line>`ああ, 例えば<tt type="inline-code">\LaTeX</tt>を, <tt type="inline-code">\LaTeX</tt>という制御綴ではなく, <tt type="inline-code">\LaTeX</tt>という文字列として扱うといったことですか?'</line></say>
-<say><name>広</name>➤<line>そうそう. それで, ね. <tt type="inline-code">\csname</tt>も簡単. これは, ここから<tt type="inline-code">\endcsname</tt>までの間の文字列を名前に持つ制御綴としてふるまう, よ. <footnote>もしもその制御綴が未定義なら, <tt type="inline-code">\relax</tt>としてふるまう, よ.</footnote></line></say>
+<say><name>広</name>➤<line>そうそう. それで, ね. <tt type="inline-code">\csname</tt>も簡単. これは, ここから<tt type="inline-code">\endcsname</tt>までの間の文字列を名前に持つ制御綴としてふるまう, よ. 
+<footnote>もしもその制御綴が未定義なら, <tt type="inline-code">\relax</tt>としてふるまう, よ.</footnote>
+</line></say>
 <say><name>P</name>➤<line>`とすると, <tt type="inline-code">\csname hoge\endcsname</tt>とすると, <tt type="inline-code">\hoge</tt>という制御綴が定義されると言うことですか?'</line></say>
 <say><name>広</name>➤<line>そう. そういうこと. 最後に, <tt type="inline-code">\expandafter</tt>は, マクロの展開を1回後にする, よ.</line></say>
 <say><name>P</name>➤<line>`といいますと?'</line></say>
@@ -408,9 +447,15 @@
 <say><name>P</name>➤<line>`なんですか, それは.'</line></say>
 <say><name>広</name>➤<line>最近出てきた組版エンジンだよ.</line></say>
 <say><name>P</name>➤<line>`でも面倒くさいんでしょう?'</line></say>
-<say><name>広</name>➤<line>TeXよりも, 文章を書くには簡単にできる, よ<footnote>まぁ, パッケージ開発はすこし面倒くさいんだけど, ね.</footnote></line></say>
+<say><name>広</name>➤<line>TeXよりも, 文章を書くには簡単にできる, よ
+<footnote>まぁ, パッケージ開発はすこし面倒くさいんだけど, ね.</footnote>
+</line></say>
 <say><name>P</name>➤<line>`インストールが面倒くさいとかもあるでしょうし……'</line></say>
-<say><name>広</name>➤<line>詳細は省くけど, ウェブ上<footnote>WASMさまさまだね</footnote>で, 仕上がりを見ながら編集ができる, よ.<footnote>まあ, TeXもbusyTeXとかがあるから似たことは出来るんだけど, ね.</footnote></line></say>
+<say><name>広</name>➤<line>詳細は省くけど, ウェブ上
+<footnote>WASMさまさまだね</footnote>
+で, 仕上がりを見ながら編集ができる, よ.
+<footnote>まあ, TeXもbusyTeXとかがあるから似たことは出来るんだけど, ね.</footnote>
+</line></say>
 <say><name>P</name>➤<line>`!?'</line></say>
 <say><name>広</name>➤<line>日本語の組版もだんだん綺麗になってきているし, もしかすると今後学生のレポートの主流になるかも, ね.</line></say>
 <say><name>P</name>➤<line>`それは興味深いんですが…… 結局新しい言語を習得しなければいけないんでしょう?'</line></say>
@@ -424,7 +469,9 @@
 <say><name>P</name>➤<line>`mdはよく使いますが, 数式が書けないでしょう?'</line></say>
 <say><name>広</name>➤<line>じつはね, KaTeXというものがあって, これをMarkdownと組み合わせることで, 数式を簡単に書けるようになる, よ.</line></say>
 <say><name>P</name>➤<line>`ふむ, またTeXですか?'</line></say>
-<say><name>広</name>➤<line>あああ, プロデューサー待って. KaTeXはTeX記法が使えるけど, 数式の時だけだから難しくない, よ<footnote>まあ, \defのパターンマッチ機能が使えたり, 全部の文字がアクティブ文字扱いだから変なことが出来るけど, ね.</footnote></line></say>
+<say><name>広</name>➤<line>あああ, プロデューサー待って. KaTeXはTeX記法が使えるけど, 数式の時だけだから難しくない, よ
+<footnote>まあ, \defのパターンマッチ機能が使えたり, 全部の文字がアクティブ文字扱いだから変なことが出来るけど, ね.</footnote>
+</line></say>
 <say><name>P</name>➤<line>`それなら, 俺が新しい記法を覚えることは必須ではないわけですね. ふむ, それを簡単に使える方法ってありますか?'</line></say>
 <say><name>広</name>➤<line>……ないかも.</line></say>
 <say><name>P</name>➤<line>`じゃあ意味ないじゃないですか.'</line></say>

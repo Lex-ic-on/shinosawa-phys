@@ -43,7 +43,9 @@
 <p>『周回積分……？』</p>
 <p>「回路の各点各点で受ける力の足し合わせ、って言えばいい、かな。今日はちゃんと理解できなくても大丈夫。」</p>
 <p>『分かりました。』</p>
-<p>「それで、電荷が受ける力には電場による力<inlineequation><Image href="file://images/_review_math/_gen_7e5246b13401e0b2c766ae465ded39fdcfb16182d8983a7850cdc4ea6bfeb908.pdf" type="inline"/></inlineequation>と、磁場による力<inlineequation><Image href="file://images/_review_math/_gen_2447241dc58e122c48ef54b33db72c7be60b039fc8871f2ff246645492d2d8e3.pdf" type="inline"/></inlineequation>の2種類がある(<span type="image">図9.3</span>, <span type="image">図9.4</span>)<footnote>電場による力、磁場による力を2つまとめてローレンツ力と呼ぶことも多い、よ。</footnote>。」</p>
+<p>「それで、電荷が受ける力には電場による力<inlineequation><Image href="file://images/_review_math/_gen_7e5246b13401e0b2c766ae465ded39fdcfb16182d8983a7850cdc4ea6bfeb908.pdf" type="inline"/></inlineequation>と、磁場による力<inlineequation><Image href="file://images/_review_math/_gen_2447241dc58e122c48ef54b33db72c7be60b039fc8871f2ff246645492d2d8e3.pdf" type="inline"/></inlineequation>の2種類がある(<span type="image">図9.3</span>, <span type="image">図9.4</span>)
+<footnote>電場による力、磁場による力を2つまとめてローレンツ力と呼ぶことも多い、よ。</footnote>
+。」</p>
 <p>◆DTP連絡始◆以下の図は横並び◆DTP連絡終◆</p>
 <Image href="file://images/metallica_elemag/IMG_5227_2.JPG"/>
 <img-caption>図9.3　電場による力</img-caption>
@@ -53,13 +55,17 @@
 <p>『磁場が変化することで起電力が発生しているわけですから、磁場による力でしょうか？』</p>
 <p>「ざんねん。磁場からの力<inlineequation><Image href="file://images/_review_math/_gen_2447241dc58e122c48ef54b33db72c7be60b039fc8871f2ff246645492d2d8e3.pdf" type="inline"/></inlineequation>には速度<inlineequation><Image href="file://images/_review_math/_gen_4c94485e0c21ae6c41ce1dfe7b6bfaceea5ab68e40a2476f50208e526f506080.pdf" type="inline"/></inlineequation>が含まれてる。だから、動いているものに対してしかはたらかない。」</p>
 <p>『それなら、電場からの力……？』</p>
-<p>「そう。磁場を時間変化させると、その周りをぐるぐる回る電場が発生する<footnote>マクスウェル方程式の1つ、<inlineequation><Image href="file://images/_review_math/_gen_6252879525702a46eb2efdb09f9eabd2347f4591798080ce87b62ac092afbfe9.pdf" type="inline"/></inlineequation></footnote>。この電場こそが起電力の源。」</p>
+<p>「そう。磁場を時間変化させると、その周りをぐるぐる回る電場が発生する
+<footnote>マクスウェル方程式の1つ、<inlineequation><Image href="file://images/_review_math/_gen_6252879525702a46eb2efdb09f9eabd2347f4591798080ce87b62ac092afbfe9.pdf" type="inline"/></inlineequation></footnote>
+。この電場こそが起電力の源。」</p>
 <p>『磁場の変化がそのまま起電力になるのではないんですね。』</p>
 <p>「うん。じゃあ2問目。(b)の起電力の由来は電場・磁場、どっちでしょう？」</p>
 <p>『先ほどの話を振り返ると、今回は導体棒が動いているので、磁場からの力を受けるのでしょうか？』</p>
 <p>「ぴんぽん。磁場のなかで導体棒を動かすと、棒の中にある電子がローレンツ力を受ける。これを積分すると起電力になる、よ。(b)みたいな問題の別解としても有名。」</p>
 <p>『つまり、(a)の起電力は電場、(b)は磁場による力が由来だったんですね。』</p>
-<p>「そういうこと。だから、プロデューサーが言ってた、“(a)と(b)は状況が全然違う”っていうのは、的確な指摘<footnote>今回は(a)(b)の起電力の違いを、その源が電場か、磁場かによって分類した。だけど、(b)の起電力はローレンツ力が<inlineequation><Image href="file://images/_review_math/_gen_e1252afc13d0455ed122fc81fea3048fc60fb648cf2705f88e4dca90e153fa6d.pdf" type="inline"/></inlineequation>であることだけから導かれるのに対して、(a)の起電力はそれに加えてマクスウェル方程式<inlineequation><Image href="file://images/_review_math/_gen_6252879525702a46eb2efdb09f9eabd2347f4591798080ce87b62ac092afbfe9.pdf" type="inline"/></inlineequation>を持ち出さないと説明できない、という違いもある。こっちの疑問はプロデューサーにはまだ早いから、今日は深入りしないことにする、よ。</footnote>。」</p>
+<p>「そういうこと。だから、プロデューサーが言ってた、“(a)と(b)は状況が全然違う”っていうのは、的確な指摘
+<footnote>今回は(a)(b)の起電力の違いを、その源が電場か、磁場かによって分類した。だけど、(b)の起電力はローレンツ力が<inlineequation><Image href="file://images/_review_math/_gen_e1252afc13d0455ed122fc81fea3048fc60fb648cf2705f88e4dca90e153fa6d.pdf" type="inline"/></inlineequation>であることだけから導かれるのに対して、(a)の起電力はそれに加えてマクスウェル方程式<inlineequation><Image href="file://images/_review_math/_gen_6252879525702a46eb2efdb09f9eabd2347f4591798080ce87b62ac092afbfe9.pdf" type="inline"/></inlineequation>を持ち出さないと説明できない、という違いもある。こっちの疑問はプロデューサーにはまだ早いから、今日は深入りしないことにする、よ。</footnote>
+。」</p>
 <p>『こうやって整理してみると、2つの問題の答えが同じ法則から導けたことがさらに不思議に思えてきますね。』</p>
 <p>「ふふ。じゃあプロデューサーのために、今からその種明かしをしてあげる。」</p>
 <p>『気になるのは気になるんですが……、まずは残りの課題を終わらせてからでは駄目ですか？』</p>
@@ -69,7 +75,9 @@
 <p>『何やら嫌な予感がしますが……分かりました。広さんがどうしてもと言うのなら。』</p>
 <p>「ふふ。やっぱりプロデューサーは、わたしをよく理解してる。」</p>
 <p>『それで、これからどんな話をしてくれるんですか？』</p>
-<p>「まずは、相対性理論<footnote>特殊相対論のこと。</footnote>について教える。」</p>
+<p>「まずは、相対性理論
+<footnote>特殊相対論のこと。</footnote>
+について教える。」</p>
 <p>『相対性理論……やっぱり、そんな難しい話になるんですか。』</p>
 <p>「大丈夫。入り口のところだけなら、プロデューサーでもきっとわかる。たぶん、ね。」</p>
 <p>『では、その言葉を信じることにします……。』</p>
@@ -95,7 +103,9 @@
 <p>『これは、単純に2つの速さを足して25 m/sでしょうか？』</p>
 <p>「正解。これも一般化する、よ。座標系<inlineequation><Image href="file://images/_review_math/_gen_86be9a55762d316a3026c2836d044f5fc76e34da10e1b45feee5f18be7edb177.pdf" type="inline"/></inlineequation>において<inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation>軸方向に速度<inlineequation><Image href="file://images/_review_math/_gen_4c94485e0c21ae6c41ce1dfe7b6bfaceea5ab68e40a2476f50208e526f506080.pdf" type="inline"/></inlineequation>で運動する物体を、<inlineequation><Image href="file://images/_review_math/_gen_fb9dab57470045611754ea57105f2fe2607dcb22e0ca4923331496190d5e980d.pdf" type="inline"/></inlineequation>系から見たときの速度<inlineequation><Image href="file://images/_review_math/_gen_4e7142ad42e2513eee1025b44b16e4a2df3ed33b6475373dcd604ebe2512e310.pdf" type="inline"/></inlineequation>は</p>
 <displayequation><Image href="file://images/_review_math/_gen_536a135067b4f4d3e78db446d34dde59354b8f5d8b8baced3cab67673338dcd0.pdf"/></displayequation>
-<p>と表せる<footnote>ちなみに、式<span type="eq">式9.2</span>は式<span type="eq">式9.1</span>を<inlineequation><Image href="file://images/_review_math/_gen_e3b98a4da31a127d4bde6e43033f66ba274cab0eb7eb1c70ec41402bf6273dd8.pdf" type="inline"/></inlineequation>で微分した形になってる。</footnote>。これがガリレイ変換における、速度の関係式。」</p>
+<p>と表せる
+<footnote>ちなみに、式<span type="eq">式9.2</span>は式<span type="eq">式9.1</span>を<inlineequation><Image href="file://images/_review_math/_gen_e3b98a4da31a127d4bde6e43033f66ba274cab0eb7eb1c70ec41402bf6273dd8.pdf" type="inline"/></inlineequation>で微分した形になってる。</footnote>
+。これがガリレイ変換における、速度の関係式。」</p>
 <p>『先ほどの問題を式<span type="eq">式9.2</span>に当てはめると、すれ違う車の速度は<inlineequation><Image href="file://images/_review_math/_gen_5e37b37c842d8df7106ee92e2e45beefef71ca60f51f7bb5cb50cb1e81c355a8.pdf" type="inline"/></inlineequation> m/sと表せますから、バスから見た車の速度は<inlineequation><Image href="file://images/_review_math/_gen_36fabd93e8b8c82b09fa46410b22ce2098248efc007d85113e39a37b95b85b74.pdf" type="inline"/></inlineequation> m/sとなるわけですね。』</p>
 <p>「そう。プロデューサー、ガリレイ変換は理解できたね。」</p>
 <p>『はい、このくらいなら私にも。』</p>
@@ -233,7 +243,9 @@
 <Image href="file://images/metallica_elemag/IMG_5233_2.JPG"/>
 <img-caption>図9.16　ローレンツ収縮によって電荷列の密度が大きく見える例</img-caption>
 <p>『するとどうなるんですか？』</p>
-<p>「長さあたりの電荷の数が増える。ということは、それぞれの電荷列はより強い電気を帯びるようになる<footnote>止まってるひとから見ても動いてるひとから見ても、電荷列をなす電荷ひとつひとつが持ってる電気量は変わらない。</footnote>。だけど、今回の場合、正電荷列も負電荷列も同じだけ強くなるから、全体で見れば打ち消しあって、何も変わったことは起きない。」</p>
+<p>「長さあたりの電荷の数が増える。ということは、それぞれの電荷列はより強い電気を帯びるようになる
+<footnote>止まってるひとから見ても動いてるひとから見ても、電荷列をなす電荷ひとつひとつが持ってる電気量は変わらない。</footnote>
+。だけど、今回の場合、正電荷列も負電荷列も同じだけ強くなるから、全体で見れば打ち消しあって、何も変わったことは起きない。」</p>
 <p>『ローレンツ収縮によって、動いている電荷列は電気が強くなるんですね。』</p>
 <p>「次は、この電流を、電荷と同じ立場になって眺める。さて、プロデューサー、何が起きると思う？」</p>
 <p>『はい、ローレンツ収縮によって、電荷列の電気の強さが変わります。ですが、この場合も正負の電気がどちらも強くなるのでは？』</p>
@@ -255,9 +267,13 @@
 <?dtp level="2" section="9.5　(発展) 電磁場テンソル"?>
 <p>「最後におまけとして、電磁場テンソルの紹介をする。難しい内容だから、流し聞きでもいい、よ。」</p>
 <p>『何やら難しそうですが……、ついていけるところまでついていきます。』</p>
-<p>「じゃあ、始める、よ。ニュートン力学の枠組みでは、電場・磁場<footnote>ここでは磁束密度のことを指して「磁場」と呼ぶ、よ。</footnote>はこんなベクトルで表せる。</p>
+<p>「じゃあ、始める、よ。ニュートン力学の枠組みでは、電場・磁場
+<footnote>ここでは磁束密度のことを指して「磁場」と呼ぶ、よ。</footnote>
+はこんなベクトルで表せる。</p>
 <displayequation><Image href="file://images/_review_math/_gen_10216b78093c86df4a2b1bf6ccb87feefc6f7eccc2eacf0b00cb39b7f058b86b.pdf"/></displayequation>
-<p>だけど、ローレンツ変換を考える上で、電場・磁場をベクトル<footnote>4元ベクトルのこと。</footnote>として扱うことはできない。なぜなら、ローレンツ変換における“ベクトル”は、空間座標のローレンツ変換と同じ変換、または逆の変換を受けると定義される、から。空間座標<inlineequation><Image href="file://images/_review_math/_gen_51f6e58e30daad9ac009be771d188f1acac63a493510e536db3c7bef69b22223.pdf" type="inline"/></inlineequation>のローレンツ変換については、式<span type="eq">式9.3</span>を思い出して、ね。例えば、<inlineequation><Image href="file://images/_review_math/_gen_86be9a55762d316a3026c2836d044f5fc76e34da10e1b45feee5f18be7edb177.pdf" type="inline"/></inlineequation>系から、<inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation>方向に相対速度<inlineequation><Image href="file://images/_review_math/_gen_0bfe935e70c321c7ca3afc75ce0d0ca2f98b5422e008bb31c00c6d7f1f1c0ad6.pdf" type="inline"/></inlineequation>を持つ<inlineequation><Image href="file://images/_review_math/_gen_fb9dab57470045611754ea57105f2fe2607dcb22e0ca4923331496190d5e980d.pdf" type="inline"/></inlineequation>系への変換なら、</p>
+<p>だけど、ローレンツ変換を考える上で、電場・磁場をベクトル
+<footnote>4元ベクトルのこと。</footnote>
+として扱うことはできない。なぜなら、ローレンツ変換における“ベクトル”は、空間座標のローレンツ変換と同じ変換、または逆の変換を受けると定義される、から。空間座標<inlineequation><Image href="file://images/_review_math/_gen_51f6e58e30daad9ac009be771d188f1acac63a493510e536db3c7bef69b22223.pdf" type="inline"/></inlineequation>のローレンツ変換については、式<span type="eq">式9.3</span>を思い出して、ね。例えば、<inlineequation><Image href="file://images/_review_math/_gen_86be9a55762d316a3026c2836d044f5fc76e34da10e1b45feee5f18be7edb177.pdf" type="inline"/></inlineequation>系から、<inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation>方向に相対速度<inlineequation><Image href="file://images/_review_math/_gen_0bfe935e70c321c7ca3afc75ce0d0ca2f98b5422e008bb31c00c6d7f1f1c0ad6.pdf" type="inline"/></inlineequation>を持つ<inlineequation><Image href="file://images/_review_math/_gen_fb9dab57470045611754ea57105f2fe2607dcb22e0ca4923331496190d5e980d.pdf" type="inline"/></inlineequation>系への変換なら、</p>
 <displayequation><Image href="file://images/_review_math/_gen_fd40e2f612b8f7abdefac9ac1691ac48f2ca605662c4b8eed1708d3d14f9c09f.pdf"/></displayequation>
 <p>と表せた。式<span type="eq">式9.3</span>に<inlineequation><Image href="file://images/_review_math/_gen_95fcb5d4d9c155a470ef4418dcc31d62e92271a9a1c7b1b25e1c6c59425c2bd1.pdf" type="inline"/></inlineequation>座標が加わっているけど、結局のところ<inlineequation><Image href="file://images/_review_math/_gen_559766242eb172592e855c4886884d19808f226545bc4986ba95490e60d39bc1.pdf" type="inline"/></inlineequation>だからあまり気にしなくておーけー。</p>
 <p>仮に、電場や磁場が“ベクトル”なら、電場ベクトル・磁場ベクトルは式<span type="eq">式9.15</span>と同じ、または逆の変換を受けなきゃいけない。例えば、式<span type="eq">式9.15</span>と同じ変換を受けるとしたら、式<span type="eq">式9.14</span>のベクトルに“時間成分”を適切に加えて、</p>
@@ -267,7 +283,11 @@
 <p>『ローレンツ変換を考える上では、電場と磁場をそれぞれ電場ベクトル・磁場ベクトルと見なすことはできないんですね。』</p>
 <p>「そう、だから相対論では、これらをまとめて1つのテンソルとして扱う。」</p>
 <p>『先ほども気になったんですが、テンソルとは何ですか？』</p>
-<p>「うーん、とりあえず行列のようなものだと思ってくれればいい、よ。いまは、ね<footnote>テンソルは行列とは違って、2次元よりももっと多次元の配列も含む概念。あと、これもローレンツ変換に対して適切な変換則を満たす必要がある、よ。</footnote>。ローレンツ変換における正しい電磁場の姿は、こんなテンソル。導出は難しいから、結果だけ見せる<footnote>流儀によっては符号が入れ替わることもある。</footnote>。</p>
+<p>「うーん、とりあえず行列のようなものだと思ってくれればいい、よ。いまは、ね
+<footnote>テンソルは行列とは違って、2次元よりももっと多次元の配列も含む概念。あと、これもローレンツ変換に対して適切な変換則を満たす必要がある、よ。</footnote>
+。ローレンツ変換における正しい電磁場の姿は、こんなテンソル。導出は難しいから、結果だけ見せる
+<footnote>流儀によっては符号が入れ替わることもある。</footnote>
+。</p>
 <displayequation><Image href="file://images/_review_math/_gen_317dbbdd38c25a60cad27e0d61bb2762ce16a4da6637d924237c0bbe7b0fb5a4.pdf"/></displayequation>
 <p>これのローレンツ変換は、さっきの思考実験と整合することを確かめる、よ。<inlineequation><Image href="file://images/_review_math/_gen_0c2fd6f0177daf89deddf32ce9f1ebe079132c27db7944093aa41d91ebf21da6.pdf" type="inline"/></inlineequation>を<inlineequation><Image href="file://images/_review_math/_gen_86be9a55762d316a3026c2836d044f5fc76e34da10e1b45feee5f18be7edb177.pdf" type="inline"/></inlineequation>系から<inlineequation><Image href="file://images/_review_math/_gen_fb9dab57470045611754ea57105f2fe2607dcb22e0ca4923331496190d5e980d.pdf" type="inline"/></inlineequation>系へローレンツ変換して、<inlineequation><Image href="file://images/_review_math/_gen_fb9dab57470045611754ea57105f2fe2607dcb22e0ca4923331496190d5e980d.pdf" type="inline"/></inlineequation>系における電磁場テンソル<inlineequation><Image href="file://images/_review_math/_gen_88ae84937bc4b28a18477d738db3507a58707e5eb52320ed026773800fa85c15.pdf" type="inline"/></inlineequation>を求めると、こうなる。これも、結果だけ見せる、ね。</p>
 <displayequation><Image href="file://images/_review_math/_gen_f6286976c638f2a24b53f4f84ea65bb9a33da83214d37f656a55095326abda56.pdf"/></displayequation>
@@ -282,7 +302,9 @@
 <p>『はい、とても。』</p>
 <p>「ふふ。それはよかった。」</p>
 <p>『相対論というと“時間の遅れ”みたいな話が有名ですが、電磁気学を考える上でもこんなに役立つんですね。』</p>
-<p>「うん、と言いたいところだけど、ちょっと惜しい。ローレンツ変換はそもそも、電磁気学の基礎的な方程式：マクスウェル方程式がガリレイ変換と矛盾する、という問題を解決するために考えられた<footnote>ローレンツ変換に、「ローレンツ力」で有名な物理学者：ローレンツの名前がついてるのは、こういう事情。</footnote>。電磁気学にも役に立つどころか、相対論という分野そのものの出発点が電磁気学だった、と言ってもいい。」</p>
+<p>「うん、と言いたいところだけど、ちょっと惜しい。ローレンツ変換はそもそも、電磁気学の基礎的な方程式：マクスウェル方程式がガリレイ変換と矛盾する、という問題を解決するために考えられた
+<footnote>ローレンツ変換に、「ローレンツ力」で有名な物理学者：ローレンツの名前がついてるのは、こういう事情。</footnote>
+。電磁気学にも役に立つどころか、相対論という分野そのものの出発点が電磁気学だった、と言ってもいい。」</p>
 <p>『そうなんですね……ああ！いつの間にか外が真っ暗ですね。なんだか、今日はあっという間の一日でした。』</p>
 <p>「ふふ。相対性理論によると、美女といっしょに過ごす時間は短く感じられる。アインシュタインがそう言ってたらしい、よ。」</p>
 <p>『かの偉人も、ずいぶん厄介な言葉を残したものですね。』</p>

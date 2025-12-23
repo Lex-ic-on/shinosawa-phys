@@ -8,6 +8,8 @@ PATTERN = '</say><say'
 HEADING_REGEX = /(?<=.)(?<![\r\n])(<h[234]\b)/
 DTP_BEFORE_REGEX = /(?<=.)(?<![\r\n])(<\?dtp\b)/
 DTP_AFTER_REGEX = /(<\?dtp\b.*?\?>)(?=[^\r\n])/
+FOOTNOTE_BEFORE_REGEX = /(?<=.)(?<![\r\n])(<footnote\b)/
+FOOTNOTE_AFTER_REGEX = /(\<\/footnote\>)(?=[^\r\n])/ 
 
 repo_root = File.expand_path('../..', __dir__)
 default_dir = File.join(repo_root, 'InDesign', 'shinosawa2-idgxml')
@@ -71,7 +73,11 @@ paths.each do |path|
   dtp_after_count = content.scan(DTP_AFTER_REGEX).length
   dtp_count = dtp_before_count + dtp_after_count
 
-  count = say_count + heading_count + dtp_count
+  footnote_before_count = content.scan(FOOTNOTE_BEFORE_REGEX).length
+  footnote_after_count = content.scan(FOOTNOTE_AFTER_REGEX).length
+  footnote_count = footnote_before_count + footnote_after_count
+
+  count = say_count + heading_count + dtp_count + footnote_count
   next if count == 0
 
   total_matches += count
@@ -90,10 +96,12 @@ paths.each do |path|
       .gsub(HEADING_REGEX, "#{newline}\\1")
       .gsub(DTP_BEFORE_REGEX, "#{newline}\\1")
       .gsub(DTP_AFTER_REGEX, "\\1#{newline}")
+      .gsub(FOOTNOTE_BEFORE_REGEX, "#{newline}\\1")
+      .gsub(FOOTNOTE_AFTER_REGEX, "\\1#{newline}")
     File.binwrite(path, replaced)
 
     if options[:verbose]
-      details = "total=#{count} say=#{say_count} heading=#{heading_count} dtp=#{dtp_count}(before=#{dtp_before_count},after=#{dtp_after_count})"
+      details = "total=#{count} say=#{say_count} heading=#{heading_count} dtp=#{dtp_count}(before=#{dtp_before_count},after=#{dtp_after_count}) footnote=#{footnote_count}(before=#{footnote_before_count},after=#{footnote_after_count})"
       if backup_path
         puts "APPLY #{path} (#{details}) backup=#{backup_path}"
       else
@@ -101,7 +109,7 @@ paths.each do |path|
       end
     end
   else
-    puts "DRYRUN #{path} (total=#{count} say=#{say_count} heading=#{heading_count} dtp=#{dtp_count}(before=#{dtp_before_count},after=#{dtp_after_count}))"
+    puts "DRYRUN #{path} (total=#{count} say=#{say_count} heading=#{heading_count} dtp=#{dtp_count}(before=#{dtp_before_count},after=#{dtp_after_count}) footnote=#{footnote_count}(before=#{footnote_before_count},after=#{footnote_after_count}))"
   end
 end
 
