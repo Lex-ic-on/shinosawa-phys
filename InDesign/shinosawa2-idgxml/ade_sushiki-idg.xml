@@ -307,13 +307,13 @@
 </note><say><name>広</name>➤<line>つぎは偶然同型について話す, よ.</line></say>
 <say><name>佑芽</name>➤<line>偶然同型ってなあに？</line></say>
 <say><name>広</name>➤<line>群を分類するといくつかの系列に分かれるけど, 別々の系列に属する二つの群が体系的ではなく偶然, 同型になること. 例外同型っていうこともある. 偶然同型には有限群の同型とリー群の同型があるけれど, 今日は物理と関係が深いリー群の同型について話す, よ.</line></say>
-<h4><inlineequation><Image href="file://images/_review_math/_gen_28372c02929d33b1cdd430e19d3b282d920eaf6dc6c53f00657bc1b9609c3bf8.pdf" type="inline"/></inlineequation></h4>
+<h3><inlineequation><Image href="file://images/_review_math/_gen_28372c02929d33b1cdd430e19d3b282d920eaf6dc6c53f00657bc1b9609c3bf8.pdf" type="inline"/></inlineequation></h3>
 <?dtp level="4" section=""?>
 <say><name>広</name>➤<line><p>回転行列と, 絶対値が<inlineequation><Image href="file://images/_review_math/_gen_6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.pdf" type="inline"/></inlineequation>の複素数を</p>
 <displayequation><Image href="file://images/_review_math/_gen_74552b54d8bccf0a84fb3f63abff5fe21779f72026c789fb7828374ab29932d3.pdf"/></displayequation>
 <p>と対応づけることにより, 明らか.</p>
 </line></say>
-<h4><inlineequation><Image href="file://images/_review_math/_gen_db0f9927995beff574f791c0921937da92ced0201c943f1b1b0cc5cd5fca2b6a.pdf" type="inline"/></inlineequation></h4>
+<h3><inlineequation><Image href="file://images/_review_math/_gen_db0f9927995beff574f791c0921937da92ced0201c943f1b1b0cc5cd5fca2b6a.pdf" type="inline"/></inlineequation></h3>
 <?dtp level="4" section=""?>
 <say><name>広</name>➤<line><p>エルミートでトレースレスな複素<inlineequation><Image href="file://images/_review_math/_gen_565a97af54e359c36de39d9846f936de6c6a3863c6c1944bd48a33eeb4a2b488.pdf" type="inline"/></inlineequation>行列</p>
 <displayequation><Image href="file://images/_review_math/_gen_78745b92ed9f3c294585a82d6894bfe565544534a6815fc91980f3082d17373e.pdf"/></displayequation>
@@ -325,12 +325,12 @@
 <p>に対して, 絶対値が1の四元数<inlineequation><Image href="file://images/_review_math/_gen_5d5dc5155b9e6f0af1b56e388b56a6d94f121ec71334a4efaf6526b01adfed39.pdf" type="inline"/></inlineequation>の作用を<inlineequation><Image href="file://images/_review_math/_gen_8c4cf8bf4eb74dd1cecf969d3f62376ab8f0991b403d7d41b9630d5bf47b355f.pdf" type="inline"/></inlineequation>で, 内積を<inlineequation><Image href="file://images/_review_math/_gen_4bfd82c56e069c0a7f22d71cb18cb6ecb4fc53613d658166dda41a3cfb3b3b5b.pdf" type="inline"/></inlineequation>で定義して同様の議論をすることにより, <inlineequation><Image href="file://images/_review_math/_gen_fb4d36f70c4f2e2b391bdeb48e765bde8513e64cb14256a3fe082e50738682d8.pdf" type="inline"/></inlineequation>がいえる.</p>
 <p>物理の言葉でいうと, この同型は角運動量の代数を<inlineequation><Image href="file://images/_review_math/_gen_565a97af54e359c36de39d9846f936de6c6a3863c6c1944bd48a33eeb4a2b488.pdf" type="inline"/></inlineequation>のパウリ行列で記述できることの数学的なあらわれになっている, よ.</p>
 </line></say>
-<h4><inlineequation><Image href="file://images/_review_math/_gen_e203f58dbfc49e7cfc3c6622242152e499a1c294a9c16c4638d9cd6765dcb302.pdf" type="inline"/></inlineequation></h4>
+<h3><inlineequation><Image href="file://images/_review_math/_gen_e203f58dbfc49e7cfc3c6622242152e499a1c294a9c16c4638d9cd6765dcb302.pdf" type="inline"/></inlineequation></h3>
 <?dtp level="4" section=""?>
 <say><name>広</name>➤<line><p>四元数<inlineequation><Image href="file://images/_review_math/_gen_a4af6768c37c0565bfe61d8387995d2370b383ecdc61aceec96c1de628e67dac.pdf" type="inline"/></inlineequation>に対して<inlineequation><Image href="file://images/_review_math/_gen_52d27a992ebb2704a304d8c111b3cd82597c3616e501f2116efe751c5d85f93d.pdf" type="inline"/></inlineequation>による作用を<inlineequation><Image href="file://images/_review_math/_gen_0f4c01ce4b1f93acefe7819a036466ca0f194b8e2b7d198d447468aaef54e5e0.pdf" type="inline"/></inlineequation>で定める. この作用は<inlineequation><Image href="file://images/_review_math/_gen_199f5ac4fd7a2d75083e9f1b6c1a86f2030b7165d579f1ae9fb3bee9271fd061.pdf" type="inline"/></inlineequation>の自然な内積<inlineequation><Image href="file://images/_review_math/_gen_afb10923a31d5a4aa50e60343df713970c3ae3ce3ed44a9e5b7b73487b1c02e0.pdf" type="inline"/></inlineequation>を保つ. 自明な中心<inlineequation><Image href="file://images/_review_math/_gen_5bb23cb620dfb708b8b685ab2e57b725d81bf8408788d41c392411846929fd46.pdf" type="inline"/></inlineequation>は恒等変換として<inlineequation><Image href="file://images/_review_math/_gen_b957718497102933ecd1fbf8e2717e9ab7959c403dd4d70c7dc3a1fe4d972828.pdf" type="inline"/></inlineequation>に作用し, また<inlineequation><Image href="file://images/_review_math/_gen_2f57d7b57ac21f24f3c98bd6985d35657c9e4b425f00a8e4b372f61c8243714d.pdf" type="inline"/></inlineequation>より, <inlineequation><Image href="file://images/_review_math/_gen_9effb23373d8e4e1d786ad6ea9df6cdcf853c12ffcfcb13cf105f9052eba7b15.pdf" type="inline"/></inlineequation>がわかる.</p>
 <p>物理においてこの同型は, 4次元時空におけるスピノルが右巻きと左巻きそれぞれ2成分の2つのスピノルで表されることに対応している, よ.</p>
 </line></say>
-<h4><inlineequation><Image href="file://images/_review_math/_gen_c07ffb42fbc23002deb0e142125247ae840709db4578a7cdaa0bf14b35200e07.pdf" type="inline"/></inlineequation></h4>
+<h3><inlineequation><Image href="file://images/_review_math/_gen_c07ffb42fbc23002deb0e142125247ae840709db4578a7cdaa0bf14b35200e07.pdf" type="inline"/></inlineequation></h3>
 <?dtp level="4" section=""?>
 <say><name>広</name>➤<line><p>エルミートでトレースレスな四元数<inlineequation><Image href="file://images/_review_math/_gen_565a97af54e359c36de39d9846f936de6c6a3863c6c1944bd48a33eeb4a2b488.pdf" type="inline"/></inlineequation>行列</p>
 <displayequation><Image href="file://images/_review_math/_gen_d34046f96c1d4da09bb8d1ed3df09a3685c26bf01c3b234db568f8960b2c5461.pdf"/></displayequation>
@@ -340,7 +340,7 @@
 <p>この同型が物理でどんなふうにあらわれるかをわたしは勉強したことがないから, もしふたりが勉強してなにか見つけたら教えてほしい.</p>
 </line></say>
 <say><name>千奈</name>➤<line>篠澤さんの知らないことをわたくしたちが勉強できるのでしょうか…….</line></say>
-<h4><inlineequation><Image href="file://images/_review_math/_gen_6988ae89fa70322a116a81db6e97cfeb119d8b2467592a72f236f8bd0c7fa609.pdf" type="inline"/></inlineequation></h4>
+<h3><inlineequation><Image href="file://images/_review_math/_gen_6988ae89fa70322a116a81db6e97cfeb119d8b2467592a72f236f8bd0c7fa609.pdf" type="inline"/></inlineequation></h3>
 <?dtp level="4" section=""?>
 <say><name>広</name>➤<line><p>これは少し難しくて, 今までの同型とは少し違った発想が必要になる.この項ではアインシュタインの縮約記法<inlineequation><Image href="file://images/_review_math/_gen_042f5f7fecc06875988ff9c6358de848299bba1653021c836c8bde97135c0e91.pdf" type="inline"/></inlineequation>を用いる.</p>
 <p>複素反対称行列<inlineequation><Image href="file://images/_review_math/_gen_559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd.pdf" type="inline"/></inlineequation>の成分<inlineequation><Image href="file://images/_review_math/_gen_9797481d8966ad765cce91c70430d9dc040ba77ecdb5155033ffa21f04c7035a.pdf" type="inline"/></inlineequation>に対して2-形式<inlineequation><Image href="file://images/_review_math/_gen_559aead08264d5795d3909718cdd05abd49572e84fe55590eef31a88a08fdffd.pdf" type="inline"/></inlineequation>を</p>
@@ -367,7 +367,7 @@
 <footnote>「<inlineequation><Image href="file://images/_review_math/_gen_07cb8c78e596f2daf234b301f7f073d388682e41b4b1ff04515936de5938518f.pdf" type="inline"/></inlineequation> Super-Yang-Mills」節で.</footnote>
 話そう.</p>
 </line></say>
-<h4><inlineequation><Image href="file://images/_review_math/_gen_fb6f18402b6d2038b37dd4711e6714d0541a4354cb13dead49becb38dd1f3a35.pdf" type="inline"/></inlineequation> triality</h4>
+<h3><inlineequation><Image href="file://images/_review_math/_gen_fb6f18402b6d2038b37dd4711e6714d0541a4354cb13dead49becb38dd1f3a35.pdf" type="inline"/></inlineequation> triality</h3>
 <?dtp level="4" section=" triality"?>
 <say><name>広</name>➤<line><p>最後に<inlineequation><Image href="file://images/_review_math/_gen_fb6f18402b6d2038b37dd4711e6714d0541a4354cb13dead49becb38dd1f3a35.pdf" type="inline"/></inlineequation>のtriality（三対性）に付いて説明する, よ. これはいままで説明してきた偶然同型とは少し違って, 別々の系列に属する群どうしの同型ではないけれど, <inlineequation><Image href="file://images/_review_math/_gen_fb6f18402b6d2038b37dd4711e6714d0541a4354cb13dead49becb38dd1f3a35.pdf" type="inline"/></inlineequation>がもつ著しい性質で, つまりはおもしろいから紹介する.</p>
 <p><inlineequation><Image href="file://images/_review_math/_gen_fb6f18402b6d2038b37dd4711e6714d0541a4354cb13dead49becb38dd1f3a35.pdf" type="inline"/></inlineequation>の元を一つとる. 対応する<inlineequation><Image href="file://images/_review_math/_gen_7792a984098294c32154f2501b74eab2ba6b8d904634bb47eed0fc3de371d595.pdf" type="inline"/></inlineequation>の元<inlineequation><Image href="file://images/_review_math/_gen_cd0aa9856147b6c5b4ff2b7dfee5da20aa38253099ef1b4a64aced233c9afe29.pdf" type="inline"/></inlineequation>を相似変形すると, 4つの回転行列にブロック対角化された形で書ける：</p>
@@ -1017,7 +1017,7 @@ target space の構造</cell>
 <displayequation><Image href="file://images/_review_math/_gen_6966f572ea1d3304bd1ade470a5278ee56639fb2c827e50343a4279703e0316c.pdf"/></displayequation>
 <p><span type="eq">式23.378</span>-<span type="eq">式23.379</span>でカイラル超場を<inlineequation><Image href="file://images/_review_math/_gen_bbeebd879e1dff6918546dc0c179fdde505f2a21591c9a9c96e36b054ec5af83.pdf" type="inline"/></inlineequation>に書き換えたのはここで<inlineequation><Image href="file://images/_review_math/_gen_9a2ae80e5efa1bd70e667dcfdc783a2dff45edef3b6d6bd9d23b93b2a07a810f.pdf" type="inline"/></inlineequation>をゲージ場の超対称パートナーに使いたかったから. <span type="eq">式23.390</span>と<span type="eq">式23.398</span>-<span type="eq">式23.399</span>は<span type="eq">式23.377</span>と<span type="eq">式23.378</span>-<span type="eq">式23.379</span>にゲージ場との相互作用をとりいれた拡張になっていることがわかる.</p>
 </line></say>
-<h4>超対称でゲージ不変な経路積分測度</h4>
+<h3>超対称でゲージ不変な経路積分測度</h3>
 <?dtp level="4" section="超対称でゲージ不変な経路積分測度"?>
 <say><name>広</name>➤<line>ここで少し話は逸れるけど, さっき
 <footnote>「カイラル量子異常」節で.</footnote>

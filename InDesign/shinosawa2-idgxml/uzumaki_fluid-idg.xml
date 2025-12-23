@@ -151,7 +151,7 @@
 <say><name>広</name>➤<line>「空気で満たされてる自動車周りの流れは見える？抗力に直結するよ。」</line></say>
 <say><name>P</name>➤<line>「落ち葉を巻き上げたりしない限り見る事は難しいですね……。」</line></say><Image href="file://images/uzumaki_fluid/19_.png" scale="0.65"/>
 <img-caption>図12.19　右:川の流れ 左:自動車</img-caption>
-<h4>流れ場の可視化という流体力学的な特殊操作</h4>
+<h3>流れ場の可視化という流体力学的な特殊操作</h3>
 <?dtp level="4" section="流れ場の可視化という流体力学的な特殊操作"?>
 <say><name>P</name>➤<line>「でも煙を流したりすれば見えるのではないでしょうか。」</line></say>
 <say><name>広</name>➤<line>「そう、流れを観察するには“可視化”と言う特殊な操作が必要になる。」</line></say>
@@ -163,7 +163,7 @@
 <img-caption>図12.20　右:可視化ナシ 左:可視化アリ(煙)</img-caption>
 <Image href="file://images/uzumaki_fluid/21_.png" scale="1"/>
 <img-caption>図12.21　右:泡による可視化 左:アルミニウム粉による可視化</img-caption>
-<h4>圧力場の可視化はできない</h4>
+<h3>圧力場の可視化はできない</h3>
 <?dtp level="4" section="圧力場の可視化はできない"?>
 <say><name>P</name>➤<line>「圧力場は実験で可視化できないんですか？」</line></say>
 <say><name>広</name>➤<line>「流れ場のように実験的な可視化は難しいかな。」</line></say>
@@ -176,7 +176,7 @@
 <img-caption>図12.22　右:円柱の圧力場(不可視) 左:トラックの圧力場(不可視)</img-caption>
 <Image href="file://images/uzumaki_fluid/23_.png" scale="1"/>
 <img-caption>図12.23　右:円柱の圧力場(数値計算) 左:トラックの圧力場(数値計算)</img-caption>
-<h4>流れ場の可視化による圧力場の推測</h4>
+<h3>流れ場の可視化による圧力場の推測</h3>
 <?dtp level="4" section="流れ場の可視化による圧力場の推測"?>
 <say><name>P</name>➤<line>「数値計算ということは、圧力場の実測はほぼ不可能なのですね。」</line></say>
 <say><name>広</name>➤<line>「実験で圧力場の直接観察は難しい。」</line></say>
@@ -291,7 +291,7 @@
 <say><name>P</name>➤<line>「物体ごとに変わるのですね。」</line></say>
 <say><name>広</name>➤<line>「温度でも変わるから、理科年表などを参照してね。」</line></say><Image href="file://images/uzumaki_fluid/39_.png" scale="0.81"/>
 <img-caption>図12.39　水と空気の流体密度と流体粘度</img-caption>
-<h4>物性値は流体種類で決定される</h4>
+<h3>物性値は流体種類で決定される</h3>
 <?dtp level="4" section="物性値は流体種類で決定される"?>
 <say><name>広</name>➤<line>「あと、密度1.199kg/m<sup>3</sup>、粘度1.0016×10<sup>-3</sup>Pa･sの物質って存在すると思う？」</line></say>
 <say><name>P</name>➤<line>「空気の密度と、水の粘度を組み合わせた物質ですか……。」</line></say>

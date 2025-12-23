@@ -74,7 +74,7 @@
 <p>　Si＋2H2O→SiO2+2H2</p>
 <p>・　その他の成膜方法にはCVD(化学気相成長法)、PVD(物理気相成長法)、ALD(原子層堆積法)などがある。</p>
 <p>CVD(Chemical Vapor Deposition)</p>
-<p>「CVDはガスを反応させて、化学反応によって薄膜を堆積させる手法。ウェハの表面と裏面に電極を近づけて、SiH4などの原料ガスとウェハで化学反応を起こすものだよ｡ 成膜で一番使われているものもこの方式だから、今回はこれにフォーカスしてみる。CVDの成長速度には2種類あるから、それぞれ解説するよ」</p>
+<p>「CVDはガスを反応させて、化学反応によって薄膜を堆積させる手法。ウェハの表面と裏面に電極を近づけて、Sih3などの原料ガスとウェハで化学反応を起こすものだよ｡ 成膜で一番使われているものもこの方式だから、今回はこれにフォーカスしてみる。CVDの成長速度には2種類あるから、それぞれ解説するよ」</p>
 <p><b>表面反応律速領域</b></p>
 <p>成長速度 <inlineequation><Image href="file://images/_review_math/_gen_8c2574892063f995fdf756bce07f46c1a5193e54cd52837ed91e32008ccf41ac.pdf" type="inline"/></inlineequation> は表面反応の速度定数 <inlineequation><Image href="file://images/_review_math/_gen_a59a9d70d819a2cb3aac86cc0fca397561c32c2be3f5fed8ff22e11b5152a9d0.pdf" type="inline"/></inlineequation> と表面到達濃度 <inlineequation><Image href="file://images/_review_math/_gen_307d2c7e46d5ba73ececbd7b665bd3dea42490bd38dd719e803e1e8b5a22f10e.pdf" type="inline"/></inlineequation> に比例する。</p>
 <p><inlineequation><Image href="file://images/_review_math/_gen_ff5d2fd46f24f745216f894fb2dc464124fbf1ad230b30de928eac174686f227.pdf" type="inline"/></inlineequation></p>
