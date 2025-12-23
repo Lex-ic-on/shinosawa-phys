@@ -874,96 +874,21 @@
 話そう.</p>
 <caption>表23.1　超対称性とスカラー場の構造</caption>
 <table aid:table="table" aid:trows="3" aid:tcols="5">
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-<inlineequation><Image href="file://images/_review_math/_gen_6e9e0a3f9b6130ca0fa1e9096adc4469c23282c477e9149be4e72825a22ba1fa.pdf" type="inline"/></inlineequation></cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-0（超対称性なし）</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-1</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-2</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-4</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-物質場の実スカラー場の個数</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-任意</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-偶数</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-4の倍数</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-？</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-target space の構造</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-任意</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-ケーラー</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-ハイパーケーラー</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-？</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-<inlineequation><Image href="file://images/_review_math/_gen_6e9e0a3f9b6130ca0fa1e9096adc4469c23282c477e9149be4e72825a22ba1fa.pdf" type="inline"/></inlineequation></cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-0（超対称性なし）</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-1</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-2</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-4</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-物質場の実スカラー場の個数</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-任意</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-偶数</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-4の倍数</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-（0）</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-target space の構造</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-任意</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-ケーラー</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-ハイパーケーラー</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-–</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader"><inlineequation><Image href="file://images/_review_math/_gen_6e9e0a3f9b6130ca0fa1e9096adc4469c23282c477e9149be4e72825a22ba1fa.pdf" type="inline"/></inlineequation></cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">0（超対称性なし）</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader"><?dtp table align=center ?>1</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader"><?dtp table align=center ?>2</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader"><?dtp table align=center ?>4</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>物質場の実スカラー場の個数</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>任意</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>偶数</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>4の倍数</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>？</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>target space の構造</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>任意</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>ケーラー</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>ハイパーケーラー</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>？</cell>
 </table>
 <p><span type="eq">式23.371</span>-<span type="eq">式23.372</span>の一番シンプルな例を一つ挙げておく.</p>
 <note><displayequation><Image href="file://images/_review_math/_gen_f862e8471750d572ca2a8f3f9c4d1c6291fd370455847e6ae20fb182a66439e9.pdf"/></displayequation>
@@ -1074,96 +999,21 @@ target space の構造</cell>
 <inlineequation><Image href="file://images/_review_math/_gen_6882bf25bbdba831fb1a208e13e6240f90d5cf96a7573b45d8ff4be927d78465.pdf" type="inline"/></inlineequation>のスカラー場のtarget space はケーラー多様体, <inlineequation><Image href="file://images/_review_math/_gen_e4bc63588663cf1322ca850ffc9f2e6638bdf30518ae7e94ba16eb2c0302374a.pdf" type="inline"/></inlineequation>ではハイパーケーラー多様体という話をしたけど, <inlineequation><Image href="file://images/_review_math/_gen_07cb8c78e596f2daf234b301f7f073d388682e41b4b1ff04515936de5938518f.pdf" type="inline"/></inlineequation>ではもはや自明な構造しか許されないことになる. まあこれは<inlineequation><Image href="file://images/_review_math/_gen_07cb8c78e596f2daf234b301f7f073d388682e41b4b1ff04515936de5938518f.pdf" type="inline"/></inlineequation>では物質場というものがなくて, 模型に登場するすべての場がゲージ場と超対称性で結びついてしまっているから当たり前といえば当たり前だけど.</p>
 <caption>表23.2　超対称性とスカラー場の構造（再掲＆完全版）</caption>
 <table aid:table="table" aid:trows="3" aid:tcols="5">
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-<inlineequation><Image href="file://images/_review_math/_gen_6e9e0a3f9b6130ca0fa1e9096adc4469c23282c477e9149be4e72825a22ba1fa.pdf" type="inline"/></inlineequation></cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-0（超対称性なし）</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-1</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-2</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-4</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-物質場の実スカラー場の個数</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-任意</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-偶数</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-4の倍数</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-？</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-target space の構造</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-任意</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-ケーラー</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-ハイパーケーラー</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-？</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-<inlineequation><Image href="file://images/_review_math/_gen_6e9e0a3f9b6130ca0fa1e9096adc4469c23282c477e9149be4e72825a22ba1fa.pdf" type="inline"/></inlineequation></cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-0（超対称性なし）</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-1</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-2</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader">
-<?dtp table align=center ?>
-4</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-物質場の実スカラー場の個数</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-任意</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-偶数</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-4の倍数</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-（0）</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-target space の構造</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-任意</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-ケーラー</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-ハイパーケーラー</cell>
-<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody">
-<?dtp table align=center ?>
-–</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader"><?dtp table align=center ?><inlineequation><Image href="file://images/_review_math/_gen_6e9e0a3f9b6130ca0fa1e9096adc4469c23282c477e9149be4e72825a22ba1fa.pdf" type="inline"/></inlineequation></cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader"><?dtp table align=center ?>0（超対称性なし）</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader"><?dtp table align=center ?>1</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader"><?dtp table align=center ?>2</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid:theader="1" aid5:cellstyle="headercell" aid:pstyle="tableheader"><?dtp table align=center ?>4</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>物質場の実スカラー場の個数</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>任意</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>偶数</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>4の倍数</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>（0）</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>target space の構造</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>任意</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>ケーラー</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>ハイパーケーラー</cell>
+<cell xmlns:aid5="http://ns.adobe.com/AdobeInDesign/5.0/" aid:table="cell" aid:crows="1" aid:ccols="1" aid:ccolwidth="80.499" aid5:cellstyle="bodycell" aid:pstyle="tablebody"><?dtp table align=center ?>–</cell>
 </table>
 <p>最後に, <inlineequation><Image href="file://images/_review_math/_gen_07cb8c78e596f2daf234b301f7f073d388682e41b4b1ff04515936de5938518f.pdf" type="inline"/></inlineequation>超対称ヤン・ミルズ理論の重要な性質を紹介してこの話を終わりにする. この模型は<b>対称性が高すぎて結合定数によらず共形対称性をもつ</b>, よ
 <footnote>共形対称性をもつ理論を共形場理論(conformal field theory, CFT)というけれど, 多くの典型的なCFT（有名どころだと, 臨界温度イジング模型とか）ではもともと模型に温度や結合定数などの動かせるパラメータがあって, 「23.8 統計力学」章で話したように, それが特定の値（相転移点, 臨界点）のときだけCFTになることが多い, よ.</footnote>
