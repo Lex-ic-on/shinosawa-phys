@@ -30,7 +30,7 @@
 <p>だから, 微分が0になるのは……<inlineequation><Image href="file://images/_review_math/_gen_739e2795ffb2f18349060626e2682fe3217ad334749d7fdf4cedf1d76060364d.pdf" type="inline"/></inlineequation>だ!</p>
 </line></say>
 <say><name>広</name>➤<line>いちいち書くのはめんどくさいから,この値を<inlineequation><Image href="file://images/_review_math/_gen_30f25be1aa4387e3cce2114e603d8ab4fedd132215cf9d4ec1025df508cbe458.pdf" type="inline"/></inlineequation>とおこうか.すると, グラフはこんなふうになるね.</line></say><Image href="file://images/y-mic_higgs/fig2.pdf"/>
-<say><name>莉波</name>➤<line>え！？最小のところが二つあるの！？</line></say>
+<say><name>莉波</name>➤<line>え⁉最小のところが二つあるの⁉</line></say>
 <say><name>広</name>➤<line>あるよ.つまり, 真空がふたつある.しかも, <b>真空の周り</b>を見ると, そこではもう対称性がないね.ラグランジアンとしては大域的な<inlineequation><Image href="file://images/_review_math/_gen_38609a8397c2d6338ec7106ba88bdb9f8d188a992e25c9f1a482b2946ff5132f.pdf" type="inline"/></inlineequation>対称性を持っているのに, 安定な真空状態が実現されているとその周りで対称性は無くなっている.これが,<b>自発的対称性の破れ</b>だよ.
 <footnote>ラグランジアンとしての対称性は隠れてしまう.</footnote>
 </line></say>
@@ -66,7 +66,7 @@
 <say><name>広</name>➤<line>そのとおり.これを見ると, <inlineequation><Image href="file://images/_review_math/_gen_59a94416a2a319caf40a348286e620ef3594226a2eac1efe842231962d1e157d.pdf" type="inline"/></inlineequation>場は<inlineequation><Image href="file://images/_review_math/_gen_cde2f89b4a8d479d06874a90ec67370754965e0fa60151bda030cf2d3c091e8b.pdf" type="inline"/></inlineequation>の質量を獲得して, <inlineequation><Image href="file://images/_review_math/_gen_70c52efae89783458d2779a1b548fd9e02b73c276dbb2c332f4bbd9b5ab3fb10.pdf" type="inline"/></inlineequation>場は質量を持たないことがわかるね.ここで重要なことをひとつ話すよ.</line></say>
 <say><name>莉波</name>➤<line>うん！</line></say>
 <say><name>広</name>➤<line>こうやって質量を持たない粒子が現れたのは, 連続的な真空の中から1点だけを任意に選んだことによって生まれるもの.連続的な対称性を自発的に破るとき, 常に質量0のスカラー粒子が現れるよ.この粒子を<b>南部・ゴールドストン粒子</b>と呼ぶ.</line></say>
-<say><name>莉波</name>➤<line>南部って, あの南部陽一郎さん！？</line></say>
+<say><name>莉波</name>➤<line>南部って, あの南部陽一郎さん⁉</line></say>
 <say><name>広</name>➤<line>そう, あの南部陽一郎さん.有名だよね.この業績でノーベル物理学賞を受賞してるし, 素粒子物理学の発展を語る上で南部さんは外せないよね.この定理は, 1960年に提唱されてるよ.</line></say>
 <say><name>莉波</name>➤<line>ここで出てくるんだね……</line></say>
 <say><name>広</name>➤<line><p>じゃあ, 次の話題に移る前にちょっと<b>共変微分</b>を確認しておこうか.まず, 電子のラグランジアン</p>

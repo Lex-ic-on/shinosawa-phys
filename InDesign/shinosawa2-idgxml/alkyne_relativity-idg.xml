@@ -30,7 +30,7 @@
 <say><name>広</name>➤<line>「プロデューサーの言う通り。料理をするときは何でも量をはかってやらないと。」</line></say>
 <say><name>千奈</name>➤<line>「……そ、それはそうですけれど！大きいホットケーキには夢がありますわ！それに、篠澤さんは細かすぎるんですの！」</line></say>
 <say><name>広</name>➤<line>「料理は、科学だから。」</line></say>
-<say><name>千奈</name>➤<line>「この前、そう言ってソースの調味料の混ぜ合わせを超厳密にやろうとして、ソースを作るのに時間をかけすぎて、思い切り料理を焦がしてましたわよね！？」</line></say>
+<say><name>千奈</name>➤<line>「この前、そう言ってソースの調味料の混ぜ合わせを超厳密にやろうとして、ソースを作るのに時間をかけすぎて、思い切り料理を焦がしてましたわよね⁉」</line></say>
 <say><name>広</name>➤<line>「そのレシピの味を再現するなら、ちゃんとメニスカスを見て適量で合わせないと。」</line></say>
 <say><name>千P</name>➤<line>「……確かに適量が重要とはいえ、それはそれで問題がある気がしますが。」</line></say><p align="center">～（ゼミ開始）～</p>
 <say><name>広</name>➤<line>「……さて、さっきの料理のくだりもあったことだし、今日は計量の話から入ろうか。」</line></say>
@@ -73,7 +73,7 @@
 <say><name>千奈</name>➤<line>「<inlineequation><Image href="file://images/_review_math/_gen_e3b98a4da31a127d4bde6e43033f66ba274cab0eb7eb1c70ec41402bf6273dd8.pdf" type="inline"/></inlineequation>は<inlineequation><Image href="file://images/_review_math/_gen_2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881.pdf" type="inline"/></inlineequation>と同じで<inlineequation><Image href="file://images/_review_math/_gen_348be5d7ad06601460048f7f7162d298f72cc79c121cc856069a90b22928ac4b.pdf" type="inline"/></inlineequation>から1/2を動きますから……」</line></say><displayequation><Image href="file://images/_review_math/_gen_88fc577f3533baa0223ea24e93f83249e1e7ae3fb574b1f6d0cebd847faf25ff.pdf"/></displayequation>
 <say><name>千奈</name>➤<line>「この積分解けませんわ～！！！」</line></say>
 <say><name>広</name>➤<line>「落ち着いて。<inlineequation><Image href="file://images/_review_math/_gen_e9fa363ce47b336733107b061dc5850504a2245ef708dd940b2fddb7f6832f3a.pdf" type="inline"/></inlineequation>と置換すれば、大丈夫。」</line></say><displayequation><Image href="file://images/_review_math/_gen_2546165a76dac7cc20b0742243ff4d26a2192c69ad8fb15f6ef1ff8d9c90d76f.pdf"/></displayequation>
-<say><name>千奈</name>➤<line>「ど、どこが大丈夫ですの！？」</line></say>
+<say><name>千奈</name>➤<line>「ど、どこが大丈夫ですの⁉」</line></say>
 <say><name>広</name>➤<line>「焦らず、落ち着いて。」</line></say><displayequation><Image href="file://images/_review_math/_gen_27f00a70f4f2f9ee13e7f7c5d13cd0f66a40aec12234b5f24fe38d9ec6577302.pdf"/></displayequation>
 <p><inlineequation><Image href="file://images/_review_math/_gen_8cace5e977d526f960dcd967aa482ed5ef226da55db9889df9d8274b4ba4a98b.pdf" type="inline"/></inlineequation>とおくと、<inlineequation><Image href="file://images/_review_math/_gen_d072b4cc1aa9a7b9c3f34abe8556ce8ca310fd62056ed4ce3703db47c4d92033.pdf" type="inline"/></inlineequation>より</p>
 <displayequation><Image href="file://images/_review_math/_gen_fbaf165b6a7aa0a31b7797d8b4452a4eab29f6e92db2482997fac535908876c3.pdf"/></displayequation>
@@ -86,7 +86,7 @@
 <say><name>広</name>➤<line>「世界線の長さを測るときにも同じ。要するに、千奈の時刻<inlineequation><Image href="file://images/_review_math/_gen_e3b98a4da31a127d4bde6e43033f66ba274cab0eb7eb1c70ec41402bf6273dd8.pdf" type="inline"/></inlineequation>に対して、千奈から見た物体の位置<inlineequation><Image href="file://images/_review_math/_gen_49ab08fea4951069fed5498d6efac5c09ce1c68f9d0da405a82c4398c7a6c933.pdf" type="inline"/></inlineequation>を見てあげて、その位置を<inlineequation><Image href="file://images/_review_math/_gen_f7b88c36d64b7f84604e96594cd190782494bb11b80745c9795c4351d6b4fc8e.pdf" type="inline"/></inlineequation>とみなしてあげれば、時刻<inlineequation><Image href="file://images/_review_math/_gen_dcd159a46b1574e6b2dca2368c2555dd9d67cc7260a8f08b04b6c54deaadb798.pdf" type="inline"/></inlineequation>から<inlineequation><Image href="file://images/_review_math/_gen_36abcec186975200daac57dcdcb0959d175bc9d97bfa531608b21a221da3de93.pdf" type="inline"/></inlineequation>にかけて経過したその物体の固有時間<inlineequation><Image href="file://images/_review_math/_gen_f6a3e131fe891f81cbfa717a0c8701dba2e9406acaf24c433fb1f2ad3171677d.pdf" type="inline"/></inlineequation>は次のように計算できる。」</line></say><displayequation><Image href="file://images/_review_math/_gen_cd112781c472ba2e8b8bf28a0618521f5d5c1c9d86bd45f0e6fd0791874e62c2.pdf"/></displayequation>
 <say><name>千奈</name>➤<line>「なるほど、完全に理解しましたわ！この式を使えば、どんなときでも固有時間が計算できますわね！」</line></say>
 <say><name>広</name>➤<line>「実は、話はそんなに単純ではない。」</line></say>
-<say><name>千奈</name>➤<line>「え！？」</line></say>
+<say><name>千奈</name>➤<line>「え⁉」</line></say>
 <say><name>広</name>➤<line>「じゃあ千奈、質問だけど、もし千奈が曲線座標で考えていたら、この長さの計算って使えるかな。」</line></say>
 <say><name>千奈</name>➤<line>「確かに、曲線座標ってどうやって長さを決めればよいのかわかりませんわね……」</line></say>
 <say><name>広</name>➤<line>「そう。これまでは直交座標で色々考えてきたので、式も単純だった。でも、実際は直交座標ですべてを議論するとは限らない。だから、今までに紹介した式が使えない場合もある。」</line></say>
@@ -226,7 +226,7 @@
 <say><name>広</name>➤<line>「これを、<inlineequation><Image href="file://images/_review_math/_gen_105c643b3ee970511e1cc9a5aec1bb0377898b7254ea6af88c55d1756da4971b.pdf" type="inline"/></inlineequation>について解きたい。」</line></say>
 <say><name>千奈</name>➤<line>「これって……解けるんですの？」</line></say>
 <say><name>広</name>➤<line>「ものすごく簡単な方法が、ある。それは、プライム付きからプライムを外して、プライムなしにプライムを付ける、という方法。」</line></say>
-<say><name>千奈</name>➤<line>「えぇ！？なんでそれで良いんですの？」</line></say>
+<say><name>千奈</name>➤<line>「えぇ⁉なんでそれで良いんですの？」</line></say>
 <say><name>広</name>➤<line>「今は、変換前をプライムなし、変換後をプライムあり、としているけど、この座標変換の逆変換は、変換前をプライムあり、変換後をプライムなし、にしているはず。つまり、単純に変換前後の立場を入れ替えるだけでいい、ということになる。」</line></say><displayequation><Image href="file://images/_review_math/_gen_fbc87044e7e59e6bef69c5dc48474b78301379102ee55a02fd5e2fa9e7e54208.pdf"/></displayequation>
 <say><name>千奈</name>➤<line>「何だか、これって本当に正しいんですの……？」</line></say>
 <say><name>広</name>➤<line>「検算して、みる？」</line></say>
@@ -347,9 +347,9 @@
 <say><name>千P</name>➤<line>「それにしても、アメリカでも、すごい人気でしたね。」</line></say>
 <say><name>千奈</name>➤<line>「もう、何度でも同じシーンを見返してしまいますわ！」</line></say><p>私も、ライブの映像を何回か見たが、本当に『完全無欠』という四字がぴったり当てはまるような、そんなオーラを纏っていた。</p>
 <say><name>広</name>➤<line>「アメリカかぁ。わたしも、何度か、行ったことある、よ。」</line></say>
-<say><name>千奈</name>➤<line>「えぇ！？篠澤さんも、世界デビューを果たしていたんですの！？」</line></say>
+<say><name>千奈</name>➤<line>「えぇ⁉篠澤さんも、世界デビューを果たしていたんですの⁉」</line></say>
 <say><name>広</name>➤<line>「うん。学会で、ね。」</line></say>
-<say><name>千奈</name>➤<line>「……って、そっち！？」</line></say>
+<say><name>千奈</name>➤<line>「……って、そっち⁉」</line></say>
 <say><name>広</name>➤<line>「アイドルとしては、まだ、行ったこと、ない。学会以外の思い出は、マサチューセッツで、積分の大会に出て、優勝したぐらい、かな。」</line></say>
 <say><name>広P</name>➤<line>「……そのエピソード、初耳なんですが。」</line></say><p>篠澤さんから、強烈なエピソードが語られる。というか、担当Pですら知らない情報がこのタイミングで出てくるって、一体どれだけインパクトの強い来歴なんだ……</p>
 <say><name>広</name>➤<line>「その、マサチューセッツの大学に行ったときに、特別に、参加させてもらった。まぁ、教授陣が腕をふるって、作問したらしくて、それなりに、解く手応えはあったけど、まだまだ、だね。」</line></say>
@@ -363,13 +363,13 @@
 <say><name>広</name>➤<line>「千奈、突然だけど、自分が地球上のどこにいるか、説明してみて。」</line></say>
 <say><name>千奈</name>➤<line>「日本ですわ！」</line></say>
 <say><name>広</name>➤<line>「うん。普通なら、それでいい。でも今回は、自分がどこにいるかを1点に定められるように、説明、できるかな。」</line></say>
-<say><name>千奈</name>➤<line>「えぇ！？初星学園……とか？」</line></say>
+<say><name>千奈</name>➤<line>「えぇ⁉初星学園……とか？」</line></say>
 <say><name>広</name>➤<line>「まだ、広い。それに、初星学園を知らない人には、場所が伝わらない。」</line></say>
 <say><name>千奈</name>➤<line>「確かに……自分の位置を言うのって、意外と難しいですわ……」</line></say>
 <say><name>広</name>➤<line>「でも、一つだけ、自分の正確な位置を言える道具がある、よ。」</line></say>
 <say><name>千奈</name>➤<line>「なんですの？」</line></say>
 <say><name>広</name>➤<line>「それは、緯度と、経度。」</line></say>
-<say><name>千奈</name>➤<line>「……はぁっ！？確かに！」</line></say>
+<say><name>千奈</name>➤<line>「……はぁっ⁉確かに！」</line></say>
 <say><name>広</name>➤<line>「ふふ、忘れてた？緯度と経度を使えば、地球上のどこにいても、一意に自分の場所を定められる。」</line></say>
 <say><name>広</name>➤<line>「これは、緯度と経度が、地球上に設定された、地球表面の座標、ともみなせる。」</line></say>
 <say><name>千奈</name>➤<line>「なるほど！」</line></say><Image href="file://images/alkyne_relativity/day05_fig01.pdf"/>
@@ -516,7 +516,7 @@
 <say><name>広</name>➤<line>「ねえねえ、千奈。」</line></say>
 <say><name>千奈</name>➤<line>「なんですの？」</line></say>
 <say><name>広</name>➤<line>「第一項、計算する必要ないの、気付いた？」</line></say>
-<say><name>千奈</name>➤<line>「……あーっ！本当ですわ！なんで教えてくれなかったんですの！？」</line></say>
+<say><name>千奈</name>➤<line>「……あーっ！本当ですわ！なんで教えてくれなかったんですの⁉」</line></say>
 <say><name>広</name>➤<line>「いつ気づくかなー、って思って。泳がせて、みた。」</line></say>
 <say><name>千奈</name>➤<line>「もうっ！篠澤さんのいじわる！」</line></say>
 <say><name>広</name>➤<line>「まぁまぁ、微分の計算練習には、なったはずだし、良いんじゃない、かな。」</line></say>
@@ -635,7 +635,7 @@
 <say><name>千奈</name>➤<line>「こうですわ！」</line></say><displayequation><Image href="file://images/_review_math/_gen_23c068bf5307ace85345f084409417fefcbd9b60e588d0bd3889653100f874b4.pdf"/></displayequation>
 <say><name>広</name>➤<line>「そう。実は極座標だと<inlineequation><Image href="file://images/_review_math/_gen_66f660370734c71902ab71849180cd2faa2308051fe8dd9a2161d4a8128f4330.pdf" type="inline"/></inlineequation>が成り立つんだけど、これはもちろん、偶然の産物。ただ、わかりやすいので、今後<inlineequation><Image href="file://images/_review_math/_gen_39001f57011a4661638f8bfb973d8992eed90dfad8a3df1194c0e3f7a11f6a84.pdf" type="inline"/></inlineequation>を<inlineequation><Image href="file://images/_review_math/_gen_4df9a62c7efcf4fe45240cf9113f328de6b169f2def31b6c38ff3f0796bf41d3.pdf" type="inline"/></inlineequation>と書くことにしよう。」</line></say>
 <say><name>広</name>➤<line>「そしたら、千奈。最後に、接続係数を求められるかな。」</line></say>
-<say><name>千奈</name>➤<line>「動かす基底ベクトルは3つ、動く方向は球面上だから2つで、元の基底で表すときには3つ係数が必要ですから……18個も求めるんですの！？」</line></say>
+<say><name>千奈</name>➤<line>「動かす基底ベクトルは3つ、動く方向は球面上だから2つで、元の基底で表すときには3つ係数が必要ですから……18個も求めるんですの⁉」</line></say>
 <say><name>広</name>➤<line>「まぁ、練習だと思って。」</line></say>
 <say><name>千奈</name>➤<line>「わ、わかりましたわ……」</line></say><p align="center">～（計算後）～</p>
 <say><name>千奈</name>➤<line>「もう、ゲシュタルトほうかい？を起こしそうですわ……」</line></say><displayequation><Image href="file://images/_review_math/_gen_e43abf971d93fc4e1908a26144b297f13604c42fb618cab72ca8df882c6851cb.pdf"/></displayequation>

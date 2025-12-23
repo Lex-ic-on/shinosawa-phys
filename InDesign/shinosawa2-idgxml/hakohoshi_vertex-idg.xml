@@ -14,16 +14,16 @@
 <h2>21.2　中間試験後</h2>
 <?dtp level="2" section="21.2　中間試験後"?>
 <say><name>咲季</name>➤<line>中間試験の結果が貼り出されてるらしいわよ。</line></say>
-<say><name>佑芽</name>➤<line>ほんと！？お姉ちゃんはきっと1位だよね！</line></say>
+<say><name>佑芽</name>➤<line>ほんと⁉お姉ちゃんはきっと1位だよね！</line></say>
 <say><name>咲季</name>➤<line>そうね。ちゃんと勉強もしたし。</line></say><p/>
 <p>＊＊＊</p>
 <p/>
-<say><name>咲季</name>➤<line>2位……ですって！？</line></say>
+<say><name>咲季</name>➤<line>2位……ですって⁉</line></say>
 <say><name>佑芽</name>➤<line>すごいじゃん！あたしなんて赤点ばっかりなのに。</line></say>
-<say><name>咲季</name>➤<line>このわたしが、負けた……！？</line></say>
+<say><name>咲季</name>➤<line>このわたしが、負けた……⁉</line></say>
 <say><name>佑芽</name>➤<line>2位でもすごいよ～。それで、お姉ちゃんに勝った人ってだれだろ～。</line></say>
 <say><name>咲季</name>➤<line>1位は……。篠澤広？</line></say>
-<say><name>佑芽</name>➤<line>広ちゃん！？</line></say>
+<say><name>佑芽</name>➤<line>広ちゃん⁉</line></say>
 <say><name>広</name>➤<line>呼んだ…………………………？</line></say>
 <say><name>咲季</name>➤<line>な、なんか今にも倒れそうな人が来たけど……。</line></say>
 <say><name>佑芽</name>➤<line>この子が広ちゃんだよ。あたしのクラスメイト！</line></say>
@@ -93,7 +93,7 @@
 <say><name>広</name>➤<line>ぜ、ぜんぶ、説明しないと……。やることが、多い……。</line></say>
 <say><name>咲季</name>➤<line>大丈夫？</line></say>
 <say><name>広</name>➤<line>………………きゅう…………。</line></say>
-<say><name>咲季</name>➤<line>ちょっと、倒れないでよ！？</line></say>
+<say><name>咲季</name>➤<line>ちょっと、倒れないでよ⁉</line></say>
 <h2>21.4　リー代数</h2>
 <?dtp level="2" section="21.4　リー代数"?>
 <say><name>咲季</name>➤<line>あの後、自分で勉強を進めたのよ。群論の本も買ったし、ベクトル空間についてもわかるようになったわ！</line></say>
@@ -205,7 +205,7 @@
 <ordered_list current_no="2" total_no="3">(Borcherds identity) <inlineequation><Image href="file://images/_review_math/_gen_037d9d4c0f8198ed59dcd460ef2346faa041938317f4db7dd58e3a6ac64aa0a1.pdf" type="inline"/></inlineequation>に対して<equationimage><Image href="file://images/_review_math/_gen_7397da3a325a2a73dee1ffd2b33804d8909663827f967886f4920a3626bff9c2.pdf"/></equationimage></ordered_list>
 <ordered_list current_no="3" total_no="3">(vacuum) <inlineequation><Image href="file://images/_review_math/_gen_75b51260221d98c724c06bceb5e3ef33bf0a6c7b436cbd959077253672478b0c.pdf" type="inline"/></inlineequation>が存在して次をみたす。<ol><li aid:pstyle="ol-item" olnum="1" num="1"><inlineequation><Image href="file://images/_review_math/_gen_feca13ce5b63ef708b998cdd06d5140c15b88875a77df2ea27e348d37182f8ff.pdf" type="inline"/></inlineequation></li><li aid:pstyle="ol-item" olnum="2" num="2"><inlineequation><Image href="file://images/_review_math/_gen_04ddd2e8ea2e1ad07b5cde446335b90b5fe9caaa34b6ac4056eec6e32edf294f.pdf" type="inline"/></inlineequation></li></ol></ordered_list>
 </theorem><say><name>広</name>➤<line>演算が可算無限個あるから、驚くかもしれないね。</line></say>
-<say><name>咲季</name>➤<line>Jacobi identityよりヤバい等式が出てきた……！？</line></say>
+<say><name>咲季</name>➤<line>Jacobi identityよりヤバい等式が出てきた……⁉</line></say>
 <say><name>広</name>➤<line>Borcherds identityは実際複雑。</line></say>
 <say><name>咲季</name>➤<line>ていうか、なんで英語なの？日本語にしないの？</line></say>
 <say><name>広</name>➤<line>海外の大学で学んだことだから、日本語で対応する言葉を知らない。</line></say>
@@ -473,7 +473,7 @@
 <say><name>広</name>➤<line>まずは群論。整数の中で素数が重要であるように、群の中で単純群が大事になる。だから数学者は単純群を分類しようとした。単純群を研究する中で、モンスターという群が見つかった。</line></say>
 <say><name>咲季</name>➤<line>すごい名前。</line></say>
 <say><name>広</name>➤<line>モンスターはとても謎に満ちた群で、2次元や3次元の対称性では記述できない。最小でも196883次元。</line></say>
-<say><name>咲季</name>➤<line>そんなに！？</line></say>
+<say><name>咲季</name>➤<line>そんなに⁉</line></say>
 <say><name>広</name>➤<line>その次は21296876次元。</line></say>
 <say><name>咲季</name>➤<line>ええ……。</line></say>
 <say><name>広</name>➤<line>次はモジュラー関数の話。これはモンスターが見つかるより前から研究されていた対象。その中で<inlineequation><Image href="file://images/_review_math/_gen_189f40034be7a199f1fa9891668ee3ab6049f82d38c68be70f596eab2e1857b7.pdf" type="inline"/></inlineequation>不変量というものがあって、こんな性質をみたす。</line></say><displayequation><Image href="file://images/_review_math/_gen_81c80b2efe5d5b20d592127cc2a445540dc0d37bac7f4ed5dd03404791063284.pdf"/></displayequation>
@@ -498,8 +498,8 @@
 <say><name>佑芽</name>➤<line>あたしは赤点回避！広ちゃんが教えてくれたおかげ！</line></say>
 <say><name>広</name>➤<line>すごい。</line></say>
 <say><name>佑芽</name>➤<line>広ちゃんのほうがすごいよ～。</line></say>
-<say><name>咲季</name>➤<line>さ、3位ですって～！？</line></say>
-<say><name>佑芽</name>➤<line>おねえちゃん！？</line></say>
+<say><name>咲季</name>➤<line>さ、3位ですって～⁉</line></say>
+<say><name>佑芽</name>➤<line>おねえちゃん⁉</line></say>
 <say><name>咲季</name>➤<line>このわたしが、3位にまで落ちるなんて……！</line></say>
 <say><name>佑芽</name>➤<line>おねえちゃん、普段より勉強してたよね？ならどうして……。</line></say>
 <say><name>咲季</name>➤<line>よくよく考えれば、わたしがずっと勉強してきた内容、試験と全然関係がなかったわ！</line></say>
@@ -507,7 +507,7 @@
 <say><name>広</name>➤<line>頂点を目指すために、努力してたね。</line></say>
 <say><name>咲季</name>➤<line>そのせいで順位が落ちたんですけど……。頂点から遠ざかったじゃない！</line></say>
 <say><name>広</name>➤<line>まあ、すぐに結果が出るものばかりじゃないから。あ、そろそろレッスンの時間だ。</line></say>
-<say><name>咲季</name>➤<line>ちょっと聞いてる！？</line></say>
+<say><name>咲季</name>➤<line>ちょっと聞いてる⁉</line></say>
 <say><name>広</name>➤<line>ばいばい、3位の人。</line></say>
 <say><name>咲季</name>➤<line>ぐぬぬ……。篠澤広～～～～～！覚えてなさ～～～～～い！！！！！</line></say>
 <h2>参考文献</h2>

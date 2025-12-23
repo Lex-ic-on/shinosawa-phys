@@ -81,7 +81,7 @@
 <say><name>広</name>➤<line>「千奈がお守りにくれた佑芽の声をとっさに流したら、ペンギンが逃げてくれて九死に一生を得た。」</line></say>
 <say><name>安</name>➤<line>「いきなり『お゛ね゛え゛ち゛ゃ゛あ゛あ゛あ゛あ゛あ゛あ゛あ゛ん゛ん゛ん゛ん゛！！』って声がしたからびっくりしましたよ！」</line></say>
 <say><name>広</name>➤<line>「しかもその声で氷が割れて目を回したアザラシが飛び出してきた。」</line></say>
-<say><name>安</name>➤<line>「助けるの大変だったんですからね！？割れた氷の上でペンギンとアザラシを避けながら広ちゃんをつかんで引っ張り上げるの！！」</line></say>
+<say><name>安</name>➤<line>「助けるの大変だったんですからね⁉割れた氷の上でペンギンとアザラシを避けながら広ちゃんをつかんで引っ張り上げるの！！」</line></say>
 <say><name>広</name>➤<line>「ふふ、地獄……。大丈夫、少なくとも観測隊でいる間はウサミンがわたしの保護者、だからわたしが困ってたら助ける義務がある。」</line></say>
 <say><name>安</name>➤<line>「はい！この話はやめです！では気を取り直して、このあとはアイドル界初の南極大陸ライブで〜っす、キャハッ☆」</line></say>
 <say><name>広</name>➤<line>「乞うご期待。」</line></say>
@@ -133,9 +133,9 @@
 <say><name>広</name>➤<line>「どれだけ黒体、つまり理想状態に似ているかという数値。地球の場合はだいたい0.96くらいだからほぼ理想の1として計算してもいい。」</line></say>
 <say><name>安</name>➤<line>「おー、なるほど。さっきのアルベドと同じような扱いですね。」</line></say>
 <say><name>広</name>➤<line>「そう。そしてなんと、これで <inlineequation><Image href="file://images/_review_math/_gen_e632b7095b0bf32c260fa4c539e9fd7b852d0de454e9be26f24d0d6f91d069d3.pdf" type="inline"/></inlineequation> 以外の数が全部揃った。なので熱収支が釣り合った状態の地球の温度が計算できる。やってみて。」</line></say>
-<say><name>安</name>➤<line><p>「ええ！？えーと、熱収支が釣り合ってるということは<inlineequation><Image href="file://images/_review_math/_gen_18748ff14660ee4dd14c8347fc5ee045f601f59388ba7f13e3570ffefcb09b47.pdf" type="inline"/></inlineequation>と<inlineequation><Image href="file://images/_review_math/_gen_99e94562e518121b19d4e59e669ad114e97274fcc01aaa95a425c88556d6ebc4.pdf" type="inline"/></inlineequation>が同じってことですよね？じゃあ</p>
+<say><name>安</name>➤<line><p>「ええ⁉えーと、熱収支が釣り合ってるということは<inlineequation><Image href="file://images/_review_math/_gen_18748ff14660ee4dd14c8347fc5ee045f601f59388ba7f13e3570ffefcb09b47.pdf" type="inline"/></inlineequation>と<inlineequation><Image href="file://images/_review_math/_gen_99e94562e518121b19d4e59e669ad114e97274fcc01aaa95a425c88556d6ebc4.pdf" type="inline"/></inlineequation>が同じってことですよね？じゃあ</p>
 <displayequation><Image href="file://images/_review_math/_gen_63a09bcda7beb6f09ffbc122ada43b31bffb441b951fb46f77ba880988372ac4.pdf"/></displayequation>
-<p>だから、えーと電卓電卓……っと、出ました！ <inlineequation><Image href="file://images/_review_math/_gen_6c3a91b7d88163fcbf299693511b6886422cf4c8c7e8fc44eccbbf45279b98cd.pdf" type="inline"/></inlineequation>です！ってあれえ！？」</p>
+<p>だから、えーと電卓電卓……っと、出ました！ <inlineequation><Image href="file://images/_review_math/_gen_6c3a91b7d88163fcbf299693511b6886422cf4c8c7e8fc44eccbbf45279b98cd.pdf" type="inline"/></inlineequation>です！ってあれえ⁉」</p>
 </line></say>
 <say><name>広</name>➤<line>「ふふ、正解。」</line></say>
 <say><name>安</name>➤<line>「いやでもおかしいですよ、257Kなら地球は-16℃じゃないですか！いやいまは確かに南極にいますからそれくらいまで下がるかもしれませんけど。」</line></say>
@@ -159,16 +159,16 @@
 <say><name>安</name>➤<line>「ボールだけを見て安定してると思ったらそんなことはないってことですね。」</line></say>
 <say><name>広</name>➤<line>「そう。そしてアイドルの言う安定とは明らかに『不安定な安定』。人気が出始めると連鎖的にどんどん露出が上がってさらに人気が出てくるということがくり返される。」</line></say>
 <say><name>安</name>➤<line>「おお～！確かにそうですね！不安定な安定っていいですね～、ナナも頑張らないと。」</line></say>
-<say><name>広</name>➤<line>「そして落ちるときもそう。いったん何か不祥事でもあると仕事が減り、露出が減ることでさらに仕事がなくなって、あっという間に引退。『年収〇〇〇〇万だったあのアイドルがいまは風呂なしワンルームに！？』みたいな仕事しかこなくなる。」</line></say>
+<say><name>広</name>➤<line>「そして落ちるときもそう。いったん何か不祥事でもあると仕事が減り、露出が減ることでさらに仕事がなくなって、あっという間に引退。『年収〇〇〇〇万だったあのアイドルがいまは風呂なしワンルームに⁉』みたいな仕事しかこなくなる。」</line></say>
 <say><name>安</name>➤<line>「やめましょう、この話。」</line></say>
 <say><name>広</name>➤<line>「ふふ、この安定の話をする際に考えなきゃいけないのがフィードバックという概念。フィードバックというのは何か変化が起きたときにその変化に対して働く作用のこと。」</line></say>
 <say><name>安</name>➤<line>「えーっと、つまり？」</line></say>
 <say><name>広</name>➤<line>「例えば Da レッスンでトレーナーから振り付けの間違いを指摘されるとする、そしてわたしが指摘を受けてその間違いを正そうとする。これがフィードバック。」</line></say>
 <say><name>安</name>➤<line>「なるほど！教えてもらって広ちゃんの動きがよくなるということですね。」</line></say>
 <say><name>広</name>➤<line>「ふふ、残念。7:3くらいで悪くなる。」</line></say>
-<say><name>安</name>➤<line>「なんでぇ！？」</line></say>
+<say><name>安</name>➤<line>「なんでぇ⁉」</line></say>
 <say><name>広</name>➤<line>「人類には不可能な動きだと思う。」</line></say>
-<say><name>安</name>➤<line>「人類の基準から外れているのは、広ちゃんの関節ですからね！？」</line></say>
+<say><name>安</name>➤<line>「人類の基準から外れているのは、広ちゃんの関節ですからね⁉」</line></say>
 <say><name>広</name>➤<line><p>「そしてこの作用の方向がポイント。ある方向に変化が起きたとき、その変化をさらに強めるように働く作用を『正のフィードバック』、反対にその変化を弱めようと働く作用を『負のフィードバック』と言う。そして、このフィードバックが気温変化<inlineequation><Image href="file://images/_review_math/_gen_4cbf454f69689ebaa9bc32113c0d8c1d5def4e0d8389af9c4bd1f7243fcfd8dc.pdf" type="inline"/></inlineequation>を決める。どういうことかというと</p>
 <displayequation><Image href="file://images/_review_math/_gen_5236c0c6a9fdbeef10e89d17bf4964cd2158a8c59e70d33aba703124c6400c2f.pdf"/></displayequation>
 <p>という関係。<inlineequation><Image href="file://images/_review_math/_gen_19eb6ae2fe83e18ae917bfff83526525985038c6cb4ca5de3cc7a6ca3ea476e3.pdf" type="inline"/></inlineequation>が外部からの強制力、<inlineequation><Image href="file://images/_review_math/_gen_583cf6290785d72cc1b71808962dd4bd72ca369f004fb5cb587694fc1b26149f.pdf" type="inline"/></inlineequation>がプランク応答と言って地球が温まると冷やす方向に、冷えると温かくなる方向に動く赤外放射、<inlineequation><Image href="file://images/_review_math/_gen_252f10c83610ebca1a059c0bae8255eba2f95be4d1d7bcfa89d7248a82d9f111.pdf" type="inline"/></inlineequation>がフィードバック係数。そしてここで重要なのは分母の<inlineequation><Image href="file://images/_review_math/_gen_655a2346291c5ec88214ef684861f7d2c20b8feab30a9b112cdc68e7dd77dcdc.pdf" type="inline"/></inlineequation>の部分。もしフィードバック係数<inlineequation><Image href="file://images/_review_math/_gen_252f10c83610ebca1a059c0bae8255eba2f95be4d1d7bcfa89d7248a82d9f111.pdf" type="inline"/></inlineequation>が小さくて<inlineequation><Image href="file://images/_review_math/_gen_583cf6290785d72cc1b71808962dd4bd72ca369f004fb5cb587694fc1b26149f.pdf" type="inline"/></inlineequation>が十分大きければ、分母は大きく保たれるから、気温変化<inlineequation><Image href="file://images/_review_math/_gen_4cbf454f69689ebaa9bc32113c0d8c1d5def4e0d8389af9c4bd1f7243fcfd8dc.pdf" type="inline"/></inlineequation>は小さくなる。つまり、外から力を加えても、気候システムの応答は小さく抑えられる。これが『安定な安定』。」</p>

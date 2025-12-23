@@ -12,7 +12,7 @@
 <say><name>広</name>➤<line>ある.</line></say>
 <say><name>千奈</name>➤<line>5分くらい考えていらっしゃいましたわね…….</line></say>
 <say><name>広</name>➤<line>いっぱいありすぎて, どれから話したらいいか考えてた.</line></say>
-<say><name>佑芽</name>➤<line>そんなにいっぱいあるの！？</line></say>
+<say><name>佑芽</name>➤<line>そんなにいっぱいあるの⁉</line></say>
 <say><name>広</name>➤<line>じゃあ今日はせっかくだから, 物理に出てくるおもしろい数式の話をしようか.</line></say>
 <say><name>千奈</name>➤<line>パンドラの匣を開けてしまいましたわ…….</line></say>
 <h2>23.2　微分形式とベクトル解析</h2>
@@ -286,7 +286,7 @@
 <displayequation><Image href="file://images/_review_math/_gen_689b0b01cef84a4744e76b9f79cfbd14498f0f32307d0bf692b4c0029583a662.pdf"/></displayequation>
 <p>を考えて留数定理を使うことで示せる. ただし, 積分路は<inlineequation><Image href="file://images/_review_math/_gen_428459f7dd087b9a9867093d41f4c8fa983820b8fd8bc522062fbaf36d358074.pdf" type="inline"/></inlineequation>のすべての極を囲むようにとる, よ. <inlineequation><Image href="file://images/_review_math/_gen_f272c6a14df60bc0d310042ea5b5f3b8e904cfa3a1fd5a03a4a1a1c8a7f6121a.pdf" type="inline"/></inlineequation>の留数から左辺の和が, <inlineequation><Image href="file://images/_review_math/_gen_594650f748019020fac3b8f389028dfb55ece64898ae56c21c469d16b48585d8.pdf" type="inline"/></inlineequation>の留数から<inlineequation><Image href="file://images/_review_math/_gen_1bad6b8cf97131fceab8543e81f7757195fbb1d36b376ee994ad1cf17699c464.pdf" type="inline"/></inlineequation>が出て, 移項すると右辺の<inlineequation><Image href="file://images/_review_math/_gen_6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b.pdf" type="inline"/></inlineequation>になる. 最後に積分路を無限遠に持っていくと, 積分値が具体的に計算できて, 値は0になる. 結果を整理すると<span type="eq">式23.138</span>になる. 他の式も同じで, うまい有理関数を持ってきて留数定理を使うことで示せる. 簡単だから演習問題としてやってみて, ね. パズルみたいで楽しいし, 結果もだいぶ非自明でおもしろい. これらの等式は量子統計力学の多体問題にあらわれるらしいけど, わたしも偶然見かけたおもしろい式を書き留めておいただけで, 詳しいことは知らないから, もし勉強してなにかわかったら教えて, ね.</p>
 </line></say>
-<say><name>佑芽</name>➤<line>広ちゃんでもわからないことってあるの！？</line></say>
+<say><name>佑芽</name>➤<line>広ちゃんでもわからないことってあるの⁉</line></say>
 <say><name>広</name>➤<line>もちろん. 学問の世界は広く, 深すぎて, 一生かけても学びきれない. ままならないね. ふふ.</line></say>
 <say><name>千奈</name>➤<line>まず「偶然見かけたおもしろい式を記録する」の時点ですごいですわ〜.</line></say>
 <say><name>広</name>➤<line>ふふ, ありがとう. じゃあ約束どおり, この章の締めとして, この系統の恒等式のなかでいちばんお気に入りのやつを紹介する. じゃん.</line></say><note><displayequation><Image href="file://images/_review_math/_gen_fc952d0ad078aa70105fdb62c3ac586787f8f7c5ab4f02df6092ff00200e61ca.pdf"/></displayequation>
@@ -471,7 +471,7 @@
 <displayequation><Image href="file://images/_review_math/_gen_5e30c5828493f6d03630bba5cc2a6fb61a2a76767fa4e84b2fab5373cc6220e8.pdf"/></displayequation>
 <p>をみたす数<inlineequation><Image href="file://images/_review_math/_gen_2b4af44cb17349bb9452292a447fe70d48c9ce08e68dd2f74e9628cf8ac625b8.pdf" type="inline"/></inlineequation>として定義される.</p>
 </line></say>
-<say><name>佑芽</name>➤<line>2乗して0なのに<inlineequation><Image href="file://images/_review_math/_gen_2b4af44cb17349bb9452292a447fe70d48c9ce08e68dd2f74e9628cf8ac625b8.pdf" type="inline"/></inlineequation>は0じゃないの！？</line></say>
+<say><name>佑芽</name>➤<line>2乗して0なのに<inlineequation><Image href="file://images/_review_math/_gen_2b4af44cb17349bb9452292a447fe70d48c9ce08e68dd2f74e9628cf8ac625b8.pdf" type="inline"/></inlineequation>は0じゃないの⁉</line></say>
 <say><name>広</name>➤<line>そう. だから<inlineequation><Image href="file://images/_review_math/_gen_2b4af44cb17349bb9452292a447fe70d48c9ce08e68dd2f74e9628cf8ac625b8.pdf" type="inline"/></inlineequation>は実数じゃない.</line></say>
 <say><name>千奈</name>➤<line>複素数
 <footnote>正確には虚数単位, だね.</footnote>
@@ -480,7 +480,7 @@
 <say><name>千奈</name>➤<line>あらあら, うふふ…….</line></say>
 <say><name>佑芽</name>➤<line>またふたりでイチャイチャしてる…….</line></say>
 <say><name>広</name>➤<line>ふふ……, 佑芽のことも大好き, だよ.</line></say>
-<say><name>佑芽</name>➤<line>えっ！？　あ, ありがとう…….</line></say>
+<say><name>佑芽</name>➤<line>えっ⁉　あ, ありがとう…….</line></say>
 <say><name>広</name>➤<line><p>ふふ……. ただ, 気をつけてほしいのは, <span type="eq">式23.211</span>をみたす<inlineequation><Image href="file://images/_review_math/_gen_2b4af44cb17349bb9452292a447fe70d48c9ce08e68dd2f74e9628cf8ac625b8.pdf" type="inline"/></inlineequation>はもちろん, 複素数でもないということ. どうしても行列で表現したければ</p>
 <displayequation><Image href="file://images/_review_math/_gen_d259fb4b7f65b7b49ffa1aa026bd276bac63b2f23da03bde213606d34c3c3a8e.pdf"/></displayequation>
 <p>のようなかたちで表現できるけど, いまは重要じゃない. 大事なのは<inlineequation><Image href="file://images/_review_math/_gen_90bc4330e2f7da6b3b1b881feec0bebac369987abeaacce05bc125ffa3f90b8a.pdf" type="inline"/></inlineequation>だから<inlineequation><Image href="file://images/_review_math/_gen_1278aad7b1cb1a73c0a5e59579d0ce626aa6cf858327c140b193f74ad66a7750.pdf" type="inline"/></inlineequation>, つまり自分自身と反交換するということ. これがあとでグラスマン数の数を増やすときに効いてくる. ここで, 唐突だけど, じゅうぶん性質のよい
@@ -807,7 +807,7 @@
 をお互いのスーパーパートナーであるという, よ.</line></say>
 <say><name>千奈</name>➤<line>スーパーパートナー……ふたりは特別な関係, ですのね！ わたくしも篠澤さんとスーパーパートナーになりたいですわ<inlineequation><Image href="file://images/_review_math/_gen_91626c66dd5e90496e620a45302946cc6abfe7b8d87fe4e0eb29aadc2cc3a346.pdf" type="inline"/></inlineequation></line></say>
 <say><name>広</name>➤<line>！！ ふふ……もうスーパーパートナーだ, よ.</line></say>
-<say><name>佑芽</name>➤<line>こんどは千奈ちゃんのほうからイチャイチャしだした！？ ……ぐぬぬ, あたしだってお姉ちゃんとトクベツなカンケイでスーパーパートナーだもん！！！！！</line></say>
+<say><name>佑芽</name>➤<line>こんどは千奈ちゃんのほうからイチャイチャしだした⁉ ……ぐぬぬ, あたしだってお姉ちゃんとトクベツなカンケイでスーパーパートナーだもん！！！！！</line></say>
 <say><name>広</name>➤<line><p>ふふ……あらためて
 <footnote>物理学者のあいだでは“大切な人”をスーパーパートナーとよぶジョークがあるけど, これは千奈と佑芽には秘密にしておこう, ね.</footnote>
 , まず超対称な場の理論の記述の復習をする. 超対称な場の理論を記述する方法は大きくわけて超場を用いる方法とそうでない方法の2つがあるけど, ここでは<inlineequation><Image href="file://images/_review_math/_gen_6882bf25bbdba831fb1a208e13e6240f90d5cf96a7573b45d8ff4be927d78465.pdf" type="inline"/></inlineequation>超場を用いた記述をおこなう.</p>
@@ -1028,7 +1028,7 @@ target space の構造</cell>
 な測度を定義して計算ができそう, と予測できる. これは実際に正しくて, <inlineequation><Image href="file://images/_review_math/_gen_6882bf25bbdba831fb1a208e13e6240f90d5cf96a7573b45d8ff4be927d78465.pdf" type="inline"/></inlineequation>のSQCDに対してはKonishiとShizuyaがそのような測度を発見した. じゃあ<inlineequation><Image href="file://images/_review_math/_gen_e4bc63588663cf1322ca850ffc9f2e6638bdf30518ae7e94ba16eb2c0302374a.pdf" type="inline"/></inlineequation>のときはどうかというと──.</line></say>
 <say><name>千奈・佑芽</name>➤<line>？</line></say>
 <say><name>広</name>➤<line>わたしが発見した.</line></say>
-<say><name>佑芽</name>➤<line>ええっ！？</line></say>
+<say><name>佑芽</name>➤<line>ええっ⁉</line></say>
 <say><name>千奈</name>➤<line>またさらっとすごいことをおっしゃいますわね…….</line></say>
 <say><name>広</name>➤<line><p>ふふ……. 順に流れを追っていこう. 「カイラル量子異常」節と同じように, 経路積分</p>
 <displayequation><Image href="file://images/_review_math/_gen_864a1510869582eee4feff67e9847efbcd137533babe7e4cab4cd5de31d69f59.pdf"/></displayequation>
@@ -1177,7 +1177,7 @@ target space の構造</cell>
 <say><name>佑芽</name>➤<line>式が多すぎて目が回るよ〜.</line></say>
 <say><name>千奈</name>➤<line>こんなにたくさんしゃべっている篠澤さんが見られて新鮮でしたわ！</line></say>
 <say><name>広</name>➤<line>………….</line></say>
-<say><name>千奈</name>➤<line>篠澤さん？　篠澤さん！？　大変ですわ！　息をしていませんわ！　人工呼吸いたしませんと……！</line></say>
+<say><name>千奈</name>➤<line>篠澤さん？　篠澤さん⁉　大変ですわ！　息をしていませんわ！　人工呼吸いたしませんと……！</line></say>
 <say><name>佑芽</name>➤<line>落ち着いて千奈ちゃん！　息はしてるよ！　救急車呼ばないと！</line></say>
 <say><name>広</name>➤<line>……ちょっと一気にしゃべりすぎた
 <footnote>千奈にちゅーしてもらえるんじゃないかと思ってドキドキした, よ.</footnote>
