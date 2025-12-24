@@ -6,7 +6,7 @@
 *.pptx filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.docx filter=lfs diff=lfs merge=lfs -text
+*.indd filter=lfs diff=lfs merge=lfs -text
 InDesign/shinosawa2-r1.indd filter=lfs diff=lfs merge=lfs -text
 InDesign/shinosawa2-r2.indd filter=lfs diff=lfs merge=lfs -text
 InDesign/shinosawa2-r3.indd filter=lfs diff=lfs merge=lfs -text
-*.indd filter=lfs diff=lfs merge=lfs -text
